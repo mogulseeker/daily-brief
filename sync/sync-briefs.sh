@@ -26,15 +26,15 @@ echo "=== $(date '+%Y-%m-%d %H:%M:%S %Z') sync start ==="
 
 cd "$REPO" || { echo "FAIL: repo dir missing"; exit 1; }
 
-before=$(ls -1 briefs/*.md 2>/dev/null | wc -l | tr -d ' ')
+before=$(ls -1 briefs/[0-9]*.md 2>/dev/null | wc -l | tr -d ' ')
 
 if ! "$GIT" pull --ff-only --no-rebase origin main; then
   echo "FAIL: git pull failed (diverged history, or no network). Local changes are untouched."
   exit 1
 fi
 
-after=$(ls -1 briefs/*.md 2>/dev/null | wc -l | tr -d ' ')
-newest=$(ls -1 briefs/*.md 2>/dev/null | tail -1)
+after=$(ls -1 briefs/[0-9]*.md 2>/dev/null | wc -l | tr -d ' ')
+newest=$(ls -1 briefs/[0-9]*.md 2>/dev/null | tail -1)
 
 echo "briefs: $before -> $after   newest: ${newest:-none}"
 echo "=== sync done ==="

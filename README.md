@@ -4,11 +4,31 @@ A ten-item news brief, delivered every morning at ~6am Mountain Time.
 
 ## What arrives, and where
 
-| Channel | When | What |
-|---|---|---|
-| **Slack DM** | ~6:10am MT | The ten TL;DR headlines + a link to the full page |
-| **Artifact page** | ~6:10am MT | The full formatted brief, a new URL each day |
-| **`briefs/YYYY-MM-DD.md`** | ~7:20am MT | Canonical markdown, pulled to this repo by launchd |
+| Channel | When | What | Status |
+|---|---|---|---|
+| **Slack DM** | ~6:10am MT | The ten TL;DR headlines + a link to the full page | ✅ live |
+| **Artifact page** | ~6:10am MT | The full formatted brief, a new URL each day | ✅ live |
+| **Google Drive `daily-brief/`** | ~6:10am MT | Canonical markdown, one file per day | ✅ live |
+| **`briefs/YYYY-MM-DD.md`** | ~7:20am MT | Same markdown, on this Mac | ⏳ needs one grant |
+
+> [!IMPORTANT]
+> ## One step left: let Claude see this repo
+>
+> The local-disk archive is the only leg not yet running. The cloud routine can't commit
+> to `mogulseeker/daily-brief` until the Claude GitHub App is granted access to it —
+> attempting to attach the repo returns `403 You don't have access to a repository this
+> routine uses`.
+>
+> **Fix:** go to <https://github.com/settings/installations> → **Claude** → **Configure** →
+> under *Repository access* add **`daily-brief`** → Save.
+>
+> Then tell Claude *"the GitHub grant is done"* and it will switch the routine over to the
+> repo (step 5c commits to `briefs/` instead of Drive, and `prompt.md` becomes the live
+> spec). Until then the archive lives in Drive and `briefs/` stays empty — nothing else is
+> affected, and the 6am brief still arrives on Slack and the web.
+>
+> The launchd job is already installed and tested, so it starts populating `briefs/` the
+> moment the routine begins committing.
 
 ## The ten slots
 
@@ -61,12 +81,16 @@ stay off the top-of-hour spike.
 
 ### Changing what the brief covers
 
-Edit [prompt.md](prompt.md), commit, push. That's the whole loop.
+Edit [prompt.md](prompt.md), commit, push. That's the whole loop — **once the GitHub grant
+above is done.** The routine's prompt then becomes a three-line bootstrap that pulls this
+repo and reads `prompt.md`, so the file genuinely is the spec: no second copy to keep in
+sync, no routine update needed.
 
-The routine's own prompt is a three-line bootstrap that pulls this repo and reads
-`prompt.md`, so the file genuinely is the spec — there's no second copy to keep in sync and
-no routine update needed. Add a category, reorder the slots, change the word count, tighten
-the sourcing rules: all of it lives in that one file.
+> [!NOTE]
+> **Until the grant:** the routine carries its own inline copy of the spec (the variant that
+> writes to Drive rather than git). `prompt.md` is the intended spec and differs from what's
+> live in exactly that one respect — step 5c. Edits to `prompt.md` won't affect the brief
+> yet; ask Claude to push them to the routine, or just do the grant and be done with it.
 
 ### Debugging a missed or bad brief
 
