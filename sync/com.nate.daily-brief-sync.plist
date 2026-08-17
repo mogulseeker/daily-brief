@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.nate.daily-brief-sync</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>/Users/nathananderson/Claude Workflows/daily-brief/sync/sync-briefs.sh</string>
+  </array>
+
+  <!-- 7:20am local. The cloud routine fires at 6:04am, so the brief is already
+       committed by the time this runs. If the Mac is asleep at 7:20, launchd
+       fires this as soon as it wakes. -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>7</integer>
+    <key>Minute</key>
+    <integer>20</integer>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/nathananderson/Claude Workflows/daily-brief/sync/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/nathananderson/Claude Workflows/daily-brief/sync/launchd.err.log</string>
+</dict>
+</plist>
