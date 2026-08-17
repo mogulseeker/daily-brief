@@ -85,8 +85,9 @@ venue, and credible investigative reporting that names its evidence.
 
 ## Step 4 — write the brief
 
-Target **~700 words total**, a 3-minute read. Open with a TL;DR block: ten one-line
-headlines, in slot order, each scannable in about two seconds.
+Target **~700 words of reporting** plus a plain-language explainer per item, so about a
+5-minute read. Open with a TL;DR block: ten one-line headlines, in slot order, each
+scannable in about two seconds.
 
 Then each item in full:
 
@@ -98,6 +99,9 @@ Then each item in full:
 the numbers — dollar amounts, percentages, dates, vote counts, sample sizes. Name the
 actors. Assume an intelligent reader with no prior context on this specific story.>
 
+In plain terms: <Three to five sentences explaining the story as you would to a bright
+14-year-old. See the rules below — this section is required for every item.>
+
 → Why it matters: <One sentence on the second-order effect — what this changes, or what
 it tells you that the headline doesn't. Not a summary of the paragraph above.>
 
@@ -107,6 +111,29 @@ Sources: <Outlet> · <Outlet>
 Voice: plain, declarative, specific. No hedging filler ("it remains to be seen",
 "only time will tell"), no throat-clearing, no exclamation marks. Numbers over
 adjectives. If something is genuinely uncertain, name the uncertainty concretely.
+
+### The "In plain terms" section
+
+Assume a sharp 14-year-old who reads carefully but has no background in markets, medicine,
+diplomacy or tech. Three to five sentences, 50–80 words.
+
+- **Define the thing, don't just name it.** Not "Stripe" but "Stripe, the company that
+  quietly handles credit-card payments for a huge chunk of the internet." Not "the Strait of
+  Hormuz" but "a narrow stretch of sea that about a fifth of the world's oil travels
+  through." Every proper noun and every piece of jargon gets unpacked the first time.
+- **Explain the mechanism, not just the outcome.** The reader should finish understanding
+  *why* the thing happened, not only that it did. "You can't use a chip until you've built
+  the building to put it in and connected enough electricity" teaches something; "progress
+  was slower than hoped" teaches nothing.
+- **Point at the part that's actually interesting** — the irony, the catch, the surprising
+  cause, the number that doesn't fit the story. If a headline's obvious reading is wrong, say
+  so plainly.
+- **Carry the uncertainty down.** If the reporting is single-source or unconfirmed, say that
+  here too, in plain words ("only one outlet has this so far, so treat it as credible but
+  unconfirmed"). Never let the simple version sound more certain than the reported version.
+- **Simple words, adult tone.** Short sentences and common vocabulary — but never
+  patronizing, never "basically imagine a lemonade stand," no forced analogies, no
+  exclamation marks. Respect the reader; just don't assume they know the field.
 
 ## Step 5 — deliver all three (do every one, in this order)
 
@@ -129,16 +156,19 @@ Capture the returned artifact URL — you need it for 5b and 5c.
   :root {
     --bg: #fbfaf8; --surface: #ffffff; --border: #e5e1d9;
     --text: #1a1a18; --muted: #6b6862; --accent: #9a3412; --rule: #ede9e0;
+    --plain-bg: #eef1f5; --plain-ink: #3a4a5c; --plain-border: #dde3ea; --plain-label: #4d6480;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
       --bg: #14140f; --surface: #1c1c17; --border: #2f2f27;
       --text: #f0efe9; --muted: #9d9a90; --accent: #fb923c; --rule: #26261f;
+      --plain-bg: #161b21; --plain-ink: #c3d2e0; --plain-border: #262d36; --plain-label: #8fa9c4;
     }
   }
   :root[data-theme="dark"] {
     --bg: #14140f; --surface: #1c1c17; --border: #2f2f27;
     --text: #f0efe9; --muted: #9d9a90; --accent: #fb923c; --rule: #26261f;
+    --plain-bg: #161b21; --plain-ink: #c3d2e0; --plain-border: #262d36; --plain-label: #8fa9c4;
   }
   * { box-sizing: border-box; }
   body {
@@ -157,8 +187,20 @@ Capture the returned artifact URL — you need it for 5b and 5c.
   .item { padding-top: 1.75rem; margin-top: 1.75rem; border-top: 1px solid var(--rule); }
   .item:first-of-type { border-top: 0; margin-top: 0; padding-top: 0; }
   .cat { font-size: .75rem; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); font-weight: 600; margin-bottom: .4rem; font-family: ui-sans-serif, system-ui, sans-serif; }
-  .item h3 { font-size: 1.25rem; line-height: 1.35; margin: 0 0 .6rem; letter-spacing: -0.01em; }
+  .item h3 { font-size: 1.25rem; line-height: 1.35; margin: 0 0 .6rem; letter-spacing: -0.01em; text-wrap: balance; }
   .item p { margin: 0 0 .75rem; }
+  .plain {
+    background: var(--plain-bg); border: 1px solid var(--plain-border);
+    border-radius: 6px; padding: .875rem 1.125rem 1rem;
+    color: var(--plain-ink);
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: .9375rem; line-height: 1.7;
+  }
+  .plain b {
+    display: block; font-size: .75rem; text-transform: uppercase;
+    letter-spacing: .09em; color: var(--plain-label);
+    margin-bottom: .3rem; font-weight: 600;
+  }
   .why { border-left: 3px solid var(--accent); padding-left: .875rem; color: var(--text); }
   .why b { font-family: ui-sans-serif, system-ui, sans-serif; font-size: .8125rem; text-transform: uppercase; letter-spacing: .06em; color: var(--accent); }
   .src { font-family: ui-sans-serif, system-ui, sans-serif; font-size: .8125rem; color: var(--muted); }
@@ -182,6 +224,7 @@ Capture the returned artifact URL — you need it for 5b and 5c.
     <div class="cat"><!-- 🤖 AI Industry --></div>
     <h3><!-- headline --></h3>
     <p><!-- what happened --></p>
+    <p class="plain"><b>In plain terms</b><!-- 3-5 sentences, 14-year-old reading level --></p>
     <p class="why"><b>Why it matters</b><br><!-- one sentence --></p>
     <p class="src">Sources: <a href="URL">Outlet</a> · <a href="URL">Outlet</a></p>
   </div>
@@ -202,8 +245,9 @@ words into Slack.
 ### 5c. Commit the markdown archive to git
 
 The repo `mogulseeker/daily-brief` is checked out in your working directory. Write the
-**full** brief as clean markdown (the ~700-word version, with real markdown headings and
-links — this is the canonical text record) and commit it:
+**full** brief as clean markdown — every item complete with its "In plain terms" and "Why it
+matters" sections, real markdown headings and links. This is the canonical text record, so
+nothing is abbreviated here. Then commit it:
 
 - Path: `briefs/YYYY-MM-DD.md` — exactly this, zero-padded, no prefixes or suffixes.
   Nate's local sync job fast-forwards this repo, so the filename must be predictable.

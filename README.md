@@ -43,8 +43,20 @@ Fixed order, every day:
 6. 🔴 Trump Watch — absurdities and corruption, anchored to the documented record
 7. 💻 Tech — most important non-AI technology story
 
-Each item is a headline, two or three sentences of what happened, one "why it matters"
-line, and sources. ~700 words total, a 3-minute read.
+Each item has four parts:
+
+1. **Headline** — plain language, no clickbait
+2. **What happened** — two or three sentences, with the actual numbers
+3. **In plain terms** — the same story explained to a bright 14-year-old: every proper noun
+   and piece of jargon unpacked, the mechanism explained rather than just the outcome, and the
+   genuinely interesting part (the irony, the catch) pointed at directly
+4. **Why it matters** — one sentence on the second-order effect
+
+Plus sources. ~700 words of reporting plus the explainers, so roughly a 5-minute read.
+
+The "In plain terms" rules are deliberately strict about tone: simple words, adult register.
+No forced analogies, no "imagine a lemonade stand," and it must carry any uncertainty down
+from the reporting rather than sounding more confident than the sources do.
 
 ## How it works
 
@@ -123,4 +135,5 @@ Both are one-line changes — the cron expression on the routine, or the slot ta
   alternative (one page updated in place) would need the URL persisted between runs and
   would destroy the archive, so per-day pages won.
 - **Slack formatting.** Slack mangles heavy markdown, so the DM is deliberately the
-  compact TL;DR plus a link, not the full 700 words.
+  compact TL;DR plus a link, not the full brief. The "In plain terms" explainers live on the
+  Artifact page and in the markdown archive.
