@@ -59,13 +59,14 @@ stay off the top-of-hour spike.
 > `4 12 * * *` UTC becomes **5:04am** local. To keep it at 6am, update the routine to
 > `4 13 * * *` then, and back to `4 12 * * *` at the March spring-forward.
 
-### Updating the prompt
+### Changing what the brief covers
 
-[prompt.md](prompt.md) is the source of truth, but the routine holds its own copy — editing
-the file alone changes nothing. After editing, push it to the routine with a
-`RemoteTrigger` update to
-`job_config.ccr.events[0].data.message.content`, or just ask Claude: *"push the current
-prompt.md to the Daily Brief routine."*
+Edit [prompt.md](prompt.md), commit, push. That's the whole loop.
+
+The routine's own prompt is a three-line bootstrap that pulls this repo and reads
+`prompt.md`, so the file genuinely is the spec — there's no second copy to keep in sync and
+no routine update needed. Add a category, reorder the slots, change the word count, tighten
+the sourcing rules: all of it lives in that one file.
 
 ### Debugging a missed or bad brief
 

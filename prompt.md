@@ -1,7 +1,10 @@
 # Daily Brief — cloud agent prompt
 
-This file is the source of truth for the prompt used by the `Daily Brief` routine.
-If you edit it, push the change to the routine (see README.md § Updating the prompt).
+**This file is the brief.** The routine's own prompt is a three-line bootstrap that clones
+this repo and reads this file, so editing and pushing this file changes tomorrow's brief.
+There is nothing else to update.
+
+Everything below the rule is the spec the agent follows.
 
 ---
 
