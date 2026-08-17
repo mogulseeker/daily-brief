@@ -1,0 +1,252 @@
+<!-- ═══════════════════════════════════════════════════════════════════
+     Daily Brief — embeddable widget
+     Paste this anywhere in your page. No dependencies, no build step.
+
+     Set data-feed to your published latest.json (see embed/README.md).
+     Everything renders inside a shadow root, so your site's CSS cannot
+     leak in and this widget's CSS cannot leak out.
+
+     Options on the div:
+       data-feed   (required) URL of latest.json
+       data-show   "full" (default) | "tldr" | "plain"
+       data-limit  max items to render, e.g. "5" (default: all)
+       data-theme  "auto" (default) | "light" | "dark"
+
+     "auto" matches the PAGE, not the operating system: it walks up the DOM
+     for the first real background colour and measures its luminance. That
+     matters because this widget's own background is transparent so it blends
+     into your layout — trusting prefers-color-scheme instead would put
+     near-white text on a white page for any visitor with dark mode on.
+     ══════════════════════════════════════════════════════════════════ -->
+
+<div class="daily-brief-embed"
+     data-feed="https://REPLACE-ME.github.io/daily-brief-feed/latest.json"
+     data-show="full"
+     data-theme="auto"></div>
+
+<script>
+(function () {
+  "use strict";
+
+  var CSS = [
+    ':host{display:block;container-type:inline-size}',
+    '*{box-sizing:border-box}',
+    ':host{',
+    '--bg:transparent;--surface:#ffffff;--border:#e5e1d9;--text:#1a1a18;',
+    '--muted:#6b6862;--accent:#9a3412;--rule:#ede9e0;',
+    '--plain-bg:#eef1f5;--plain-ink:#3a4a5c;--plain-border:#dde3ea;--plain-label:#4d6480;',
+    '--serif:ui-serif,Georgia,"Times New Roman",serif;',
+    '--sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}',
+    ':host([data-resolved="dark"]){',
+    '--surface:#1c1c17;--border:#2f2f27;--text:#f0efe9;',
+    '--muted:#9d9a90;--accent:#fb923c;--rule:#26261f;',
+    '--plain-bg:#161b21;--plain-ink:#c3d2e0;--plain-border:#262d36;--plain-label:#8fa9c4}',
+    '.root{font-family:var(--serif);font-size:16px;line-height:1.65;color:var(--text);max-width:44rem}',
+    '.hd{border-bottom:2px solid var(--text);padding-bottom:.75rem;margin-bottom:1.5rem;',
+    'display:flex;flex-wrap:wrap;align-items:baseline;gap:.5rem .75rem}',
+    '.hd h2{font-size:1.5rem;margin:0;letter-spacing:-.02em;font-family:var(--serif)}',
+    '.hd .date{font-family:var(--sans);font-size:.75rem;text-transform:uppercase;',
+    'letter-spacing:.08em;color:var(--muted)}',
+    '.tldr{background:var(--surface);border:1px solid var(--border);border-radius:6px;',
+    'padding:1.125rem 1.375rem;margin-bottom:2rem}',
+    '.tldr h3{font-family:var(--sans);font-size:.6875rem;text-transform:uppercase;',
+    'letter-spacing:.1em;color:var(--muted);margin:0 0 .625rem;font-weight:600}',
+    '.tldr ol{margin:0;padding-left:1.25rem;font-size:.9375rem}',
+    '.tldr li{margin-bottom:.4rem}.tldr li:last-child{margin-bottom:0}',
+    '.item{padding-top:1.5rem;margin-top:1.5rem;border-top:1px solid var(--rule)}',
+    '.item:first-of-type{border-top:0;margin-top:0;padding-top:0}',
+    '.cat{font-family:var(--sans);font-size:.6875rem;text-transform:uppercase;',
+    'letter-spacing:.1em;color:var(--accent);font-weight:600;margin-bottom:.35rem}',
+    '.item h4{font-family:var(--serif);font-size:1.1875rem;line-height:1.35;margin:0 0 .55rem;',
+    'letter-spacing:-.01em;text-wrap:balance;font-weight:700}',
+    '.item p{margin:0 0 .7rem}',
+    '.plain{background:var(--plain-bg);border:1px solid var(--plain-border);border-radius:6px;',
+    'padding:.8rem 1.0625rem .9rem;color:var(--plain-ink);font-family:var(--sans);',
+    'font-size:.9375rem;line-height:1.7}',
+    '.plain b{display:block;font-size:.6875rem;text-transform:uppercase;letter-spacing:.09em;',
+    'color:var(--plain-label);margin-bottom:.25rem;font-weight:600}',
+    '.why{border-left:3px solid var(--accent);padding-left:.8rem}',
+    '.why b{display:block;font-family:var(--sans);font-size:.75rem;text-transform:uppercase;',
+    'letter-spacing:.06em;color:var(--accent);margin-bottom:.15rem}',
+    '.src{font-family:var(--sans);font-size:.75rem;color:var(--muted)}',
+    '.src a{color:var(--muted);text-decoration:underline;text-underline-offset:2px}',
+    '.src a:hover{color:var(--accent)}',
+    'a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}',
+    '.ft{margin-top:2rem;padding-top:1rem;border-top:1px solid var(--rule);',
+    'font-family:var(--sans);font-size:.75rem;color:var(--muted)}',
+    '.ft a{color:var(--muted)}',
+    '.msg{font-family:var(--sans);font-size:.875rem;color:var(--muted);padding:1rem 0}',
+    '@container (max-width:34rem){.hd h2{font-size:1.25rem}.item h4{font-size:1.0625rem}}',
+    '@media (prefers-reduced-motion:no-preference){.root{animation:fade .25s ease-out}',
+    '@keyframes fade{from{opacity:0}to{opacity:1}}}'
+  ].join('');
+
+  var SAFE = /^https?:\/\//i;
+
+  /* Resolve the effective background behind an element, then decide whether
+     this widget needs its light or dark token set. Returns true for dark. */
+  function pageIsDark(node) {
+    var el = node;
+    while (el) {
+      var bg = window.getComputedStyle(el).backgroundColor;
+      var m = /^rgba?\(([^)]+)\)/.exec(bg || '');
+      if (m) {
+        var p = m[1].split(',').map(parseFloat);
+        var alpha = p.length > 3 ? p[3] : 1;
+        if (alpha > 0.12) {
+          // Rec. 709 relative luminance on the sRGB values, good enough here.
+          var lum = (0.2126 * p[0] + 0.7152 * p[1] + 0.0722 * p[2]) / 255;
+          return lum < 0.5;
+        }
+      }
+      el = el.parentElement;
+    }
+    // Nothing painted anywhere up the tree: fall back to the OS preference.
+    return !!(window.matchMedia &&
+              window.matchMedia('(prefers-color-scheme: dark)').matches);
+  }
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+
+  function link(url, label) {
+    if (!SAFE.test(String(url || ''))) return el('span', null, label);
+    var a = el('a', null, label);
+    a.href = url;
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    return a;
+  }
+
+  function render(root, data, show, limit) {
+    root.textContent = '';
+    var wrap = el('div', 'root');
+
+    var hd = el('div', 'hd');
+    hd.appendChild(el('h2', null, 'Daily Brief'));
+    hd.appendChild(el('span', 'date', data.dateLabel || data.date || ''));
+    wrap.appendChild(hd);
+
+    var items = Array.isArray(data.items) ? data.items.slice() : [];
+    if (limit > 0) items = items.slice(0, limit);
+
+    if (show !== 'plain' && Array.isArray(data.tldr) && data.tldr.length) {
+      var box = el('div', 'tldr');
+      box.appendChild(el('h3', null, 'The whole thing in 30 seconds'));
+      var ol = el('ol');
+      var lines = limit > 0 ? data.tldr.slice(0, limit) : data.tldr;
+      lines.forEach(function (t) { ol.appendChild(el('li', null, t)); });
+      box.appendChild(ol);
+      wrap.appendChild(box);
+    }
+
+    if (show !== 'tldr') {
+      items.forEach(function (it) {
+        var d = el('div', 'item');
+        if (it.category) d.appendChild(el('div', 'cat', it.category));
+        if (it.headline) d.appendChild(el('h4', null, it.headline));
+
+        if (show === 'full' && it.body) d.appendChild(el('p', null, it.body));
+
+        if (it.plain) {
+          var p = el('p', 'plain');
+          p.appendChild(el('b', null, 'In plain terms'));
+          p.appendChild(document.createTextNode(it.plain));
+          d.appendChild(p);
+        }
+
+        if (show === 'full' && it.why) {
+          var w = el('p', 'why');
+          w.appendChild(el('b', null, 'Why it matters'));
+          w.appendChild(document.createTextNode(it.why));
+          d.appendChild(w);
+        }
+
+        if (show === 'full' && Array.isArray(it.sources) && it.sources.length) {
+          var s = el('p', 'src');
+          s.appendChild(document.createTextNode('Sources: '));
+          it.sources.forEach(function (src, i) {
+            if (i) s.appendChild(document.createTextNode(' · '));
+            s.appendChild(link(src.url, src.outlet || 'source'));
+          });
+          d.appendChild(s);
+        }
+        wrap.appendChild(d);
+      });
+    }
+
+    var ft = el('div', 'ft');
+    ft.appendChild(document.createTextNode(
+      (data.dateLabel ? data.dateLabel + ' · ' : '') + items.length + ' items'
+    ));
+    wrap.appendChild(ft);
+    root.appendChild(wrap);
+  }
+
+  function boot(host) {
+    if (host.__dbInit) return;
+    host.__dbInit = true;
+
+    var feed = host.getAttribute('data-feed');
+    var show = host.getAttribute('data-show') || 'full';
+    var limit = parseInt(host.getAttribute('data-limit') || '0', 10) || 0;
+    var theme = host.getAttribute('data-theme') || 'auto';
+
+    var shadow = host.attachShadow({ mode: 'open' });
+    var style = document.createElement('style');
+    style.textContent = CSS;
+    shadow.appendChild(style);
+    var mount = document.createElement('div');
+    shadow.appendChild(mount);
+
+    function applyTheme() {
+      var dark = theme === 'dark' ||
+                 (theme !== 'light' && pageIsDark(host));
+      host.setAttribute('data-resolved', dark ? 'dark' : 'light');
+    }
+    applyTheme();
+    if (theme === 'auto' && window.matchMedia) {
+      // Re-measure if the host page itself responds to an OS theme change.
+      var mq = window.matchMedia('(prefers-color-scheme: dark)');
+      var recheck = function () { setTimeout(applyTheme, 0); };
+      mq.addEventListener ? mq.addEventListener('change', recheck)
+                          : mq.addListener(recheck);
+    }
+
+    mount.appendChild(el('div', 'msg', 'Loading today’s brief…'));
+
+    if (!feed || /REPLACE-ME/.test(feed)) {
+      mount.textContent = '';
+      mount.appendChild(el('div', 'msg',
+        'Set data-feed on this element to your latest.json URL.'));
+      return;
+    }
+
+    fetch(feed, { cache: 'no-cache' })
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function (data) { render(mount, data, show, limit); })
+      .catch(function (err) {
+        mount.textContent = '';
+        var m = el('div', 'msg', "Today's brief isn't available right now. ");
+        mount.appendChild(m);
+        if (console && console.warn) console.warn('[daily-brief]', err);
+      });
+  }
+
+  function init() {
+    var nodes = document.querySelectorAll('.daily-brief-embed');
+    for (var i = 0; i < nodes.length; i++) boot(nodes[i]);
+  }
+
+  document.readyState === 'loading'
+    ? document.addEventListener('DOMContentLoaded', init)
+    : init();
+})();
+</script>

@@ -259,6 +259,42 @@ If the file for today already exists (a manual re-run), overwrite it and amend r
 than creating a second file. If `git push` is rejected, run `git pull --rebase origin
 main` once and push again — do not force-push.
 
+### 5d. Write the embed feed
+
+Nate's website embeds the brief by fetching a JSON feed, so the same content goes out in
+machine-readable form. Write **both** of these in the repo, in the same commit as 5c:
+
+- `embed/latest.json` — always overwritten with today's brief
+- `embed/YYYY-MM-DD.json` — a dated copy, byte-identical, so the archive stays addressable
+
+Shape (this contract is consumed by `embed/brief-embed.html`, so match it exactly):
+
+```json
+{
+  "date": "2026-08-17",
+  "dateLabel": "Monday, August 17, 2026",
+  "generated": "<current UTC ISO-8601 timestamp>",
+  "tldr": ["<the ten TL;DR lines, in slot order, emoji included>"],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "<headline, no emoji>",
+      "body": "<the what-happened paragraph>",
+      "plain": "<the In plain terms text>",
+      "why": "<the Why it matters sentence>",
+      "sources": [{"outlet": "Bloomberg", "url": "https://..."}]
+    }
+  ]
+}
+```
+
+Rules: exactly 10 items, `slot` 1–10 matching the fixed order. Plain text only in every
+field — no HTML tags, no markdown, no leading emoji on `headline` (the emoji belong in
+`tldr` lines and nowhere else). Wildcard categories keep their label form, e.g.
+`"Wildcard - Economics"`. Every item must have a non-empty `plain`. Validate the file
+parses as JSON before committing it.
+
 ## Step 6 — report
 
 Finish with a short plain-text summary for the run log: the ten headlines you chose, the

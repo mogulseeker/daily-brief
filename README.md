@@ -78,6 +78,16 @@ The split exists because cloud routines cannot write to local disk, and the loca
 can reach, which also means the local sync is plain `git pull` — no AI, no API cost, no
 auth to expire.
 
+## Embedding it on a website
+
+See [embed/README.md](embed/README.md). Short version: the Artifact page can't be iframed
+(`frame-ancestors 'self'`, login-gated, new URL daily), so the brief publishes as a JSON feed
+and [embed/brief-embed.html](embed/brief-embed.html) renders it — one paste, no dependencies,
+shadow-DOM isolated from your site's CSS. `embed/static.html` is a no-JavaScript fallback.
+
+The routine writes `embed/latest.json` on every run once the GitHub grant above is done; until
+then regenerate it by hand with `embed/build-embed.py`.
+
 ## Operating it
 
 **Routine ID:** `trig_016kS3fazqeubeLeWGrSULfG`
