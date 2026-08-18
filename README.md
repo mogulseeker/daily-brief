@@ -9,26 +9,30 @@ A ten-item news brief, delivered every morning at ~6am Mountain Time.
 | **Slack DM** | ~6:10am MT | The ten TL;DR headlines + a link to the full page | ✅ live |
 | **Artifact page** | ~6:10am MT | The full formatted brief, a new URL each day | ✅ live |
 | **Google Drive `daily-brief/`** | ~6:10am MT | Canonical markdown, one file per day | ✅ live |
-| **`briefs/YYYY-MM-DD.md`** | ~7:20am MT | Same markdown, on this Mac | ⏳ needs one grant |
+| **`briefs/YYYY-MM-DD.md`** | ~7:20am MT | Same markdown, on this Mac | ⏳ needs the repo attached |
+| **Website embed** | ~6:10am MT | `embed/latest.json` via GitHub Pages | ⏳ needs the repo attached |
 
 > [!IMPORTANT]
-> ## One step left: let Claude see this repo
+> ## One step left: attach the repo to the routine's environment
 >
-> The local-disk archive is the only leg not yet running. The cloud routine can't commit
-> to `mogulseeker/daily-brief` until the Claude GitHub App is granted access to it —
-> attempting to attach the repo returns `403 You don't have access to a repository this
-> routine uses`.
+> The brief itself runs fine. What is not yet automatic is **publishing to the website**,
+> because the routine's sandbox has no checkout of this repo — a diagnostic run reports
+> `No sources configured` and an empty `/home/user`. With no checkout there is no `git
+> push`, so `embed/latest.json` never reaches GitHub Pages and the site keeps showing
+> whichever brief was last published by hand.
 >
-> **Fix:** go to <https://github.com/settings/installations> → **Claude** → **Configure** →
-> under *Repository access* add **`daily-brief`** → Save.
+> Attaching a repository through the triggers API does not work — the `sources` field is
+> accepted and silently dropped. It has to be done in the UI, on the **environment** the
+> routine uses (`env_01TXKKbpET4aFznCRBjYh3YB`):
 >
-> Then tell Claude *"the GitHub grant is done"* and it will switch the routine over to the
-> repo (step 5c commits to `briefs/` instead of Drive, and `prompt.md` becomes the live
-> spec). Until then the archive lives in Drive and `briefs/` stays empty — nothing else is
-> affected, and the 6am brief still arrives on Slack and the web.
+> <https://claude.ai/code/routines/trig_016kS3fazqeubeLeWGrSULfG> → the routine's
+> environment → add **`mogulseeker/daily-brief`** as a repository source.
 >
-> The launchd job is already installed and tested, so it starts populating `briefs/` the
-> moment the routine begins committing.
+> **No code change is needed once that is done.** Steps 5c and 5d of [prompt.md](prompt.md)
+> already branch on whether a checkout exists: with one they commit `briefs/` and `embed/`
+> and push; without one they fall back to Google Drive and say so in the run report. The
+> site starts updating itself the morning after the repo is attached, and `briefs/` starts
+> populating on this Mac at 7:20am.
 
 ## The ten slots
 
@@ -63,14 +67,19 @@ from the reporting rather than sounding more confident than the sources do.
 ```
    6:04am MT   Cloud routine "Daily Brief" fires (Anthropic cloud, not this Mac)
                │
+               ├─ curl prompt.md from raw.githubusercontent.com ── the live spec
                ├─ WebSearch/WebFetch across the six research areas
                ├─ picks 10 items, writes the brief
                ├─ publishes the Artifact page ─────────────► claude.ai
                ├─ DMs the TL;DR + link ───────────────────► Slack
-               └─ commits briefs/YYYY-MM-DD.md ───────────► github.com/mogulseeker/daily-brief
-                                                                    │
-   7:20am MT   launchd runs sync/sync-briefs.sh ◄────────────────────┘
+               └─ archive + embed/latest.json:
+                    with a repo checkout  → commits ──────► github.com/mogulseeker/daily-brief
+                    without one (today)   → Google Drive        │
+                                                                │
+   7:20am MT   launchd runs sync/sync-briefs.sh ◄────────────────┘
                └─ git pull --ff-only  →  briefs/ on this Mac
+
+               GitHub Pages serves embed/latest.json ─────► nathanlukeanderson.com
 ```
 
 The split exists because cloud routines cannot write to local disk, and the local
@@ -115,16 +124,29 @@ stay off the top-of-hour spike.
 
 ### Changing what the brief covers
 
-Edit [prompt.md](prompt.md), commit, push. That's the whole loop — **once the GitHub grant
-above is done.** The routine's prompt then becomes a three-line bootstrap that pulls this
-repo and reads `prompt.md`, so the file genuinely is the spec: no second copy to keep in
-sync, no routine update needed.
+Edit [prompt.md](prompt.md), commit, push. That is the whole loop — the routine's own
+prompt is a short bootstrap that `curl`s this file from
+`raw.githubusercontent.com/mogulseeker/daily-brief/main/prompt.md` and follows whatever is
+below the horizontal rule. There is no second copy to keep in sync and no routine update
+needed.
 
-> [!NOTE]
-> **Until the grant:** the routine carries its own inline copy of the spec (the variant that
-> writes to Drive rather than git). `prompt.md` is the intended spec and differs from what's
-> live in exactly that one respect — step 5c. Edits to `prompt.md` won't affect the brief
-> yet; ask Claude to push them to the routine, or just do the grant and be done with it.
+Two things worth knowing about that path:
+
+- **`curl`, not WebFetch.** WebFetch runs a page through a model and returns a *summary*,
+  so using it here would hand the agent a paraphrase of its own instructions. Verified:
+  WebFetch on `prompt.md` came back as prose describing the spec. `curl` returns the file
+  byte for byte.
+- **raw.githubusercontent.com caches `main` for about five minutes.** A push is not
+  instantly visible. Irrelevant for a 6am run, but if you are testing by firing the routine
+  by hand, wait it out or you will run the previous version. Pinning the URL to a commit
+  SHA bypasses the cache.
+
+### Known-good and known-blocked hosts
+
+The sandbox egress proxy allows `raw.githubusercontent.com` but blocks
+`mogulseeker.github.io` — so the routine can read its spec from GitHub but cannot read its
+own published feed. Both were confirmed by diagnostic runs. The blocked news domains live
+in [prompt.md](prompt.md).
 
 ### Debugging a missed or bad brief
 
