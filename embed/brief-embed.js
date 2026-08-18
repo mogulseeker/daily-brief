@@ -1,16 +1,3 @@
-<!-- Daily Brief - all-in-one embed (no external script).
-     GENERATED FROM brief-embed.js - edit that file, then rerun the generator
-     in embed/README.md. Do not hand-edit this file.
-
-     Prefer snippet.html: it is ~250 characters instead of ~11KB, which matters
-     because Google Sites caps its embed-code box at 10,000 characters, and a
-     pasted script can be corrupted in transit (a curly apostrophe becoming a
-     straight one is enough to kill the entire block silently). -->
-<div class="daily-brief-embed"
-     data-feed="https://mogulseeker.github.io/daily-brief/embed/latest.json"
-     data-show="full"
-     data-theme="light"></div>
-<script>
 /* Daily Brief - embeddable widget
  *
  * Served from GitHub Pages so a host page only needs two lines:
@@ -18,7 +5,7 @@
  *   <div class="daily-brief-embed"
  *        data-feed="https://mogulseeker.github.io/daily-brief/embed/latest.json"
  *        data-theme="light"></div>
- *   <script src="https://mogulseeker.github.io/daily-brief/embed/brief-embed.js"><\/script>
+ *   <script src="https://mogulseeker.github.io/daily-brief/embed/brief-embed.js"></script>
  *
  * Options on the div:
  *   data-feed   (required) URL of latest.json
@@ -268,4 +255,3 @@
     ? document.addEventListener('DOMContentLoaded', init)
     : init();
 })();
-</script>
