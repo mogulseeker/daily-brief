@@ -3,16 +3,16 @@
   "dateLabel": "Monday, August 17, 2026",
   "generated": "2026-08-17T17:17:36+00:00",
   "tldr": [
-    "🤖 Stripe finalizes a reported $7B+ deal for AI model gateway OpenRouter.",
-    "🌍 The 60-day US–Iran ceasefire MOU lapses with Hormuz still effectively shut.",
-    "📉 China's July output, retail sales and investment all miss forecasts.",
-    "🏥 AstraZeneca kills its Phase III volrustomig lung cancer trial.",
-    "🃏 Kushner meets Netanyahu after rare direct talks with Hamas in Egypt.",
-    "🃏 Japan's Q2 GDP grows 1.1% annualized against a 2% forecast.",
-    "🃏 US prescription drug prices post their steepest annual drop since 1963.",
-    "🃏 Guardian: Microsoft has ~2.2M AI chips installed after ~$280B of spending.",
-    "🔴 BBC asks a Florida court to subpoena Don Jr., Ivanka and Kushner.",
-    "💻 Researchers publish a full-kernel Unisoc phone exploit with no vendor fix."
+    "Stripe finalizes a reported $7B+ deal for AI model gateway OpenRouter.",
+    "The 60-day US–Iran ceasefire MOU lapses with Hormuz still effectively shut.",
+    "China's July output, retail sales and investment all miss forecasts.",
+    "AstraZeneca kills its Phase III volrustomig lung cancer trial.",
+    "Kushner meets Netanyahu after rare direct talks with Hamas in Egypt.",
+    "Japan's Q2 GDP grows 1.1% annualized against a 2% forecast.",
+    "US prescription drug prices post their steepest annual drop since 1963.",
+    "Guardian: Microsoft has ~2.2M AI chips installed after ~$280B of spending.",
+    "Researchers publish a full-kernel Unisoc phone exploit with no vendor fix.",
+    "BBC asks a Florida court to subpoena Don Jr., Ivanka and Kushner."
   ],
   "items": [
     {
@@ -185,7 +185,25 @@
     },
     {
       "slot": 9,
-      "category": "Trump Watch",
+      "category": "Tech",
+      "headline": "Researchers publish a full-kernel Unisoc phone exploit the chipmaker has not answered",
+      "body": "SSD Secure Disclosure published an advisory on August 17 completing a two-stage chain that achieves full Android kernel access on devices using Unisoc modem firmware, starting from a malformed SIP video call disclosed in March. The second stage bypasses the ARM memory protection unit, making the entire 32-bit address space readable, writable and executable from modem context. Exploitation requires the attacker to run a private 4G network and the victim to answer the call. \"We have tried to reach out to the vendor through multiple channels (email and LinkedIn) but have not been able to receive any response,\" the researchers wrote. No patch exists.",
+      "plain": "Security researchers figured out how to completely take over certain cheap Android phones by attacking the part of the chip that handles phone calls — the way in is a deliberately broken video call. It's not something that can happen to you casually: the attacker has to set up their own fake cell tower nearby, and you have to actually answer the call. The real problem is the ending. The researchers tried repeatedly to warn the chipmaker by email and LinkedIn and never got a single reply, so they published it with no fix available. These chips sit inside budget phones used by a lot of people across South Asia, Africa and Latin America, who now have no way to patch it.",
+      "why": "Unisoc ships the silicon in low-cost handsets across South Asia, Africa and Latin America, a population with no realistic patch path when the vendor simply does not reply.",
+      "sources": [
+        {
+          "outlet": "SSD Secure Disclosure",
+          "url": "https://ssd-disclosure.com/advisories/"
+        },
+        {
+          "outlet": "it-boltwise",
+          "url": "https://www.it-boltwise.de/unisoc-volte-exploit-bringt-angreifern-vollstaendigen-kernel-zugriff.html"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
       "headline": "BBC asks a Florida court to subpoena Donald Trump Jr., Ivanka Trump and Jared Kushner",
       "body": "In a motion filed Friday, August 14, the BBC asked a Florida federal court to authorize subpoenas for testimony and records from the president's two eldest children and his son-in-law, in its defense against Trump's $10 billion defamation suit over the documentary \"Trump: A Second Chance?\" The filing states the three \"have personal knowledge and likely have possession, custody, or control of records\" relevant to the case, that Donald Jr. and Ivanka were present when Trump revised and delivered his January 6, 2021 speech, and that Kushner drafted a proposed statement condemning violence. BBC lawyers wrote they were previously blocked from serving Ivanka Trump and Kushner at their Florida home by law enforcement and redirected to the Secret Service. The motion is pending; no ruling has issued.",
       "plain": "Trump is suing the BBC for $10 billion, claiming a documentary lied about him. But when you sue someone, they get to gather evidence to defend themselves — and the BBC is now asking a judge for permission to force Don Jr., Ivanka, and Jared Kushner to testify under oath and hand over their records. The BBC specifically wants to ask about January 6th, 2021, since it says Don Jr. and Ivanka were in the room while Trump edited and gave his speech that day. The irony is the point: by choosing to sue, Trump created the one situation where his own family might have to answer those questions under oath — something years of congressional investigations never managed. The judge hasn't decided yet.",
@@ -202,24 +220,6 @@
         {
           "outlet": "The Hill",
           "url": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/"
-        }
-      ]
-    },
-    {
-      "slot": 10,
-      "category": "Tech",
-      "headline": "Researchers publish a full-kernel Unisoc phone exploit the chipmaker has not answered",
-      "body": "SSD Secure Disclosure published an advisory on August 17 completing a two-stage chain that achieves full Android kernel access on devices using Unisoc modem firmware, starting from a malformed SIP video call disclosed in March. The second stage bypasses the ARM memory protection unit, making the entire 32-bit address space readable, writable and executable from modem context. Exploitation requires the attacker to run a private 4G network and the victim to answer the call. \"We have tried to reach out to the vendor through multiple channels (email and LinkedIn) but have not been able to receive any response,\" the researchers wrote. No patch exists.",
-      "plain": "Security researchers figured out how to completely take over certain cheap Android phones by attacking the part of the chip that handles phone calls — the way in is a deliberately broken video call. It's not something that can happen to you casually: the attacker has to set up their own fake cell tower nearby, and you have to actually answer the call. The real problem is the ending. The researchers tried repeatedly to warn the chipmaker by email and LinkedIn and never got a single reply, so they published it with no fix available. These chips sit inside budget phones used by a lot of people across South Asia, Africa and Latin America, who now have no way to patch it.",
-      "why": "Unisoc ships the silicon in low-cost handsets across South Asia, Africa and Latin America, a population with no realistic patch path when the vendor simply does not reply.",
-      "sources": [
-        {
-          "outlet": "SSD Secure Disclosure",
-          "url": "https://ssd-disclosure.com/advisories/"
-        },
-        {
-          "outlet": "it-boltwise",
-          "url": "https://www.it-boltwise.de/unisoc-volte-exploit-bringt-angreifern-vollstaendigen-kernel-zugriff.html"
         }
       ]
     }

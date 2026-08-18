@@ -56,13 +56,13 @@ In this fixed order:
 
 | Slot | Content |
 |---|---|
-| 1 | 🤖 **AI Industry** — the single most important AI-industry story |
-| 2 | 🌍 **International Affairs** — the single most important story |
-| 3 | 📉 **Economics** — the single most important story |
-| 4 | 🏥 **Healthcare** — the single most important story |
-| 5–8 | 🃏 **Wildcards** ×4 — the next four most important stories drawn from those same four categories, ranked by overall importance. Do NOT force one per category: if it's a heavy AI news day, two or three wildcards may be AI. Label each wildcard with its category. |
-| 9 | 🔴 **Trump Watch** — see rules below |
-| 10 | 💻 **Tech** — the most important technology story that is not primarily an AI-industry story |
+| 1 | **AI Industry** — the single most important AI-industry story |
+| 2 | **International Affairs** — the single most important story |
+| 3 | **Economics** — the single most important story |
+| 4 | **Healthcare** — the single most important story |
+| 5–8 | **Wildcards** ×4 — the next four most important stories drawn from those same four categories, ranked by overall importance. Do NOT force one per category: if it's a heavy AI news day, two or three wildcards may be AI. Label each wildcard with its category. |
+| 9 | **Tech** — the most important technology story that is not primarily an AI-industry story |
+| 10 | **Trump News** — see rules below. Always the last item. |
 
 "Most important" means consequence, not volume of coverage: how many people it affects,
 whether it changes a policy/price/capability, and whether it's a genuine change of state
@@ -71,19 +71,36 @@ beats a loud story everyone already knows.
 
 No item may repeat a story used in another slot.
 
-## Step 3 — Trump Watch rules
+## Step 3 — Trump News rules
 
-Cover absurdities and corruption, anchored strictly in the documented record: court
-filings, indictments, IG and GAO reports, financial disclosures, inspector-general
-findings, oversight letters, sworn testimony, verifiable direct quotes with date and
-venue, and credible investigative reporting that names its evidence.
+This is the closing item, and its angle is deliberate: find the story that makes Trump look
+worst on the day — the embarrassing, petty, absurd, hypocritical, or self-inflicted one. Not
+the dry policy story unless the policy story is itself the humiliating one. Prefer the
+material that is genuinely damning over the material that is merely loud.
 
-- Quote or cite the specific document or on-the-record statement.
-- Attribute characterizations to whoever made them; don't editorialize in your own voice.
+Good candidates: a court loss or sanction, a claim contradicted by his own prior statement
+on the record, a self-dealing or grift item in a financial disclosure, an official who
+resigned or was fired and said why, a boast the numbers do not support, an event that flopped,
+a document that says the opposite of what he said it said.
+
+**Anchor every one of them in the documented record.** Court filings, indictments, IG and GAO
+reports, financial disclosures, oversight letters, sworn testimony, verifiable direct quotes
+with date and venue, and credible investigative reporting that names its evidence. This brief
+is published on a public website, so a thin or stretched item is a liability rather than a
+punchline — and a real, sourced one hits harder anyway.
+
+- Quote or cite the specific document or on-the-record statement, with its date.
+- Let the facts carry it. Report the embarrassing thing plainly and let it be embarrassing;
+  do not add adjectives, sneering, or editorial commentary in your own voice. "He said X on
+  the record in March and the filing says Y" is devastating. "Incredibly, he absurdly
+  claimed" is weaker than the fact it decorates.
+- Attribute characterizations to whoever made them.
 - Distinguish "indicted/found/ruled" from "alleged/reported/under investigation" precisely.
-- If nothing substantiated happened in the last 24 hours, write exactly one line saying
-  so and note the most recent live thread with its status. **Do not inflate a slow day
-  into a scandal** — a padded item destroys the credibility of the other nine.
+  Getting this wrong is the one thing that would discredit the item.
+- If genuinely nothing substantiated happened in the last 24 hours, write exactly one line
+  saying so and note the most recent live thread with its status. **Do not inflate a slow day
+  into a scandal** — a padded item destroys the credibility of the other nine, and a reader
+  who catches one stretch stops believing the rest.
 
 ## Step 4 — write the brief
 
@@ -94,7 +111,7 @@ scannable in about two seconds.
 Then each item in full:
 
 ```
-🤖 AI INDUSTRY
+AI INDUSTRY
 <Headline in plain language. No clickbait, no "here's why", no rhetorical questions.>
 
 <Two or three sentences: what actually happened. Lead with the concrete fact. Include
@@ -104,7 +121,7 @@ actors. Assume an intelligent reader with no prior context on this specific stor
 In plain terms: <Three to five sentences explaining the story as you would to a bright
 14-year-old. See the rules below — this section is required for every item.>
 
-→ Why it matters: <One sentence on the second-order effect — what this changes, or what
+Why it matters: <One sentence on the second-order effect — what this changes, or what
 it tells you that the headline doesn't. Not a summary of the paragraph above.>
 
 Sources: <Outlet> · <Outlet>
@@ -113,6 +130,12 @@ Sources: <Outlet> · <Outlet>
 Voice: plain, declarative, specific. No hedging filler ("it remains to be seen",
 "only time will tell"), no throat-clearing, no exclamation marks. Numbers over
 adjectives. If something is genuinely uncertain, name the uncertainty concretely.
+
+**No emoji anywhere** — not in the TL;DR lines, not in category labels, not in headlines,
+not in the markdown archive or the JSON feed. Category labels are plain words in small caps
+("AI INDUSTRY", "TRUMP NEWS"). The only exception is the Artifact tool's `favicon`
+parameter, which is a browser-tab icon rather than part of the brief and is required to be
+an emoji.
 
 ### The "In plain terms" section
 
@@ -223,7 +246,7 @@ Capture the returned artifact URL — you need it for 5b and 5c.
 
   <!-- Repeat this block ten times: -->
   <div class="item">
-    <div class="cat"><!-- 🤖 AI Industry --></div>
+    <div class="cat"><!-- AI Industry --></div>
     <h3><!-- headline --></h3>
     <p><!-- what happened --></p>
     <p class="plain"><b>In plain terms</b><!-- 3-5 sentences, 14-year-old reading level --></p>
@@ -291,7 +314,7 @@ Shape (this contract is consumed by `embed/brief-embed.js`, so match it exactly)
   "date": "2026-08-17",
   "dateLabel": "Monday, August 17, 2026",
   "generated": "<current UTC ISO-8601 timestamp>",
-  "tldr": ["<the ten TL;DR lines, in slot order, emoji included>"],
+  "tldr": ["<the ten TL;DR lines, in slot order>"],
   "items": [
     {
       "slot": 1,
@@ -307,8 +330,7 @@ Shape (this contract is consumed by `embed/brief-embed.js`, so match it exactly)
 ```
 
 Rules: exactly 10 items, `slot` 1-10 matching the fixed order. Plain text only in every
-field - no HTML tags, no markdown, no leading emoji on `headline` (the emoji belong in the
-`tldr` lines and nowhere else). Wildcard categories keep their label form, e.g.
+field - no HTML tags, no markdown, no emoji anywhere. Wildcard categories keep their label form, e.g.
 `"Wildcard - Economics"`. Every item must have a non-empty `plain`. Validate the file parses
 as JSON before committing it.
 

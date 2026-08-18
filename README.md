@@ -38,14 +38,16 @@ A ten-item news brief, delivered every morning at ~6am Mountain Time.
 
 Fixed order, every day:
 
-1. 🤖 AI Industry — most important story
-2. 🌍 International Affairs — most important story
-3. 📉 Economics — most important story
-4. 🏥 Healthcare — most important story
-5. 🃏 Wildcards ×4 — next four most important from those same four categories, ranked by
+1. AI Industry — most important story
+2. International Affairs — most important story
+3. Economics — most important story
+4. Healthcare — most important story
+5. Wildcards ×4 — next four most important from those same four categories, ranked by
    overall importance. Not one-per-category: a heavy AI day can yield three AI wildcards.
-6. 🔴 Trump Watch — absurdities and corruption, anchored to the documented record
-7. 💻 Tech — most important non-AI technology story
+6. Tech — most important non-AI technology story
+7. Trump News — the day's most embarrassing or damning documented Trump story, always last
+
+No emoji anywhere in the output — category labels are plain words.
 
 Each item has four parts:
 
