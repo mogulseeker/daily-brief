@@ -80,13 +80,25 @@ auth to expire.
 
 ## Embedding it on a website
 
-See [embed/README.md](embed/README.md). Short version: the Artifact page can't be iframed
-(`frame-ancestors 'self'`, login-gated, new URL daily), so the brief publishes as a JSON feed
-and [embed/brief-embed.html](embed/brief-embed.html) renders it — one paste, no dependencies,
-shadow-DOM isolated from your site's CSS. `embed/static.html` is a no-JavaScript fallback.
+The brief is live on the website via a two-line paste:
 
-The routine writes `embed/latest.json` on every run once the GitHub grant above is done; until
-then regenerate it by hand with `embed/build-embed.py`.
+```html
+<div class="daily-brief-embed"
+     data-feed="https://mogulseeker.github.io/daily-brief/embed/latest.json"
+     data-show="full"
+     data-theme="light"></div>
+<script src="https://mogulseeker.github.io/daily-brief/embed/brief-embed.js"></script>
+```
+
+The routine writes `embed/latest.json` on every run and GitHub Pages serves it, so the page
+updates itself each morning with nothing to do by hand.
+
+Restyling ships from this repo: edit `embed/brief-embed.js`, run `python3
+embed/build-inline.py`, push. The site is never touched again. See
+[embed/README.md](embed/README.md) for the options, and for why the script is hosted rather
+than pasted inline (short version: a pasted 11KB script hit both the Google Sites
+10,000-character embed cap and a smart-quote syntax error that rendered the page silently
+blank).
 
 ## Operating it
 

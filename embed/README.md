@@ -9,20 +9,24 @@ login to load, and **each day is a different URL** — so an iframe would break 
 So the embed works the other way round: the brief is published as a small JSON feed, and a
 self-contained widget on your page renders it. One snippet, pasted once, always current.
 
-## Option A — the widget (recommended)
+## The snippet
 
-1. Upload **`latest.json`** somewhere your site can serve it. The simplest place is your own
-   web root, next to the page — same origin means no CORS to think about at all.
-2. Paste the contents of **`brief-embed.html`** into your page.
-3. Point `data-feed` at the file:
+Paste this into your page. That is the entire integration:
 
 ```html
-<div class="daily-brief-embed" data-feed="/latest.json"></div>
+<div class="daily-brief-embed"
+     data-feed="https://mogulseeker.github.io/daily-brief/embed/latest.json"
+     data-show="full"
+     data-theme="light"></div>
+<script src="https://mogulseeker.github.io/daily-brief/embed/brief-embed.js"></script>
 ```
 
-That's it. No dependencies, no build step, no framework. It works in plain HTML,
-WordPress (a Custom HTML block), Squarespace (a Code block), Ghost, Astro, Next — anywhere
-you can put markup.
+It also lives in [snippet.html](snippet.html). Works anywhere you can put markup — Google
+Sites, WordPress (Custom HTML block), Squarespace (Code block), Ghost, Astro, Next.
+
+**Restyling never requires touching the site again.** The widget is served from this repo,
+so editing `brief-embed.js` and pushing changes how the brief looks everywhere it is
+embedded. Only the four `data-` attributes live on the host page.
 
 ### Options
 
@@ -38,54 +42,81 @@ Multiple widgets on one page are fine — each is initialised independently.
 ### Two things it does deliberately
 
 **It renders inside a shadow root.** Your site's CSS cannot leak in and its CSS cannot leak
-out. This is tested against a host page that force-sets `h2,h3,h4 {color:red; font-family:
-cursive}` and `p {color:magenta; line-height:3}` — none of it penetrates.
+out. Verified against a host page that force-sets `h2,h3,h4 {color:red !important;
+font-family:cursive !important}` and `p {color:magenta !important; line-height:3
+!important}` — none of it penetrates.
 
-**`auto` matches the page, not the operating system.** The widget's own background is
-transparent so it blends into your layout, which means the OS preference is the wrong signal:
-a visitor with dark mode on, reading your white page, would get near-white text on white.
-Instead it walks up the DOM for the first real background colour and measures its luminance.
-Verified both ways with the OS forced to dark. Override with `data-theme` if you want to pin
-it.
+**`auto` matches the page, not the operating system.** A visitor with dark mode on, reading
+your white page, would otherwise get near-white text on white. Instead it walks up the DOM
+for the first real background colour and measures its luminance. `data-theme="light"` pins
+it, which is what the snippet above does.
 
-### If your site sets a strict CSP
+## Why the script is hosted rather than pasted inline
 
-The snippet uses an inline `<script>`. If your Content-Security-Policy blocks inline scripts,
-either move the script block to its own `.js` file and include it normally, or add the nonce
-your site uses. The widget makes exactly one network request — the `fetch` for your feed — so
-`connect-src` must allow wherever the feed is hosted.
+The widget used to be one big paste. On Google Sites it rendered as a blank white area with
+no error at all. Two independent causes, both inherent to pasting a large script:
+
+1. **Transit corruption.** The source contained `'Loading today's brief'` with a curly
+   apostrophe. Straightened anywhere along the way, it closes the string literal early and
+   throws `SyntaxError` — and a `<script>` block with a syntax error does not partially
+   run, it does not run *at all*. No widget, and no error message either, because the
+   widget's own error handler is inside the block that failed to parse. Hence: blank.
+2. **Size.** The inline version is ~11.6KB. **Google Sites caps its embed-code box at
+   10,000 characters**, so it was being truncated regardless.
+
+Hosting the script fixes both permanently, and shrinks the thing you paste from ~11.6KB to
+~300 bytes.
+
+Two guards keep cause 1 dead: `brief-embed.js` is **pure ASCII by construction** (the two
+non-ASCII glyphs it needs are written as `\uXXXX` escapes), and `build-inline.py` refuses to
+build if that ever stops being true.
+
+## Editing the widget
+
+`brief-embed.js` is the single source of truth. After changing it:
+
+```sh
+python3 build-inline.py    # checks ASCII + syntax, regenerates the two paste forms
+git add embed/ && git commit -m "Restyle embed" && git push
+```
+
+Pages redeploys in about 15 seconds. Nothing on your site needs to change.
+
+`build-inline.py` regenerates:
+
+- **`snippet.html`** — the two-line loader above
+- **`brief-embed.html`** — an all-in-one inline fallback, for a host that forbids external
+  scripts. Note it exceeds the Google Sites limit, so it is not the path to use there.
 
 ## Option B — the static fragment (no JavaScript)
 
 `static.html` is one day's brief as plain, self-contained HTML. Paste it and it renders with
-no script and no feed. Use this if your site strips JavaScript, or you just want to try the
-look.
+no script and no feed. Use this if your site strips JavaScript.
 
-The tradeoff: it does not update. You'd regenerate and re-paste each day. Note it paints its
+The tradeoff: it does not update. You'd regenerate and re-paste each day. It also paints its
 own background rather than blending — with no JS it can't measure the page, so an explicit
 ground is the only way to guarantee the text stays legible in both themes.
 
 ## Keeping the feed current
 
-The widget is only as fresh as `latest.json`. Three ways to keep it updated, easiest first:
+The widget is only as fresh as `latest.json`. The 6am routine writes `embed/latest.json` and
+a dated copy into this repo on every run, and GitHub Pages serves them at
 
-1. **Let the routine publish it.** Once the Claude GitHub App has access to
-   `mogulseeker/daily-brief` (see the main [README](../README.md) — same grant the local
-   `briefs/` archive is waiting on), the 6am routine writes `embed/latest.json` on every run.
-   Your server then just needs to `git pull`, or you point `data-feed` at a GitHub Pages URL.
-2. **GitHub Pages, cross-origin.** Publish the feed from a *public* repo with Pages enabled
-   and point `data-feed` at `https://<user>.github.io/<repo>/latest.json`. Pages sends
-   `Access-Control-Allow-Origin: *`, so cross-origin fetch works. Only do this if you're
-   comfortable with the feed being publicly readable — a Pages site is public even when
-   sourced from a private repo on paid plans.
-3. **Manual, right now.** Regenerate from any published brief page and upload:
+```
+https://mogulseeker.github.io/daily-brief/embed/latest.json
+```
 
-   ```sh
-   python3 build-embed.py path/to/brief-2026-08-17.html --out .
-   ```
+Pages sends `Access-Control-Allow-Origin: *`, so the cross-origin fetch from your site
+works. To regenerate by hand from any published brief page:
 
-   Writes `latest.json`, a dated `2026-08-17.json` copy for your archive, and `static.html`.
-   Standard library only — nothing to install.
+```sh
+python3 build-embed.py path/to/brief-2026-08-17.html --out .
+```
+
+Writes `latest.json`, a dated `2026-08-17.json` copy, and `static.html`. Stdlib only.
+
+> A Pages site is public. The feed is readable by anyone with the URL — that is what makes
+> the embed work, but it is worth knowing.
 
 ## Feed shape
 
@@ -94,23 +125,22 @@ The widget is only as fresh as `latest.json`. Three ways to keep it updated, eas
   "date": "2026-08-17",
   "dateLabel": "Monday, August 17, 2026",
   "generated": "2026-08-17T17:15:04+00:00",
-  "tldr": ["🤖 Stripe finalizes a reported $7B+ deal …", "…"],
+  "tldr": ["Stripe finalizes a reported $7B+ deal ...", "..."],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
       "headline": "Stripe finalizes a reported $7 billion-plus purchase of OpenRouter",
-      "body": "Bloomberg reported on August 16 that …",
-      "plain": "Stripe is the company that quietly handles …",
-      "why": "The premium is being paid for the routing layer …",
-      "sources": [{ "outlet": "Bloomberg", "url": "https://…" }]
+      "body": "Bloomberg reported on August 16 that ...",
+      "plain": "Stripe is the company that quietly handles ...",
+      "why": "The premium is being paid for the routing layer ...",
+      "sources": [{ "outlet": "Bloomberg", "url": "https://..." }]
     }
   ]
 }
 ```
 
 Stable contract — the widget ignores fields it doesn't know, so extra keys are safe to add.
-If you'd rather render it yourself, just fetch the JSON and skip the widget entirely.
 
 ## One editorial note
 
