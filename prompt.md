@@ -1,7 +1,7 @@
 # Daily Brief — cloud agent prompt
 
-**This file is the brief.** The routine's own prompt is a three-line bootstrap that clones
-this repo and reads this file, so editing and pushing this file changes tomorrow's brief.
+**This file is the brief.** The routine's prompt is a short bootstrap that downloads this
+file from GitHub and follows it, so editing and pushing this file changes tomorrow's brief.
 There is nothing else to update.
 
 Everything below the rule is the spec the agent follows.
@@ -244,32 +244,47 @@ version: a one-line date header, the ten TL;DR lines as a bulleted list, and the
 Artifact URL on its own line at the end as "Full brief: <url>". Do not paste all 700
 words into Slack.
 
-### 5c. Commit the markdown archive to git
+### 5c. Archive the full markdown
 
-The repo `mogulseeker/daily-brief` is checked out in your working directory. Write the
-**full** brief as clean markdown — every item complete with its "In plain terms" and "Why it
-matters" sections, real markdown headings and links. This is the canonical text record, so
-nothing is abbreviated here. Then commit it:
+Write the **full** brief as clean markdown - every item complete with its "In plain terms"
+and "Why it matters" sections, real markdown headings and links. This is the canonical text
+record, so nothing is abbreviated here.
 
-- Path: `briefs/YYYY-MM-DD.md` — exactly this, zero-padded, no prefixes or suffixes.
+First run `git rev-parse --show-toplevel 2>/dev/null` to find out which case you are in.
+
+**If you are in a git checkout of `mogulseeker/daily-brief`** (the repository is attached to
+this routine's environment), commit it:
+
+- Path: `briefs/YYYY-MM-DD.md` - exactly this, zero-padded, no prefixes or suffixes.
   Nate's local sync job fast-forwards this repo, so the filename must be predictable.
-- First line: `# Daily Brief — <Monday, August 17, 2026>`
+- First line: `# Daily Brief - <Monday, August 17, 2026>`
 - Second line: `Artifact: <artifact URL>`
-- Then: `git add briefs/ && git commit -m "Brief for YYYY-MM-DD" && git push origin main`
+- Then: `git add briefs/ embed/ && git commit -m "Brief for YYYY-MM-DD" && git push origin main`
 
-If the file for today already exists (a manual re-run), overwrite it and amend rather
-than creating a second file. If `git push` is rejected, run `git pull --rebase origin
-main` once and push again — do not force-push.
+If the file for today already exists (a manual re-run), overwrite it and amend rather than
+creating a second file. If `git push` is rejected, run `git pull --rebase origin main` once
+and push again - do not force-push.
+
+**If there is no git checkout**, save the same markdown to Google Drive with `create_file`
+instead (folder `daily-brief`, filename `YYYY-MM-DD.md`, same first two lines), and say so
+in your Step 6 report. Do not treat the missing checkout as a failure - it just means the
+repository has not been attached to the environment yet.
 
 ### 5d. Write the embed feed
 
-Nate's website embeds the brief by fetching a JSON feed, so the same content goes out in
-machine-readable form. Write **both** of these in the repo, in the same commit as 5c:
+Nate's website renders the brief from a JSON feed, so the same content goes out in
+machine-readable form. Write **both** files, in the same commit as 5c when you are in a git
+checkout:
 
-- `embed/latest.json` — always overwritten with today's brief
-- `embed/YYYY-MM-DD.json` — a dated copy, byte-identical, so the archive stays addressable
+- `embed/latest.json` - always overwritten with today's brief
+- `embed/YYYY-MM-DD.json` - a dated copy, byte-identical, so the archive stays addressable
 
-Shape (this contract is consumed by `embed/brief-embed.html`, so match it exactly):
+**If there is no git checkout**, save `latest.json` and `feed-YYYY-MM-DD.json` to the Google
+Drive `daily-brief` folder instead (use `update_file` if `latest.json` already exists). The
+website will not pick those up - it reads the copy in the repository - so note in your Step
+6 report that the feed was written to Drive and the site is therefore not updated.
+
+Shape (this contract is consumed by `embed/brief-embed.js`, so match it exactly):
 
 ```json
 {
@@ -291,11 +306,11 @@ Shape (this contract is consumed by `embed/brief-embed.html`, so match it exactl
 }
 ```
 
-Rules: exactly 10 items, `slot` 1–10 matching the fixed order. Plain text only in every
-field — no HTML tags, no markdown, no leading emoji on `headline` (the emoji belong in
+Rules: exactly 10 items, `slot` 1-10 matching the fixed order. Plain text only in every
+field - no HTML tags, no markdown, no leading emoji on `headline` (the emoji belong in the
 `tldr` lines and nowhere else). Wildcard categories keep their label form, e.g.
-`"Wildcard - Economics"`. Every item must have a non-empty `plain`. Validate the file
-parses as JSON before committing it.
+`"Wildcard - Economics"`. Every item must have a non-empty `plain`. Validate the file parses
+as JSON before committing it.
 
 ## Step 6 — report
 
