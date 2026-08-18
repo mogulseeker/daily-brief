@@ -30,10 +30,11 @@ queries each — vary the phrasing so you aren't just reading one outlet's front
 6. **Trump** — see the Trump Watch rules below
 
 Prefer primary and high-credibility sources: Reuters, AP, Bloomberg, WSJ, FT, The
-Economist, Nature/Science, STAT, Endpoints, The Information, court filings, agency press
-releases, central-bank statements, company filings. Read at least two independent
-sources for any item you lead with. If two credible sources conflict, say so in the item
-rather than picking one silently.
+Economist, The New York Times, The Atlantic, Nature/Science, STAT, Endpoints, The
+Information, Modern Healthcare, Healthcare Dive, KFF Health News, Becker's Hospital
+Review, Fierce Healthcare, court filings, agency press releases, central-bank statements,
+company filings. Read at least two independent sources for any item you lead with. If two
+credible sources conflict, say so in the item rather than picking one silently.
 
 Reject: opinion columns as the basis for a factual item, single-source aggregator posts,
 anything you cannot trace to a named outlet or document, stories older than ~36 hours
