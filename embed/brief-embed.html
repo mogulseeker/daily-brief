@@ -244,7 +244,15 @@
       return;
     }
 
-    fetch(feed, { cache: 'no-cache' })
+    /* Append a per-minute cache-buster. The feed is served with max-age=600,
+       and an intermediate cache handing back a stale copy is indistinguishable
+       from the brief not having run - so make the URL itself change instead of
+       trusting revalidation. Per-minute rather than per-request keeps it
+       cacheable for repeat views within the same minute. */
+    var bust = 'ndb=' + Math.floor(Date.now() / 60000);
+    var url = feed + (feed.indexOf('?') === -1 ? '?' : '&') + bust;
+
+    fetch(url, { cache: 'no-store' })
       .then(function (r) {
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.json();
