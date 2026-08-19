@@ -282,11 +282,33 @@ this routine's environment), commit it:
   Nate's local sync job fast-forwards this repo, so the filename must be predictable.
 - First line: `# Daily Brief - <Monday, August 17, 2026>`
 - Second line: `Artifact: <artifact URL>`
-- Then: `git add briefs/ embed/ && git commit -m "Brief for YYYY-MM-DD" && git push origin main`
+- Then: `git add briefs/ embed/ && git commit -m "Brief for YYYY-MM-DD"`
+- Then push **to main specifically**: `git push origin HEAD:main`
+
+**Push to `main`, and check that it worked.** This is the step most likely to go wrong, and
+it fails silently in a way that looks like success. Your sandbox starts you on a
+`claude/`-prefixed branch, so there is no local `main` for a plain `git push origin main` to
+resolve - it errors, and a commit left sitting on the `claude/` branch reaches nobody.
+GitHub Pages serves `main`, and Nate's website reads the feed from Pages, so a brief that is
+not on `main` is a brief that did not publish. Use the `HEAD:main` form above, which pushes
+whatever branch you are on to `main`.
+
+Then verify it actually landed:
+
+```
+git fetch origin main && git log origin/main --oneline -1
+```
+
+That must show your "Brief for YYYY-MM-DD" commit. If it does not, the push did not work.
+
+If the push is rejected, run `git pull --rebase origin main` once and retry
+`git push origin HEAD:main`. Do not force-push. If it is still rejected after that one
+retry, leave the commit on your branch and **say so prominently in your Step 6 report** -
+name the branch and quote the rejection. Do not report the run as fully successful, because
+the website will be stale until a human merges it.
 
 If the file for today already exists (a manual re-run), overwrite it and amend rather than
-creating a second file. If `git push` is rejected, run `git pull --rebase origin main` once
-and push again - do not force-push.
+creating a second file.
 
 **If there is no git checkout**, save the same markdown to Google Drive with `create_file`
 instead (folder `daily-brief`, filename `YYYY-MM-DD.md`, same first two lines), and say so
