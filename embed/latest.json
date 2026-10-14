@@ -1,225 +1,233 @@
 {
-  "date": "2026-10-13",
-  "dateLabel": "Tuesday, October 13, 2026",
-  "generated": "2026-10-13T12:12:56Z",
+  "date": "2026-10-14",
+  "dateLabel": "Wednesday, October 14, 2026",
+  "generated": "2026-10-14T12:13:37Z",
   "tldr": [
-    "Microsoft unveils the Maia 300 and says its own chip, not Nvidia's, will run most of its AI inference from 2027.",
-    "The UK formally blames Iran's Revolutionary Guard for a plot against the British base US bombers fly from.",
-    "Korea's Kospi closes down 5.46% after a Chinese memory maker claims a leap in DRAM design.",
-    "Bristol Myers Squibb's lung-scarring drug hits its goal at the lower dose and misses at the higher one.",
-    "JPMorgan opens bank earnings season with its first quarterly miss in two years.",
-    "Nvidia's share of China's AI chip market falls to 34% as Huawei reaches 28%.",
-    "Houthi missiles target Riyadh a third straight day as Saudi Arabia investigates why its air defenses failed.",
-    "An actinium-225 cancer drug wins the first late-stage trial ever run on that kind of radiation.",
-    "A cyberattack takes Ahold Delhaize's grocery websites offline across the US and Europe.",
-    "Trump asks the Supreme Court to erase the $937,989 a court made him pay for “frivolous” arguments."
+    "The FBI arrested an OpenAI engineer accused of hiding a recorder in an executive conference room to capture talk about superintelligence.",
+    "A Houthi missile struck a building at Saudi Aramco's Dhahran headquarters, and Brent crude rose above $106.",
+    "Bank of America will pay about $1.21 billion and admitted willfully failing to report more than $5 billion in suspicious transactions.",
+    "A $5.5 billion talc litigation charge cut Johnson & Johnson's quarterly profit by 96%, even as it raised its full-year forecast.",
+    "Two senior Iranian officials told Reuters that Tehran changed its Hormuz tactics to keep oil prices high before the US midterms.",
+    "The IMF raised 2026 global growth to 3.1% and said 32 countries now generate 95% of it, down from 54 in April.",
+    "A former Ukrainian officer went on trial in Hamburg over the 2022 Nord Stream pipeline bombings.",
+    "Alignment Healthcare sued Medicare's regulator after the share of its members in four-star plans fell from 98% to 25%.",
+    "Apple entered the smart display market with a $299 HomeView, shipping before the Siri upgrade that justifies it.",
+    "Kimberly Guilfoyle resigned as ambassador to Greece at the White House's request, amid a State Department inspector general inquiry."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Microsoft says its own new chip, not Nvidia's, will run most of its AI inference",
-      "body": "Microsoft announced the Azure Maia 300 on Monday, October 12, its third-generation in-house AI accelerator, and said the Maia family will become the primary inference system for its own products and services, with multi-gigawatt deployments starting in 2027. Microsoft claims 40% more AI tokens per megawatt than leading GPU-based systems and 2.5 times the memory bandwidth of the Maia 200, with 96 chips per rack. No third party had tested the chip as of Monday, and Nvidia remains its supplier for training large models.",
-      "plain": "Running an AI model has two phases. Training is the expensive one-time schooling. Inference is answering each question you type, which happens billions of times a day. Microsoft rents Nvidia chips for both and wants to own the second half, because inference is where the recurring electricity bill lives. The 40% efficiency figure is Microsoft's own measurement, and no outside lab has checked it. Nothing deploys until 2027.",
-      "why": "Inference is the recurring cost in AI, so a hyperscaler moving it onto in-house silicon shrinks Nvidia's most predictable future revenue rather than its current orders.",
+      "headline": "An OpenAI engineer is charged with planting a listening device in the company's offices",
+      "body": "The Justice Department announced Tuesday that Abdulrahman Alfozan, 35, an OpenAI engineer, was arrested on October 9 and charged with using a device to intercept oral communications. Company staff found the recorder on September 30 during a routine sweep, plugged into a USB port behind a television in an executive conference room and wrapped in toilet paper; the complaint says it was installed around September 28. The FBI said it was meant to capture discussions of OpenAI's superintelligence work. He was fired and is in federal custody.",
+      "plain": "OpenAI makes ChatGPT, and the rooms where its executives discuss what they will build next are among the most closely guarded in the technology business. Prosecutors say one of its own engineers hid a recorder behind a television in one of them. The striking detail is how ordinary the hardware was: reporting describes a cheap microcontroller, not spy gear. This is a charge, not a conviction, and no plea has been reported.",
+      "why": "AI labs have spent two years hardening themselves against foreign hacking, and the first criminal case to reach a courtroom involves a badge-carrying employee and a part that costs less than lunch.",
       "sources": [
         {
-          "outlet": "UPI",
-          "url": "https://www.upi.com/Top_News/US/2026/10/12/microsoft-azure-maia-300-ai-chips-nvidia/3511791823960"
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
         },
         {
-          "outlet": "Business Today",
-          "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/microsoft-challenges-nvidia-dependence-with-new-in-house-maia-300-ai-chip-all-details-561197-2026-10-13"
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/"
         },
         {
-          "outlet": "Ynetnews",
-          "url": "https://www.ynetnews.com/tech-and-digital/article/hkpeldcozl"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "The UK formally blames Iran's Revolutionary Guard for a plot against the base US bombers fly from",
-      "body": "Prime Minister Andy Burnham told the House of Commons on Monday, October 12, that an attempted attack on RAF Fairford, the English airfield the US Air Force uses for its heavy bombers, was “highly likely” coordinated in Iran and “almost certainly” directed by the Islamic Revolutionary Guard Corps — Britain's first official attribution to Tehran. Seven men were arrested, all have been released on bail and none charged, and investigators found gasoline but no explosives. The Pentagon has moved every American bomber at the base back to the United States; Iran denies involvement.",
-      "plain": "RAF Fairford is a British airfield the US uses to park heavy bombers within reach of Europe and the Middle East. Someone allegedly tried to attack it. Britain says Iran's Revolutionary Guard, the branch of Iran's military that runs operations abroad, ordered it, which is a formal accusation between governments rather than a police finding. Note the gap: seven men were arrested and then bailed without charges, so the criminal case is far thinner than the political accusation.",
-      "why": "Flying US bombers out of Britain is a concrete loss of forward basing, which says Washington treated the threat as credible even though no one has been charged.",
+      "headline": "A Houthi missile hits a building at Saudi Aramco's Dhahran headquarters",
+      "body": "Saudi Arabia's Energy Ministry said a missile struck an administrative building in Dhahran late Tuesday, starting a limited fire with no injuries; Bloomberg reported the building was part of Aramco's executive headquarters. The Saudi-led coalition separately said it intercepted a ballistic missile aimed at Dhahran, with debris falling in a residential area, and the two accounts have not been reconciled. No disruption to production, pipelines or exports was reported. Brent crude traded near $106.32 early Wednesday, up about 0.6%, as UKMTO reported two more vessels struck in the Strait of Hormuz.",
+      "plain": "Aramco is Saudi Arabia's state oil company, the world's largest oil producer, and Dhahran is where its head office sits. The Houthis are an Iran-backed movement controlling much of Yemen that has shelled Saudi cities for days. Hitting the building where Aramco's executives work is symbolic rather than damaging, because the pumps and pipelines kept running, which is why oil rose less than one percent. Saudi officials and the coalition disagree on whether the missile landed or was shot down.",
+      "why": "The war's target list has moved from airports and air bases to the corporate heart of the world's biggest oil exporter, which is a signal about what the Houthis believe they can reach.",
       "sources": [
         {
-          "outlet": "Washington Post",
-          "url": "https://www.washingtonpost.com/world/2026/10/12/uk-raf-fairford-burnham-iran-security-guard/877066a4-c64d-11f1-aefb-abe4112d087e_story.html"
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia"
         },
         {
-          "outlet": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/suspected-plot-at-u-s-run-air-base-almost-certainly-directed-by-iran-uk-prime-minister-says"
+          "outlet": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/"
         },
         {
-          "outlet": "NBC News",
-          "url": "https://www.nbcnews.com/world/europe/us-uk-airbase-iran-security-incident-fairford-burnham-irgc-rcna603043"
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261014-live-saudi-arabia-reports-aramco-building-hit-and-four-wounded-in-houthi-missile-attacks"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "Korea's stock market falls 5.46% after a Chinese company claims a leap in memory-chip design",
-      "body": "The Kospi closed at 6,035.35 on Tuesday, October 13, down 5.46%, after falling as much as 7.4% intraday to its lowest since late July. SK Hynix dropped 10.09% and Samsung Electronics 7.39%, foreign investors sold a net 2.2 trillion won, and the exchange triggered a sell-side sidecar for the first time in nearly two months. Brokers tied the rout to CXMT president Cao Kanyu, who said China's ChangXin Memory Technologies had made “key progress” on a denser 4F² cell architecture and would ship server DDR5 modules using it by year-end. Japan's Nikkei 225 fell about 2.5%.",
-      "plain": "Samsung and SK Hynix make the memory chips AI data centers buy, and their prices have climbed all year because supply is short. CXMT is a Chinese rival that has been a generation or two behind. Its president said it has cracked a denser chip layout called 4F², which would let it get more memory out of each silicon wafer. He gave no yields, no die sizes and no customer test results. The claim alone took a tenth off SK Hynix in a day, which shows how much of that share price rested on China staying behind.",
-      "why": "Korea's two memory makers have become the pivot of the global AI trade, so an unverified Chinese engineering claim now moves world markets faster than an earnings report does.",
+      "headline": "Bank of America will pay about $1.21 billion and admits it willfully failed to report $5 billion in suspicious transactions",
+      "body": "The Treasury Department announced three penalties against Bank of America on Tuesday: a $1.2 billion FinCEN assessment, a $750 million penalty from the Office of the Comptroller of the Currency credited against it, and an $11.6 million OFAC settlement covering 475 apparent sanctions violations. The OCC penalty is the largest in that agency's history. FinCEN said the bank failed to timely report more than $5 billion in suspicious transactions, over $1 billion of it tied to national-security risks, and the bank admitted willfully violating the Bank Secrecy Act.",
+      "plain": "US banks must watch their own customers' transfers and file a report whenever money looks like it could come from crime. These suspicious activity reports are a main way the government finds drug and sanctions networks. Regulators say Bank of America skipped them on more than $5 billion of transactions and let the problem run for years after a 2023 warning. It did not merely settle: it admitted the violations were willful, a stronger finding than carelessness.",
+      "why": "The consent order makes an outside firm re-examine years of past transactions for cartel, narcotics, Iran and Russia activity, so the enforcement does not end with the fine.",
       "sources": [
         {
-          "outlet": "Korea Herald",
-          "url": "https://www.koreaherald.com/article/10901317"
+          "outlet": "U.S. Treasury",
+          "url": "https://home.treasury.gov/news/press-releases/sb0657"
         },
         {
-          "outlet": "KED Global",
-          "url": "https://www.kedglobal.com/korean-stock-market/newsView/ked202610130001"
+          "outlet": "OCC",
+          "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-89.html"
         },
         {
-          "outlet": "Korea JoongAng Daily",
-          "url": "https://www.koreajoongangdaily.com/business/global-chip-stocks-tumble-as-chinas-cxmt-unveils-nextgeneration-dram-plans/12917865"
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/10/13/treasury-bank-america-fine"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "Bristol Myers Squibb's lung-scarring drug succeeds at the lower dose and misses at the higher one",
-      "body": "Bristol Myers Squibb said on Monday, October 12, that the Phase 3 ALOFT-IPF trial of admilparant in idiopathic pulmonary fibrosis met its primary endpoint at the 60 mg dose, a statistically significant improvement over placebo in change in forced vital capacity at week 52. At 120 mg the drug slowed the decline in lung function but missed statistical significance. The trial enrolled about 1,255 adults, discontinuations from adverse events matched placebo, and the company has not released the size of the benefit.",
-      "plain": "Idiopathic pulmonary fibrosis is scarring of the lungs with no known cause. The lungs stiffen, hold less air, and most patients die within three to five years of diagnosis. The two approved drugs slow the scarring without stopping it, and both are hard to tolerate. Admilparant blocks a receptor called LPA1 that helps drive the scarring. The strange part is that the lower dose cleared the statistical bar and the double dose did not, which can mean the higher dose is genuinely no better, or only that the trial was too small to show it.",
-      "why": "No new drug mechanism has been approved for this disease in over a decade, so a Phase 3 win counts even before anyone has seen how large the benefit is.",
+      "headline": "A $5.5 billion talc charge erases almost all of Johnson & Johnson's quarterly profit",
+      "body": "Johnson & Johnson reported third-quarter sales of $25.4 billion, up 5.9%, but net earnings of $210 million, down about 96% from $5.15 billion a year earlier. The drop came from a pre-tax special charge of roughly $5.5 billion for a proposed resolution of talc litigation, plus costs tied to the Firefly Bio acquisition and a Sail Biomedicines collaboration. Excluding those items, adjusted earnings fell 7.5% to $2.59 a share, above the $2.53 consensus, and the company raised full-year guidance to about $101.2 billion in sales.",
+      "plain": "Johnson & Johnson has spent years in court over claims its talcum baby powder caused cancer. Until now it had set aside about $3.4 billion for those cases. This quarter it booked roughly $5.5 billion more at once, which is what a company does when a settlement is close enough to put a number on. That one accounting entry is why a quarter with rising sales shows almost no profit. The business was fine; the lawyers were expensive.",
+      "why": "Raising the full-year forecast in the same release is management's way of saying the talc bill is a one-time wall rather than a recurring drain.",
       "sources": [
         {
-          "outlet": "Bristol Myers Squibb",
-          "url": "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Phase-3-ALOFT-IPF-Trial-Evaluating-Admilparant-in-Adults-with-Idiopathic-Pulmonary-Fibrosis-Met-Primary-Endpoint/default.aspx"
-        },
-        {
-          "outlet": "RTTNews",
-          "url": "https://www.rttnews.com/3698194/bristol-myers-squibb-reports-positive-phase-3-results-for-admilparant-in-ipf.aspx"
+          "outlet": "SEC Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm"
         },
         {
           "outlet": "Investing.com",
-          "url": "https://ca.investing.com/news/stock-market-news/bristol-myers-squibbs-admilparant-meets-phase-3-ipf-trial-goal-93CH-4875802"
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-johnson--johnson-tops-q3-2026-eps-forecast-shares-fall-93CH-4946987"
+        },
+        {
+          "outlet": "MarketScreener",
+          "url": "https://www.marketscreener.com/quote/stock/JOHNSON-JOHNSON-4832/news/Johnson-Johnson-raises-full-year-guidance-despite-difficult-Q3-54477277/"
         }
       ]
     },
     {
       "slot": 5,
-      "category": "Wildcard - Economics",
-      "headline": "JPMorgan opens bank earnings season with its first miss in two years",
-      "body": "JPMorgan reported third-quarter net income of $15.31 billion, or $5.57 a share, on Tuesday, October 13, against the $5.90 expected by analysts surveyed by LSEG; excluding $658 million in net securities losses it was $5.75, still short. Revenue rose about 8% to roughly $50.2 billion, under the $51.2 billion expected, and the stock fell about 3.5% before the open. The bank raised full-year net interest income guidance to $106.2 billion and expense guidance to $108.6 billion. Jamie Dimon called it “another quarter of strong results.”",
-      "plain": "JPMorgan is the largest US bank and reports first, so its numbers set the tone for everyone else. Profit was up 6% from a year ago and it still counted as a miss, because analysts had penciled in more. Two details matter. The bank nudged up what it expects to earn from lending, but it nudged up expected costs by more, so the extra income is already spoken for. And a miss here means growing slower than hoped, not shrinking.",
-      "why": "The shortfall came from expectations rather than from any deterioration in the business, which is what the end of an earnings-beat streak usually looks like before anything is actually wrong.",
+      "category": "Wildcard - International Affairs",
+      "headline": "Iranian officials say Tehran changed its Hormuz tactics to keep oil prices up before the US midterms",
+      "body": "Two senior Iranian officials told Reuters on Wednesday that Tehran altered both the type and the pace of its attacks on shipping in the Strait of Hormuz, and that the strategy was approved at the top of Iran's leadership. One said a goal was to influence the US vote by frustrating efforts to lower oil prices, and said of the strait, \"It will be complete closure soon.\" A US military official said that after American strikes destroyed much of Iran's radar, the Revolutionary Guards began using unarmed spotters in small boats to identify targets.",
+      "plain": "The Strait of Hormuz is a narrow channel between Iran and Oman that much of the world's seaborne oil must pass through. Iran cannot close it by decree, so it makes passage dangerous instead. The tactical detail is the interesting part: with its radar destroyed, Iran uses men in ordinary wooden boats to eyeball ships and phone in positions, which is hard to counter. Only Reuters has this reporting, so treat the quotes as credible but single-sourced.",
+      "why": "An adversary that says out loud it is timing a shipping campaign to an American election has turned the oil price into a campaign variable.",
       "sources": [
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html"
+          "outlet": "Reuters (via ThePrint)",
+          "url": "https://theprint.in/world/iran-shifting-tactics-to-step-up-attacks-on-shipping-before-us-vote-officials-say/3071025/"
         },
         {
-          "outlet": "SEC filing",
-          "url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfex992supplement.htm"
-        },
-        {
-          "outlet": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/jpmorgan-and-other-big-banks-see-profits-rise-as-dimon-warns-of-increasingly-complex-set-of-risks-105717454.html"
+          "outlet": "Rappler",
+          "url": "https://www.rappler.com/world/middle-east/iran-shifting-tactics-attacks-shipping-us-elections/"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - AI Industry",
-      "headline": "Nvidia's share of China's AI chip market falls to 34% as Huawei reaches 28%",
-      "body": "Nvidia shipped 678,000 AI accelerators in mainland China in the first half of 2026, down 44% from a year earlier, cutting its share of the country's data-center AI chip market to 34%, according to IDC data reported on Tuesday, October 13. Huawei shipped 572,000, up from more than 300,000, for a 28% share. GPU shipments in China fell 26% to 991,000 units while other AI accelerators rose nearly 80% to 1.016 million, passing GPUs by volume. IDC credited US export controls and stronger domestic competitors.",
-      "plain": "Washington bars Nvidia from selling its best AI chips to China, on the theory that this slows Chinese AI down. The data show something more specific. Chinese buyers did not stop buying, they bought Huawei instead, and for the first time they bought more non-GPU accelerators than GPUs. IDC did not say which Nvidia products make up the remaining 34%, and some banned top-end chips are known to reach China through smuggling, so the real split is blurrier than the numbers look.",
-      "why": "Export controls were meant to deny China computing power, and the first-half numbers show they mostly transferred market share to Huawei instead.",
+      "category": "Wildcard - Economics",
+      "headline": "The IMF nudges up global growth and says 32 countries now produce 95% of it",
+      "body": "The IMF's October World Economic Outlook, \"Resilience Under Strain, Urgent Choices,\" released at the fund's annual meetings in Bangkok, puts 2026 global growth at 3.1%, up from the 3.0% forecast in July and down from 3.5% in 2025, with 3.4% projected for 2027. It sees US growth at 2.3% in both years, China at 4.5% then 4.0%, and the euro area at 1.1% then 1.2%. The fund said 32 economies now account for 95% of global growth, down from 54 in April, attributing the split to exposure to the energy shock and to AI-related investment.",
+      "plain": "The IMF lends to countries in financial trouble, and twice a year it publishes its best guess at how fast the world economy will grow. The headline number barely moved. The number underneath it did: the set of countries generating almost all the world's growth shrank from 54 to 32 in six months. The fund says two forces are sorting countries, with costly energy hurting importers while AI spending lifts whoever sits in the chip supply chain.",
+      "why": "A recovery carried by 32 countries has no cushion, because a stumble in AI capital spending would erase much of the upgrade the fund just made.",
       "sources": [
         {
-          "outlet": "Reuters via Business Recorder",
-          "url": "https://www.brecorder.com/news/40443949/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
         },
         {
-          "outlet": "TradingView",
-          "url": "https://www.tradingview.com/news/seekingalpha:62d1b5de5094b:0-nvidia-s-china-ai-chip-market-share-falls-to-34-as-huawei-gains-ground-idc/"
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/10/13/imf-global-growth-forecast-2026-ai-economic-divide/"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/13/imf-forecasts-31-global-growth-in-2026-with-eurozone-at-11"
         }
       ]
     },
     {
       "slot": 7,
       "category": "Wildcard - International Affairs",
-      "headline": "Houthi missiles target Riyadh a third straight day as Saudi Arabia investigates why its air defenses failed",
-      "body": "The Saudi-led coalition said Houthi forces fired one ballistic missile at Riyadh and two toward Khamis Mushait on Monday, October 12, and that all three were “intercepted and destroyed,” a third consecutive day of attacks on the capital. King Khalid International Airport remains closed after Saturday's strike on a passenger terminal, which Al Jazeera reported killed 12 people and wounded 309. Saudi officials have opened an investigation into why air defenses failed to stop it, ABC reported Tuesday, and Trump says the US is weighing whether to join Saudi strikes on the group.",
-      "plain": "Saudi Arabia owns some of the most expensive air defense equipment in the world, most of it American. A missile still reached a terminal at its main airport, and the airport has been shut since. The investigation is the part to watch: the kingdom is asking whether its systems malfunctioned, sat in the wrong places, or were simply swamped by the number of missiles arriving at once. Every government that buys those systems wants that answer.",
-      "why": "An airport in a national capital closed for days is a live demonstration that cheap missiles can outlast expensive interceptors, which is the arithmetic behind every air-defense purchase.",
+      "headline": "A former Ukrainian officer goes on trial in Hamburg over the Nord Stream pipeline bombings",
+      "body": "The trial of a Ukrainian man identified in German filings as Serhii K. opened Wednesday at the Hanseatic Higher Regional Court in Hamburg under heavy security, four years after the explosions that wrecked most of the Nord Stream gas pipelines. Prosecutors charge him with causing an explosion, damaging property, disrupting public services and acting as an accomplice to war crimes, alleging he led a team of divers, an explosives expert and a skipper that sailed from Rostock on a yacht and planted the charges. He denies wrongdoing, his lawyer calls it \"a political case,\" and Ukraine denies involvement.",
+      "plain": "Nord Stream was a pair of undersea pipelines built to carry Russian gas to Germany. Explosions ruptured them in September 2022, and for four years nobody had been tried for it. German prosecutors say a small Ukrainian team did the job from a rented sailboat. The charge that matters legally is accomplice to war crimes: Germany is treating an attack on civilian energy infrastructure as a war crime, though the alleged attacker was on the side Germany arms.",
+      "why": "A NATO country is prosecuting a citizen of the country it supplies, on a theory about energy infrastructure that cuts in several directions in this war.",
       "sources": [
         {
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row"
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/10/14/europe/nord-stream-sabotage-trial-ukraine-russia-intl"
         },
         {
-          "outlet": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-13/saudis-probe-houthi-attack-on-riyadh-airport-amid-ongoing-attack/107258142"
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/14/former-ukrainian-military-officer-to-stand-trial-in-germany-over-nord-stream-sabotage"
+        },
+        {
+          "outlet": "BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/markets/oil/2026/10/14/former-ukrainian-officer-goes-on-trial-in-germany-over-nord-stream-gas-pipeline-blasts/"
         }
       ]
     },
     {
       "slot": 8,
       "category": "Wildcard - Healthcare",
-      "headline": "An alpha-emitting cancer drug wins the first late-stage trial of its kind",
-      "body": "Bristol Myers Squibb said on Monday, October 12, that a planned interim analysis of the Phase 3 ACTION-1 trial showed RYZ101 significantly improved progression-free survival, by blinded independent central review, in patients with somatostatin-receptor-positive gastroenteropancreatic neuroendocrine tumors that had progressed after lutetium-177 therapy. Controls received the investigator's choice of high-dose somatostatin analogues, everolimus or sunitinib. The company says these are the first Phase 3 results for an actinium-225 radiopharmaceutical in any indication, and has not disclosed the hazard ratio.",
-      "plain": "A radiopharmaceutical is a radioactive atom attached to a molecule that sticks to tumor cells, so the radiation is delivered from inside the body. The versions already approved use lutetium-177, which emits beta particles that travel a relatively long way. RYZ101 uses actinium-225, whose heavier alpha particles stop within a few cell widths but do far more damage where they land. This is the first time that approach has won a Phase 3 trial, and it did so in patients whose tumors had already outlasted the beta version. No numbers are public yet, so the size of the gain is unknown.",
-      "why": "Actinium-225 is in severe short supply worldwide, so a first Phase 3 win turns isotope production into the bottleneck on an entire class of cancer drugs.",
+      "headline": "An insurer sues Medicare's regulator after its quality ratings collapse",
+      "body": "Alignment Healthcare has sued the Centers for Medicare and Medicaid Services in federal court in Washington, D.C., over its 2027 Medicare Advantage star ratings, in a case that drew wide trade coverage Tuesday. The share of Alignment members in plans rated four stars or higher fell from 98% for 2026 to 25% for 2027. The complaint says that will cost more than $200 million in 2028 payments, and argues the methodology is unlawful because key measures were set through \"technical notes\" rather than notice-and-comment rulemaking, violating the Administrative Procedure Act. It wants the 2027 ratings vacated.",
+      "plain": "Medicare Advantage is the private version of Medicare, and the government grades each plan from one to five stars. The grade is not just marketing: plans at four stars or higher collect bonus payments, so a downgrade cuts revenue directly. Alignment went from nearly all its members in four-star-plus plans to a quarter in one year. Its argument is procedural, not about care quality: it says the rules changed in technical documents rather than formal rulemaking.",
+      "why": "Several insurers are now pressing the same procedural argument, so a court that accepts it would make the ratings behind bonus payments across all of Medicare Advantage challengeable.",
       "sources": [
         {
-          "outlet": "Bristol Myers Squibb via StockTitan",
-          "url": "https://www.stocktitan.net/news/BMY/bristol-myers-squibb-announces-positive-topline-results-from-the-7z326q4ax4l0.html"
+          "outlet": "Healthcare Dive",
+          "url": "https://www.healthcaredive.com/news/alignment-lawsuit-2027-medicare-advantage-star-ratings-cms/832774/"
         },
         {
-          "outlet": "OncLive",
-          "url": "https://www.onclive.com/view/ryz101-meets-primary-pfs-end-point-in-phase-3-action-1-trial-for-post-lutetium-177-gep-nets"
+          "outlet": "Fierce Healthcare",
+          "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings"
+        },
+        {
+          "outlet": "Healthcare Finance News",
+          "url": "https://www.healthcarefinancenews.com/news/scan-alignment-sue-cms-over-medicare-advantage-star-ratings"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "A cyberattack takes Ahold Delhaize's grocery websites offline across the US and Europe",
-      "body": "Ahold Delhaize, the Dutch owner of Food Lion, Hannaford, Stop & Shop, Giant Food and The Giant Company, took systems offline on Monday, October 12, after detecting what it called a cybersecurity incident, knocking out all five US chains' websites and apps and suspending online ordering and delivery. European sites including Albert Heijn, Delhaize and bol.com were also hit. Stores remain open with registers and refrigeration unaffected, and the company has not said what caused the incident, whether customer data was taken, or when service returns.",
-      "plain": "A grocery chain runs two businesses on one network: the shops, and the website that takes delivery orders. When something gets inside that network, the standard response is to pull the connected parts offline before it spreads, which is why the websites went dark while the registers kept ringing. So the outage reflects the company's own containment decision, not necessarily how far the attack reached. What it has not said is the revealing part: no cause, no answer on customer data, no restore date.",
-      "why": "Online ordering collapsing at five US chains at once shows how much of grocery retail now runs on one shared corporate network rather than inside each store.",
+      "headline": "Apple enters the smart display market with a $299 HomeView",
+      "body": "At a \"Welcome Home\" event Tuesday, Apple introduced HomeView, a $299 smart display with a 7-inch touchscreen and a 12-megapixel camera, in tabletop and wall-mounted versions, with profiles for up to six people in a household. Apple also announced a fourth-generation Apple TV 4K at $299, up from $199 after a June increase, with an A19 chip and far-field microphones for hands-free Siri, plus a $149 HomePod mini 2. HomeView and the Apple TV ship November 13. The upgraded Siri arrives in a later software update, and HomeView will not launch in the European Union at first.",
+      "plain": "A smart display is a small screen with a microphone that sits on a counter and runs the lights, the doorbell camera and the music. Amazon and Google have sold them for a decade; Apple has not, partly because its voice assistant was not good enough. The catch: Apple is shipping the hardware before the software, because the improved Siri that justifies the device is not in the box. That is also why it skips the European Union for now.",
+      "why": "Apple is selling a device whose headline feature does not exist yet, a bet that occupying the kitchen counter matters more than being ready for it.",
       "sources": [
         {
-          "outlet": "Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/10/12/metro/grocery-store-cyber-security-incident-leaves-sites-offline/"
+          "outlet": "Quartz",
+          "url": "https://qz.com/apple-homeview-smart-home-hub-299-101326"
         },
         {
-          "outlet": "Supermarket News",
-          "url": "https://www.supermarketnews.com/company-news/ahold-delhaize-shuts-down-websites-after-cybersecurity-issue"
+          "outlet": "Popular Science",
+          "url": "https://www.popsci.com/gear/apple-homeview-homepod-tv-4k-smart-home-devices-details/"
         },
         {
-          "outlet": "The New Daily",
-          "url": "https://www.thenewdaily.com.au/news/world/2026/10/13/cyberattack-hits-hundreds-of-supermarkets"
+          "outlet": "Mac Observer",
+          "url": "https://www.macobserver.com/news/apple-tv-4k-4th-generation/"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "Trump asks the Supreme Court to erase the $937,989 a court made him pay for “frivolous” arguments",
-      "body": "Trump filed a petition for certiorari on Friday, October 9, after Justice Clarence Thomas granted two deadline extensions, asking the Supreme Court to revive his 2022 racketeering suit against Hillary Clinton and James Comey and to void the sanctions against him; SCOTUSblog reported the filing on Monday, October 12. Judge Donald Middlebrooks dismissed that suit in September 2022 and ordered Trump, his lawyer Alina Habba and her firm to pay $937,989.39 in fees and costs. On November 26, 2025, an Eleventh Circuit panel led by Chief Judge William Pryor affirmed both the dismissal and the sanctions in Trump v. Clinton, No. 22-13410, writing that “many of Trump's and Habba's legal arguments were indeed frivolous”; the full court denied rehearing in May 2026. The petition asks whether his filing deadline should have paused while he was president, and whether courts may sanction a president and his lawyers for raising that argument.",
-      "plain": "Trump sued Clinton and others in 2022, claiming a conspiracy behind the 2016 Russia allegations. The judge threw the case out and then ordered Trump and his lawyer to pay the other side's legal bills, which is what courts do when arguments are not merely losing but baseless. A federal appeals court agreed, in writing, and the full appeals court refused to revisit it. Trump now asks the Supreme Court to rule that holding the presidency should have paused his deadline to sue, and that a president's lawyers should not be punished for arguing so. Four justices must agree just to hear it.",
-      "why": "The question presented asks the Court to carve out a sanctions exception for presidents, which is a bigger claim than the lawsuit it is attached to.",
+      "headline": "Trump's ambassador to Greece resigns at the White House's request amid an inspector general investigation",
+      "body": "Kimberly Guilfoyle submitted her resignation as US ambassador to Greece on Tuesday after the White House asked for it, a White House official confirmed to CNN. The Wall Street Journal reported that Guilfoyle asked a Trump donor to pay a $100,000 credit-card bill. A US official said the State Department's Office of Inspector General is examining the allegations, which reporting describes as also covering use of private planes and helicopters, acceptance of gifts, and a close relationship with an energy and construction company. Guilfoyle denies using political connections to seek financial favors and says she will \"vigorously defend\" herself.",
+      "plain": "An ambassador is the president's personal representative abroad, and the job carries stricter rules about gifts and outside money than most. Guilfoyle was a Fox News host and was engaged to the president's elder son before Trump appointed her to Athens. The Wall Street Journal's specific allegation is that she asked a Trump donor to pay off a $100,000 credit-card bill. Nothing is proven: an inspector general is an agency's internal investigator, not a prosecutor.",
+      "why": "An inspector general can finish its inquiry and issue findings after an official departs, so the resignation closes the posting but not the record.",
       "sources": [
         {
-          "outlet": "Law&Crime",
-          "url": "https://lawandcrime.com/high-profile/trump-tells-justice-thomas-district-judges-must-be-stopped-from-intimidating-his-attorneys-uses-hillary-clinton-rico-case-to-protect-presidency/"
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/10/13/politics/kimberly-guilfoyle-resign"
         },
         {
-          "outlet": "SCOTUSblog",
-          "url": "https://www.scotusblog.com/2026/10/trump-asks-justices-to-allow-dismissed-lawsuit-against-hillary-clinton-to-proceed/"
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/10/13/kimberly-guilfoyle-greece-ambassador-resigns-trump"
         },
         {
-          "outlet": "Justia (11th Cir. opinion)",
-          "url": "https://law.justia.com/cases/federal/appellate-courts/ca11/22-13410/22-13410-2025-11-26.html"
+          "outlet": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/kimberly-guilfoyle-trumps-ambassador-to-greece-resigns-after-allegations-of-improper-conduct"
         }
       ]
     }
