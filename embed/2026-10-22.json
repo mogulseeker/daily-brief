@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-22",
+  "dateLabel": "Thursday, October 22, 2026",
+  "generated": "2026-10-22T12:19:30Z",
+  "tldr": [
+    "DeepSeek raises about $15 billion at a roughly $74 billion valuation and lines up a Shanghai listing.",
+    "Qatar and Pakistan put a $6 billion-for-inspections proposal to Washington and Tehran as Brent tops $112.",
+    "UK inflation jumps to 3.5% as motor fuel runs 29.8% above a year ago.",
+    "Nigeria confirms its first Ebola case and Africa CDC calls an emergency health-ministers summit for October 28.",
+    "Wildcard, Economics: Meta's free cash flow turns negative on $34.9 billion of quarterly capital spending, and AI-linked stocks sell off.",
+    "Wildcard, International Affairs: Intelligence-committee Democrats say a classified briefing showed Russia targeting their candidates.",
+    "Wildcard, Healthcare: Median launch price for a new US drug reached $257,000, up 35% in real terms since 2022.",
+    "Wildcard, AI Industry: Google Cloud begins selling OpenAI's models alongside Gemini and Claude.",
+    "Lam Research posts record margins and falls about 6% after saying component shortages cap its output.",
+    "The Justice Department's inspector general declines to investigate the Reflecting Pool prosecution his own department abandoned."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "DeepSeek raises about $15 billion and moves up its Shanghai listing",
+      "body": "DeepSeek has raised roughly 100 billion yuan, about $15 billion, in its second private round, according to Wall Street Journal and Bloomberg reporting published October 22. Bloomberg named Tencent and battery maker CATL among the largest investors; the Journal put the valuation at about $74 billion going into the close. DeepSeek has hired CITIC Securities for a Shanghai STAR Market listing, possibly in early 2027. Reuters said it could not independently verify the fundraising.",
+      "plain": "DeepSeek is the Chinese company that startled the industry in early 2025 by matching American AI models for a fraction of the money. It has now taken in about $15 billion from Tencent, which runs China's dominant messaging app, and CATL, the world's largest electric-car battery maker. Note who is absent: no American investors, and a plan to list in Shanghai, not New York. Building frontier models stopped being cheap even for the company famous for doing it cheaply. Reuters has not confirmed the figures.",
+      "why": "A company funded and listed entirely inside China gives Beijing an AI champion over which American capital markets have no financial hold.",
+      "sources": [
+        {
+          "outlet": "Semafor",
+          "url": "https://www.semafor.com/article/10/22/2026/chinas-ai-leader-deepseek-raises-15b"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources"
+        },
+        {
+          "outlet": "Quartz",
+          "url": "https://qz.com/deepseek-15-billion-funding-round-possible-ipo-102226"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "Qatar and Pakistan put a $6 billion-for-inspections proposal to Washington and Tehran",
+      "body": "Mediators have proposed releasing roughly $6 billion in interest accrued on Iranian assets frozen in Qatari banks, the principal left frozen, in exchange for confidential, unannounced IAEA inspections of Iranian nuclear sites. Pakistan's army chief Asim Munir carried it to Tehran, and Foreign Minister Abbas Araghchi confirmed indirect talks continue. Al-Araby Al-Jadeed reported Washington approved the framework and Tehran agreed in principle; other outlets say no final agreement exists. Brent rose about 3% Thursday to roughly $112.",
+      "plain": "After a 2023 prisoner swap, about $6 billion of Iran's oil earnings sat in Qatari accounts Iran cannot spend from. That money has earned interest. The proposal hands Iran only the interest, not the original sum, for letting UN nuclear inspectors back in unannounced. The smallness is the point: it is sized so both governments can accept without appearing to abandon their stated demands. Nearly all of this comes from unnamed sources, and reports disagree on how far either side has gone.",
+      "why": "A deal engineered to be this small is a test of whether either government wants an off-ramp at all, which is what the oil price is trading on.",
+      "sources": [
+        {
+          "outlet": "The New Arab",
+          "url": "https://www.newarab.com/news/exclusive-mediators-submit-new-peace-proposal-iran-us"
+        },
+        {
+          "outlet": "The Media Line",
+          "url": "https://themedialine.org/headlines/pakistan-qatar-propose-release-of-6-billion-funds-to-iran-renewed-nuclear-inspections-to-end-conflict/"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "UK inflation jumps to 3.5% as the oil shock reaches the pump",
+      "body": "UK consumer price inflation rose to 3.5% in the year to September from 3.1% in August, the Office for National Statistics reported on October 21, above the 3.4% consensus and the fastest in about a year. Motor fuel drove it, up 29.8% year on year against 23.0% in August, but core inflation also climbed to 2.8% from 2.6% and services inflation to 3.7% from 3.4%. Bank Rate stands at 3.75%.",
+      "plain": "Inflation is the speed at which prices rise. British prices in September were 3.5% higher than a year earlier, up from 3.1%. Most of that jump traces to petrol and diesel, which cost nearly 30% more because fighting around the Strait of Hormuz has pushed up crude oil. The awkward part for the Bank of England is that its main tool, the interest rate, does nothing to oil prices; it works by making borrowing expensive enough to cool the whole economy.",
+      "why": "Core inflation rose too, which is the signal that an energy shock is leaking into wages and services rather than passing straight through.",
+      "sources": [
+        {
+          "outlet": "Office for National Statistics",
+          "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026"
+        },
+        {
+          "outlet": "MoneyWeek",
+          "url": "https://moneyweek.com/economy/news/live/inflation-cpi-september-2026-report"
+        },
+        {
+          "outlet": "FXStreet",
+          "url": "https://www.fxstreet.com/news/uk-cpi-set-to-accelerate-paving-the-way-for-a-boe-interest-rate-hike-in-november-202610210200"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "Nigeria confirms its first Ebola case and Africa CDC calls an emergency summit",
+      "body": "Nigeria confirmed its first case in the current Ebola outbreak in Abuja on Tuesday, October 20, in a woman who arrived from Uganda on October 5 and was initially treated for malaria. Officials are tracing 44 contacts, most of them health workers. Africa CDC Director-General Jean Kaseya called an extraordinary virtual meeting of health ministers for October 28 to \"strengthen our collective response.\" Nigeria is the fourth country hit by the Bundibugyo-strain outbreak that began in Congo in May.",
+      "plain": "Ebola spreads through contact with an infected person's blood or other bodily fluids and kills a large share of those who catch it. An outbreak that started in Congo in May has reached a fourth country, in a traveller who was first treated for malaria, because early symptoms of both are fever, aches and weakness. That delay is where the danger sits: most of the 44 people now monitored are the health workers who treated her beforehand. Uganda denies the infection originated there.",
+      "why": "Abuja is a capital of roughly four million people with a major international airport, which turns a largely rural outbreak into an exportable one.",
+      "sources": [
+        {
+          "outlet": "AP via CTV News",
+          "url": "https://www.ctvnews.ca/health/article/africa-cdc-calls-an-ebola-crisis-summit-as-nigeria-records-its-first-case/"
+        },
+        {
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/Health/wireStory/africa-cdc-calls-ebola-crisis-summit-nigeria-records-137440882"
+        },
+        {
+          "outlet": "Bernama",
+          "url": "https://www.bernama.com/en/world/news.php?id=2623714"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - Economics",
+      "headline": "Meta's cash flow goes negative on AI spending, and the AI trade sells off",
+      "body": "Meta reported third-quarter revenue of $64.6 billion on October 21, up 26%, but GAAP operating income fell 37% to about $13.0 billion after a $9.89 billion legal charge tied to its teen mental-health settlement, cutting operating margin to 20% from 40%. Capital spending hit $34.9 billion against $19.4 billion a year earlier, pushing free cash flow to roughly negative $2.1 billion. Nasdaq-100 futures fell about 1.7% on Thursday morning.",
+      "plain": "Meta owns Facebook, Instagram and WhatsApp, and its advertising sales grew 26%. The problem is what it spends. Data centres for AI cost it $34.9 billion in three months, nearly double a year ago, and for the first time that outlay exceeded all the cash the business threw off, so free cash flow went negative. A separate $9.89 billion charge for settling lawsuits over teenagers' mental health wiped out most of the quarter's profit. Markets read the capex number as a signal about the whole AI build-out.",
+      "why": "The most profitable advertising business on the internet can no longer fund its AI build-out from current cash flow, which is the point where the spending starts depending on debt.",
+      "sources": [
+        {
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/"
+        },
+        {
+          "outlet": "Meta 8-K via SEC",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm"
+        },
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - International Affairs",
+      "headline": "Intelligence-committee Democrats say a classified briefing showed Russia targeting their candidates",
+      "body": "Senator Mark Warner and Representative Jim Himes, the senior Democrats on the congressional intelligence committees, said on Wednesday that a classified briefing they requested from Director of National Intelligence Jay Clayton showed Russia running an online misinformation campaign against Democratic candidates ahead of the November 3 midterms. They could not share specifics. Himes said there is no evidence any country has penetrated US election systems or can alter vote counts. The White House and ODNI did not immediately respond to requests for comment.",
+      "plain": "These two lawmakers sit on the committees that oversee American spy agencies, so they are shown secret intelligence. After requesting a briefing, they said publicly that Russia is pushing fake content online to damage Democratic candidates on November 3. They cannot show the evidence, because it is classified, and nobody in the administration has backed up their account, so this rests on their characterisation alone. They were careful on one point: there is no sign anyone has broken into the machines that count votes.",
+      "why": "Twelve days from an election, a foreign-interference claim that cannot be shown publicly is usable by both parties, whichever way it turns out.",
+      "sources": [
+        {
+          "outlet": "Reuters via RTE",
+          "url": "https://www.rte.ie/news/world/2026/1022/1596376-democrats-russia-midterms/"
+        },
+        {
+          "outlet": "ThePrint",
+          "url": "https://theprint.in/world/lawmakers-say-us-briefing-showed-russia-targeting-democrats-with-misinformation/3078297/"
+        },
+        {
+          "outlet": "West Hawaii Today",
+          "url": "https://www.westhawaiitoday.com/2026/10/22/nation-world-news/lawmakers-say-us-briefing-showed-russia-targeting-democrats-with-misinformation/"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - Healthcare",
+      "headline": "Median launch price for a new US drug reached $257,000",
+      "body": "The median annual net launch price for new US drugs was about $257,000 in 2025, up 35% in inflation-adjusted terms from $190,000 in 2022, according to an Institute for Clinical and Economic Review and West Health report dated October 20. About one in four 2025 launches exceeded $500,000 a year. Of the drugs ICER had reviewed, only about one in three were priced at or below its cost-effectiveness benchmark, and only about a third of outpatient prescriptions were filled within 30 days.",
+      "plain": "When a drug company launches a medicine it picks a price. ICER is an independent group that calculates what a medicine is worth based on how much good it does patients. Its report says the typical new American drug now launches at about $257,000 a year after discounts, a third more than three years ago once inflation is stripped out. Two findings sit oddly together: two-thirds cost more than ICER thinks they are worth, and only a third of prescriptions get filled within a month, mostly because insurers will not cover them.",
+      "why": "The administration's price-cutting deals have targeted existing blockbusters, while the cost of everything newly approved kept climbing underneath them.",
+      "sources": [
+        {
+          "outlet": "ICER and West Health report",
+          "url": "https://icer.org/wp-content/uploads/2026/10/ICER_2026_Launch-Price-and-Access-Final-Report_ForPublication-1.pdf"
+        },
+        {
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/10/21/high-drug-launch-prices-stress-health-system-report-says"
+        },
+        {
+          "outlet": "Fierce Pharma",
+          "url": "https://www.fiercepharma.com/pharma/new-us-drug-launches-need-price-check-counter-access-impediments-icer-west-health-urge"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - AI Industry",
+      "headline": "Google Cloud starts selling OpenAI's models",
+      "body": "OpenAI's frontier models and its Codex agentic coding workflows are being added to Google Cloud's Model Garden, the companies said on October 21, in private preview for selected customers with general availability planned in the coming weeks. Customers can buy through the Google Cloud Marketplace and apply existing Google Cloud spending commitments, making Google the only hyperscale cloud offering Gemini, Anthropic's Claude and OpenAI's GPT models together. Microsoft remains OpenAI's primary cloud partner.",
+      "plain": "Google and OpenAI build competing AI models, Gemini and GPT. Google's cloud division rents computing power to businesses, and it has now agreed to sell its rival's models to those customers alongside its own. The reason is procurement, not friendship: a company that already committed to spend tens of millions with Google would rather use that budget than negotiate a separate contract. By stocking every major model, Google makes itself the shop rather than one product on the shelf. Specific model names come from aggregators, not the companies.",
+      "why": "Frontier models are being handled as interchangeable inventory, which moves power from whoever trains the best model toward whoever controls the sales channel.",
+      "sources": [
+        {
+          "outlet": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3996167-openai-partners-with-google-cloud-to-offer-ai-models-codex-workflows"
+        },
+        {
+          "outlet": "International Business Times",
+          "url": "https://www.ibtimes.sg/google-cloud-opens-its-model-garden-openais-frontier-models-codex-95388"
+        },
+        {
+          "outlet": "Runtime Wire",
+          "url": "https://runtimewire.com/article/google-cloud-adds-openai-models-model-garden"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "Lam Research posts record margins and falls 6% on a parts shortage",
+      "body": "Lam Research reported adjusted earnings of $2.20 a share on revenue of $8.22 billion for its September quarter on October 21, ahead of consensus near $2.18 and $8.13 billion, with a record 52.4% gross margin and its first operating margin above 40%. Shares fell roughly 6% after hours anyway, after the chief financial officer said December-quarter guidance of $8.60 billion \"would have been a bit higher\" without component shortages that pushed shipments into the March quarter.",
+      "plain": "Lam Research makes the machines that chip factories use to manufacture chips, selling to firms like TSMC and Samsung rather than to consumers. It reported its most profitable quarter ever and the stock still dropped about 6%, because of one admission from its finance chief: it could have sold more, but could not get the parts to build its own machines. That pushes the bottleneck a step further back: the world is short of AI chips, factories are short of the equipment that makes them, and equipment makers are short of components.",
+      "why": "When the binding constraint is components rather than demand, extra AI spending turns into a longer queue instead of more chips.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-after-hours-meta-tsla-lrcx-ibm.html"
+        },
+        {
+          "outlet": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4655174-lam-research-slides-even-as-q1-results-and-guidance-top-wall-streets-forecast"
+        },
+        {
+          "outlet": "Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-lam-research-tops-q1-2026-estimates-shares-fall-93CH-4923882"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "Justice Department watchdog declines to investigate the prosecution his own department abandoned",
+      "body": "Inspector General Don Berthiaume declined, in an October 8 letter, to investigate the failed felony prosecution of former Olympic canoeist David Hearn over damage to the Lincoln Memorial Reflecting Pool, writing that statutory limits required him to refer prosecutorial-misconduct allegations to the Office of Professional Responsibility, whose head the attorney general appoints. The case collapsed in late July when US Attorney Jeanine Pirro's office told the court the damage was \"the result of flawed installation by the contractor, Atlantic Industrial Coatings\"; Judge Todd Edelman, dismissing it, wrote that \"the government shot first and asked questions later.\" Trump posted on August 1 that he disagreed with his own department: \"To me, it was a pure case of VANDALISM.\"",
+      "plain": "Prosecutors charged a former Olympic athlete with a felony for wrecking the Reflecting Pool at the Lincoln Memorial. Then the Justice Department's own lawyers looked harder, told the court the damage came from a contractor's bad installation work, and asked for the charges to be dropped. The judge threw the case out and wrote that the government had charged first and checked afterwards. The president publicly disagreed with his own department and kept calling it vandalism. Now the department's independent watchdog says the law does not let him examine how the case was brought.",
+      "why": "The referral moves the question of how those charges were brought from an independent watchdog to an office inside the chain of command it would have to examine.",
+      "sources": [
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/reflecting-pool-david-hearn-doj-inpsector-general/"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/justice-department/justice-department-ig-refuses-investigate-botched-reflecting-pool-case-rcna604787"
+        },
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/regulation/court-battles/6164028-reflecting-pool-vandalism-trump-doj-pirro-hearn/"
+        }
+      ]
+    }
+  ]
+}
