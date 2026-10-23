@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-23",
+  "dateLabel": "Friday, October 23, 2026",
+  "generated": "2026-10-23T12:14:25Z",
+  "tldr": [
+    "OpenAI seeks up to $30 billion at a $1.25 trillion valuation, about $150 billion below the price it pitched three weeks ago.",
+    "Russia hits Kyiv with cluster-warhead ballistic missiles days after agreeing in principle to resume talks; Zelensky says the Kremlin has not moved.",
+    "Nasdaq falls 2.6% to 26,008.86 in its worst day since June as AI earnings revive doubts about capital spending.",
+    "UnitedHealthcare and Humana are ending Medicare Advantage plans covering about 990,000 people for 2027.",
+    "Wildcard, AI Industry: Meta discloses about $825 billion in future lease and contract commitments and its default insurance hits a record 114.79 basis points.",
+    "Wildcard, International Affairs: The US orders diplomats out of Saudi Arabia as the New York Times reports US and Israeli plans for renewed strikes on Iran after the midterms.",
+    "Wildcard, AI Industry: Treasury proposes rules restricting American investment in Chinese AI, chips, quantum and supercomputing.",
+    "Wildcard, Economics: Japan's core inflation reaches 2.1%, topping the Bank of Japan's target for the first time in nine months.",
+    "Commerce will take minority equity stakes in four companies receiving up to $389 million in power-semiconductor and critical-materials awards.",
+    "A judge orders Trump deposed by December 11 in his own $10 billion suit against the BBC, warning that missing it could get the case dismissed."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "OpenAI seeks up to $30 billion at a valuation $150 billion below its own October ask",
+      "body": "OpenAI told investors on Thursday that it is raising up to $30 billion at a $1.25 trillion pre-money valuation, led by investors from the United Arab Emirates alongside Coatue, CNBC reported, citing people familiar with the deal. That is roughly $150 billion below the $1.4 trillion it pitched to Abu Dhabi's MGX and BlackRock in early October, a round Bloomberg reported on October 5. OpenAI wants signatures by the end of next week and calls the raise an opportunistic bridge ahead of an IPO it filed for confidentially in June.",
+      "plain": "OpenAI makes ChatGPT, and it spends far more building and running AI models than it earns, so it keeps selling pieces of itself to investors. The price it asks has come down: three weeks ago it wanted a $1.4 trillion valuation, now $1.25 trillion. A valuation is only what investors agree to pay, and this week they were selling AI stocks. The figures come from unnamed sources, so nothing is signed.",
+      "why": "A company that had been setting its own price in a seller's market just marked itself down by about 11%, which says more about investor appetite for AI risk than any single index close does.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"
+        },
+        {
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "Russia strikes Kyiv with cluster-warhead missiles days after agreeing in principle to new talks",
+      "body": "President Volodymyr Zelensky said Russia hit Kyiv on Thursday with ballistic missiles carrying cluster munition warheads, and that more than 170 Ukrainian energy facilities have been attacked since October 11, the date an energy ceasefire was announced. Russia's defence ministry said it downed 808 Ukrainian drones overnight. The exchange followed US envoy Steve Witkoff's October 21 meeting with Vladimir Putin in St Petersburg: the Kremlin said it would restart trilateral talks with Kyiv and Washington next month but dismissed the proposals Witkoff brought. Zelensky said the Kremlin's position has not moved.",
+      "plain": "Russia and Ukraine are negotiating about negotiating while still shooting. Cluster warheads scatter many small bomblets over a wide area instead of one large blast, which works well against spread-out targets like electrical substations. Ukraine's grid is the point: destroy enough substations before winter and cities lose heat and light. The ceasefire announced on October 11 was supposed to stop exactly this, and Ukraine counts more than 170 energy sites hit since.",
+      "why": "Both sides are bargaining through damage rather than concessions, so any November round opens with Ukraine's grid and Moscow's air defences as the real agenda rather than the territorial questions the talks are nominally about.",
+      "sources": [
+        {
+          "outlet": "NBC News (Reuters)",
+          "url": "https://www.nbcnews.com/world/ukraine/russia-pounds-kyiv-missiles-drones-hours-agreeing-peace-talks-rcna604949"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html"
+        },
+        {
+          "outlet": "Tribune",
+          "url": "https://tribune.net.ph/2026/10/22/zelensky-kremlin-position-unchanged"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "Nasdaq falls 2.6% in its worst day since June as the AI trade reprices",
+      "body": "The Nasdaq Composite closed Thursday at 26,008.86, down about 694 points or 2.6%, its steepest one-day fall since early June, according to AP and Reuters. The S&P 500 lost about 1.2% to 7,663.43, its worst day since July, while the Dow was roughly flat. Intel, AMD, SanDisk and Marvell each fell more than 8%, Western Digital about 7% and Micron about 6%. Reuters tied the selloff to AI-related earnings that revived doubts about infrastructure spending and how quickly it pays back.",
+      "plain": "Investors who bought chip and AI stocks were betting that huge spending on data centres would turn into profits soon. Thursday's earnings showed the spending and little of the payback, so some sold. The worst-hit names make memory chips, the parts that hold data beside an AI processor; memory is ordered first in a boom and cancelled first in a doubt, so it moves hardest. The Dow barely moved, so the selling was aimed at the AI trade, not the economy.",
+      "why": "Because a handful of AI-linked names drove most of this year's index gains, a change of mind about their capital spending now registers as a market-wide number rather than a sector story.",
+      "sources": [
+        {
+          "outlet": "ABC News (AP)",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-10222026-137490327"
+        },
+        {
+          "outlet": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "UnitedHealthcare and Humana are ending Medicare Advantage plans covering about 990,000 people",
+      "body": "UnitedHealthcare has confirmed that roughly 390,000 members are in Medicare Advantage plans it is discontinuing for 2027, with non-renewal notices dated October 2; reporting on the cuts says they fall mainly on plans that let patients see out-of-network doctors. Humana's chief financial officer, Celeste Mellet, put its figure at about 600,000 on the July 29 earnings call, roughly 8% of its 7.2 million MA enrollees, and expects to move about 40% into other Humana plans. Aetna and Elevance are also exiting counties. Insurer projections collected by CMS put 2027 MA enrollment near 34 million, down about 2 million. Annual enrollment closes December 7.",
+      "plain": "Medicare Advantage is Medicare run by a private insurer: the government pays a fixed sum per enrollee per year and the company keeps whatever it does not spend on care. Those payments have not kept pace with what older patients cost, so insurers are closing the plans that lose money. Nobody loses Medicare itself, but people in a closed plan must pick a replacement by December 7, and it may not include their doctors or drugs.",
+      "why": "This is the first year Medicare Advantage shrinks rather than grows, which removes the enrollment growth that has been subsidising the extra benefits, such as dental and premium givebacks, that made the plans attractive in the first place.",
+      "sources": [
+        {
+          "outlet": "Healthcare Dive",
+          "url": "https://www.healthcaredive.com/news/medicare-advantage-cuts-2027-cms-landscape/831563/"
+        },
+        {
+          "outlet": "Quartz (Bloomberg)",
+          "url": "https://qz.com/unitedhealth-humana-medicare-advantage-plans-dropped-100226"
+        },
+        {
+          "outlet": "Becker's Hospital Review",
+          "url": "https://www.beckershospitalreview.com/finance/medicare-advantage-looks-stable-for-2027-underneath-its-shifting/"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - AI Industry",
+      "headline": "Meta discloses $825 billion in future commitments and its default insurance hits a record",
+      "body": "Meta's third-quarter filing discloses about $825 billion in future lease and contract obligations, up from nearly $700 billion in July: $454.5 billion in non-cancellable contracts, $355.7 billion in leases not yet begun, and up to $14.7 billion of cloud capacity. About $45.9 billion falls due in the rest of 2026 and $121.4 billion in 2027. Five-year credit default swaps on Meta widened 7.6 basis points on Thursday to a record 114.79, per Markit data, and protection on Oracle, Microsoft and Broadcom also rose. Trading in default insurance on the ten largest AI chipmakers and hyperscalers grew 691% year on year to $140 billion through September.",
+      "plain": "A credit default swap is insurance against a company failing to pay its debts, so a rising price means bond investors see more risk. Meta is nowhere near failing; it holds about $82 billion in cash. What changed is that it has committed $825 billion to landlords and suppliers out to 2036, while this quarter it spent more on buildings and chips than its business generated. That gap gets filled by borrowing.",
+      "why": "The AI buildout has crossed from an equity story into a credit story, which means lenders, not just shareholders, now have a say in how long the spending can continue.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html"
+        },
+        {
+          "outlet": "Reuters via AOL",
+          "url": "https://www.aol.com/articles/metas-credit-risk-indicator-jumps-134606000.html"
+        },
+        {
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/meta-825b-future-spending-commitments"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - International Affairs",
+      "headline": "US orders diplomats out of Saudi Arabia as reports describe post-midterm strike plans for Iran",
+      "body": "The State Department ordered non-emergency personnel and family members to leave US missions in Saudi Arabia, Reuters reported on October 21. Spokesperson Tommy Pigott cited Iranian-backed Houthi attacks on civilian airports and infrastructure, including a strike on Dammam airport and a drone attack on an oil field that killed at least one person and injured eight, and said the order applies only to Saudi Arabia. Separately, the New York Times reported that US and Israeli militaries have drawn up plans for renewed strikes on Iranian nuclear, energy and missile targets after the November 3 midterms, citing officials briefed on the discussions. Trump has not approved them.",
+      "plain": "The US and Israel have been at war with Iran since late February, and Iran answered by closing the Strait of Hormuz, the narrow sea passage much of the world's oil ships through. The Houthis, a Yemeni armed movement backed by Iran, have been striking Saudi targets. Pulling diplomats' families out is what governments do when they expect fighting to come closer. The strike plans rest on one newspaper citing unnamed officials, so treat them as reporting about options, not a decision.",
+      "why": "Moving people out before any decision is itself a message to Tehran, and that is reportedly the intent: American negotiators are said to be using the threat of renewed strikes as leverage while talks on Iran's nuclear programme and the reopening of Hormuz continue.",
+      "sources": [
+        {
+          "outlet": "Reuters via US News",
+          "url": "https://www.usnews.com/news/world/articles/2026-10-21/exclusive-us-preparing-to-issue-ordered-departure-of-some-personnel-from-gulf-embassies-us-officials"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html"
+        },
+        {
+          "outlet": "Ynet",
+          "url": "https://www.ynetnews.com/article/hk111url2mx"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - AI Industry",
+      "headline": "Treasury proposes rules restricting American investment in Chinese AI and chips",
+      "body": "The Treasury Department proposed a rule on Thursday to restrict US investment in artificial intelligence, semiconductors, supercomputing and other advanced technologies in China, Russia, North Korea, Iran and Cuba, AP reported. It implements a law Congress passed in December 2025 that codified and widened the outbound investment screening program in force since January 2025. Depending on how a target company is classified, a US investor would either have to notify Treasury of a transaction or be barred from it. In July, Treasury fined a US company $200,000 for failing to report a subsidiary's $92,500 investment in a Chinese AI and robotics firm.",
+      "plain": "Export controls stop American companies selling advanced chips to China. This runs the other way: it stops American money buying into Chinese companies that build them. The logic is that investment carries more than cash, bringing board seats, customers and know-how. A proposed rule is not law yet; it gets published, collects comments, then is finalised, usually over months. The $200,000 fine over an unreported $92,500 stake shows the existing version is enforced down to small deals.",
+      "why": "Restricting capital across a whole technology category is far easier to write than to police, and the real test is whether US funds route around it through intermediaries in third countries.",
+      "sources": [
+        {
+          "outlet": "AP via US News",
+          "url": "https://www.usnews.com/news/business/articles/2026-10-22/us-treasury-proposes-a-rule-to-crack-down-on-high-tech-investments-in-china-other-adversaries"
+        },
+        {
+          "outlet": "US Treasury",
+          "url": "https://home.treasury.gov/policy-issues/international/outbound-investment-program"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - Economics",
+      "headline": "Japan's core inflation tops the Bank of Japan's target for the first time in nine months",
+      "body": "Japan's core consumer price index, which excludes fresh food, rose 2.1% year on year in September, up from 1.7% in August and in line with forecasts, government data released Friday showed. The Bank of Japan's preferred core-core measure, which also strips out energy, rose 2.4%, above the 2.3% expected. It is the first time in nine months core inflation has exceeded the central bank's 2% target. The BOJ raised its policy rate to 1.25% in September, a three-decade high, and meets on October 29 and 30, where it is expected to hold.",
+      "plain": "Japan spent decades with prices barely rising, which is why its interest rates sat near zero far longer than anywhere else. Now prices are climbing faster than the central bank's 2% goal, so it has begun raising rates to make borrowing costlier and cool spending. This matters beyond Japan: investors borrow cheap yen to buy assets elsewhere, and when Japanese rates rise some of that money goes home. Economists disagree on whether the next increase lands in December or later.",
+      "why": "Japan is the last large source of near-free money, and each step up in its policy rate tightens a funding channel global markets have leaned on for two decades.",
+      "sources": [
+        {
+          "outlet": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/japan-core-inflation-exceeds-bojtarget-cements-nearterm-rate-hike-chance-4967842"
+        },
+        {
+          "outlet": "The Standard",
+          "url": "https://www.thestandard.com.hk/finance/article/346294/Japans-core-inflation-exceeds-BOJ-target-cements-near-term-rate-hike-chance"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "Commerce will take equity stakes in four companies receiving $389 million in chip research awards",
+      "body": "The Commerce Department announced letters of intent on Thursday to award up to $389 million for power semiconductors and critical materials, and said the federal government will receive minority, non-controlling, non-voting equity stakes in the recipients. Helion gets up to $175 million for high-voltage power semiconductors, alongside $50 million in new private investment; Commonwealth Fusion Systems up to $85 million; Vertical Semiconductor up to $73 million for gallium nitride devices aimed at AI data center racks; and Sibelco North America up to $56 million to purify ultra-high-purity quartz. The money comes from the $10 billion semiconductor research fund Congress approved in 2022.",
+      "plain": "Power semiconductors do not compute; they convert and control electricity, which is why they matter for anything handling a lot of power, from fusion reactors to racks of servers. Congress set this money aside in 2022 as research grants. What is new is the condition attached: the government now takes a small ownership stake in exchange. The stakes carry no votes, so Washington gets a share of any gain without a seat at the table.",
+      "why": "A grant is spent and forgotten, while equity makes the government a shareholder with a financial interest in the company's valuation, a different relationship between Washington and the firms it funds.",
+      "sources": [
+        {
+          "outlet": "Reuters via US News",
+          "url": "https://money.usnews.com/investing/news/articles/2026-10-22/us-to-award-389-million-in-r-d-funds-for-power-semiconductors-critical-materials"
+        },
+        {
+          "outlet": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4655947-us-to-take-stakes-in-four-companies-receiving-up-to-389m-in-chip-rd-awards"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "Judge orders Trump deposed by December 11 in his own $10 billion suit against the BBC",
+      "body": "Magistrate Judge Enjolique Lett, in the Southern District of Florida, ordered on Thursday that Trump sit for a deposition by December 11 in the defamation suit he brought against the BBC, warning that failing to appear could bring sanctions up to dismissal of his own case. BBC counsel Charles Tobin told the court, \"we still haven't been able to depose the plaintiff.\" The deposition had been set for October 16; Trump's lawyers cancelled it citing matters of national importance, and reporting on the hearing notes he was campaigning in Georgia that day. They asked for January 11 to 22 instead. Lett also ruled the deposition may be videotaped, over the objection of Trump attorney Alejandro Brito.",
+      "plain": "Trump is the one suing here. He says a BBC documentary edited his January 6, 2021 speech to make it appear he explicitly told supporters to attack the Capitol, and he wants $10 billion. When you sue someone, their lawyers get to question you under oath first; that is a deposition. He agreed to a date, cancelled it, and asked to push it to January. The judge refused and set a deadline, with dismissal of his own case as the penalty.",
+      "why": "The order converts a scheduling preference into a choice between answering the BBC's lawyers under oath on video before December 11 and abandoning a claim he put at $10 billion.",
+      "sources": [
+        {
+          "outlet": "AP via PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-sit-deposition-10-billion-defamation-lawsuit-bbc-jan-6-rcna605034"
+        },
+        {
+          "outlet": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258"
+        }
+      ]
+    }
+  ]
+}
