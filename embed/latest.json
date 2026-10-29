@@ -1,241 +1,241 @@
 {
-  "date": "2026-10-28",
-  "dateLabel": "Wednesday, October 28, 2026",
-  "generated": "2026-10-28T12:27:02Z",
+  "date": "2026-10-29",
+  "dateLabel": "Thursday, October 29, 2026",
+  "generated": "2026-10-29T12:29:30Z",
   "tldr": [
-    "Oracle puts Google, Cerebras and SambaNova chips in its AI cloud while enlarging its Nvidia order.",
-    "Netanyahu's bloc leads Israel's count with 54 of 120 seats, seven short of a majority.",
-    "US consumer confidence rises for the first time since June, to 91.7 from a revised 84.2.",
-    "FDA and CMS move to widen Medicaid gene-therapy access beyond sickle-cell disease.",
-    "Wildcard, AI Industry: China's AI and chip stocks have lost about $480 billion since July.",
-    "Wildcard, International Affairs: Finland and Norway's leaders call Putin, the first such contact in over a year.",
-    "Wildcard, AI Industry: CoreWeave's default insurance hits a record, pricing better-than-even odds of failure.",
-    "Wildcard, Healthcare: A judge lets Eli Lilly keep running ads comparing its weight-loss drug with Novo's.",
-    "TSMC is reported to be weighing a 10 to 20 percent rise in advanced packaging prices.",
-    "A judge blocks tree removal at a DC golf course and orders a top Justice Department official back to explain Trump's own post."
+    "Alphabet's free cash flow turns negative at minus $9.07 billion as quarterly AI capex hits $51.4 billion; its stock drops about 10 percent while Microsoft's rises.",
+    "US officials warn Middle East allies to prepare for possible strikes on Iran after the November 3 midterms, the Associated Press reports.",
+    "The Fed holds its target range at 3.75 to 4 percent in a 10-2 vote, and both dissenters wanted a quarter-point increase.",
+    "Lilly's retatrutide beats Ozempic on blood sugar and more than doubles its weight loss in a 1,298-patient Phase 3 diabetes trial.",
+    "Wildcard, AI Industry: Anthropic's S-1 shows $16.3 billion of first-half revenue, an $80.7 billion net loss, and about 94 pages of risk factors.",
+    "Wildcard, International Affairs: The UN's annual vote against the Cuba embargo falls to 130-17-25, its weakest result since 1995.",
+    "Wildcard, Healthcare: HHS says it will not enforce against pharmacies compounding six unapproved peptides the FDA has never cleared.",
+    "Wildcard, AI Industry: SK hynix posts the first 100-trillion-won quarter in its history at an operating margin near 80 percent.",
+    "South Korea fines Google and Apple 63.7 billion won in the first enforcement of its 2021 in-app payment law.",
+    "Bloomberg, Susquehanna and Jump Trading pay Trump's company up to $100,000 a month for his posts 50 milliseconds early."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Oracle adds Google, Cerebras and SambaNova chips to its AI cloud while expanding its Nvidia order",
-      "body": "At its investor day on October 27, Oracle said it will run Google's TPU accelerators in its own data centres, the first time Google's AI chips will sit in a rival cloud provider's facilities, and will add inference chips from Cerebras and SambaNova. Oracle simultaneously enlarged its Nvidia commitment, scaling Vera Rubin systems to what it called multi-gigawatt levels, while swapping some Nvidia networking hardware for its own Acceleron silicon. It held its fiscal 2027 capital-expenditure target at roughly $90 billion to $95 billion.",
-      "plain": "Oracle rents out computing power by the hour. Almost all AI computing runs on chips from one company, Nvidia, which gives Nvidia enormous pricing power. Oracle is now installing chips from three competitors alongside Nvidia's. The split matters: building a model still needs Nvidia, but running a finished one to answer questions, called inference, is the cheaper and far larger ongoing job, and rival chips are good enough at it.",
-      "why": "Inference is where Nvidia's lock on the market is thinnest, and its largest customers are now wiring alternatives into their buildings rather than merely threatening to.",
+      "headline": "Alphabet's AI build-out pushes its free cash flow below zero while Microsoft's holds up",
+      "body": "Alphabet reported third-quarter revenue of $127.6 billion on October 28, up 25 percent, alongside $51.4 billion of capital expenditure and negative free cash flow of $9.07 billion, against the roughly $2.70 billion shortfall analysts expected. Google Cloud's order backlog reached $561 billion, and CFO Anat Ashkenazi said capex will rise significantly in 2027. The stock fell about 10 percent. Microsoft posted revenue of $92.3 billion, up 19 percent, with Azure growth of 48 percent; its shares rose about 3.5 percent.",
+      "plain": "Both companies rent out computing power, and both are spending heavily on the buildings and chips to supply it. Free cash flow is what is left after all of that is paid for, and Alphabet's went below zero: in three months it spent more cash than it took in. Demand is not the problem, since Google Cloud holds $561 billion of signed orders. What investors balked at is how many years of spending come first.",
+      "why": "The market has stopped reading AI spending as a signal of ambition and started pricing it as a claim on cash that has to be earned back.",
       "sources": [
         {
-          "outlet": "Reuters",
-          "url": "https://www.933thedrive.com/2026/10/27/oracle-expands-chip-supply-deal-with-nvidia-adds-google-and-cerebras-offerings/"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+        },
+        {
+          "outlet": "Quartz",
+          "url": "https://qz.com/google-microsoft-ai-spending-estimates-miss-neocloud-stocks-102926"
         },
         {
           "outlet": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html"
-        },
-        {
-          "outlet": "DigiTimes",
-          "url": "https://www.digitimes.com/news/a20261028VL226/oracle-cerebras-chips-nvidia-infrastructure.html"
+          "url": "https://finance.yahoo.com/markets/stocks/live/microsoft-earnings-live-microsoft-beats-q1-expectations-on-top-and-bottom-line-on-ai-growth-204510452.html"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "Netanyahu's bloc leads Israel's count with 54 seats, short of a majority",
-      "body": "With about 84 percent of Tuesday's ballots counted on Wednesday, the Likud-led bloc held 54 of the Knesset's 120 seats and the bloc led by Gadi Eisenkot held 49, with Arab parties on 17. Sixty-one seats are needed to govern. Likud remained the largest single party at 27 to 28 seats and Eisenkot's Yashar party stood at about 21. Eisenkot has ruled out serving under Netanyahu, including in a rotating premiership. The count is not final and seat totals moved overnight.",
-      "plain": "Israelis do not vote for a prime minister directly. They vote for parties, which win seats in a 120-member parliament, and whoever assembles 61 of those seats forms a government. Netanyahu's side has 54, so it needs partners. His opponents have 49, so they need partners too. The only group large enough to push either side past 61 is the Arab parties, with 17 seats, and Israeli governments have almost never included them.",
-      "why": "Netanyahu does not need to win the count, only to outlast it: every week without a 61-seat alternative leaves him in office as caretaker prime minister.",
+      "headline": "US tells Middle East allies to prepare for possible strikes on Iran after the November 3 midterms",
+      "body": "The Associated Press reported on October 28 that US diplomats and defence officials have warned several Middle Eastern governments to prepare for renewed military action against Iran after the November 3 elections, and for Iranian retaliation that could reach energy facilities. Two diplomats briefed on the warnings said a new round could last several days, and stressed that Trump has not made a final decision. The Pentagon moved the carrier USS Theodore Roosevelt and about 9,000 personnel toward the Persian Gulf late last month. The White House declined to comment.",
+      "plain": "The United States appears to be telling friendly governments to prepare for a fight it says it has not yet chosen to start. Iran's likely answer is aimed not at American troops but at oil and gas installations, which is what sets fuel prices worldwide. The timing, pinned to the far side of an election, is the detail to notice. One caveat: this is the Associated Press citing two anonymous diplomats, and other outlets are republishing it rather than confirming it themselves.",
+      "why": "A decision deferred past an election is still a decision being prepared, and the hardware needed to carry it out is already in position.",
       "sources": [
         {
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-october-28-2026/"
+          "outlet": "AP via The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/oct/28/us-warns-allies-prepare-possible-iran-strikes-retaliation-elections/"
         },
         {
-          "outlet": "The Jewish Chronicle",
-          "url": "https://www.thejc.com/news/israel/israel-elections-2026-live-results-um05revx"
+          "outlet": "AP via OPB",
+          "url": "https://www.opb.org/article/2026/10/28/us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say/"
         },
         {
-          "outlet": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-913053"
+          "outlet": "Iran International",
+          "url": "https://www.iranintl.com/en/202610282171"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "US consumer confidence rises for the first time since June",
-      "body": "The Conference Board's consumer confidence index rose to 91.7 in October from a revised 84.2 in September, the first increase in four months, against forecasts of about 81.0. The present situation component rose 8.6 points to 120.4. The expectations component rose 6.9 points to 72.6, still below the 80 level the Board associates with recession risk. The Board credited petrol prices falling from an average $4.48 to $4.27 a gallon, and noted that spending intentions for services and durable goods weakened.",
-      "plain": "This survey asks thousands of Americans how the economy feels now and how they expect it to look in six months. Both rose, by much more than forecasters guessed, but the two halves disagree. Views of today jumped, tracking cheaper petrol, which people notice weekly. Views of the future improved less and stayed in the range the Board treats as a warning sign. Respondents also said they plan to spend less on services and big-ticket goods.",
-      "why": "Confidence that improves because fuel got cheaper while purchase plans weaken is a sentiment rebound rather than a demand rebound, and the Fed, which decides rates this afternoon, cares about the second.",
+      "headline": "The Fed holds rates steady, and both dissenting votes wanted an increase",
+      "body": "The Federal Open Market Committee kept its target range at 3.75 to 4 percent on October 28 in a 10-2 vote, saying inflation remains elevated. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, both preferring a quarter-point increase; it was Cook's first dissent since joining the Board in 2022. September's move was a quarter-point rise, so this is a pause inside a tightening cycle. Chair Kevin Warsh called growth strong and inflation too high, and said politics played no role before the midterms. Futures pricing implies a meaningful chance of a December hike.",
+      "plain": "The Fed sets the interest rate that works its way into mortgages, car loans and savings accounts. When officials break ranks over a decision to hold, the usual complaint is that money should be cheaper. Here both dissenters wanted the opposite, because prices are still rising faster than the Fed's 2 percent target. Since the last move was upward, this is a pause in the middle of raising rates, not a pause before cutting them.",
+      "why": "Holding rates while your only dissenters argue for a hike tells you which direction the next surprise is likely to come from.",
       "sources": [
         {
-          "outlet": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-27/us-consumer-confidence-increases-for-first-time-in-four-months"
+          "outlet": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
         },
         {
-          "outlet": "The Conference Board",
-          "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-increased-in-october-302920731.html"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
         },
         {
-          "outlet": "Quartz",
-          "url": "https://qz.com/us-consumer-confidence-october-first-rise-four-months-102726"
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-interest-rates-held-steady-in-split-vote-warsh-says-politics-played-no-role-ahead-of-midterm-elections-191946928.html"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "FDA and CMS move to widen gene-therapy access beyond sickle-cell disease",
-      "body": "The Department of Health and Human Services said on October 27 that the Centers for Medicare and Medicaid Services will expand its Cell and Gene Therapy Access Model past sickle-cell disease to other rare diseases and some cancers. Under the model CMS negotiates outcomes-based agreements with manufacturers on behalf of state Medicaid programmes, tying payment partly to whether the treatment works; 33 states plus the District of Columbia and Puerto Rico have signed on. The FDA issued draft guidance the same day on personalised gene therapies for rare genetic diseases.",
-      "plain": "A gene therapy fixes a faulty gene once and can cost two to three million dollars in a single bill. Medicaid, the government insurance programme for people with low incomes, covers many patients with inherited diseases, and no state budget absorbs bills like that easily. So CMS negotiates one price for all the states at once and ties part of the payment to whether the patient improves. Without a buyer, nobody develops a cure for a few hundred patients.",
-      "why": "The binding constraint on gene therapy has shifted from whether the science works to whether anyone can pay for it, so the payment mechanism now decides which diseases get cures.",
+      "headline": "Lilly's three-target drug beat Ozempic on blood sugar and more than doubled its weight loss",
+      "body": "Eli Lilly said on October 28 that retatrutide outperformed Novo Nordisk's Ozempic in TRANSCEND-T2D-2, an open-label Phase 3 trial of 1,298 adults with type 2 diabetes run to 80 weeks. Retatrutide cut A1C by 2.2 percentage points at both doses against 1.8 for Ozempic at its highest approved dose. Weight loss was 44.3 and 47.4 pounds versus 20.9 pounds. Discontinuation over side effects ran at 4.8 and 7.9 percent against 2.7 percent. The weight figures count only patients who stayed on treatment. Lilly plans an FDA submission in early 2027.",
+      "plain": "Ozempic imitates one gut hormone that signals fullness and helps control blood sugar. Retatrutide imitates three at once, which is why it is called a triple-G drug, and hitting three targets produced about twice the weight loss. The catch sits in the dropout numbers: on the higher dose nearly three times as many people quit over side effects. A drug only helps someone who keeps taking it, and the weight results count only those who did.",
+      "why": "Novo's position in diabetes rested on Ozempic being the benchmark rivals were measured against, and it is now the control arm that lost.",
       "sources": [
         {
-          "outlet": "HHS",
-          "url": "https://www.hhs.gov/press-room/fda-cms-advance-gene-therapies-rare-diseases-patient-access.html"
+          "outlet": "Eli Lilly",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-retatrutide-delivered-greater-a1c-reduction-and-more"
         },
         {
-          "outlet": "Pink Sheet",
-          "url": "https://insights.citeline.com/pink-sheet/advanced-technologies/cell-and-gene-therapies/medicaid-cell-and-gene-therapy-model-will-expand-beyond-sickle-cell-to-rare-disease-some-cancers-5AMY7NAXVZCVRDZNSSVODWMPCM/"
+          "outlet": "STAT",
+          "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/"
+        },
+        {
+          "outlet": "Fierce Biotech",
+          "url": "https://www.fiercebiotech.com/biotech/eli-lillys-retatrutide-tops-ozempic-phase-3-diabetes-showdown"
         },
         {
           "outlet": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/medicaid-sickle-cell-gene-therapy-payment-program/753174/"
+          "url": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/"
         }
       ]
     },
     {
       "slot": 5,
       "category": "Wildcard - AI Industry",
-      "headline": "China's AI and chip stocks have given up about $480 billion since July",
-      "body": "A Reuters analysis published October 26 found the STAR 50 index, which tracks mainland China's leading AI and semiconductor companies, has fallen roughly 40 percent in under four months from its July peak, erasing about $480 billion in market value. GPU designers MetaX and Moore Threads, up 700 and 400 percent on their debuts last year, have each halved since July. Optical-component makers Zhongji Innolight and Eoptolink are down about 60 percent, partly on Washington's moves toward barring them from US data centres. The index still trades near 100 times past earnings, against roughly 30 for the Nasdaq 100.",
-      "plain": "Chinese investors bid AI and chip companies up to extraordinary prices this year, then sold. Traders name no single trigger, pointing to valuations, tax bills and the risk that the United States bars Chinese networking gear from American data centres, removing a large customer. Note the figure that does not fit the word crash: even after losing 40 percent, these shares cost about 100 times yearly earnings, where US tech trades near 30.",
-      "why": "China's AI share prices deflated without a matching cut to AI spending, which is the cleanest live test of whether a market's AI valuations and its AI build-out are the same thing.",
+      "headline": "Anthropic's IPO filing shows $16.3 billion of half-year revenue and an $80.7 billion net loss",
+      "body": "Anthropic filed its S-1 publicly on October 26, applying to list on the Nasdaq under the ticker ANT with Goldman Sachs and Morgan Stanley leading. It reports $16.3 billion of revenue for the first half of 2026 against $1.2 billion a year earlier, and a net loss of $80.7 billion, of which $72.4 billion is a non-cash charge on convertible notes. Compute commitments run as high as $750 billion. The risk factors, about 94 pages, say no insurer or the industry as a whole may have capacity for a catastrophic AI incident. No price range is set.",
+      "plain": "An S-1 is the document a company must file before selling shares to the public, and the law requires it to spell out what could go wrong. Revenue grew more than thirteenfold in a year. The $80.7 billion loss is less alarming than it looks, because most of it is an accounting adjustment on loans that convert into shares rather than cash spent. The notable part is a company stating in a legal filing that its worst case may be uninsurable.",
+      "why": "Frontier labs have all described these risks in public, but this is the first time one has signed them under securities law, where a misstatement is actionable.",
       "sources": [
         {
-          "outlet": "Reuters",
-          "url": "https://www.investing.com/news/economy-news/analysisin-china-the-ai-bubble-has-already-burst-4972445"
+          "outlet": "SEC",
+          "url": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm"
         },
         {
-          "outlet": "The Business Standard",
-          "url": "https://www.tbsnews.net/worldbiz/china/china-ai-bubble-has-already-burst-1584106"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html"
         },
         {
-          "outlet": "Business Recorder",
-          "url": "https://www.brecorder.com/news/40443970/china-blue-chips-fall-to-14-month-low-on-tech-selloff"
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
         }
       ]
     },
     {
       "slot": 6,
       "category": "Wildcard - International Affairs",
-      "headline": "Finland and Norway's leaders hold a call with Putin, the first such contact in over a year",
-      "body": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Store spoke with Vladimir Putin for about 90 minutes on October 27, the first call between pro-Ukraine European leaders and the Kremlin in more than a year. Stubb said it followed an October 20 meeting in Oslo and was prepared in coordination with Ukraine and the United States. Store said there are big differences in views. The Kremlin said Putin criticised EU and NATO policy as prolonging the war but agreed to keep direct telephone contact. Ukrainian, Russian and US negotiators have agreed to technical talks in early November, reportedly in Abu Dhabi.",
-      "plain": "Since the invasion most European leaders have refused to telephone Putin at all, on the reasoning that a call is itself a reward that treats him as a normal head of state. Finland and Norway both border Russia, so they have the most to lose from a frozen conflict next door. They cleared the call with Kyiv and Washington first, which is what makes it diplomacy rather than defection. Nothing was agreed; the point was to open a line before next month's talks.",
-      "why": "Two NATO governments on Russia's border have decided the cost of refusing to talk now exceeds the cost of legitimising Putin, which is a shift in European posture rather than a single phone call.",
+      "headline": "Support for the UN resolution against the Cuba embargo falls to its lowest level since 1995",
+      "body": "The UN General Assembly adopted its 34th annual resolution calling for an end to the US embargo on Cuba on October 28, by 130 votes to 17 with 25 abstentions. Last year it passed 165 to 7 with 12 abstentions. The no votes included the United States, Israel, Argentina, Hungary and Ukraine; Germany and Italy abstained. US ambassador Mike Waltz told the Assembly that Cuba's crisis is its own government's fault, citing more than $876 million of US exports to Cuba this year. Reporting attributes the shift to an intensified US lobbying campaign.",
+      "plain": "Since 1992 the General Assembly has voted annually to tell the United States to drop its trade ban on Cuba, and almost every country votes yes. The vote changes nothing in law, because the Assembly cannot order Washington to do anything. Its only real function is as a scoreboard of who will side with the United States when doing so costs little. Thirty-five countries came off the yes column in one year, and that margin is the news.",
+      "why": "The lobbying machinery that moved 35 votes on a symbolic resolution is the same machinery available for votes that are not symbolic.",
       "sources": [
         {
-          "outlet": "Office of the President of Finland",
-          "url": "https://www.presidentti.fi/en/president-stubb-and-prime-minister-store-held-a-phone-call-with-president-putin/"
+          "outlet": "UN Press",
+          "url": "https://press.un.org/en/2026/ga12801.doc.htm"
         },
         {
-          "outlet": "Turkiye Today",
-          "url": "https://www.turkiyetoday.com/world/finland-norway-leaders-hold-rare-call-with-putin-on-ukraine-3231137"
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push"
         },
         {
-          "outlet": "TASS",
-          "url": "https://tass.com/politics/2208519"
+          "outlet": "China Daily",
+          "url": "https://global.chinadaily.com.cn/a/202610/29/WS6ae2d7fae4b06d4aa0565db7.html"
         }
       ]
     },
     {
       "slot": 7,
-      "category": "Wildcard - AI Industry",
-      "headline": "CoreWeave's default insurance hits a record, pricing better-than-even odds of failure",
-      "body": "Credit default swaps on CoreWeave, the AI cloud provider that rents Nvidia capacity to customers including OpenAI and Microsoft, reached a record. Bloomberg, citing ICE Data Services, put the five-year contract at an intraday peak of 1,194.5 basis points, implying a more than 60 percent chance of default within five years; CNBC reported levels nearer 1,038 to 1,145, and an October 27 reading put it at 1,148 against 835 a month earlier. The shares are down about 36 percent this month. Second-quarter accounts showed $35.6 billion of debt plus $16.3 billion of lease liabilities, about $20.7 billion of it due through 2030. CoreWeave reports a roughly $104 billion backlog and has announced no default.",
-      "plain": "A credit default swap is insurance against a company failing to pay its debts, so its price is a market estimate of that risk. CoreWeave's has never been this expensive. The cause is not weak demand, the usual reason companies fail: it holds orders worth about $104 billion. It borrowed heavily to buy chips and must refinance while interest rates rise. Its stock and bond investors disagree sharply, and both cannot be right.",
-      "why": "The AI build-out's fragile point is the financing schedule rather than customer demand, and CoreWeave is the first large test of what happens when those two diverge.",
+      "category": "Wildcard - Healthcare",
+      "headline": "HHS says it will not enforce against pharmacies compounding six unapproved peptides",
+      "body": "The Department of Health and Human Services said on October 28 it will use enforcement discretion not to act against state-licensed pharmacies, federal facilities and licensed physicians compounding six peptides: BPC-157, epitalon, KPV, MOTS-c, semax and TB-500. None is FDA-approved, and the agency's own scientists concluded there is insufficient data to establish that they are safe and effective. An FDA advisory committee backed the six in July; STAT reported that several panel members had ties to peptide sellers, which HHS said cleared standard ethics checks. HHS said it may reconsider if safety problems emerge.",
+      "plain": "Compounding is when a pharmacy mixes a drug to order for one patient instead of buying it ready-made. Normally the FDA clears a drug only after trials show it is safe and works. Nothing has been cleared here. The health department has only said it will not punish pharmacies for making these six substances, which is a different thing and can be withdrawn at any time. They already sold widely in the fitness market as research chemicals.",
+      "why": "Enforcement discretion is the route by which a substance reaches patients at scale without ever meeting the standard it was supposed to meet.",
       "sources": [
         {
-          "outlet": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-risk-gauge-hits-record-pricing-60-odds-of-default"
+          "outlet": "STAT",
+          "url": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/"
         },
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html"
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/health/health-news/rfk-jr-takes-shortcut-make-peptides-widely-available-rcna606133"
         },
         {
-          "outlet": "GuruFocus",
-          "url": "https://www.gurufocus.com/news/9145544/coreweave-faces-rising-debt-challenges-amid-market-doubts-crwv"
+          "outlet": "Reuters via KFGO",
+          "url": "https://kfgo.com/2026/10/28/us-health-department-to-allow-temporary-sale-of-some-unapproved-peptides/"
         }
       ]
     },
     {
       "slot": 8,
-      "category": "Wildcard - Healthcare",
-      "headline": "A judge lets Eli Lilly keep running ads comparing its weight-loss drug with Novo Nordisk's",
-      "body": "US District Judge Zahid Quraishi in Trenton denied Novo Nordisk's request for a preliminary injunction against Eli Lilly advertisements comparing the two companies' drugs directly, writing that Novo's showing of irreparable harm was inadequate to warrant the extraordinary relief it seeks. He found the advertisements had negligible market impact between April and July, and did not rule on whether they are false. The campaign compares Zepbound with Wegovy for weight loss and Mounjaro with Ozempic for type 2 diabetes. The case is No. 3:26-cv-09027 in the District of New Jersey.",
-      "plain": "Novo Nordisk and Eli Lilly make the competing weight-loss injections. Lilly ran adverts saying its drug works better, and Novo sued, calling the comparison misleading. Novo asked the judge to pull them immediately, before the case is decided. He refused, and the reason is narrow: he did not find the adverts truthful, only that Novo could not show they were costing it enough to justify emergency action. So adverts that may yet be ruled misleading keep running.",
-      "why": "Drugmakers have largely avoided naming rivals in consumer advertising for fear of injunctions, and a ruling that the ads run until a verdict changes that calculation for every branded drug.",
+      "category": "Wildcard - AI Industry",
+      "headline": "SK hynix books the first 100-trillion-won quarter in its history at an operating margin near 80 percent",
+      "body": "SK hynix reported third-quarter revenue of 104.6 trillion won on October 28, up 32 percent from the prior quarter and 328 percent from a year earlier, its first quarter above 100 trillion won. Operating profit was about 83.3 trillion won, a company record and a margin near 80 percent, against consensus closer to 77 trillion. The company began mass production and shipment of HBM4 memory in the quarter and said long-term supply agreements give it revenue visibility through 2028. It outlined roughly $75.4 billion of shareholder returns for 2026.",
+      "plain": "Every AI chip needs memory beside it to feed it data, and SK hynix makes the fastest kind, called HBM. An operating margin near 80 percent means roughly 80 cents of every sales dollar is profit before tax. You almost never see that in manufacturing, because it happens only when customers have nowhere else to buy. Revenue more than quadrupled in a year, and the contracts running to 2028 lock in boom-era prices in advance.",
+      "why": "Margins that wide measure scarcity rather than skill, and the multi-year contracts book that scarcity into revenue through 2028 regardless of what demand does next.",
       "sources": [
         {
-          "outlet": "Reuters",
-          "url": "https://investing.com/news/stock-market-news/us-judge-lets-eli-lilly-continue-ads-for-weightloss-drugs-rules-against-novo-nordisk-4973544"
+          "outlet": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/sk-hynix-q3-2026-slides-revenue-tops-100t-80-margin-on-ai-boom-93CH-4977357"
         },
         {
-          "outlet": "Law360",
-          "url": "https://www.law360.com/articles/2542704/novo-can-t-get-deceptive-lilly-glp-1-ads-blocked-amid-suit"
+          "outlet": "GuruFocus",
+          "url": "https://www.gurufocus.com/news/9150253/sk-hynix-inc-skhy-q3-2026-earnings-call-highlights-record-krw1046-trillion-revenue-and-80-operating-margin-as-hbm4-ramps"
         },
         {
-          "outlet": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/us-judge-rejects-novo-nordisk-bid-to-halt-eli-lilly-s-weight-loss-drug-ads-126102700107_1.html"
+          "outlet": "TrendForce",
+          "url": "https://www.trendforce.com/news/2026/10/26/news-sk-hynix-3q-earnings-preview-record-profit-at-78-operating-margin-hbm4-ltas-solidigm-in-focus/"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "TSMC is reported to be weighing a 10 to 20 percent rise in advanced packaging prices",
-      "body": "Taiwanese outlets Commercial Times and Economic Daily, relayed by TrendForce on October 27, report that foundries and packaging firms are weighing another round of CoWoS advanced-packaging price increases of 10 to 20 percent, and that TSMC has settled on raising wafer prices 3 to 6 percent from January 2027, steepest on its 2-nanometre and 3-nanometre nodes. Tom's Hardware reported a different 2027 range of 5 to 10 percent. TSMC has confirmed none of it, and every figure rests on unnamed supply-chain sources.",
-      "plain": "A modern AI accelerator is not one chip. It is several pieces of silicon, including stacks of memory, bonded onto a single base and wired together, and TSMC's version of that assembly step is called CoWoS. Those assembly lines, not chipmaking itself, are the narrow part of the pipe, which is why whoever does the assembly can raise prices. Treat the numbers carefully: TSMC has said nothing, and two outlets already give different figures for the same increase.",
-      "why": "Packaging is the real ceiling on how many AI accelerators exist, and because phones and laptops share those lines, a rise there reaches consumer prices before it reaches a data-centre invoice.",
+      "headline": "South Korea fines Google and Apple 63.7 billion won in the first enforcement of its in-app payment law",
+      "body": "The Korea Media and Communications Commission fined Google 42.9 billion won and Apple 20.81 billion won on October 28, about 63.7 billion won combined or roughly $45 million to $48 million, for requiring developers to use the companies' own payment systems and for unfairly delaying app reviews. It is the first enforcement under the 2021 amendment to the Telecommunications Business Act, which bars app stores from mandating a payment method. Both must allow links to external payment pages and revise commission structures within three months. Apple said it disagrees and is reviewing options; Google said it was disappointed.",
+      "plain": "When you buy something inside a phone app, Google and Apple have long required the payment to run through their own systems, on which they take a cut of up to 30 percent. South Korea banned that in 2021, the first country anywhere to do so, and has now, five years later, actually imposed a penalty. The money is trivial at this scale. The order with real force is the three-month deadline to let developers link out.",
+      "why": "The European Union and others wrote comparable rules, so Korea's remedy rather than its fine is the template other regulators will copy.",
       "sources": [
         {
-          "outlet": "TrendForce",
-          "url": "https://www.trendforce.com/news/2026/10/27/news-tsmc-reportedly-eyes-20-cowos-price-hike-skips-equipment-price-renegotiations-amid-ai-demand-surge"
+          "outlet": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/business/companies/20261028/korea-fines-google-apple-combined-476-mil-over-in-app-payment-practices"
         },
         {
-          "outlet": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months"
+          "outlet": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/business/korea-fines-google-and-apple-476-million-over-inapp-payments/12943573"
         },
         {
-          "outlet": "Business Standard",
-          "url": "https://www.business-standard.com/amp/technology/tech-news/ai-chip-costs-tsmc-cowos-price-hike-smartphone-laptop-prices-126102801174_1.html"
+          "outlet": "UPI",
+          "url": "https://www.upi.com/Top_News/World-News/2026/10/28/antitrust-google-apple-in-app-payments-app-stores/9711793232887/"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "A judge blocks tree removal at a DC golf course, then orders a top Justice Department official back to explain Trump's own post",
-      "body": "US District Judge Ana Reyes issued a 70-page opinion and preliminary injunction on October 26 barring further removal of trees at East Potomac Golf Links, finding plaintiffs likely to succeed on claims the government split the redevelopment into separate projects to avoid environmental review. At an October 19 hearing, Associate Attorney General Stanley Woodward had told her, \"There is no plan to close the course,\" and Interior chief of staff Gregory Wischer said he was \"not aware\" of work set to begin November 15. Reyes wrote that she would credit Trump's own public statements that renovation was beginning immediately over the government's description of the cutting as routine maintenance. Hours after the ruling Trump posted that the course will close November 15 anyway, and Reyes ordered Woodward back into court to say whether his statement still holds. The Justice Department filed a notice of appeal, signed by Woodward.",
-      "plain": "Before cutting trees on federal parkland the government must study the environmental damage first. One way around that is to chop a big project into small pieces, each too minor to require a study. The judge found that likely happened, and she got there unusually: the government's lawyers told her the work was routine with no closure planned, while Trump was publicly saying the opposite, so she believed him over them. He then posted the closure date his lawyers had denied.",
-      "why": "The president's public statements are now being used as evidence against his own Justice Department's representations in court, which costs his lawyers the ability to characterise what he intends.",
+      "headline": "Three Wall Street firms are paying Trump's company for his posts 50 milliseconds early",
+      "body": "Reuters reported on October 28 that Bloomberg, Susquehanna International Group and Jump Trading have signed up for Truth API, a Trump Media product delivering posts from ten accounts, Trump's among them, roughly 50 milliseconds ahead of the ordinary app for up to $100,000 a month. Trump Media called it an industry-standard API product and said the reporting rested on misleading information; Reuters said it could not confirm individual payments. Trump Media's SEC filings list Donald Trump Jr. as trustee of the family trust holding the president's stake, with sole voting and investment power. No agency has made a finding and no charges have been filed.",
+      "plain": "The president's posts move markets, because a sentence about tariffs or a company can swing prices within seconds. A company in which his family trust holds a large stake sells a feed delivering those posts a twentieth of a second before everyone else, and high-speed trading firms pay up to $100,000 a month for it. Fifty milliseconds is ample time for a computer to trade. Nothing has been ruled illegal; two senators have asked the SEC to look.",
+      "why": "The arrangement turns presidential speech into a timed, priced commodity sold by a company the president's family controls, a structure no existing ethics rule was drafted to address.",
       "sources": [
         {
-          "outlet": "Bloomberg Law",
-          "url": "https://news.bloomberglaw.com/us-law-week/judge-rejects-baseless-doj-bid-to-recuse-from-golf-course-case"
+          "outlet": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivebloomberg-two-trading-firms-agree-to-pay-trumps-truth-social-for-faster-access-to-presidents-posts-sources-say-4981264"
         },
         {
-          "outlet": "The Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/oct/26/judge-blocks-trump-plans-golf-course-east-potomac-park-national-mall/"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/18/trump-media-pitched-100000/month-fee-for-fastest-feed-of-trump-posts.html"
         },
         {
-          "outlet": "WUSA9",
-          "url": "https://www.wusa9.com/article/news/legal/east-potomac-golf-course-trees-president-trump-judge-ana-reyes-national-park-service-department-of-the-interior/65-df66d41c-520b-44b7-9673-0f73e1d65111"
-        },
-        {
-          "outlet": "The Philadelphia Inquirer",
-          "url": "https://www.inquirer.com/news/nation-world/trump-east-potomac-golf-plans-trees-cut-hearing-judge-reyes-recusal-20261019.html"
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading"
         }
       ]
     }
