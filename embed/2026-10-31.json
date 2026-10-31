@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-31",
+  "dateLabel": "Saturday, October 31, 2026",
+  "generated": "2026-10-31T12:15:19Z",
+  "tldr": [
+    "AI Industry: OpenAI cuts its funding round target from about $30 billion to about $20 billion and drops its asking valuation to $1.25 trillion.",
+    "International: Iran's Revolutionary Guard says tankers hit mines and burned in the Strait of Hormuz as Qatari mediators carry a revised peace draft to Tehran.",
+    "Economics: The Nasdaq posts its worst day since June on doubts about AI spending, and Intel falls 28.6 percent, its worst day since 1974.",
+    "Healthcare: KFF projects the average stand-alone Medicare drug plan premium rises 50 percent to $51 a month in 2027 for enrollees who do not switch.",
+    "Wildcard - AI Industry: Bloomberg tallies more than $3 trillion of future data-center, lease and energy commitments at Alphabet, Meta, Microsoft, Amazon and Oracle.",
+    "Wildcard - International Affairs: Poland suspends the head of its Constitutional Tribunal, riot police surround the court, and the president turns his plane around mid-flight.",
+    "Wildcard - Healthcare: Affordable Care Act enrollment opens November 1 with benchmark premiums up 13 percent and eleven insurers leaving state marketplaces.",
+    "Wildcard - Economics: Euro area GDP grew 0.4 percent in the third quarter, double the 0.2 percent economists expected.",
+    "Tech: The FCC votes to open 482 megahertz to satellite-to-phone service and to scrap the rule forcing satellite operators to lease from every carrier.",
+    "Trump News: A federal judge opens a formal inquiry into whether Justice Department lawyers misled her about the plan to close a public golf course in Washington."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "OpenAI cuts its funding round by $10 billion and lowers its own valuation",
+      "body": "OpenAI reduced the target for its current private round from about $30 billion to about $20 billion and cut its asking valuation from $1.4 trillion to $1.25 trillion, the Financial Times reported Friday, October 30. The deadline for binding commitments passed that day, and the FT reported the first close could come in below even the reduced target. OpenAI declined to comment. The cut surfaced with the Nasdaq 100 about 10 percent below its October 6 record and weeks before Anthropic's IPO, expected in mid-November.",
+      "plain": "A private company raises money by agreeing a price with large investors rather than on a stock exchange. OpenAI, which makes ChatGPT, had been asking investors to value it at $1.4 trillion and hoping to collect $30 billion. Not enough said yes, so it lowered both figures. The timing is the interesting part: the cut surfaced on the day technology shares had their worst fall in months, and before rival Anthropic goes public.",
+      "why": "The company that set the AI market's price expectations has now marked itself down, which removes the private anchor that public valuations were being justified against.",
+      "sources": [
+        {
+          "outlet": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/10/62763209/openai-cuts-funding-target-ai-selloff"
+        },
+        {
+          "outlet": "Trending Topics",
+          "url": "https://www.trendingtopics.eu/openai-funding-round-20-billion-ai-sector/"
+        },
+        {
+          "outlet": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/openai-trims-round-to-20b-at-125t-valuation-ft-says"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "Iran says tankers struck mines in the Strait of Hormuz as Qatar carries a revised peace draft to Tehran",
+      "body": "The Islamic Revolutionary Guard Corps navy said tankers caught fire in the Strait of Hormuz after striking mines, counting three on October 30 and four on October 31, one carrying 2 million barrels of crude. Reuters said it could not verify the claims, and the US military has called earlier IRGC mine claims false. Omani authorities evacuated 25 crew from a Panama-flagged tanker attacked near Musandam. A Qatari delegation returned to Tehran Friday with revisions to a draft deal ending the nine-month US-Iran war; Trump said it is 'going to get wrapped up soon' without saying how. Strait traffic remains about 70 percent below pre-conflict levels.",
+      "plain": "The Strait of Hormuz is a narrow sea passage that much of the world's seaborne oil has to squeeze through. Iran's Revolutionary Guard, a force separate from its regular army, says tankers there hit sea mines and burned. No one outside Iran has confirmed it, the US has called similar past claims untrue, and the count changed from three to four in a day, so treat the specifics as unverified.",
+      "why": "Mine claims and a peace draft landing in the same 24 hours is the shape of an endgame negotiation, in which each side raises the cost of the waterway staying shut to improve its terms.",
+      "sources": [
+        {
+          "outlet": "Reuters via Yahoo News",
+          "url": "https://www.yahoo.com/news/articles/irans-irgc-navy-says-two-120000829.html"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
+        },
+        {
+          "outlet": "Reuters via Yahoo News",
+          "url": "https://www.yahoo.com/news/politics/articles/qatar-pushes-u-iran-deal-110735519.html"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "The Nasdaq has its worst day since June as investors stop taking AI spending on faith",
+      "body": "The Nasdaq Composite closed down 2.86 percent at 25,437.00 on Friday, October 30, its largest one-day drop since June 5; the S&P 500 fell 1.82 percent to 7,580.07. Intel closed at $65.76, down about 28.6 percent and its worst day since 1974, after guiding fourth-quarter revenue to $15 billion to $16 billion against roughly $17 billion expected. Amazon's AI capital spending ran faster than expected. AMD fell 10.9 percent, Nvidia 4.2 percent, and the Philadelphia semiconductor index 7.2 percent. NBC News put the day's loss across the Nasdaq 100 near $1 trillion.",
+      "plain": "Companies tell investors what they expect to earn next quarter. Intel's guidance came in far below expectations for a mundane reason: memory chips got expensive, so PC makers are buying fewer computers. That broke the assumption that anything chip-related grows regardless. Amazon then said it is spending even more than planned on AI data centres. Spending more while earning less is what unsettles shareholders, and the selling spread through the supply chain.",
+      "why": "Investors have started separating companies that collect AI revenue from companies that merely spend on AI, and Intel showed a chip label alone no longer earns a premium.",
+      "sources": [
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512"
+        },
+        {
+          "outlet": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html"
+        },
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-day-since-1974-122551272.html"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "Medicare drug plan premiums are projected to rise 50 percent for enrollees who stay put",
+      "body": "A KFF analysis projects the enrollment-weighted average monthly premium for stand-alone Medicare Part D plans reaches $51 in 2027, up 50 percent from $34, for enrollees who keep their current plan. KFF finds no $0-premium stand-alone plans will be available to enrollees without low-income subsidies, that 10.4 million of them, 76 percent, would pay more by staying put, and that the average deductible rises to $643 from $540. The driver is CMS ending its temporary Part D Premium Stabilization Demonstration after 2026. CMS projects a far smaller move, to about $36 from $35.09, because its average spans the whole market.",
+      "plain": "Part D is the prescription-drug side of Medicare, sold by private insurers that each set their own monthly price. For several years the government paid insurers to hold those prices down; that payment ends after 2026, so prices are springing back. The two competing figures are not contradictory. KFF asks what you pay if you do nothing; the government averages across all plans, including cheap new ones.",
+      "why": "A subsidy that expires quietly can take more out of household budgets than a law that passes loudly, and this one lands hardest on the enrollees least likely to shop.",
+      "sources": [
+        {
+          "outlet": "KFF",
+          "url": "https://www.kff.org/medicare/the-average-monthly-premium-for-medicare-part-d-stand-alone-plans-is-projected-to-increase-by-50-from-34-to-51-in-2027-unless-enrollees-switch-to-lower-cost-plans/"
+        },
+        {
+          "outlet": "KFF Health News",
+          "url": "https://kffhealthnews.org/medicare/medicare-drug-plans-premium-hikes-affordability-trump-cms/"
+        },
+        {
+          "outlet": "Insurance Business",
+          "url": "https://www.insurancebusinessmag.com/us/news/benefits/zeropremium-drug-plans-disappear-in-2027-as-federal-subsidy-ends-595666.aspx"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - AI Industry",
+      "headline": "Big Tech's future AI commitments now exceed $3 trillion, most of it off the balance sheet",
+      "body": "Bloomberg reported October 30 that Alphabet, Meta, Microsoft, Amazon and Oracle together hold more than $3 trillion in future commitments for data centres, leases, equipment and energy. About $1.3 trillion is future lease obligations, some running 30 years, and about $1.9 trillion is other purchase commitments. Alphabet's total exceeds $1 trillion and Meta's exceeds $800 billion, up from roughly $2.4 trillion in July for four of the companies, before Oracle was counted. Bloomberg notes the companies disclose these commitments differently, which makes direct comparison difficult.",
+      "plain": "A commitment is a promise to pay later, like signing a 30-year lease. It is not money already spent, so a company can look profitable now while owing enormous sums for years ahead. Across the five biggest AI spenders those promises pass $3 trillion. Each firm reports them differently, so the total is stitched together rather than official. It also explains why one weak quarter moves these shares so violently: the bills are locked in.",
+      "why": "Locked-in obligations are what turn an investment cycle into a solvency question, because leases and energy contracts come due whether or not the demand that justified them arrives.",
+      "sources": [
+        {
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom"
+        },
+        {
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/big-tech-3-trillion-ai-spending-commitments"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - International Affairs",
+      "headline": "Poland suspends its top constitutional judge and riot police surround the court",
+      "body": "Riot police were deployed around Poland's Constitutional Tribunal in Warsaw after its president, Bogdan Swieczkowski, was suspended; police said three people were arrested trying to enter the complex. Justice Minister and Attorney General Waldemar Zurek said he had requested that immunity be lifted for Swieczkowski and his deputy, Bartlomiej Sochanski. President Karol Nawrocki turned his plane around mid-flight to Senegal, met the suspended judge in Warsaw and accused the government of seizing a constitutional institution. The tribunal's own account called it a coup d'etat.",
+      "plain": "A constitutional court decides whether a country's laws break its constitution, which makes it the referee over the government itself. Poland's government says these judges were installed improperly by the previous government; the opposition says removing them is the real power grab. Both sides claim to be defending the constitution, which is what makes this hard to settle rather than merely loud. No source yet confirms whether the suspension stands.",
+      "why": "When a government and a president each claim constitutional authority over the same court, no institution is left with standing to settle it, which is how rule-of-law disputes become permanent.",
+      "sources": [
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/live-news/20261030-polish-riot-police-deployed-after-court-chief-suspended"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st"
+        },
+        {
+          "outlet": "CTV News",
+          "url": "https://www.ctvnews.ca/world/article/polish-president-cuts-senegal-trip-short-as-top-court-chief-suspended/"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - Healthcare",
+      "headline": "ACA enrollment opens with benchmark premiums up 13 percent and eleven insurers leaving",
+      "body": "Affordable Care Act open enrollment begins November 1 in most states for 2027 coverage. Benchmark exchange premiums rise an average of 13 percent, according to KFF, with insurers citing higher medical costs and the expiration of the enhanced federal subsidies at the end of 2025. Eleven insurers have announced plans to exit some state marketplaces for 2027, including Cigna in Tennessee. Enrollment has already fallen to roughly 19 million since the enhanced subsidies lapsed, and people earning at least 400 percent of the federal poverty level no longer qualify for assistance.",
+      "plain": "The ACA marketplace is where people without job-based insurance buy their own. The government covers part of the premium, and for several years it covered an unusually large part. That extra help ended, so buyers see more of the real price just as the price rises 13 percent. Insurers leaving states compounds it: fewer plans to switch to means shopping around stops working as an escape route.",
+      "why": "Rising prices and departing insurers reinforce each other, and each turn of that loop leaves the marketplace covering a smaller and more expensive group.",
+      "sources": [
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/health/health-care/many-aca-coverage-face-new-crisis-2027-insurers-fleeing-market-rcna606211"
+        },
+        {
+          "outlet": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/oct/30/obamacare-see-double-digit-premium-hike-2027-likely-eroding/"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - Economics",
+      "headline": "Euro area growth came in at double what economists expected",
+      "body": "Eurostat's preliminary flash estimate, published October 30, put euro area GDP up 0.4 percent in the third quarter and EU GDP up 0.5 percent; economists had forecast 0.2 percent for the euro area. Year on year, growth was 1.3 percent in the euro area and 1.5 percent in the EU, with second-quarter euro area growth revised to 0.6 percent. Eurostat flagged Ireland's 5.5 percent quarterly jump as experimental. The October flash inflation reading, following September's 3.8 percent, is due November 4.",
+      "plain": "GDP is the total value of what an economy produces, and a flash estimate is a fast first guess published before all the data arrives. Europe's came in twice as strong as forecast, which matters because Europe was supposed to be the weak spot, squeezed by high energy prices from the closed Strait of Hormuz. One figure deserves suspicion: Ireland's 5.5 percent jump, which Eurostat itself labels experimental, because Irish numbers swing when multinationals shift profits across borders.",
+      "why": "A stronger euro area makes it harder for the European Central Bank to justify cutting rates with inflation near 3.8 percent, narrowing the gap between European and US borrowing costs.",
+      "sources": [
+        {
+          "outlet": "Eurostat",
+          "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-30102026-ap"
+        },
+        {
+          "outlet": "FXStreet",
+          "url": "https://www.fxstreet.com/news/eurozone-gdp-expands-04-in-q3-beats-02-estimates-202610301002"
+        },
+        {
+          "outlet": "Agence Europe",
+          "url": "https://agenceurope.eu/en/bulletin/article/13972/13/euro-area-gdp-estimated-to-have-risen-by-04-in-third-quarter"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "The FCC moves to open 482 megahertz to satellite phone service and drop the rule that protected carriers",
+      "body": "At its October 29 open meeting the Federal Communications Commission adopted a notice of proposed rulemaking that would make 482 megahertz of additional spectrum available for satellite-to-phone service, raising the eligible bands from five to thirteen. It would also remove the requirement that a satellite operator lease spectrum from every carrier holding those airwaves across an area as large as the continental United States, the provision that has kept direct-to-device service dependent on carrier cooperation. AT&T, Verizon and T-Mobile, through CTIA, had asked the commission to drop the 2.5 and 3.45 gigahertz bands, 290 of the 482 megahertz at issue. Final rules need a second vote after comment.",
+      "plain": "Spectrum is the set of radio frequencies phones use, and transmitting on any slice requires a government licence. Until now a satellite company wanting to reach ordinary phones directly had to rent frequencies from every mobile carrier in the area, which handed the carriers a veto. The FCC is proposing to remove that veto and roughly triple the available frequencies. This is a first vote, not a final rule, so nothing changes yet.",
+      "why": "Dropping the carrier-lease requirement would turn satellite operators from partners that mobile networks sell through into competitors that sell around them.",
+      "sources": [
+        {
+          "outlet": "Capacity",
+          "url": "https://capacityglobal.com/news/the-fcc-vote-that-could-turn-starlink-from-partner-to-rival/"
+        },
+        {
+          "outlet": "New Space Economy",
+          "url": "https://newspaceeconomy.ca/2026/10/30/fcc-proposes-expanded-supplemental-coverage-from-space-rules/"
+        },
+        {
+          "outlet": "Android Headlines",
+          "url": "https://www.androidheadlines.com/2026/10/att-tmobile-verizon-fcc-satellite-spectrum-spacex.html"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "A judge opens a formal inquiry into whether Justice Department lawyers misled her about Trump's golf course plans",
+      "body": "Judge Ana Reyes of the US District Court for the District of Columbia said on October 30 she will open a formal inquiry, and appoint a special master, into whether agency and Justice Department attorneys made misrepresentations to the court in the litigation over East Potomac Golf Links. Trump said publicly the course would close November 15 and renovation would begin; administration lawyers told Reyes there was no final plan. Per Bloomberg Law, Associate Attorney General Stanley Woodward told her at an October hearing that a planning submission had been in the works for weeks, which the department had not disclosed. Reyes extended her ban on tree removal, required 10 days' notice before closure, and ordered documents preserved. She stated she was not finding that the lawyers had lied, only that she intends to consider it.",
+      "plain": "When the government is sued, its lawyers owe the judge candour, and a judge who suspects they fell short can appoint an outside lawyer, a special master, to investigate. Here the president said the course was closing on a set date and work was starting; his own lawyers told the judge no plan was settled. One of those statements was wrong. The judge has not ruled that anyone lied, and said so explicitly.",
+      "why": "A special-master inquiry into government lawyers' candour builds a sworn record of who knew what, which is harder to manage than simply losing the underlying case.",
+      "sources": [
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj"
+        },
+        {
+          "outlet": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/us-law-week/judge-to-probe-if-doj-violated-ethics-rules-in-golf-course-case"
+        },
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course/"
+        }
+      ]
+    }
+  ]
+}
