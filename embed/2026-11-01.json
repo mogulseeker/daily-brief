@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-01",
+  "dateLabel": "Sunday, November 1, 2026",
+  "generated": "2026-11-01T13:11:32Z",
+  "tldr": [
+    "AI Industry: S&P Global Ratings cuts Meta's credit outlook to negative, warning AI spending could push its leverage past the limit for its AA- rating by 2027.",
+    "International: The State Department clears a $2.1 billion sale of 500 Patriot interceptors to Ukraine, paid for by Canada, Germany, Norway and an EU loan rather than by Washington.",
+    "Economics: Three Fed regional presidents call for more rate increases days after the Fed held at 3.75 to 4 percent, with core inflation stuck at 3.1 percent.",
+    "Healthcare: Ebola deaths in the Democratic Republic of the Congo pass 5,000, with roughly half of the 10,351 recorded cases fatal and no vaccine approved for this strain.",
+    "Wildcard - AI Industry: Voters in 10 states decide 41 local data-center ballot measures on Tuesday, 17 of which would prohibit construction outright.",
+    "Wildcard - International Affairs: Israel's final vote count leaves neither bloc at the 61 seats needed to govern, with Arab parties holding a record 19.",
+    "Wildcard - Economics: Apple closes Friday worth $5.03 trillion and retakes the title of most valuable company from Nvidia, mainly because Nvidia fell 4.2 percent.",
+    "Wildcard - Healthcare: A federal judge strikes down the administration's narrower test for Medicaid work-requirement exemptions in a suit brought by 25 states.",
+    "Tech: The FBI blames North Korea's TraderTraitor group for the $6.3 billion Binance theft, the largest crypto heist recorded, as the exchange reopens withdrawals.",
+    "Trump News: A federal judge dismisses Trump's $10 billion defamation suit against the Wall Street Journal with prejudice, finding he again failed to allege actual malice."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "S&P turns negative on Meta's credit over the size of its AI build-out",
+      "body": "S&P Global Ratings cut its outlook on Meta Platforms to negative from stable on Friday, October 30, while affirming the AA- rating. S&P said leverage could pass 1.0x, its threshold for that rating, as early as 2027, with capital spending near $140 billion this year and above $225 billion in 2027. Reuters reported projected free operating cash flow deficits of $39 billion in 2026 and $71 billion in 2027. S&P called Meta's ability to monetize AI more limited than its peers'. Meta said it respectfully disagrees.",
+      "plain": "A credit rating is a score for how safely a company can borrow. S&P, one of the firms that sets those scores, did not cut Meta's, but warned it may within about two years. The reason is that Meta is spending so heavily on data centers, the warehouses of computers that run AI, that cash leaves faster than it arrives. S&P's specific complaint is that Meta has fewer ways to earn it back than its rivals do.",
+      "why": "The question about AI spending has shifted from whether shareholders will tolerate it to whether lenders will, and credit analysts are a harder audience than equity investors.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "url": "https://lufkindailynews.com/news_reuters/business/s-p-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns/article_81ccd3ca-2071-5cd3-9d9a-189180643aef.html"
+        },
+        {
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
+        },
+        {
+          "outlet": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62763179/sp-global-cuts-meta-credit-outlook-to-negative-ai-spending"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "US clears sale of 500 Patriot interceptors to Ukraine, with allies paying the bill",
+      "body": "The State Department approved a possible $2.1 billion sale of 500 Patriot PAC-3 interceptors to Ukraine on Friday, October 30, with Lockheed Martin as prime contractor. The department said no US funds are involved: Canada, Germany and Norway are contributing through a program called US JUMPSTART, alongside Ukrainian funds financed by the European Union's Ukraine Support Loan. No delivery dates were given, and President Volodymyr Zelenskyy warned the missiles could take years to arrive. Australia's ABC put the value at $3 billion; Reuters, CNN and CBS report $2.1 billion.",
+      "plain": "Patriot interceptors are missiles whose job is to shoot down other missiles, and Ukraine uses them to defend cities from Russian strikes. They are scarce because few factories build them. Two things stand out. Washington approved the sale but is not paying for it; European governments and an EU loan are. And an approval is not a delivery: Zelenskyy's warning is that the queue is measured in years, not weeks.",
+      "why": "Approving weapons that allies pay for lets Washington keep backing Ukraine without spending US money, which is the shape most further support is likely to take.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "url": "https://www.spokesman.com/stories/2026/oct/30/us-approves-21-billion-patriot-missile-sale-to-ukr/"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/10/30/politics/us-approves-potential-patriot-missile-sale-ukraine"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/ukraine-patriot-missiles-us-lockheed-martin-sale-zelenskyy/"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "Three Fed officials say rates need to rise further, days after the Fed paused",
+      "body": "Dallas Fed President Lorie Logan said on Friday, October 30 at Davidson College that the Federal Open Market Committee needs at least two more quarter-point increases before pausing. St. Louis's Alberto Musalem said further tightening is needed soon, and Richmond's Tom Barkin said only the pace is still in question. The committee held at 3.75 to 4.00 percent on October 28, with Cleveland's Beth Hammack dissenting in favour of a hike. Core PCE ran 3.1 percent through September, headline 3.6 percent. Markets have priced a December increase. Logan votes on it; Musalem does not.",
+      "plain": "The Federal Reserve sets the interest rate underlying borrowing costs across the economy, and raises it to slow price increases. It lifted rates in September, its first increase since 2023, then held steady this week. Now three of its twelve regional presidents say more increases are needed, because inflation stopped falling and turned back up, partly on fuel costs tied to the closed Strait of Hormuz. Whether a view counts depends on who votes, and Logan does.",
+      "why": "Officials arguing over how fast to hike rather than when to cut resets the cost of money for everything from mortgages to the debt financing the AI build-out.",
+      "sources": [
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/article/rates-need-to-be-higher-3-fed-members-say-the-question-is-how-much-173755732.html"
+        },
+        {
+          "outlet": "Quartz",
+          "url": "https://qz.com/fed-officials-signal-more-interest-rate-hikes-103026"
+        },
+        {
+          "outlet": "Morningstar",
+          "url": "https://www.morningstar.com/economy/september-pce-report-pce-inflation-index-up-36-line-with-expectations"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "Ebola deaths in the Democratic Republic of the Congo pass 5,000",
+      "body": "Ebola deaths in the Democratic Republic of the Congo passed 5,000 on Saturday, October 31, on Congolese government figures reported by Al Jazeera and the Associated Press: 5,026 deaths among 10,351 recorded cases, a fatality rate near 49 percent. The European Centre for Disease Prevention and Control, using data through October 28, counts 10,274 confirmed cases and 4,992 deaths. The strain is Bundibugyo, for which no vaccine or treatment is approved; the licensed Ervebo vaccine targets the Zaire strain. It is the second-largest Ebola outbreak recorded. Cholera is spreading in the same region.",
+      "plain": "Ebola is a virus that causes severe bleeding and kills roughly half the people it infects. There are several strains, and this one is Bundibugyo. That detail is the whole problem: the vaccine that worked in earlier Congolese outbreaks was built for a different strain and does not protect against this one. So health workers rely on isolation and contact tracing alone, the methods used before vaccines existed. Cholera is spreading through the same towns, competing for the same clinics.",
+      "why": "An outbreak this large with no vaccine means containment rests entirely on surveillance and staffing, which is exactly what gives way as a virus reaches new borders.",
+      "sources": [
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/world/africa/congo-ebola-outbreak-deaths-top-5000-fear-continent-wide-spread-mounts-rcna606677"
+        },
+        {
+          "outlet": "ECDC",
+          "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - AI Industry",
+      "headline": "Voters in 10 states decide 41 local data-center measures on Tuesday",
+      "body": "Localities across 10 states vote on 41 data-center ballot measures on November 3, according to a Ballotpedia tally reported October 29. Seventeen would prohibit data-center development outright and eight would give local governments authority to permit it. Ohio accounts for 21, more than half the total. Ballotpedia counts at least 49 such measures across 13 states in 2026. A separate Ohio campaign to bar data centers drawing more than 25 megawatts missed the deadline for this ballot. Illinois, Kansas, California, Michigan, Nevada, Florida, Wisconsin and Virginia also have local measures.",
+      "plain": "A data center is a building full of computers, and the AI ones consume enormous amounts of electricity and water. Whether one gets built is normally a local decision, made by a county board or a zoning vote. On Tuesday residents in dozens of places vote on it directly, and about 40 percent of the measures would ban the buildings outright. Anthropic's own IPO filing listed local construction moratoriums as a business risk, so the companies are watching.",
+      "why": "The binding constraint on AI build-out is turning out to be municipal permission rather than capital, and permission is granted by people who receive none of the revenue.",
+      "sources": [
+        {
+          "outlet": "Ballotpedia",
+          "url": "https://news.ballotpedia.org/2026/03/19/voters-in-at-least-five-jurisdictions-will-decide-ballot-measures-related-to-data-centers-in-2026/"
+        },
+        {
+          "outlet": "Smart Cities Dive",
+          "url": "https://www.smartcitiesdive.com/news/data-centers-on-more-than-3-dozen-local-ballots/873183/"
+        },
+        {
+          "outlet": "Newsweek",
+          "url": "https://www.newsweek.com/ohio-has-half-of-us-data-center-ballot-measures-in-midterms-12525098"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - International Affairs",
+      "headline": "Israel's final count leaves neither bloc able to form a government",
+      "body": "Israel's Central Elections Committee completed its count on Thursday, October 29, and neither bloc reached the 61 Knesset seats needed to govern. Prime Minister Benjamin Netanyahu's bloc took 53 seats; the opposition bloc led by Gadi Eisenkot took 48. Arab parties won a record 19, which leaves them holding the balance, since either side needs them for a majority. Likud is the largest single party at 27 seats. Ofer Winter's People of Israel and Yoaz Hendel's The Reservists-Economic party fell below the 3.25 percent threshold. No coalition agreement has been reported.",
+      "plain": "Israel elects a 120-seat parliament called the Knesset, and a prime minister needs 61 seats to govern. Nobody got there. Netanyahu's group holds 53, his opponents 48, and Arab parties, who represent Israel's Palestinian citizens and about a fifth of the population, hold a record 19. That last number is the interesting part. Both sides have historically excluded Arab parties from coalitions, and now neither can reach a majority without them.",
+      "why": "Either Israel's next government depends on Arab parties for the first time in its history, or the country heads into another election.",
+      "sources": [
+        {
+          "outlet": "Haaretz",
+          "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article-magazine/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"
+        },
+        {
+          "outlet": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-913237"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - Economics",
+      "headline": "Apple retakes the most-valuable-company title because Nvidia fell further",
+      "body": "Apple closed Friday, October 30 worth about $5.03 trillion against Nvidia's $4.93 trillion, retaking first place for the first time since briefly passing Nvidia in late July. The change came from Nvidia's fall rather than Apple's strength: Nvidia dropped 4.2 percent on the day and Apple itself fell 1.2 percent. The crossover came during a selloff in chip and AI-infrastructure shares that erased more than $1 trillion in technology market value, with Intel down about 30 percent on a weak forecast. The roughly $100 billion gap is narrow enough to reverse.",
+      "plain": "A company's market value is its share price multiplied by the number of shares, so the ranking of the world's most valuable companies moves with the market. Apple did nothing well on Friday; its shares fell too. It took first place because Nvidia, which sells the chips AI runs on, fell further. The pattern worth noticing is that investors now pay more for companies that sell AI than for companies that must spend billions building it.",
+      "why": "Investors are now paying a premium for not being committed to AI capital spending, which inverts the trade that drove the market for the past two years.",
+      "sources": [
+        {
+          "outlet": "TUAW",
+          "url": "https://www.tuaw.com/2026/10/31/apple-overtakes-nvidia-as-worlds-most-valuable-company"
+        },
+        {
+          "outlet": "TradersUnion",
+          "url": "https://tradersunion.com/news/companies/show/4047293-apple-overtakes-nvidia-as/"
+        },
+        {
+          "outlet": "TweakTown",
+          "url": "https://www.tweaktown.com/news/114427/apple-overtakes-nvidia-to-become-the-worlds-most-valuable-company-after-a-rough-month-for-ai-stocks/index.html"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - Healthcare",
+      "headline": "Judge strikes down the narrower test for Medicaid work-requirement exemptions",
+      "body": "A federal judge in Boston ruled on Thursday, October 29 that the Centers for Medicare and Medicaid Services exceeded its authority by requiring Medicaid enrollees claiming medically frail status to also show their condition significantly impairs their ability to meet work requirements. The suit was brought by 25 states and the District of Columbia. The court struck the impairment clause but left the rest standing, including a bar on medical evidence older than 12 months. Work requirements still begin January 1, 2027, with six extra months before enforcement. CMS may appeal.",
+      "plain": "Medicaid is the government health program for low-income people. A new rule requires many enrollees to prove they are working to keep coverage, with an exemption for people too sick to work, termed medically frail. The administration added a second hurdle: you had to be sick and separately prove the sickness was what stopped you working. The judge said the law does not permit that extra test. Most of the rule survived, so the requirement still starts in 2027.",
+      "why": "How narrowly too sick to work is defined decides how many people lose coverage through paperwork rather than through actually being ineligible.",
+      "sources": [
+        {
+          "outlet": "Becker's Payer Issues",
+          "url": "https://www.beckerspayer.com/payer/medicaid/judge-rules-cms-overstepped-on-medically-frail-definition-for-medicaid-work-requirements/"
+        },
+        {
+          "outlet": "National Association of Counties",
+          "url": "https://www.naco.org/news/federal-court-strikes-down-cms-medical-frailty-impairment-clause"
+        },
+        {
+          "outlet": "Healthcare Dive",
+          "url": "https://www.healthcaredive.com/news/judge-strikes-down-cms-medical-frailty-policy-medicaid-work-requirements/873284/"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "FBI blames North Korea for the $6.3 billion Binance theft as withdrawals reopen",
+      "body": "The FBI said North Korea's state hacking group TraderTraitor carried out the theft of roughly $6.3 billion in crypto assets from Binance on October 29, the largest crypto heist on record and more than four times the $1.5 billion taken from Bybit in February 2025. TRM Labs and Chainalysis had reached the same attribution and found most of the theft took about 20 minutes. Binance said on October 31 it had restored backing for about 90 percent of affected user assets and reopened withdrawals in phases. About $3 billion is frozen on-chain, including more than $1.5 billion of Tether. Binance traced the entry point to an engineer's laptop.",
+      "plain": "Binance is the largest cryptocurrency exchange, where people buy and store digital coins. Someone got in through an engineer's laptop and moved about $6.3 billion out in roughly 20 minutes. What can be recovered depends on the coin: stablecoins like Tether have a company that can freeze them, so about $1.5 billion was stopped, but Bitcoin and Ether have no issuer and nobody to call. North Korea uses such thefts to fund itself around sanctions.",
+      "why": "A state taking $6.3 billion in 20 minutes through a single laptop sets the practical security benchmark for an industry now holding assets at bank scale without bank-style resolution.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl"
+        },
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "Judge dismisses Trump's $10 billion suit against the Wall Street Journal, this time with prejudice",
+      "body": "US District Judge Darrin Gayles in Miami dismissed President Trump's amended defamation suit against the Wall Street Journal, Dow Jones and Rupert Murdoch on Saturday, October 31, this time with prejudice, which bars him from refiling the same claims in federal court. In a 20-page ruling, Gayles found Trump had again failed to plausibly allege actual malice, the standard a public figure must meet. \"As with his first attempt, he has failed,\" Gayles wrote. The suit sought $10 billion over the Journal's July 2025 report describing a 2003 birthday letter bearing Trump's name sent to Jeffrey Epstein, which Trump denies writing. A spokesman said Trump will appeal and \"will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants.\" His separate $10 billion suit against the BBC remains pending, with a deposition ordered.",
+      "plain": "To win a libel case, a public official must show the publisher knew the story was false, or seriously doubted it, and printed it anyway. That bar, called actual malice, is deliberately high. Trump sued the Journal over its report on a birthday letter to Epstein. A judge dismissed the case once, his lawyers rewrote it, and the same judge dismissed it again, this time permanently. The statement calling it a powerhouse lawsuit came the day it was dismissed with prejudice.",
+      "why": "Dismissal with prejudice ends the case at the trial level instead of inviting another rewrite, which removes the pressure that merely pending litigation places on a newsroom.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html"
+        },
+        {
+          "outlet": "Newsweek",
+          "url": "https://www.newsweek.com/list-trump-media-lawsuits-judge-tosses-wsj-epstein-case-12646003"
+        },
+        {
+          "outlet": "Business Standard",
+          "url": "https://www.business-standard.com/amp/world-news/us-judge-dismisses-trump-s-multibillion-dollar-defamation-suit-against-wsj-126110100020_1.html"
+        }
+      ]
+    }
+  ]
+}
