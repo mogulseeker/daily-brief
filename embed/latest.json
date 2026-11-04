@@ -1,229 +1,237 @@
 {
-  "date": "2026-11-03",
-  "dateLabel": "Tuesday, November 3, 2026",
-  "generated": "2026-11-03T13:14:52Z",
+  "date": "2026-11-04",
+  "dateLabel": "Wednesday, November 4, 2026",
+  "generated": "2026-11-04T13:20:35Z",
   "tldr": [
-    "AI Industry: Anthropic's amended IPO filing tells investors its models may “imminently” meet its own threshold for AI that accelerates AI research.",
-    "International: The US struck Iranian targets on Qeshm Island in the Strait of Hormuz, hours after Trump said a peace deal was close.",
-    "Economics: US factory activity rose to 55.5 in October, a tenth straight month of growth, with input prices above 70 for a ninth month.",
-    "Healthcare: The FDA accepted uniQure's Huntington's gene therapy for priority review, with a decision due May 1, 2027.",
-    "Wildcard - AI Industry: South Korea budgeted 4.7 trillion won for a state-backed frontier AI model inside a record 2027 spending plan.",
-    "Wildcard - Economics: Apple guided margins down to 45-46 percent as AI data centers bid up memory chips; the Nasdaq fell again.",
-    "Wildcard - International Affairs: India's voter-roll revision has struck about 130 million names, and thousands marched in Delhi demanding the election chief resign.",
-    "Wildcard - Healthcare: Thirteen senators gave the ten largest ACA insurers until November 6 to explain their part in cancelling 760,000 people's coverage.",
-    "Tech: The FBI named North Korea's TraderTraitor group for the $6.3 billion Binance theft, the largest crypto heist on record; Pyongyang called the claim absurd.",
-    "Trump News: The Supreme Court denied the Justice Department's bid to set aside 20,000 California ballots within hours, without asking California to respond."
+    "AI Industry: Voters in ten states decided 41 local data-center ballot measures, and the restrictive side won nearly everywhere, by margins up to 90 percent.",
+    "International: Indonesia detained three police generals over an alleged wiretapping operation against President Prabowo, then sent more than 20,000 troops into Jakarta.",
+    "Economics: Democrats won both chambers of Congress; the dollar index fell to 101.32, gold reclaimed $4,000 and Dow futures swung to a 900-point gain.",
+    "Healthcare: Missouri voters refused 55.5 to 44.5 to restore an abortion ban, and Virginia wrote reproductive rights into its constitution 62 to 38.",
+    "Wildcard - AI Industry: Nvidia has told cloud partners worldwide to keep at least 51 percent of their business with non-Chinese customers or lose chip access.",
+    "Wildcard - Economics: Meta's debut euro bond drew a record 53 billion euros of orders, a day after a $15 billion dollar deal priced at up to 7.53 percent.",
+    "Wildcard - International Affairs: Israel certified its election 15 to 2 with 14 abstentions as Likud abstained and failed to delay the count; Netanyahu's bloc is eight seats short.",
+    "Wildcard - Healthcare: Pfizer raised full-year revenue guidance by $1.5 billion to $62-64 billion even though third-quarter sales were operationally flat.",
+    "Tech: Attackers compromised a refrigeration supplier and altered temperature settings at three French blood-plasma storage sites; no products were lost.",
+    "Trump News: After a week of rallies asking voters to pretend he was on the ballot, Trump posted that he wasn't on it and would have won a landslide if he were."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Anthropic tells IPO investors its models may soon cross its own line for self-accelerating research",
-      "body": "Anthropic filed an amended S-1/A with the SEC on Monday adding a risk disclosure that its internal estimates suggest it may imminently meet its Responsible Scaling Policy definition of AI-driven R&D acceleration - roughly, as much AI progress in one year as two years would produce without it. The filing states the company has already used AI to build models whose capability jumps it did not recognize at the time, and that it is weighing policy changes requiring human review of certain R&D decisions. No model has crossed the threshold. Reuters and IFR have reported listing talks at $1.5 trillion to $2 trillion, which Anthropic has not confirmed.",
-      "plain": "Before selling shares to the public, a company must write down everything that could go wrong, and it can be sued for leaving something out. Anthropic used that section to say its own software is close to doing much of the work of building the next version of itself. Its measuring stick is a doubling: one year of progress where two would normally be needed. The uncomfortable part is the admission that some capability jumps were only recognized afterwards.",
-      "why": "The brake on how fast AI improves has been assumed to be chips and engineers, and this is the first time a frontier lab has told securities regulators, under legal liability, that the brake may be coming off.",
+      "headline": "Voters in ten states pass local bans and pauses on AI data centers",
+      "body": "Voters decided 41 local data-center ballot measures across ten states on Tuesday, and the restrictive side won nearly everywhere results are in. Ohio alone had 21 measures in 18 municipalities, at least 14 of which approved bans or restrictions. Trenton, Ohio, banned data centers above 25 megawatts 80 percent to 20 percent; Nottingham, New Hampshire, approved a one-year permitting moratorium 90.3 to 9.7; Augusta Township, Michigan, rejected a rezoning 89.6 to 10.4. Ballotpedia counted 28 of the 41 as restrictive. Ohio already had 125 local moratoriums. Results are unofficial.",
+      "plain": "An AI data center is a windowless building full of computers that train and run AI models. It needs land, a lot of electricity and often a lot of water, and all three are controlled locally, by zoning. A ballot measure skips the town council and asks voters directly, which is why these numbers matter: 80 and 90 percent are not close votes. The interesting part is that Ohio had already piled up 125 local pauses before anyone voted, so Tuesday did not start the backlash; it measured it.",
+      "why": "The binding constraint on the AI build-out is shifting from chips and power contracts to local land-use votes, which a company cannot negotiate its way around, and analysts reading Tuesday's market reaction already named data-center restrictions as a risk to AI-linked shares.",
       "sources": [
         {
-          "outlet": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/"
         },
         {
-          "outlet": "SEC Form S-1/A",
-          "url": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+          "outlet": "Ballotpedia News",
+          "url": "https://news.ballotpedia.org/2026/11/03/voters-in-ten-states-will-vote-on-data-center-related-ballot-measures-november-3/"
+        },
+        {
+          "outlet": "Journal-News",
+          "url": "https://www.journal-news.com/local/elections/early-voting-shows-trenton-data-center-measure-passing/article_63a9951a-54e1-5dcc-86b3-e70ed7887ce2.html"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "US strikes Iranian targets on Qeshm Island hours after Trump said a deal was close",
-      "body": "Three US officials told CBS News the military carried out limited, defensive strikes on Iranian targets in the Strait of Hormuz on Monday, hitting naval and mine-laying vessels. Iranian state media reported explosions on Qeshm Island, with further blasts heard at Bandar Lengeh. Axios and Fox News reported the strikes answered an IRGC missile fired at a US aircraft over the strait. A US official said this was not the start of expanded strikes. The strikes came hours after Trump signaled progress in Qatari-mediated talks, and on the eve of the midterm elections he had said would precede any new action.",
-      "plain": "The Strait of Hormuz is a narrow sea passage that about a fifth of the world's oil normally moves through, and Iran has been mining it. Mine-laying ships are the tool that keeps it shut, so hitting them is aimed at the closure rather than at Iran broadly. Both governments are describing this as narrow and defensive, which is how each avoids having to escalate. Talks in Doha are continuing without a breakthrough.",
-      "why": "Washington is now shooting at the ships enforcing the blockade while negotiating to have it lifted, which prices the strait's reopening as a military outcome rather than only a diplomatic one.",
+      "headline": "Indonesia detains three police generals over alleged wiretapping of the president, then sends troops into Jakarta",
+      "body": "Indonesian police detained three senior police generals over an alleged illegal wiretapping operation that police say targeted President Prabowo Subianto, state officials, journalists, activists and business figures between 2025 and 2026. One is Gen. Listyo Sigit Prabowo, national police chief from 2021 until October, when he became presidential chief of staff; the president dismissed him Wednesday. Investigators allege intercepted communications were ordered deleted from the police LIMS system. The palace said the conduct could be regarded as \"leading toward treason.\" The military said Wednesday it was sending more than 20,000 troops and personnel to Jakarta, without confirming a link to the case.",
+      "plain": "Indonesia has about 280 million people, the fourth-largest population in the world, and Prabowo Subianto has been its president since 2024. Wiretapping means secretly recording someone's phone calls and messages; police can do it, but only by following set rules. The allegation is that senior officers did it to the president himself, and then ordered the recordings erased. Note what is alleged and what is not: three people are detained, nobody has been charged or convicted, and the government has not said why 20,000 soldiers are now in the capital.",
+      "why": "A criminal case against the man who ran the national police, and who until last month sat in the president's own office, has put soldiers rather than police in charge of securing Jakarta, and the government has offered no explanation for the connection.",
       "sources": [
         {
-          "outlet": "PBS NewsHour / AP",
-          "url": "https://www.pbs.org/newshour/world/u-s-strikes-iranian-targets-in-strait-of-hormuz-u-s-official-tells-ap"
+          "outlet": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/11/03/indonesia-police-illegal-wiretapping-president-prabowo-subianto/c2189060-d7aa-11f1-930a-e08f8086f5ac_story.html"
         },
         {
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/"
+          "outlet": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/indonesia-detains-3-police-generals-suspected-of-wiretapping-prabowo"
         },
         {
-          "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections"
+          "outlet": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-04/indonesian-police-detained-over-alleged-wiretapping-of-president/107344464"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "US factories grew for a tenth month, but input prices stayed near two-decade highs",
-      "body": "The ISM Manufacturing PMI rose to 55.5 in October from 54.5 in September, beating a consensus near 54.6 and marking the tenth consecutive month of expansion. Production jumped to 59.0, its highest since November 2021, and all five subindexes that feed the headline were in growth. The prices index eased to 75.2 from 77.9 but has now been above 70 for nine straight months. ISM's Susan Spence attributed the pressure to steel and aluminum prices, tariffs on imported goods, and petroleum-based inputs driven by the Middle East conflict. Two-thirds of survey comments were negative.",
-      "plain": "This survey asks purchasing managers whether things got better or worse than last month; above 50 means more said better. Output is strong, but the prices line tracks what factories pay for materials, and it has been running hot for nine months. That combination - healthy demand and stubborn input costs - is the one that argues against interest-rate cuts. The negative comments show managers are growing while unhappy about what growth is costing them.",
-      "why": "A strong economy with sticky input inflation removes the Federal Reserve's easiest excuse to cut, which is why some officials have begun talking about hiking instead.",
+      "headline": "Democratic sweep of Congress sends the dollar down and gold back above $4,000",
+      "body": "Democrats won majorities in both chambers on Tuesday; CNN's count showed 54 Senate seats to 44 with Alaska and Mississippi uncalled, after flips including Ohio, Texas, North Carolina and Maine. Markets moved twice: Nasdaq-100 futures fell nearly 2 percent overnight as AI shares dropped in Asia, then Dow futures swung to about plus 900 points. The dollar index fell 0.39 percent to 101.32, the 10-year Treasury yield eased to about 4.93 percent, gold rose roughly 2.3 percent back above $4,000 and silver about 4 percent to near $52.",
+      "plain": "The dollar index measures the dollar against a basket of other currencies, so a fall means the dollar buys less abroad. Gold and silver are what investors buy when they are less sure about currencies and government finances, so the two moves are the same bet made twice. The mechanism is simple: one party now controls the White House and the other controls Congress, so almost nothing passes without a deal. That makes big tax or spending changes unlikely, which is why bond yields eased rather than spiked. Gold is still far below its January peak of about $5,595.",
+      "why": "Divided government turns the next two years of US fiscal policy from a program into a negotiation, and the first thing investors repriced was not equities but the currency.",
       "sources": [
         {
-          "outlet": "ISM via PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"
+          "outlet": "Reuters",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46L04I:0-market-analysts-react-to-us-midterm-election-results/"
         },
         {
-          "outlet": "ABA Banking Journal",
-          "url": "https://bankingjournal.aba.com/2026/11/ism-manufacturing-expanded-in-october/"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
         },
         {
-          "outlet": "TheStreet Pro",
-          "url": "https://pro.thestreet.com/market-commentary/ism-manufacturing-accelerates-production-hits-highest-since-2021"
+          "outlet": "FXStreet",
+          "url": "https://fxstreet.com/news/gold-reclaims-4-000-as-democrats-congress-win-rattles-us-dollar-202611041114"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "FDA takes up the first gene therapy that could slow Huntington's disease",
-      "body": "uniQure said Monday the FDA accepted its biologics license application for AMT-130, or ifezuntirgene inilparvovec, under priority review, setting a May 1, 2027 action date. Filed through the accelerated approval pathway, it would be the first disease-modifying treatment for Huntington's disease. The application rests on a 36-month Phase I/II analysis of 12 high-dose patients compared with matched external controls drawn from the ENROLL-HD natural-history database. The FDA had previously said it no longer agreed that data was adequate as primary evidence, then reversed. A confirmatory trial of roughly 200 patients, randomized 2:1, has been agreed.",
-      "plain": "Huntington's is an inherited disease that destroys brain cells and currently has no treatment that slows it, only drugs for symptoms. AMT-130 is injected into the brain once and is designed to quiet the faulty gene permanently. Notice the evidence base: twelve treated patients, compared not against a placebo group but against records of other patients tracked over time. That is a small, unusual foundation, which is why the FDA has floated an advisory committee and required a proper randomized trial afterwards.",
-      "why": "Acceptance is not approval, but it signals the FDA will weigh twelve patients and historical controls as the basis for a first-in-class approval, which every rare-disease developer will now plan around.",
+      "headline": "Missouri voters refuse to restore an abortion ban; Virginia writes reproductive rights into its constitution",
+      "body": "Missouri's Amendment 3, which would have reinstated most abortion restrictions and written a ban on gender-affirming care for minors into the state constitution, failed 55.5 percent to 44.5 percent, 1,173,172 unofficial votes to 941,065. The Republican-led legislature put it on the ballot two years after Missouri became the first state to repeal an abortion ban by popular vote. Virginia approved Question 1 by 62 to 38, adding a right to reproductive care, contraception and fertility treatment to its Bill of Rights; the Family Foundation of Virginia has signaled a court challenge. Nevada's Question 6 passed with about 63 percent, the second approval the state requires.",
+      "plain": "Most abortion rules in the United States are now set state by state, and some states let voters change the state constitution directly rather than waiting for lawmakers. Constitutional language is the prize here because a legislature can rewrite an ordinary law next session but cannot rewrite the constitution on its own. Missouri's measure bundled two things, abortion restrictions and a ban on medical treatment for transgender minors, into one question, so the vote does not separate them. Counts are unofficial until each state certifies.",
+      "why": "Missouri's legislature asked voters the abortion question for the second time in two years and lost by a wider margin than in 2024, which sets a price for putting it on the ballot again.",
       "sources": [
         {
-          "outlet": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone"
+          "outlet": "Missouri Independent",
+          "url": "https://missouriindependent.com/2026/11/03/missouri-voters-reject-amendment-3-preserving-abortion-rights-approved-in-2024/"
         },
         {
-          "outlet": "PharmaShots",
-          "url": "https://pharmashots.com/37055/uniqure-amt-130-bla-fda-priority-review-huntingtons"
+          "outlet": "St. Louis Public Radio",
+          "url": "https://www.stlpr.org/government-politics-issues/2026-11-02/missouri-amendment-3-abortion-legal"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-elections/ballot-measures"
         }
       ]
     },
     {
       "slot": 5,
       "category": "Wildcard - AI Industry",
-      "headline": "South Korea budgets 4.7 trillion won for a state-built frontier AI model",
-      "body": "President Lee Jae Myung's 2027 budget speech on Monday pledged 4.7 trillion won, about $3.5 billion, to build a sovereign frontier AI model that he said would have the “world's highest performance.” The figure sits inside a record 820.9 trillion won budget, up 12.8 percent, which also carries 21.3 trillion won for semiconductors, physical AI and AI data centers. The Ministry of Science and ICT plans to pick a lead developer by competitive tender once parliament passes the budget in December, with a winner possible by February and work starting in March 2027.",
-      "plain": "A frontier model is one of the handful of largest AI systems in the world, and today they are all built by American or Chinese companies. Seoul is proposing to fund one itself, combining state equity with private money and pointing the country's chips, data and researchers at a single project. The catch is that none of this is law yet: parliament votes in December, and the tender only opens afterwards.",
-      "why": "Middle-sized economies are concluding that renting AI from foreign firms is a strategic dependency rather than a procurement decision, and are willing to spend multiple billions to avoid it.",
+      "headline": "Nvidia tells cloud partners worldwide to keep most of their business non-Chinese",
+      "body": "The Financial Times reported that Nvidia has told cloud and data-center partners to keep at least 51 percent of their business with non-Chinese customers or risk losing chip access. The instruction was passed verbally through sales teams, applies to new contracts rather than existing leases, and reaches partners globally. It targets a gap US export controls do not cover: Chinese firms including Alibaba and ByteDance have rented Nvidia capacity in Singapore and Malaysia rather than buying chips. The reporting does not establish how the 51 percent is measured or audited. Nvidia has not confirmed it, and the account rests on anonymous sources in one original report.",
+      "plain": "US export rules stop Nvidia selling its best AI chips to Chinese companies, but they say less about a Chinese company renting time on those chips in a data center in Singapore. That gap is the whole story. Nvidia's reported answer is to lean on the landlords instead of the tenants: keep more than half your business non-Chinese or we stop selling you hardware. Treat this as credible but unconfirmed, since it comes from one outlet's anonymous sources and Nvidia has said nothing.",
+      "why": "If accurate, enforcement of chip controls shifts from a published government rule a company can contest to a supplier's verbal condition on its own customers, with nothing written down to appeal.",
       "sources": [
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+          "outlet": "Financial Times (via Benzinga)",
+          "url": "https://www.benzinga.com/markets/tech/26/11/62808888/nvidia-tightens-the-screws-on-chinas-ai-access-cloud-partners-worldwide-must-restrict-chinese-customers-under-new-revenue-rule-report"
         },
         {
-          "outlet": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10893306"
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-asking-cloud-clients-232102833.html"
         }
       ]
     },
     {
       "slot": 6,
       "category": "Wildcard - Economics",
-      "headline": "Apple blames memory-chip costs for a margin squeeze, and the AI selloff continues",
-      "body": "Apple reported fiscal fourth-quarter revenue and earnings above estimates after Monday's close but guided gross margin to 45-46 percent, down from 47.9 percent in the September quarter, citing rising memory prices and higher AI research spending. The Nasdaq fell 1.1 percent on Monday and the S&P 500 lost 0.5 percent, while the Dow rose 0.4 percent as cheaper energy lifted cyclicals. The Nasdaq had already dropped 5.3 percent in October, its worst month since March, after Alphabet and Amazon results renewed concerns that AI infrastructure spending is outrunning near-term cash generation.",
-      "plain": "Memory chips are the storage inside a phone or a server, and AI data centers buy them in enormous quantities. When those buyers compete for supply, the price rises for everyone, including the company putting memory in iPhones. So Apple, which is not building giant AI data centers, is paying for other companies' decision to build them. That is the AI boom showing up as a cost on the income statement of a firm that is not in it.",
-      "why": "The AI buildout has stopped being a story about who gains and started being a story about who pays, and the bill is now landing on companies that made no AI capital commitments at all.",
+      "headline": "Meta's first euro bond draws a record 53 billion euros in orders",
+      "body": "Meta raised $15 billion in a five-part dollar bond sale on Tuesday, yields running 5.85 to 7.53 percent, with orders near $58 billion. Its debut euro bond followed Wednesday and drew 53 billion euros ($59.7 billion) of demand, which Bloomberg called a record for any corporate deal in Europe. The longest dollar tranche priced 2.2 percentage points over Treasuries, about 0.9 points wider than a comparable April bond, days after S&P cut its outlook on Meta's AA- rating to negative over AI spending. Oracle raised $20 billion Monday at coupons of 7 to 8.65 percent.",
+      "plain": "A bond is a loan from investors to a company, and the yield is what the company pays to borrow. Demand of 53 billion euros for a much smaller deal means far more lenders wanted in than could get in. The catch is in the price: Meta is paying noticeably more than it did in April, so lenders are queuing up and charging more at the same time. That happens when a borrower is seen as safe but is borrowing much more than it used to.",
+      "why": "The AI build-out has crossed from being funded out of operating cash into being funded with debt at rising prices, which means the cost of the data-center race now shows up on balance sheets rather than only in capital-expenditure forecasts.",
       "sources": [
         {
-          "outlet": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-apple-stock-sliding-today-93CH-4993985"
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal"
         },
         {
-          "outlet": "Forbes",
-          "url": "https://www.forbes.com/sites/daniellechemtob/2026/11/03/forbes-daily-data-centers-are-on-the-ballot-in-the-midterms/"
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments"
         },
         {
-          "outlet": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/cold-feet-over-ai-spending-brings-nasdaq-down"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
         }
       ]
     },
     {
       "slot": 7,
       "category": "Wildcard - International Affairs",
-      "headline": "India's voter-roll revision has removed about 130 million names, and Delhi is protesting",
-      "body": "Thousands marched in Delhi on Sunday demanding the resignation of India's chief election commissioner over the Special Intensive Revision of electoral rolls, which has deleted roughly 130 million names and is expected to leave a register of about 880 million voters. Opposition leader Rahul Gandhi warned Prime Minister Narendra Modi, Home Minister Amit Shah and the election chief of legal action. The Election Commission says the exercise removes duplicate, deceased and ineligible entries and that eligible people may apply for reinstatement. Delhi police had earlier removed Jantar Mantar, the city's long-standing protest site, from its approved list.",
-      "plain": "India periodically cleans its voter list, striking people who have died, moved or registered twice. This round struck about 130 million names at once, which is more people than live in Japan. The dispute is not whether cleaning is legitimate but whether the method catches real voters, and the burden falls on each struck person to notice and reapply. Claims that removals targeted particular communities are contested and not established.",
-      "why": "The scale means that even a small error rate disenfranchises millions in the world's largest electorate, and the remedy requires the affected voter to act before the next election rather than the state to prove the deletion was correct.",
+      "headline": "Israel certifies its election over Likud's objection, leaving Netanyahu eight seats short",
+      "body": "Israel's Central Elections Committee approved the final results of the October 27 election on Wednesday, 15 votes to two with 14 abstentions; Likud and Shas abstained, and chairman Justice Noam Sohlberg rejected Likud's request to delay certification over its claims of irregularities in the Arab vote. The committee said it found no evidence the count was altered, while noting a Shin Bet inquiry continues. Netanyahu's bloc holds 53 of 120 seats, Gadi Eisenkot's 48, Arab-led lists 19; 61 is a majority, and both leaders ruled out Arab-party partners. The new Knesset is sworn in November 10.",
+      "plain": "Israel's parliament, the Knesset, has 120 seats, and a government needs 61 of them. No bloc has that, and the 19 seats held by Arab-led parties are the only arithmetic path to a majority, which both main contenders rejected before voting day. Certification is the formal step that turns vote counts into seats, and Likud asked to postpone it while fraud claims are examined. The committee refused, said it found no evidence the count was altered, and Likud abstained rather than voting against.",
+      "why": "The largest party in the Knesset has declined to endorse the count that seats it, so the coming coalition fight will run alongside a dispute over whether the election itself was sound.",
       "sources": [
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/01/thousands-join-indian-protest-demanding-election-chiefs-resignation-.html"
+          "outlet": "The Jerusalem Post",
+          "url": "http://www.jpost.com/israel-election-2026/article-913780"
         },
         {
-          "outlet": "NPR",
-          "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests"
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-november-4-2026"
         },
         {
-          "outlet": "TIME",
-          "url": "https://time.com/article/2026/10/13/india-modi-protests-voter-removal-election-commission/"
+          "outlet": "Israel National News",
+          "url": "https://www.israelnationalnews.com/news/435646"
         }
       ]
     },
     {
       "slot": 8,
       "category": "Wildcard - Healthcare",
-      "headline": "Senators give ten ACA insurers until Friday to explain the removal of 760,000 enrollees",
-      "body": "Thirteen Senate Democrats led by Finance Committee ranking member Ron Wyden, with Bernie Sanders among the signatories, wrote to the chief executives of the ten largest ACA marketplace insurers - including UnitedHealthcare, Cigna, Elevance, Centene, Oscar and Molina - demanding answers by November 6. The letters ask why insurers sent unsolicited messages asking enrollees to verify Social Security numbers and then handed CMS lists of those who did not respond, who were terminated in September as “phantom enrollees.” The senators ask how many children were on those lists. CMS has reinstated an unspecified number of improper terminations.",
-      "plain": "To cancel someone's subsidized health plan, the government needs to identify them. Insurers sent verification requests, and people who did not reply - because the message went to a stale address, or looked like spam - were listed to the government and dropped. The senators are asking whether the insurers checked what legal authority CMS was acting under before handing over the names. The insurers have not yet responded publicly.",
-      "why": "The practical effect is visible in hospital accounts already: Community Health Systems posted an $86 million quarterly loss and raised its 2026 estimate for exchange disenrollment and self-pay shifts to $80-90 million from $50-75 million.",
+      "headline": "Pfizer raises its 2026 forecast while overall sales stay flat",
+      "body": "Pfizer reported third-quarter revenue of $16.6 billion on Tuesday, roughly flat year over year operationally, with reported diluted earnings of $0.56 a share and adjusted earnings of $0.87. It raised full-year revenue guidance by $1.5 billion at the midpoint to $62 billion to $64 billion and narrowed adjusted earnings guidance to $2.95 to $3.05. Launched and acquired products grew 32 percent operationally and non-COVID products 7 percent, with Nurtec up 33 percent. Adjusted earnings absorbed about $0.10 from a $650 million charge tied to an Innovent Biologics in-licensing deal.",
+      "plain": "Guidance is the forecast a company gives investors for the year, so raising it is a claim about the months ahead, not the quarter just ended. The puzzle here is that total sales barely moved while the forecast went up. The answer is in the mix: COVID products and older drugs losing patent protection are shrinking, and recently launched or purchased drugs grew 32 percent, enough to cover the losses with room left over. \"Operationally\" means the figures strip out currency swings, which can flatter or flatten results on their own.",
+      "why": "Pfizer is showing that the pipeline it bought with COVID-era cash is now replacing that revenue faster than its older drugs are losing it, which is the specific test the company has been judged on since 2023.",
       "sources": [
         {
-          "outlet": "Becker's Hospital Review",
-          "url": "https://www.beckershospitalreview.com/finance/senators-probe-10-insurers-over-role-in-terminating-aca-coverage-for-760000-people/"
+          "outlet": "Pfizer",
+          "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reports-strong-third-quarter-2026-results-and-raises"
         },
         {
-          "outlet": "The Hill",
-          "url": "https://thehill.com/policy/healthcare/6175216-wyden-sanders-target-trump-insurance/"
+          "outlet": "SEC Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000078003/000007800326000125/pfe-9272026xex99.htm"
         },
         {
-          "outlet": "Fierce Healthcare",
-          "url": "https://www.fiercehealthcare.com/providers/community-health-systems-logs-86m-net-loss-q3-hopes-return-pent-electives-2027"
+          "outlet": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/pfizer-reports-strong-third-quarter-2026-results-and-raises-2026-guidance"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "FBI names North Korea for the $6.3 billion Binance theft, the largest crypto heist recorded",
-      "body": "The FBI issued an alert attributing the theft of more than $6 billion in virtual assets from Binance, on or about October 29, to TraderTraitor, a North Korean state group, and published over 600 blockchain addresses tied to the laundering. Reports put the total near $6.3 billion, the largest cryptocurrency theft on record, ahead of the same group's $1.5 billion Bybit hack in February 2025. The FBI says the stolen assets are being converted mainly into Ether. North Korea called the allegation “absurd rhetoric” on Tuesday. Binance customers have withdrawn $4.64 billion since withdrawals resumed; the exchange says it will cover the losses.",
-      "plain": "Crypto exchanges hold customers' coins the way a bank holds deposits, except that a successful theft is final because there is no central authority to reverse it. North Korea has industrialized this: the money is not stolen for a single payday but funds the state, which is why the same group keeps appearing. Publishing the 600 addresses is an attempt to make the coins unspendable by asking every exchange to refuse them.",
-      "why": "A single theft worth more than North Korea's estimated annual export earnings means sanctions enforcement now depends on commercial exchanges choosing to blacklist wallets, not on governments.",
+      "headline": "Hackers raised the temperature inside French blood-plasma freezers",
+      "body": "The French Blood Establishment (EFS) said attackers altered temperature and defrosting settings at three of its cold-storage plasma sites after compromising a supplier of refrigeration equipment. Alarms detected the anomalies and staff transferred or secured the plasma, held for transfusions and for manufacturing medicines. \"No health consequences have been identified and no blood products were lost,\" EFS said; collection and distribution continued. Le Canard enchaine reported units were commanded from about minus 30 degrees Celsius toward 110, a figure the Associated Press accounts do not carry. France's cybersecurity agency and the Health Ministry are investigating. The attack ran overnight on November 1 and 2; no group has claimed it.",
+      "plain": "Plasma is the liquid part of blood, used in transfusions and to make medicines, and it has to be kept frozen, so the freezer is part of the product. The attackers did not go after patient records; they went after the thermostat, and they got in through the outside company that supplies the refrigeration gear rather than through the blood service itself. What saved the plasma was boring and important: alarms noticed the temperature moving and people physically moved the bags. The 110-degree figure comes from one French outlet and is not in the wire-service accounts.",
+      "why": "This moves hospital cyber risk from stolen data to destroyed inventory, and it shows the entry point is increasingly the equipment vendor rather than the hospital network.",
       "sources": [
         {
-          "outlet": "FBI",
-          "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack"
+          "outlet": "Euronews (AP)",
+          "url": "https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say"
         },
         {
-          "outlet": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+          "outlet": "U.S. News (AP)",
+          "url": "https://www.usnews.com/news/technology/articles/2026-11-04/cyberattack-hits-french-blood-bank-site-but-no-blood-products-were-compromised"
         },
         {
-          "outlet": "ABC News (Australia)",
-          "url": "https://www.abc.net.au/news/2026-11-03/north-korea-denies-binance-heist-customers-withdraw-billions/107340330"
+          "outlet": "DataBreaches.net",
+          "url": "https://databreaches.net/2026/11/03/french-blood-storage-units-targeted-in-cyberattack/"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "The Supreme Court threw out the ballot request in hours, without asking California to reply",
-      "body": "On Monday the Supreme Court denied the Justice Department's emergency application to force California to set aside about 20,000 mail ballots from people the administration says may be noncitizens. The unsigned order reads: “The application for injunction pending appeal presented to Justice Kagan and by her referred to the Court is denied.” The Court ruled within hours and did not request a response from California. District Judge David Carter had earlier refused a restraining order, describing the federal process for identifying those voters as “rife with uncertainty and errors,” and the Ninth Circuit declined to intervene 2-1. The same day, District Judge Myong Joun dismissed the administration's suit seeking five years of Harvard admissions records, finding the Justice and Education Departments had not taken the procedural steps required before filing. California Attorney General Rob Bonta called the Supreme Court denial “completely appropriate, very expected.”",
-      "plain": "An emergency application asks the Supreme Court to act before the normal appeal finishes. Courts usually ask the other side to file a reply first; here they did not, which means the justices did not think the argument needed one. The underlying problem was the list itself - a district judge found the method for identifying the 20,000 people produced errors - so the case failed on its evidence before reaching any question about noncitizen voting. The Harvard dismissal was also procedural, and the government may refile.",
-      "why": "Two of the losses turned on the government not doing the required paperwork first, which is a complaint about the Justice Department's lawyering rather than about the courts it has been attacking.",
+      "headline": "Trump spent the campaign's last week asking voters to pretend he was on the ballot, then said he wasn't",
+      "body": "At a Kansas rally on November 1 Trump told the crowd, \"I really want you to pretend I'm on the ballot,\" and at a South Carolina rally said, \"I am on the ballot. We're all on the ballot,\" arguing his name raises turnout by 49.2 percent. After Democrats took both chambers he posted on Truth Social that he \"wasn't on the Ballot and if I was, we would have won IN A LANDSLIDE\"; outlets rendered the wording slightly differently. A separate post said \"Fox News bears responsibility for these losses.\" On Fox News that night he blamed Republican candidates and gas prices and said, \"I don't view it as a hit on me.\" He told the New York Times he is \"absolutely willing to accept\" the results; in October he had said he would accept them \"if they're honest elections.\"",
+      "plain": "Midterms are the congressional elections held halfway through a presidential term, and the president's party usually loses seats, so the question is how many. Trump's own argument before the vote was that his presence on a ballot is worth a large turnout boost, which is why he asked voters to treat the election as if he were on it. After the loss he used the same claim in reverse: his absence explains the result. Both versions cannot be tested against anything except the election he himself framed as the test.",
+      "why": "The claim that he is worth a landslide and the claim that his absence caused the defeat are one claim stated twice, and Tuesday was the measurement he proposed for it.",
       "sources": [
         {
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/news/supreme-court-rejects-trump-california-mail-ballots-alleged-noncitizens/"
-        },
-        {
           "outlet": "NBC News",
-          "url": "https://www.nbcnews.com/politics/supreme-court/rejects-trump-effort-target-alleged-noncitizen-voters-california-midte-rcna606607"
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-tries-new-midterm-message-pretend-i-am-on-the-ballot-rcna593849"
         },
         {
-          "outlet": "The Hill",
-          "url": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/"
+          "outlet": "Newsweek",
+          "url": "https://www.newsweek.com/trump-refuses-to-take-blame-for-disastrous-midterms-for-gop-12660289"
         },
         {
-          "outlet": "The Washington Post",
-          "url": "https://www.washingtonpost.com/education/2026/11/02/judge-dismisses-trump-administration-lawsuit-against-harvard-admissions/"
+          "outlet": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/politics/trump-blames-fox-news-gop-midterm-losses/"
+        },
+        {
+          "outlet": "Forbes",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/04/trump-congratulates-democrats-says-he-accepts-election-results/"
         }
       ]
     }
