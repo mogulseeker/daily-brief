@@ -1,237 +1,241 @@
 {
-  "date": "2026-11-04",
-  "dateLabel": "Wednesday, November 4, 2026",
-  "generated": "2026-11-04T13:20:35Z",
+  "date": "2026-11-05",
+  "dateLabel": "Thursday, November 5, 2026",
+  "generated": "2026-11-05T13:20:37Z",
   "tldr": [
-    "AI Industry: Voters in ten states decided 41 local data-center ballot measures, and the restrictive side won nearly everywhere, by margins up to 90 percent.",
-    "International: Indonesia detained three police generals over an alleged wiretapping operation against President Prabowo, then sent more than 20,000 troops into Jakarta.",
-    "Economics: Democrats won both chambers of Congress; the dollar index fell to 101.32, gold reclaimed $4,000 and Dow futures swung to a 900-point gain.",
-    "Healthcare: Missouri voters refused 55.5 to 44.5 to restore an abortion ban, and Virginia wrote reproductive rights into its constitution 62 to 38.",
-    "Wildcard - AI Industry: Nvidia has told cloud partners worldwide to keep at least 51 percent of their business with non-Chinese customers or lose chip access.",
-    "Wildcard - Economics: Meta's debut euro bond drew a record 53 billion euros of orders, a day after a $15 billion dollar deal priced at up to 7.53 percent.",
-    "Wildcard - International Affairs: Israel certified its election 15 to 2 with 14 abstentions as Likud abstained and failed to delay the count; Netanyahu's bloc is eight seats short.",
-    "Wildcard - Healthcare: Pfizer raised full-year revenue guidance by $1.5 billion to $62-64 billion even though third-quarter sales were operationally flat.",
-    "Tech: Attackers compromised a refrigeration supplier and altered temperature settings at three French blood-plasma storage sites; no products were lost.",
-    "Trump News: After a week of rallies asking voters to pretend he was on the ballot, Trump posted that he wasn't on it and would have won a landslide if he were."
+    "AI Industry: OpenAI says it will pay the full electricity and grid cost at data centers it owns, and wants states to force every large power user to do the same.",
+    "International: Iran called the US reply \"not convincing\" and will keep the Strait of Hormuz shut until all seven of its conditions are met.",
+    "Economics: The Bank of England raised Bank Rate to 4 percent, its first increase since 2023, and expects inflation near 5 percent in mid-2027.",
+    "Healthcare: From January, Medicare pays hospitals 28 percent below average sales price for 340B drugs, a $4.35 billion cut offset by a 7.5 percent rise on everything else.",
+    "Wildcard - Economics: Brent crude settled down 8.7 percent at $94.62 after Vance posted that the Iran war cost Republicans the midterms.",
+    "Wildcard - AI Industry: AMD's quarterly filing values its Taalas chip acquisition at about $2.9 billion, including up to $1.4 billion contingent on undisclosed conditions.",
+    "Wildcard - International Affairs: The US, Ukraine and Russia will hold their first trilateral talks since February in Abu Dhabi on November 10 and 11.",
+    "Wildcard - Healthcare: Novo Nordisk raised full-year guidance as obesity sales grew 22 percent, but its US business grew about 1 percent and it gave no 2027 forecast.",
+    "Tech: SpaceX hired Qualcomm to supply chips and radio software for tens of thousands of ground-based cell sites, deploying from 2027.",
+    "Trump News: Trump's first post-election appearance was at his ballroom construction site; the leaked donor list for its $333 million does not include him, despite \"I'm paying for it.\""
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Voters in ten states pass local bans and pauses on AI data centers",
-      "body": "Voters decided 41 local data-center ballot measures across ten states on Tuesday, and the restrictive side won nearly everywhere results are in. Ohio alone had 21 measures in 18 municipalities, at least 14 of which approved bans or restrictions. Trenton, Ohio, banned data centers above 25 megawatts 80 percent to 20 percent; Nottingham, New Hampshire, approved a one-year permitting moratorium 90.3 to 9.7; Augusta Township, Michigan, rejected a rezoning 89.6 to 10.4. Ballotpedia counted 28 of the 41 as restrictive. Ohio already had 125 local moratoriums. Results are unofficial.",
-      "plain": "An AI data center is a windowless building full of computers that train and run AI models. It needs land, a lot of electricity and often a lot of water, and all three are controlled locally, by zoning. A ballot measure skips the town council and asks voters directly, which is why these numbers matter: 80 and 90 percent are not close votes. The interesting part is that Ohio had already piled up 125 local pauses before anyone voted, so Tuesday did not start the backlash; it measured it.",
-      "why": "The binding constraint on the AI build-out is shifting from chips and power contracts to local land-use votes, which a company cannot negotiate its way around, and analysts reading Tuesday's market reaction already named data-center restrictions as a risk to AI-linked shares.",
+      "headline": "OpenAI says it will pay the full power bill at the data centers it owns",
+      "body": "OpenAI published a National Community Compact on Thursday. At future campuses it owns and operates, it will pay the full cost of electricity and required grid infrastructure, post financial assurances, and shield other utility customers if a project is delayed or cancelled. It will publish per-site water and power use and sign no non-disclosure agreements with public officials. A companion blueprint asks state utility commissions to make all large power users pay the grid costs they cause. Rented capacity is excluded. On Tuesday voters backed restrictions in 40 of 41 local data-center measures.",
+      "plain": "Data centers are warehouses of computers that run AI, and they need enormous amounts of electricity. When a utility builds new power lines and plants to serve one, the cost is usually spread across everyone's bills, so your bill rises because a company moved in nearby. On Tuesday voters in ten states got to decide on data centers directly, and said no almost everywhere. OpenAI's answer is to promise it will pay those costs itself. The catch is in the wording: it covers only buildings OpenAI owns, and AI firms rent much of their computing.",
+      "why": "OpenAI is asking legislators to impose the same cost on every large electricity user, which would raise rivals' expenses while turning a political fight it cannot win town by town into a statewide rule it helped draft.",
       "sources": [
         {
-          "outlet": "Fortune",
-          "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/"
+          "outlet": "Engadget",
+          "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/"
         },
         {
-          "outlet": "Ballotpedia News",
-          "url": "https://news.ballotpedia.org/2026/11/03/voters-in-ten-states-will-vote-on-data-center-related-ballot-measures-november-3/"
+          "outlet": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/11/62913504/openai-vows-cover-ai-data-center-electricity-costs-residents-bills"
         },
         {
-          "outlet": "Journal-News",
-          "url": "https://www.journal-news.com/local/elections/early-voting-shows-trenton-data-center-measure-passing/article_63a9951a-54e1-5dcc-86b3-e70ed7887ce2.html"
+          "outlet": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4666317-openai-pledges-no-ndas-protection-from-power-costs-in-data-center-deals"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "Indonesia detains three police generals over alleged wiretapping of the president, then sends troops into Jakarta",
-      "body": "Indonesian police detained three senior police generals over an alleged illegal wiretapping operation that police say targeted President Prabowo Subianto, state officials, journalists, activists and business figures between 2025 and 2026. One is Gen. Listyo Sigit Prabowo, national police chief from 2021 until October, when he became presidential chief of staff; the president dismissed him Wednesday. Investigators allege intercepted communications were ordered deleted from the police LIMS system. The palace said the conduct could be regarded as \"leading toward treason.\" The military said Wednesday it was sending more than 20,000 troops and personnel to Jakarta, without confirming a link to the case.",
-      "plain": "Indonesia has about 280 million people, the fourth-largest population in the world, and Prabowo Subianto has been its president since 2024. Wiretapping means secretly recording someone's phone calls and messages; police can do it, but only by following set rules. The allegation is that senior officers did it to the president himself, and then ordered the recordings erased. Note what is alleged and what is not: three people are detained, nobody has been charged or convicted, and the government has not said why 20,000 soldiers are now in the capital.",
-      "why": "A criminal case against the man who ran the national police, and who until last month sat in the president's own office, has put soldiers rather than police in charge of securing Jakarta, and the government has offered no explanation for the connection.",
+      "headline": "Iran rejects the US reply on Hormuz and keeps the strait closed",
+      "body": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said on X that the American response to Tehran's demands \"was not convincing\" and that the Strait of Hormuz stays shut until Washington meets all seven Iranian conditions. Iran says it can reopen within 48 hours once they are met, down from a seven-day timetable floated in September. The conditions reportedly include a regional ceasefire, release of frozen assets, lifting oil sanctions, ending the naval blockade, reparations and a troop withdrawal. Doha talks ended without a breakthrough; US forces struck Qeshm Island on Monday in strikes three US officials called defensive.",
+      "plain": "The Strait of Hormuz is a narrow stretch of sea at the mouth of the Persian Gulf that about a fifth of the world's oil normally passes through. Iran sits along it and has effectively closed it, which is why fuel costs more everywhere this year. Tehran is treating the strait as a bargaining chip: it says it can reopen in two days, but only if the US lifts sanctions, unfreezes money and pulls its navy back. Both sides pass messages through Qatar because they are not speaking directly.",
+      "why": "The reopening offer has shrunk from seven days to two, which says the dispute is no longer about the physical work of clearing the strait but about which side concedes first on sanctions.",
       "sources": [
         {
-          "outlet": "Washington Post",
-          "url": "https://www.washingtonpost.com/world/2026/11/03/indonesia-police-illegal-wiretapping-president-prabowo-subianto/c2189060-d7aa-11f1-930a-e08f8086f5ac_story.html"
+          "outlet": "TRT World",
+          "url": "https://www.trtworld.com/article/0020422db015"
         },
         {
-          "outlet": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/politics/indonesia-detains-3-police-generals-suspected-of-wiretapping-prabowo"
+          "outlet": "Turkiye Today",
+          "url": "https://www.turkiyetoday.com/region/iran-says-us-response-not-convincing-links-hormuz-reopening-to-seven-conditions-3231667"
         },
         {
-          "outlet": "ABC News (Australia)",
-          "url": "https://www.abc.net.au/news/2026-11-04/indonesian-police-detained-over-alleged-wiretapping-of-president/107344464"
+          "outlet": "Yeni Safak",
+          "url": "https://en.yenisafak.com/world/iran-rejects-us-response-as-not-convincing-on-hormuz-demands-3725170"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "Democratic sweep of Congress sends the dollar down and gold back above $4,000",
-      "body": "Democrats won majorities in both chambers on Tuesday; CNN's count showed 54 Senate seats to 44 with Alaska and Mississippi uncalled, after flips including Ohio, Texas, North Carolina and Maine. Markets moved twice: Nasdaq-100 futures fell nearly 2 percent overnight as AI shares dropped in Asia, then Dow futures swung to about plus 900 points. The dollar index fell 0.39 percent to 101.32, the 10-year Treasury yield eased to about 4.93 percent, gold rose roughly 2.3 percent back above $4,000 and silver about 4 percent to near $52.",
-      "plain": "The dollar index measures the dollar against a basket of other currencies, so a fall means the dollar buys less abroad. Gold and silver are what investors buy when they are less sure about currencies and government finances, so the two moves are the same bet made twice. The mechanism is simple: one party now controls the White House and the other controls Congress, so almost nothing passes without a deal. That makes big tax or spending changes unlikely, which is why bond yields eased rather than spiked. Gold is still far below its January peak of about $5,595.",
-      "why": "Divided government turns the next two years of US fiscal policy from a program into a negotiation, and the first thing investors repriced was not equities but the currency.",
+      "headline": "Bank of England raises rates to 4 percent, its first increase since 2023",
+      "body": "The Bank of England's Monetary Policy Committee voted 8-1 on Thursday to raise Bank Rate a quarter point to 4 percent, its first increase since August 2023, reversing a cutting cycle because of an energy-driven inflation shock. The dissenter wanted a half point. The Bank expects inflation to peak near 5 percent in mid-2027, though the Guardian reported the forecast as 4.9 percent. Governor Andrew Bailey said that unless the Middle East conflict is resolved this is unlikely to be the last rise. September was a 6-3 hold; the next decision is December 17.",
+      "plain": "A central bank raises interest rates to make borrowing dearer, which cools spending and slows price rises. Normally it does that when an economy is running hot. Britain's is not. Prices are climbing because the Iran war and the closed Strait of Hormuz have made oil and gas expensive, and fuel feeds into anything shipped or heated. Raising rates cannot produce more oil, so the Bank is really trying to stop costly fuel from hardening into permanently higher wages and prices. That is why one member wanted to move twice as far.",
+      "why": "A central bank tightening into a supply shock it cannot fix is choosing recession risk over an inflation spiral, and the Fed, which held in October over two dissents who wanted a hike, faces the same arithmetic in December.",
       "sources": [
         {
-          "outlet": "Reuters",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46L04I:0-market-analysts-react-to-us-midterm-election-results/"
-        },
-        {
           "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+          "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
         },
         {
-          "outlet": "FXStreet",
-          "url": "https://fxstreet.com/news/gold-reclaims-4-000-as-democrats-congress-win-rattles-us-dollar-202611041114"
+          "outlet": "Accountancy Today",
+          "url": "https://www.accountancytoday.co.uk/2026/11/05/boe-raises-interest-rates-to-4-as-iran-conflict-pushes-up-inflation/"
+        },
+        {
+          "outlet": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-kingdom/interest-rate"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "Missouri voters refuse to restore an abortion ban; Virginia writes reproductive rights into its constitution",
-      "body": "Missouri's Amendment 3, which would have reinstated most abortion restrictions and written a ban on gender-affirming care for minors into the state constitution, failed 55.5 percent to 44.5 percent, 1,173,172 unofficial votes to 941,065. The Republican-led legislature put it on the ballot two years after Missouri became the first state to repeal an abortion ban by popular vote. Virginia approved Question 1 by 62 to 38, adding a right to reproductive care, contraception and fertility treatment to its Bill of Rights; the Family Foundation of Virginia has signaled a court challenge. Nevada's Question 6 passed with about 63 percent, the second approval the state requires.",
-      "plain": "Most abortion rules in the United States are now set state by state, and some states let voters change the state constitution directly rather than waiting for lawmakers. Constitutional language is the prize here because a legislature can rewrite an ordinary law next session but cannot rewrite the constitution on its own. Missouri's measure bundled two things, abortion restrictions and a ban on medical treatment for transgender minors, into one question, so the vote does not separate them. Counts are unofficial until each state certifies.",
-      "why": "Missouri's legislature asked voters the abortion question for the second time in two years and lost by a wider margin than in 2024, which sets a price for putting it on the ballot again.",
+      "headline": "Medicare cuts what it pays hospitals for discounted 340B drugs",
+      "body": "CMS issued its calendar-year 2027 hospital outpatient final rule on Wednesday, setting Medicare payment for drugs bought through the 340B discount program at average sales price minus 28 percent from January 1, softened from the 33.4 percent cut it proposed. Hospitals outside 340B still receive ASP plus 6 percent. CMS put the reduction at $4.35 billion in the first year, $1.1 billion of it falling on patient cost-sharing, offset by a 7.5 percent rise for non-drug services to stay budget-neutral; outpatient rates rise a net 2.3 percent. The American Hospital Association objected.",
+      "plain": "340B is a federal program letting hospitals that serve many low-income patients buy drugs at a steep discount, while Medicare has kept paying them close to full price. Hospitals keep the difference and spend it on services Medicare does not otherwise fund. This rule takes most of that gap away. The money does not all leave hospitals, because the law requires the rule to be budget-neutral, so payment for everything that is not a drug rises 7.5 percent. The effect is to shift money toward hospitals doing more procedures and visits.",
+      "why": "It converts a 340B hospital's financing from drug-pricing arbitrage into volume-based payment, which falls hardest on safety-net hospitals with large pharmacy operations and is near certain to be litigated.",
       "sources": [
         {
-          "outlet": "Missouri Independent",
-          "url": "https://missouriindependent.com/2026/11/03/missouri-voters-reject-amendment-3-preserving-abortion-rights-approved-in-2024/"
+          "outlet": "CMS",
+          "url": "https://www.cms.gov/newsroom/fact-sheets/calendar-year-2027-hospital-outpatient-prospective-payment-system-opps-ambulatory-surgical-center-0"
         },
         {
-          "outlet": "St. Louis Public Radio",
-          "url": "https://www.stlpr.org/government-politics-issues/2026-11-02/missouri-amendment-3-abortion-legal"
+          "outlet": "Becker's Hospital Review",
+          "url": "https://www.beckershospitalreview.com/finance/cms-targets-340b-site-neutral-pay-in-2027-outpatient-rule-8-things-to-know/"
         },
         {
-          "outlet": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-elections/ballot-measures"
+          "outlet": "EIN Presswire",
+          "url": "https://www.einnews.com/pr_news/954639160/cms-finalizes-increases-to-medicare-hospital-outpatient-department-payment-rates-changes-to-site-neutral-and-340b-for-2027"
         }
       ]
     },
     {
       "slot": 5,
-      "category": "Wildcard - AI Industry",
-      "headline": "Nvidia tells cloud partners worldwide to keep most of their business non-Chinese",
-      "body": "The Financial Times reported that Nvidia has told cloud and data-center partners to keep at least 51 percent of their business with non-Chinese customers or risk losing chip access. The instruction was passed verbally through sales teams, applies to new contracts rather than existing leases, and reaches partners globally. It targets a gap US export controls do not cover: Chinese firms including Alibaba and ByteDance have rented Nvidia capacity in Singapore and Malaysia rather than buying chips. The reporting does not establish how the 51 percent is measured or audited. Nvidia has not confirmed it, and the account rests on anonymous sources in one original report.",
-      "plain": "US export rules stop Nvidia selling its best AI chips to Chinese companies, but they say less about a Chinese company renting time on those chips in a data center in Singapore. That gap is the whole story. Nvidia's reported answer is to lean on the landlords instead of the tenants: keep more than half your business non-Chinese or we stop selling you hardware. Treat this as credible but unconfirmed, since it comes from one outlet's anonymous sources and Nvidia has said nothing.",
-      "why": "If accurate, enforcement of chip controls shifts from a published government rule a company can contest to a supplier's verbal condition on its own customers, with nothing written down to appeal.",
+      "category": "Wildcard - Economics",
+      "headline": "Brent crude falls almost 9 percent after Vance blames the Iran war for the midterm defeat",
+      "body": "Brent crude settled down 8.7 percent at $94.62 a barrel on Wednesday after Vice President JD Vance wrote on X that \"the reason we lost is the war,\" asking defenders of the Iran campaign to argue that losing the Senate for six years was worth it. Oil fell more than 14 percent over the week. \"The elections are leading the market to conclude that Trump might now be inclined to make a deal,\" said Andy Lipow of Lipow Oil Associates. FXStreet put the Dow up 3.03 percent, its best day since April 2025. Trump called the post \"largely true.\"",
+      "plain": "Oil has carried a war premium all year: traders paid extra because the conflict could cut supply at any moment. That premium only unwinds when a deal starts to look likely. Vance's post mattered not as policy but as an admission of political cost, and traders concluded a president who just lost Congress over fuel prices has reason to end the war. So a social-media post moved oil about 9 percent in a day. Note the sequence: the Bank of England raised rates on Thursday partly because oil was above $100, the day after it fell well below.",
+      "why": "The war premium is now priced off American domestic politics rather than events in the Gulf, which makes every poll and election result an input to the oil market.",
       "sources": [
         {
-          "outlet": "Financial Times (via Benzinga)",
-          "url": "https://www.benzinga.com/markets/tech/26/11/62808888/nvidia-tightens-the-screws-on-chinas-ai-access-cloud-partners-worldwide-must-restrict-chinese-customers-under-new-revenue-rule-report"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
         },
         {
-          "outlet": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-asking-cloud-clients-232102833.html"
+          "outlet": "Oilprice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+        },
+        {
+          "outlet": "FXStreet",
+          "url": "https://fxstreet.com/analysis/dow-has-best-day-since-april-2025-as-brent-drops-87-after-vance-blames-the-iran-war-202611051038"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - Economics",
-      "headline": "Meta's first euro bond draws a record 53 billion euros in orders",
-      "body": "Meta raised $15 billion in a five-part dollar bond sale on Tuesday, yields running 5.85 to 7.53 percent, with orders near $58 billion. Its debut euro bond followed Wednesday and drew 53 billion euros ($59.7 billion) of demand, which Bloomberg called a record for any corporate deal in Europe. The longest dollar tranche priced 2.2 percentage points over Treasuries, about 0.9 points wider than a comparable April bond, days after S&P cut its outlook on Meta's AA- rating to negative over AI spending. Oracle raised $20 billion Monday at coupons of 7 to 8.65 percent.",
-      "plain": "A bond is a loan from investors to a company, and the yield is what the company pays to borrow. Demand of 53 billion euros for a much smaller deal means far more lenders wanted in than could get in. The catch is in the price: Meta is paying noticeably more than it did in April, so lenders are queuing up and charging more at the same time. That happens when a borrower is seen as safe but is borrowing much more than it used to.",
-      "why": "The AI build-out has crossed from being funded out of operating cash into being funded with debt at rising prices, which means the cost of the data-center race now shows up on balance sheets rather than only in capital-expenditure forecasts.",
+      "category": "Wildcard - AI Industry",
+      "headline": "AMD's quarterly filing values its Taalas chip deal at $2.9 billion",
+      "body": "AMD's quarterly report, filed Wednesday, values its pending acquisition of Taalas at roughly $2.9 billion in cash and stock, including up to about $1.4 billion in contingent consideration. AMD announced the deal on August 6 without disclosing a price. The filing does not say what triggers the contingent payment or how cash and stock split, and expects closing by the end of 2026 subject to regulatory approval. Taalas, founded in 2023 near Toronto by former Tenstorrent chief executive Ljubisa Bajic, hard-wires one AI model directly into silicon instead of running it on general-purpose GPUs.",
+      "plain": "A GPU is a flexible chip: it can run any AI model, which is useful but wasteful, because flexibility costs power and speed. Taalas does the opposite, etching one particular model permanently into the chip's wiring, so it runs far faster and cheaper but can never be changed. That trade is only worth making once a model is stable and will be run billions of times, which is what inference means: not training a model but answering with it. AMD is betting AI has reached that stage.",
+      "why": "Nearly half the stated price is contingent on conditions AMD declined to disclose, which suggests it is buying an option on a hardware bet rather than a proven product line.",
       "sources": [
         {
-          "outlet": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal"
+          "outlet": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/"
         },
         {
-          "outlet": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments"
+          "outlet": "SEC (AMD 10-Q)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000191/amd-20260926.htm"
         },
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
+          "outlet": "Securities.io",
+          "url": "https://www.securities.io/amd-values-pending-taalas-acquisition-at-approximately-2-9-billion/"
         }
       ]
     },
     {
       "slot": 7,
       "category": "Wildcard - International Affairs",
-      "headline": "Israel certifies its election over Likud's objection, leaving Netanyahu eight seats short",
-      "body": "Israel's Central Elections Committee approved the final results of the October 27 election on Wednesday, 15 votes to two with 14 abstentions; Likud and Shas abstained, and chairman Justice Noam Sohlberg rejected Likud's request to delay certification over its claims of irregularities in the Arab vote. The committee said it found no evidence the count was altered, while noting a Shin Bet inquiry continues. Netanyahu's bloc holds 53 of 120 seats, Gadi Eisenkot's 48, Arab-led lists 19; 61 is a majority, and both leaders ruled out Arab-party partners. The new Knesset is sworn in November 10.",
-      "plain": "Israel's parliament, the Knesset, has 120 seats, and a government needs 61 of them. No bloc has that, and the 19 seats held by Arab-led parties are the only arithmetic path to a majority, which both main contenders rejected before voting day. Certification is the formal step that turns vote counts into seats, and Likud asked to postpone it while fraud claims are examined. The committee refused, said it found no evidence the count was altered, and Likud abstained rather than voting against.",
-      "why": "The largest party in the Knesset has declined to endorse the count that seats it, so the coming coalition fight will run alongside a dispute over whether the election itself was sound.",
+      "headline": "The US, Ukraine and Russia will meet in Abu Dhabi next week",
+      "body": "Steve Witkoff announced that the United States, Ukraine and Russia will hold trilateral talks in Abu Dhabi on November 10 and 11, their first three-way meeting since February, covering post-war security arrangements, de-escalation and humanitarian steps. Volodymyr Zelenskyy held a roughly 90-minute call on Wednesday with Witkoff and Jared Kushner to prepare, saying air defense was a main topic and that Ukraine needs interceptors for its Patriot systems. Zelenskyy called it a team-level format, not a leaders' summit, and said one or two technical rounds could open the way to a summit with Trump and Putin.",
+      "plain": "For most of this war the US has talked to each side separately, which lets each one tell a different story about what was agreed. A trilateral meeting puts all three in one room, so positions must be stated in front of the other party. But this is deliberately a staff-level meeting rather than presidents, which is how diplomats test whether a deal exists before leaders risk being seen to fail. Zelenskyy's framing is the tell: a step toward a summit, not the summit. What he asked for was Patriot interceptors.",
+      "why": "Holding the first trilateral in nine months days after a US election that turned on war weariness suggests Washington's negotiating clock is now set by domestic politics rather than by the battlefield.",
       "sources": [
         {
-          "outlet": "The Jerusalem Post",
-          "url": "http://www.jpost.com/israel-election-2026/article-913780"
+          "outlet": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/89174"
         },
         {
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-november-4-2026"
+          "outlet": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-polytics/4181550-zelensky-speaks-with-witkoff-kushner-ahead-of-trilateral-meeting-in-abu-dhabi.html"
         },
         {
-          "outlet": "Israel National News",
-          "url": "https://www.israelnationalnews.com/news/435646"
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/witkoff-reveals-location-date-for-new-trilateral-peace-deal-negotiations/"
         }
       ]
     },
     {
       "slot": 8,
       "category": "Wildcard - Healthcare",
-      "headline": "Pfizer raises its 2026 forecast while overall sales stay flat",
-      "body": "Pfizer reported third-quarter revenue of $16.6 billion on Tuesday, roughly flat year over year operationally, with reported diluted earnings of $0.56 a share and adjusted earnings of $0.87. It raised full-year revenue guidance by $1.5 billion at the midpoint to $62 billion to $64 billion and narrowed adjusted earnings guidance to $2.95 to $3.05. Launched and acquired products grew 32 percent operationally and non-COVID products 7 percent, with Nurtec up 33 percent. Adjusted earnings absorbed about $0.10 from a $650 million charge tied to an Innovent Biologics in-licensing deal.",
-      "plain": "Guidance is the forecast a company gives investors for the year, so raising it is a claim about the months ahead, not the quarter just ended. The puzzle here is that total sales barely moved while the forecast went up. The answer is in the mix: COVID products and older drugs losing patent protection are shrinking, and recently launched or purchased drugs grew 32 percent, enough to cover the losses with room left over. \"Operationally\" means the figures strip out currency swings, which can flatter or flatten results on their own.",
-      "why": "Pfizer is showing that the pipeline it bought with COVID-era cash is now replacing that revenue faster than its older drugs are losing it, which is the specific test the company has been judged on since 2023.",
+      "headline": "Novo Nordisk raises its outlook as obesity drug sales grow 22 percent",
+      "body": "Novo Nordisk reported third-quarter results on Wednesday with obesity-care sales up 22 percent at constant exchange rates, adjusted sales up 4 percent and adjusted operating profit up 27 percent. It raised full-year 2026 adjusted sales guidance to between minus 2 and plus 2 percent, from minus 6 to zero. Growth came mainly from the Wegovy pill and a higher-dose 7.2 mg injection, with 700,000 obesity patients added in the quarter. It is preparing a US launch of CagriSema in early 2027, subject to approval. US operations grew about 1 percent, and the chief executive declined to give 2027 guidance.",
+      "plain": "GLP-1 drugs, sold as Wegovy and Ozempic, copy a gut hormone that tells your brain you are full, and they have become some of the best-selling medicines ever made. Novo Nordisk created that market and then began losing it to Eli Lilly, so this quarter is evidence about whether it is holding on. The answer is mixed: obesity sales grew 22 percent worldwide, but the US business grew about 1 percent, and the US is where the money is.",
+      "why": "A company raising this year's guidance while refusing to forecast next year is signaling that the oral GLP-1 price war with Eli Lilly begins in earnest in 2027.",
       "sources": [
         {
-          "outlet": "Pfizer",
-          "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reports-strong-third-quarter-2026-results-and-raises"
+          "outlet": "SEC (Novo Nordisk 6-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000162828026069805/caq32026.htm"
         },
         {
-          "outlet": "SEC Form 8-K",
-          "url": "https://www.sec.gov/Archives/edgar/data/0000078003/000007800326000125/pfe-9272026xex99.htm"
+          "outlet": "RTTNews",
+          "url": "https://www.rttnews.com/3709234/novo-nordisk-q3-adj-operating-profit-increases-obesity-sales-up-22-raises-2026-outlook.aspx"
         },
         {
-          "outlet": "BioSpace",
-          "url": "https://www.biospace.com/press-releases/pfizer-reports-strong-third-quarter-2026-results-and-raises-2026-guidance"
+          "outlet": "The Motley Fool",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/04/novo-nordisk-nvo-q3-2026-earnings-call-transcript/"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "Hackers raised the temperature inside French blood-plasma freezers",
-      "body": "The French Blood Establishment (EFS) said attackers altered temperature and defrosting settings at three of its cold-storage plasma sites after compromising a supplier of refrigeration equipment. Alarms detected the anomalies and staff transferred or secured the plasma, held for transfusions and for manufacturing medicines. \"No health consequences have been identified and no blood products were lost,\" EFS said; collection and distribution continued. Le Canard enchaine reported units were commanded from about minus 30 degrees Celsius toward 110, a figure the Associated Press accounts do not carry. France's cybersecurity agency and the Health Ministry are investigating. The attack ran overnight on November 1 and 2; no group has claimed it.",
-      "plain": "Plasma is the liquid part of blood, used in transfusions and to make medicines, and it has to be kept frozen, so the freezer is part of the product. The attackers did not go after patient records; they went after the thermostat, and they got in through the outside company that supplies the refrigeration gear rather than through the blood service itself. What saved the plasma was boring and important: alarms noticed the temperature moving and people physically moved the bags. The 110-degree figure comes from one French outlet and is not in the wire-service accounts.",
-      "why": "This moves hospital cyber risk from stolen data to destroyed inventory, and it shows the entry point is increasingly the equipment vendor rather than the hospital network.",
+      "headline": "SpaceX hires Qualcomm to build a nationwide cellular network on the ground",
+      "body": "SpaceX has signed a multi-year agreement with Qualcomm to supply chips and foundational radio and baseband software for tens of thousands of conventional cell sites it plans to begin deploying in 2027, Axios reported Wednesday. The base stations will use Qualcomm's Dragonwing QRU100 and QDU100 platforms, while SpaceX builds the remaining software and its own base-station design. Terms were not disclosed. Mobile Experts analyst Joe Madden estimated to Axios that such a network would cost at least $100 billion. SpaceX's $19.6 billion EchoStar spectrum purchase still awaits FCC approval.",
+      "plain": "Starlink's phone service talks to satellites, which reaches everywhere but is slow and thin, because one satellite passing overhead shares limited capacity across a huge area. Ordinary mobile networks use towers, which are fast but only cover where someone paid to build one. SpaceX is now building both, so a phone would use a tower in a city and a satellite in a desert. That is why it bought spectrum, the legal right to broadcast on particular frequencies, and why it needs tens of thousands of towers.",
+      "why": "A satellite company building ground towers has concluded satellites alone cannot carry a mass-market phone business, which is the opposite of the pitch direct-to-cell was sold on, and it makes SpaceX a rival to Verizon and AT&T rather than their supplier.",
       "sources": [
         {
-          "outlet": "Euronews (AP)",
-          "url": "https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say"
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/11/04/spacex-qualcomm-cellular-network"
         },
         {
-          "outlet": "U.S. News (AP)",
-          "url": "https://www.usnews.com/news/technology/articles/2026-11-04/cyberattack-hits-french-blood-bank-site-but-no-blood-products-were-compromised"
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/spacex-qualcomm-starlink-mobile-5g-network"
         },
         {
-          "outlet": "DataBreaches.net",
-          "url": "https://databreaches.net/2026/11/03/french-blood-storage-units-targeted-in-cyberattack/"
+          "outlet": "Interesting Engineering",
+          "url": "https://interestingengineering.com/innovation/spacex-qualcomm-starlink-mobile-5g-network"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "Trump spent the campaign's last week asking voters to pretend he was on the ballot, then said he wasn't",
-      "body": "At a Kansas rally on November 1 Trump told the crowd, \"I really want you to pretend I'm on the ballot,\" and at a South Carolina rally said, \"I am on the ballot. We're all on the ballot,\" arguing his name raises turnout by 49.2 percent. After Democrats took both chambers he posted on Truth Social that he \"wasn't on the Ballot and if I was, we would have won IN A LANDSLIDE\"; outlets rendered the wording slightly differently. A separate post said \"Fox News bears responsibility for these losses.\" On Fox News that night he blamed Republican candidates and gas prices and said, \"I don't view it as a hit on me.\" He told the New York Times he is \"absolutely willing to accept\" the results; in October he had said he would accept them \"if they're honest elections.\"",
-      "plain": "Midterms are the congressional elections held halfway through a presidential term, and the president's party usually loses seats, so the question is how many. Trump's own argument before the vote was that his presence on a ballot is worth a large turnout boost, which is why he asked voters to treat the election as if he were on it. After the loss he used the same claim in reverse: his absence explains the result. Both versions cannot be tested against anything except the election he himself framed as the test.",
-      "why": "The claim that he is worth a landslide and the claim that his absence caused the defeat are one claim stated twice, and Tuesday was the measurement he proposed for it.",
+      "headline": "Trump's first post-election appearance was at the ballroom his donor list says he is not paying for",
+      "body": "Trump's first public appearance after Republicans lost both chambers of Congress was a Wednesday ceremony raising the final steel beam at the White House ballroom site. He did not mention the election in his opening remarks, which covered the ballroom and its marble, and addressed the result only when reporters asked. He has said on the record that he is funding the project: \"I'm paying for it; the country's not\" in September 2025, and in October 2025 that it is \"being paid for a hundred percent by me and some friends of mine.\" A spreadsheet of donors committing $100,000 or more, obtained by the Washington Post and published October 15, totals $333 million and does not list Trump. Apple, Nvidia, the Adelson family and Charles Ergen each committed $25 million, at least $77 million came from donors who requested anonymity, and Google's $22 million came from settling Trump's YouTube lawsuit. Asked how much Trump has personally committed, a White House official said the amount \"has yet to be determined as construction continues.\"",
+      "plain": "The ballroom is a new event hall being built at the White House. Trump said several times, in his own words and on camera, that he was paying for it so taxpayers would not have to. A spreadsheet the Washington Post obtained lists who actually committed the money, and his name is not on it. Four donors gave $25 million each, and $77 million came from people who asked not to be named, which matters because invisible donors cannot be checked for business before the government. Google's $22 million was not a gift but the settlement of a lawsuit Trump brought against it.",
+      "why": "The donor list converts a decorating project into a record of who paid for access, and the anonymous $77 million is the part no oversight committee can trace.",
       "sources": [
         {
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/"
+        },
+        {
           "outlet": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-election/trump-tries-new-midterm-message-pretend-i-am-on-the-ballot-rcna593849"
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-election-white-house-ballroom-iran-rcna607487"
         },
         {
-          "outlet": "Newsweek",
-          "url": "https://www.newsweek.com/trump-refuses-to-take-blame-for-disastrous-midterms-for-gop-12660289"
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-white-house-ballroom-donor-names/"
         },
         {
-          "outlet": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/politics/trump-blames-fox-news-gop-midterm-losses/"
-        },
-        {
-          "outlet": "Forbes",
-          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/04/trump-congratulates-democrats-says-he-accepts-election-results/"
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/10/16/nx-s1-6003821/investigation-details-who-donated-to-the-white-house-ballroom-project"
         }
       ]
     }

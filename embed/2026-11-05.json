@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-05",
+  "dateLabel": "Thursday, November 5, 2026",
+  "generated": "2026-11-05T13:20:37Z",
+  "tldr": [
+    "AI Industry: OpenAI says it will pay the full electricity and grid cost at data centers it owns, and wants states to force every large power user to do the same.",
+    "International: Iran called the US reply \"not convincing\" and will keep the Strait of Hormuz shut until all seven of its conditions are met.",
+    "Economics: The Bank of England raised Bank Rate to 4 percent, its first increase since 2023, and expects inflation near 5 percent in mid-2027.",
+    "Healthcare: From January, Medicare pays hospitals 28 percent below average sales price for 340B drugs, a $4.35 billion cut offset by a 7.5 percent rise on everything else.",
+    "Wildcard - Economics: Brent crude settled down 8.7 percent at $94.62 after Vance posted that the Iran war cost Republicans the midterms.",
+    "Wildcard - AI Industry: AMD's quarterly filing values its Taalas chip acquisition at about $2.9 billion, including up to $1.4 billion contingent on undisclosed conditions.",
+    "Wildcard - International Affairs: The US, Ukraine and Russia will hold their first trilateral talks since February in Abu Dhabi on November 10 and 11.",
+    "Wildcard - Healthcare: Novo Nordisk raised full-year guidance as obesity sales grew 22 percent, but its US business grew about 1 percent and it gave no 2027 forecast.",
+    "Tech: SpaceX hired Qualcomm to supply chips and radio software for tens of thousands of ground-based cell sites, deploying from 2027.",
+    "Trump News: Trump's first post-election appearance was at his ballroom construction site; the leaked donor list for its $333 million does not include him, despite \"I'm paying for it.\""
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "OpenAI says it will pay the full power bill at the data centers it owns",
+      "body": "OpenAI published a National Community Compact on Thursday. At future campuses it owns and operates, it will pay the full cost of electricity and required grid infrastructure, post financial assurances, and shield other utility customers if a project is delayed or cancelled. It will publish per-site water and power use and sign no non-disclosure agreements with public officials. A companion blueprint asks state utility commissions to make all large power users pay the grid costs they cause. Rented capacity is excluded. On Tuesday voters backed restrictions in 40 of 41 local data-center measures.",
+      "plain": "Data centers are warehouses of computers that run AI, and they need enormous amounts of electricity. When a utility builds new power lines and plants to serve one, the cost is usually spread across everyone's bills, so your bill rises because a company moved in nearby. On Tuesday voters in ten states got to decide on data centers directly, and said no almost everywhere. OpenAI's answer is to promise it will pay those costs itself. The catch is in the wording: it covers only buildings OpenAI owns, and AI firms rent much of their computing.",
+      "why": "OpenAI is asking legislators to impose the same cost on every large electricity user, which would raise rivals' expenses while turning a political fight it cannot win town by town into a statewide rule it helped draft.",
+      "sources": [
+        {
+          "outlet": "Engadget",
+          "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/"
+        },
+        {
+          "outlet": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/11/62913504/openai-vows-cover-ai-data-center-electricity-costs-residents-bills"
+        },
+        {
+          "outlet": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4666317-openai-pledges-no-ndas-protection-from-power-costs-in-data-center-deals"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "Iran rejects the US reply on Hormuz and keeps the strait closed",
+      "body": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said on X that the American response to Tehran's demands \"was not convincing\" and that the Strait of Hormuz stays shut until Washington meets all seven Iranian conditions. Iran says it can reopen within 48 hours once they are met, down from a seven-day timetable floated in September. The conditions reportedly include a regional ceasefire, release of frozen assets, lifting oil sanctions, ending the naval blockade, reparations and a troop withdrawal. Doha talks ended without a breakthrough; US forces struck Qeshm Island on Monday in strikes three US officials called defensive.",
+      "plain": "The Strait of Hormuz is a narrow stretch of sea at the mouth of the Persian Gulf that about a fifth of the world's oil normally passes through. Iran sits along it and has effectively closed it, which is why fuel costs more everywhere this year. Tehran is treating the strait as a bargaining chip: it says it can reopen in two days, but only if the US lifts sanctions, unfreezes money and pulls its navy back. Both sides pass messages through Qatar because they are not speaking directly.",
+      "why": "The reopening offer has shrunk from seven days to two, which says the dispute is no longer about the physical work of clearing the strait but about which side concedes first on sanctions.",
+      "sources": [
+        {
+          "outlet": "TRT World",
+          "url": "https://www.trtworld.com/article/0020422db015"
+        },
+        {
+          "outlet": "Turkiye Today",
+          "url": "https://www.turkiyetoday.com/region/iran-says-us-response-not-convincing-links-hormuz-reopening-to-seven-conditions-3231667"
+        },
+        {
+          "outlet": "Yeni Safak",
+          "url": "https://en.yenisafak.com/world/iran-rejects-us-response-as-not-convincing-on-hormuz-demands-3725170"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "Bank of England raises rates to 4 percent, its first increase since 2023",
+      "body": "The Bank of England's Monetary Policy Committee voted 8-1 on Thursday to raise Bank Rate a quarter point to 4 percent, its first increase since August 2023, reversing a cutting cycle because of an energy-driven inflation shock. The dissenter wanted a half point. The Bank expects inflation to peak near 5 percent in mid-2027, though the Guardian reported the forecast as 4.9 percent. Governor Andrew Bailey said that unless the Middle East conflict is resolved this is unlikely to be the last rise. September was a 6-3 hold; the next decision is December 17.",
+      "plain": "A central bank raises interest rates to make borrowing dearer, which cools spending and slows price rises. Normally it does that when an economy is running hot. Britain's is not. Prices are climbing because the Iran war and the closed Strait of Hormuz have made oil and gas expensive, and fuel feeds into anything shipped or heated. Raising rates cannot produce more oil, so the Bank is really trying to stop costly fuel from hardening into permanently higher wages and prices. That is why one member wanted to move twice as far.",
+      "why": "A central bank tightening into a supply shock it cannot fix is choosing recession risk over an inflation spiral, and the Fed, which held in October over two dissents who wanted a hike, faces the same arithmetic in December.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+        },
+        {
+          "outlet": "Accountancy Today",
+          "url": "https://www.accountancytoday.co.uk/2026/11/05/boe-raises-interest-rates-to-4-as-iran-conflict-pushes-up-inflation/"
+        },
+        {
+          "outlet": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-kingdom/interest-rate"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "Medicare cuts what it pays hospitals for discounted 340B drugs",
+      "body": "CMS issued its calendar-year 2027 hospital outpatient final rule on Wednesday, setting Medicare payment for drugs bought through the 340B discount program at average sales price minus 28 percent from January 1, softened from the 33.4 percent cut it proposed. Hospitals outside 340B still receive ASP plus 6 percent. CMS put the reduction at $4.35 billion in the first year, $1.1 billion of it falling on patient cost-sharing, offset by a 7.5 percent rise for non-drug services to stay budget-neutral; outpatient rates rise a net 2.3 percent. The American Hospital Association objected.",
+      "plain": "340B is a federal program letting hospitals that serve many low-income patients buy drugs at a steep discount, while Medicare has kept paying them close to full price. Hospitals keep the difference and spend it on services Medicare does not otherwise fund. This rule takes most of that gap away. The money does not all leave hospitals, because the law requires the rule to be budget-neutral, so payment for everything that is not a drug rises 7.5 percent. The effect is to shift money toward hospitals doing more procedures and visits.",
+      "why": "It converts a 340B hospital's financing from drug-pricing arbitrage into volume-based payment, which falls hardest on safety-net hospitals with large pharmacy operations and is near certain to be litigated.",
+      "sources": [
+        {
+          "outlet": "CMS",
+          "url": "https://www.cms.gov/newsroom/fact-sheets/calendar-year-2027-hospital-outpatient-prospective-payment-system-opps-ambulatory-surgical-center-0"
+        },
+        {
+          "outlet": "Becker's Hospital Review",
+          "url": "https://www.beckershospitalreview.com/finance/cms-targets-340b-site-neutral-pay-in-2027-outpatient-rule-8-things-to-know/"
+        },
+        {
+          "outlet": "EIN Presswire",
+          "url": "https://www.einnews.com/pr_news/954639160/cms-finalizes-increases-to-medicare-hospital-outpatient-department-payment-rates-changes-to-site-neutral-and-340b-for-2027"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - Economics",
+      "headline": "Brent crude falls almost 9 percent after Vance blames the Iran war for the midterm defeat",
+      "body": "Brent crude settled down 8.7 percent at $94.62 a barrel on Wednesday after Vice President JD Vance wrote on X that \"the reason we lost is the war,\" asking defenders of the Iran campaign to argue that losing the Senate for six years was worth it. Oil fell more than 14 percent over the week. \"The elections are leading the market to conclude that Trump might now be inclined to make a deal,\" said Andy Lipow of Lipow Oil Associates. FXStreet put the Dow up 3.03 percent, its best day since April 2025. Trump called the post \"largely true.\"",
+      "plain": "Oil has carried a war premium all year: traders paid extra because the conflict could cut supply at any moment. That premium only unwinds when a deal starts to look likely. Vance's post mattered not as policy but as an admission of political cost, and traders concluded a president who just lost Congress over fuel prices has reason to end the war. So a social-media post moved oil about 9 percent in a day. Note the sequence: the Bank of England raised rates on Thursday partly because oil was above $100, the day after it fell well below.",
+      "why": "The war premium is now priced off American domestic politics rather than events in the Gulf, which makes every poll and election result an input to the oil market.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
+        },
+        {
+          "outlet": "Oilprice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+        },
+        {
+          "outlet": "FXStreet",
+          "url": "https://fxstreet.com/analysis/dow-has-best-day-since-april-2025-as-brent-drops-87-after-vance-blames-the-iran-war-202611051038"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - AI Industry",
+      "headline": "AMD's quarterly filing values its Taalas chip deal at $2.9 billion",
+      "body": "AMD's quarterly report, filed Wednesday, values its pending acquisition of Taalas at roughly $2.9 billion in cash and stock, including up to about $1.4 billion in contingent consideration. AMD announced the deal on August 6 without disclosing a price. The filing does not say what triggers the contingent payment or how cash and stock split, and expects closing by the end of 2026 subject to regulatory approval. Taalas, founded in 2023 near Toronto by former Tenstorrent chief executive Ljubisa Bajic, hard-wires one AI model directly into silicon instead of running it on general-purpose GPUs.",
+      "plain": "A GPU is a flexible chip: it can run any AI model, which is useful but wasteful, because flexibility costs power and speed. Taalas does the opposite, etching one particular model permanently into the chip's wiring, so it runs far faster and cheaper but can never be changed. That trade is only worth making once a model is stable and will be run billions of times, which is what inference means: not training a model but answering with it. AMD is betting AI has reached that stage.",
+      "why": "Nearly half the stated price is contingent on conditions AMD declined to disclose, which suggests it is buying an option on a hardware bet rather than a proven product line.",
+      "sources": [
+        {
+          "outlet": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/"
+        },
+        {
+          "outlet": "SEC (AMD 10-Q)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000191/amd-20260926.htm"
+        },
+        {
+          "outlet": "Securities.io",
+          "url": "https://www.securities.io/amd-values-pending-taalas-acquisition-at-approximately-2-9-billion/"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - International Affairs",
+      "headline": "The US, Ukraine and Russia will meet in Abu Dhabi next week",
+      "body": "Steve Witkoff announced that the United States, Ukraine and Russia will hold trilateral talks in Abu Dhabi on November 10 and 11, their first three-way meeting since February, covering post-war security arrangements, de-escalation and humanitarian steps. Volodymyr Zelenskyy held a roughly 90-minute call on Wednesday with Witkoff and Jared Kushner to prepare, saying air defense was a main topic and that Ukraine needs interceptors for its Patriot systems. Zelenskyy called it a team-level format, not a leaders' summit, and said one or two technical rounds could open the way to a summit with Trump and Putin.",
+      "plain": "For most of this war the US has talked to each side separately, which lets each one tell a different story about what was agreed. A trilateral meeting puts all three in one room, so positions must be stated in front of the other party. But this is deliberately a staff-level meeting rather than presidents, which is how diplomats test whether a deal exists before leaders risk being seen to fail. Zelenskyy's framing is the tell: a step toward a summit, not the summit. What he asked for was Patriot interceptors.",
+      "why": "Holding the first trilateral in nine months days after a US election that turned on war weariness suggests Washington's negotiating clock is now set by domestic politics rather than by the battlefield.",
+      "sources": [
+        {
+          "outlet": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/89174"
+        },
+        {
+          "outlet": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-polytics/4181550-zelensky-speaks-with-witkoff-kushner-ahead-of-trilateral-meeting-in-abu-dhabi.html"
+        },
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/witkoff-reveals-location-date-for-new-trilateral-peace-deal-negotiations/"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - Healthcare",
+      "headline": "Novo Nordisk raises its outlook as obesity drug sales grow 22 percent",
+      "body": "Novo Nordisk reported third-quarter results on Wednesday with obesity-care sales up 22 percent at constant exchange rates, adjusted sales up 4 percent and adjusted operating profit up 27 percent. It raised full-year 2026 adjusted sales guidance to between minus 2 and plus 2 percent, from minus 6 to zero. Growth came mainly from the Wegovy pill and a higher-dose 7.2 mg injection, with 700,000 obesity patients added in the quarter. It is preparing a US launch of CagriSema in early 2027, subject to approval. US operations grew about 1 percent, and the chief executive declined to give 2027 guidance.",
+      "plain": "GLP-1 drugs, sold as Wegovy and Ozempic, copy a gut hormone that tells your brain you are full, and they have become some of the best-selling medicines ever made. Novo Nordisk created that market and then began losing it to Eli Lilly, so this quarter is evidence about whether it is holding on. The answer is mixed: obesity sales grew 22 percent worldwide, but the US business grew about 1 percent, and the US is where the money is.",
+      "why": "A company raising this year's guidance while refusing to forecast next year is signaling that the oral GLP-1 price war with Eli Lilly begins in earnest in 2027.",
+      "sources": [
+        {
+          "outlet": "SEC (Novo Nordisk 6-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000353278/000162828026069805/caq32026.htm"
+        },
+        {
+          "outlet": "RTTNews",
+          "url": "https://www.rttnews.com/3709234/novo-nordisk-q3-adj-operating-profit-increases-obesity-sales-up-22-raises-2026-outlook.aspx"
+        },
+        {
+          "outlet": "The Motley Fool",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/04/novo-nordisk-nvo-q3-2026-earnings-call-transcript/"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "SpaceX hires Qualcomm to build a nationwide cellular network on the ground",
+      "body": "SpaceX has signed a multi-year agreement with Qualcomm to supply chips and foundational radio and baseband software for tens of thousands of conventional cell sites it plans to begin deploying in 2027, Axios reported Wednesday. The base stations will use Qualcomm's Dragonwing QRU100 and QDU100 platforms, while SpaceX builds the remaining software and its own base-station design. Terms were not disclosed. Mobile Experts analyst Joe Madden estimated to Axios that such a network would cost at least $100 billion. SpaceX's $19.6 billion EchoStar spectrum purchase still awaits FCC approval.",
+      "plain": "Starlink's phone service talks to satellites, which reaches everywhere but is slow and thin, because one satellite passing overhead shares limited capacity across a huge area. Ordinary mobile networks use towers, which are fast but only cover where someone paid to build one. SpaceX is now building both, so a phone would use a tower in a city and a satellite in a desert. That is why it bought spectrum, the legal right to broadcast on particular frequencies, and why it needs tens of thousands of towers.",
+      "why": "A satellite company building ground towers has concluded satellites alone cannot carry a mass-market phone business, which is the opposite of the pitch direct-to-cell was sold on, and it makes SpaceX a rival to Verizon and AT&T rather than their supplier.",
+      "sources": [
+        {
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/11/04/spacex-qualcomm-cellular-network"
+        },
+        {
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/spacex-qualcomm-starlink-mobile-5g-network"
+        },
+        {
+          "outlet": "Interesting Engineering",
+          "url": "https://interestingengineering.com/innovation/spacex-qualcomm-starlink-mobile-5g-network"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "Trump's first post-election appearance was at the ballroom his donor list says he is not paying for",
+      "body": "Trump's first public appearance after Republicans lost both chambers of Congress was a Wednesday ceremony raising the final steel beam at the White House ballroom site. He did not mention the election in his opening remarks, which covered the ballroom and its marble, and addressed the result only when reporters asked. He has said on the record that he is funding the project: \"I'm paying for it; the country's not\" in September 2025, and in October 2025 that it is \"being paid for a hundred percent by me and some friends of mine.\" A spreadsheet of donors committing $100,000 or more, obtained by the Washington Post and published October 15, totals $333 million and does not list Trump. Apple, Nvidia, the Adelson family and Charles Ergen each committed $25 million, at least $77 million came from donors who requested anonymity, and Google's $22 million came from settling Trump's YouTube lawsuit. Asked how much Trump has personally committed, a White House official said the amount \"has yet to be determined as construction continues.\"",
+      "plain": "The ballroom is a new event hall being built at the White House. Trump said several times, in his own words and on camera, that he was paying for it so taxpayers would not have to. A spreadsheet the Washington Post obtained lists who actually committed the money, and his name is not on it. Four donors gave $25 million each, and $77 million came from people who asked not to be named, which matters because invisible donors cannot be checked for business before the government. Google's $22 million was not a gift but the settlement of a lawsuit Trump brought against it.",
+      "why": "The donor list converts a decorating project into a record of who paid for access, and the anonymous $77 million is the part no oversight committee can trace.",
+      "sources": [
+        {
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-election-white-house-ballroom-iran-rcna607487"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-white-house-ballroom-donor-names/"
+        },
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/10/16/nx-s1-6003821/investigation-details-who-donated-to-the-white-house-ballroom-project"
+        }
+      ]
+    }
+  ]
+}
