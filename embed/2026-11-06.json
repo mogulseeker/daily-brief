@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-06",
+  "dateLabel": "Friday, November 6, 2026",
+  "generated": "2026-11-06T13:22:13Z",
+  "tldr": [
+    "AI Industry: About 600,000 Nvidia H200 chips sit in Hong Kong warehouses because Beijing will not approve their import.",
+    "International: Trump said the US may have to \"destroy the rest\" of Iran as the Revolutionary Guard reported tankers ablaze in the Strait of Hormuz.",
+    "Economics: The S&P 500 fell 4.36%, its worst day since April 2025, and the Nasdaq entered a correction as about $3 trillion evaporated.",
+    "Healthcare: Hospitals are budgeting for 2027 coverage losses even as their shares jumped up to 16% on bets Democrats restore ACA subsidies.",
+    "Wildcard - AI Industry: Democratic leaders called for a national data-center moratorium after voters rejected the buildout almost everywhere it was on the ballot.",
+    "Wildcard - International: Republican Thomas Massie is moving to force a House impeachment vote on Defense Secretary Pete Hegseth over the Iran war.",
+    "Wildcard - AI Industry: Google agreed to backstop about $19 billion of Anthropic's data-center lease obligations, and can take an ownership stake if Anthropic defaults.",
+    "Wildcard - International: A second wave of hoax bomb threats in a week diverted or grounded more than 20 flights across Europe.",
+    "Tech: Apple will start checking files shared by public iCloud link for harmful content, and says those files are not end-to-end encrypted.",
+    "Trump News: A federal judge blocked Trump's 250-foot triumphal arch about an hour after a federal panel approved it."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "About 600,000 Nvidia H200 chips are stranded in Hong Kong awaiting Beijing's approval",
+      "body": "Reuters reported Thursday, citing two people familiar with the matter, that roughly 600,000 Nvidia H200 processors sit in Hong Kong storage awaiting mainland import approval Chinese authorities have not granted. ByteDance and Tencent have each taken about 10,000 units in recent weeks, the first meaningful mainland shipments. With Alibaba, the three hold US licences for more than 400,000 chips; one account of the report suggests the total China admits may end below 200,000. Nvidia, China's industry ministry and its main economic planning agency did not respond to Reuters.",
+      "plain": "The H200 is one of Nvidia's high-end AI chips. For two years the story was that Washington would not let these into China; now Washington permits a limited number and Beijing is the side holding them up. The reason looks like industrial policy, not security: China wants its own chip industry on its feet, and better American hardware removes the reason to buy domestic. This rests on one Reuters report with two anonymous sources.",
+      "why": "If Beijing is now the binding constraint on Nvidia's China sales, Washington's export controls stop being what determines the size of that market.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-stockpile-hong-kong-120548918.html"
+        },
+        {
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval"
+        },
+        {
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/11/06/tech-stock-selloff-nov-5-since-covid-nvidia-h200-china-imports/"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "Trump says the US may have to destroy the rest of Iran as tankers burn in the Strait of Hormuz",
+      "body": "In the Oval Office on Thursday, Trump said he would rather not but may have to \"destroy the rest\" of Iran, said rebuilding would take 25 years, and told reporters they would know his decision soon enough. The same day Iran's Revolutionary Guard said two oil tankers and a tugboat caught fire in the Strait of Hormuz after striking mines; earlier Iranian accounts said five tankers. The New York Times reported US forces are positioned to resume operations on his order. Reuters reported Iran sent a nuclear proposal via Qatar, conditioned on seven demands.",
+      "plain": "The Strait of Hormuz is a narrow neck of sea at the mouth of the Persian Gulf that about a fifth of the world's oil passes through, so ships burning there moves prices everywhere. The US and Iran have been at war since February, and the fighting has paused rather than ended. Iran's account of the fires comes from one side and nobody independent has confirmed it. The president's own words are firmly on the record.",
+      "why": "The threat came two days after an election Trump himself partly blames on this war, so the political cost of escalating rose at the moment the military option was readied.",
+      "sources": [
+        {
+          "outlet": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-may-have-destroy-rest-iran"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+        },
+        {
+          "outlet": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447679/iran-says-five-tankers-and-tugboat-caught-fire-in-hormuz"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "US stocks post their worst day since April 2025 as the AI trade unwinds",
+      "body": "The S&P 500 fell 4.36% on Thursday to 7,353.73, its steepest one-day drop since the April 2025 tariff shock. The Nasdaq fell 5.52% to 24,315.00 and entered correction territory; the Dow lost 1,833 points, or 3.44%. SanDisk fell 22.26%, Micron 17.46%, AMD 17.26%, Broadcom 10.43% and Nvidia 9.26%. Fortune put the value erased near $3 trillion. Japan's Nikkei fell more than 5%. Odds of a December Fed hike fell to about 69% from 83% a day earlier, and the two-year Treasury yield dropped 12 basis points to 4.46%. October payrolls are due at 8:30 a.m. Eastern today.",
+      "plain": "A correction means an index has fallen at least 10% from its recent high. The trigger was political rather than financial: investors read the midterm results as a sign new data centers will be harder to build, and nearly every company here sells something that goes inside one. Memory-chip makers fell hardest because their orders track new buildings most directly. Bond markets moved the other way, because a weaker economy makes a Fed rate rise less likely.",
+      "why": "Two sessions turned the election from a reason to buy AI into a reason to sell it, which shows how much of the trade rests on assumptions about permitting rather than demand.",
+      "sources": [
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+        },
+        {
+          "outlet": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+        },
+        {
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/11/05/wall-street-drop-off-tech-ai-plunge-2-trillion/"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "Hospitals budget for 2027 coverage losses even as investors bet Congress restores ACA subsidies",
+      "body": "Reuters reported Thursday that US hospital operators are planning for revenue pressure in 2027 as more patients lose Affordable Care Act coverage. HCA estimates the lapse of enhanced premium tax credits, which expired at the end of 2025, could cut its income by up to $1.2 billion in 2026, and KFF projects benchmark silver premiums rising about 13% in 2027 after 26% in 2026. Shares in the largest for-profit hospital chains nonetheless rose roughly 9% to 16% on Wednesday on bets the new Democratic majorities restore the subsidies. No bill has been introduced.",
+      "plain": "Millions of Americans buy health coverage on the ACA marketplace, where the government pays part of the premium. Congress enlarged those payments during the pandemic and let the increase expire last year, so premiums jumped and roughly three million people dropped their plans. Hospitals feel that directly: an uninsured patient still arrives at the emergency room, but nobody pays the bill. Investors bid the shares up on the election result; the hospitals' own 2027 budgets assume nothing changes.",
+      "why": "The companies closest to the money are planning for the subsidies to stay dead while the market prices in their revival, and only one of those two can be right.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "url": "https://www.usnews.com/news/us/articles/2026-11-05/us-hospitals-brace-for-tougher-2027-as-coverage-losses-and-medicaid-cuts-loom"
+        },
+        {
+          "outlet": "Healthcare Finance News",
+          "url": "https://www.healthcarefinancenews.com/news/aca-premiums-climb-midterm-voters-weigh-costs"
+        },
+        {
+          "outlet": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/11/05/hospital-stocks-soared-as-democrats-took-congress"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - AI Industry",
+      "headline": "Democratic leaders call for a national data-center moratorium after the ballot-measure sweep",
+      "body": "Following Tuesday's results, in which voters rejected data-center development in all but one of roughly 41 local ballot measures, senior Democrats began pressing for federal restrictions. Representative Ro Khanna called for a \"National data center moratorium now.\" A CNBC voter poll found 56% of voters said AI and data centers were a crucial or major factor in how they voted. In Texas, Democrat Gina Hinojosa beat Governor Greg Abbott after campaigning on a construction ban; Abbott had already suspended new approvals. UBS estimated the pauses put about 30% of planned 2028 US capacity additions at risk.",
+      "plain": "On Tuesday the fight over data centers was local: dozens of towns voting on whether to allow one. Within two days it became national, with members of Congress proposing to halt the buildout everywhere at once. That matters because federal rules would apply to sites that already have local approval. Nothing has been introduced as legislation yet, and a moratorium would need to pass both chambers and be signed, so this is a stated intention rather than a policy.",
+      "why": "An industry that spent two years treating electricity as its constraint now has to treat elected officials as one.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html"
+        },
+        {
+          "outlet": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/2026-election-results-show-widespread-opposition-to-ai-data-centers/"
+        },
+        {
+          "outlet": "The Intercept",
+          "url": "https://theintercept.com/2026/11/05/midterm-elections-ai-data-centers-voters/"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - International Affairs",
+      "headline": "A Republican congressman moves to force a House impeachment vote on Defense Secretary Pete Hegseth",
+      "body": "Representative Thomas Massie, Republican of Kentucky, said he will reintroduce articles of impeachment against Defense Secretary Pete Hegseth when Congress returns, as soon as next week, unless Hegseth resigns. Massie filed them in September over the Iran war; Speaker Mike Johnson cancelled the rest of the pre-election session rather than hold the privileged vote, calling it a stunt. Republican sources told CNN they believe it would now pass, which Snopes notes is unverified. Hegseth called them \"sham articles of impeachment.\" Trump told ABC News he has \"every intention to keep him.\"",
+      "plain": "Impeachment is a formal accusation voted by the House; it removes nobody by itself, because the Senate must then convict by a two-thirds majority. It is rarely used against Cabinet officials. What is unusual here is that the push comes from the president's own party, over a war the president ordered, in the weeks before a Democratic-controlled Congress is seated. The claim that it would pass comes from anonymous Republicans talking to one network.",
+      "why": "A Cabinet impeachment carried by Republican votes would show the Iran war has lost its own party's protection, independent of what the incoming majority does.",
+      "sources": [
+        {
+          "outlet": "Spectrum News",
+          "url": "https://spectrumnews1.com/ky/louisville/news/2026/11/05/massie-hegseth-impeachment"
+        },
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/policy/defense/6202467-hegseth-massie-impeachment-threat/"
+        },
+        {
+          "outlet": "Snopes",
+          "url": "https://www.snopes.com/fact-check/massie-hegseth-impeachment/"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - AI Industry",
+      "headline": "Google agrees to backstop about $19 billion of Anthropic's data-center rent",
+      "body": "A TeraWulf filing disclosed three credit support agreements under which Google guarantees roughly $19 billion of Anthropic's 20-year lease commitments for about 401 megawatts at the Justified Data Campus in Hawesville, Kentucky. If Anthropic defaults, Google can assume the lease or pay a termination fee and take an ownership stake in Raylan Data, the TeraWulf subsidiary running the project. The backstop lapses once Anthropic holds investment-grade ratings for three months. The filing does not disclose the debt amount, lenders, termination fees or rent schedule. TeraWulf shares fell 13.8% anyway as AI-linked stocks sold off.",
+      "plain": "A data-center operator borrows heavily to build, and lenders want confidence the tenant will pay rent for twenty years. Anthropic is large but does not have the credit rating banks want, so Google promised to cover the rent if Anthropic cannot. Google is also an Anthropic investor, which is why it is willing to. The notable detail is the fallback: if things go wrong, Google ends up owning part of the site rather than just losing money.",
+      "why": "The AI buildout is increasingly financed on the credit of a few large backers rather than the tenants actually signing the leases.",
+      "sources": [
+        {
+          "outlet": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults"
+        },
+        {
+          "outlet": "Unite.AI",
+          "url": "https://www.unite.ai/terawulf-lines-up-google-backstop-for-anthropics-kentucky-ai-campus/"
+        },
+        {
+          "outlet": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/google-backs-anthropic-terawulf-lease/"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - International Affairs",
+      "headline": "A second wave of hoax bomb threats in a week diverts more than 20 flights across Europe",
+      "body": "More than ten European flights were diverted or searched on Thursday in a second wave of emailed bomb threats, bringing the week's total above 20, according to CNN. Four aircraft diverted in the Czech Republic and two in Italy; an Aer Lingus flight from Dublin to Rome went to a military airfield in France; Bulgaria's air force scrambled jets to escort three airliners down. Spanish police said three threats arrived by email in under twenty minutes. No devices have been found, and the UK transport minister called the threats a malicious hoax.",
+      "plain": "A bomb threat does not need a bomb to work. Airlines must treat every one as real, which means landing at the nearest suitable airport, emptying the plane and searching it, stranding passengers and crews far from where they were going. Someone with a laptop can impose that cost on a continent's air traffic at almost no cost to themselves. Nobody has said publicly who is behind it; talk of a state-backed campaign is speculation.",
+      "why": "The episode measures how cheaply Europe's aviation system can be disrupted at scale, which is useful information to anyone considering doing it again.",
+      "sources": [
+        {
+          "outlet": "CNN",
+          "url": "https://edition.cnn.com/2026/11/05/europe/europe-bomb-threat-intl"
+        },
+        {
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/more-bomb-threats-divert-flights-cause-disruption-across-europe"
+        },
+        {
+          "outlet": "The National",
+          "url": "https://www.thenationalnews.com/news/europe/2026/11/05/european-flights-diverted-after-second-wave-of-bomb-threats/"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "Apple will start checking files shared by public iCloud link for harmful content",
+      "body": "An Apple support document says that from iOS, iPadOS, macOS and visionOS 27.3, files shared using the \"Anyone with the Link\" option will be checked for harmful content. Apple says such files are not end-to-end encrypted even when Advanced Data Protection is enabled. Flagged content can be moved, modified or deleted, accounts disabled, and law enforcement contacted. Content shared with specific people, shared albums and files merely stored in iCloud are excluded. Apple does not define \"harmful content\" or name the classifiers used. The releases are in beta, with public release expected in December.",
+      "plain": "Apple abandoned a plan to scan photos on users' own devices in 2021 after a privacy backlash. This is narrower: it covers only files you deliberately publish with a link anyone can open, and Apple's argument is that such a file was never private, so the encryption promise never covered it. What Apple has not said is the interesting part. It does not define harmful, or say which system makes the call.",
+      "why": "Apple has drawn a line at the point where a file becomes public rather than at the device, which is a narrower rule than the one it abandoned in 2021 but a precedent other platforms can cite.",
+      "sources": [
+        {
+          "outlet": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/"
+        },
+        {
+          "outlet": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/"
+        },
+        {
+          "outlet": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/11/04/iclouds-anyone-with-the-link-option-will-trigger-apple-content-checks"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "A judge blocked Trump's 250-foot triumphal arch about an hour after a federal panel approved it",
+      "body": "The National Capital Planning Commission voted 8-4 on Thursday night to approve Trump's triumphal arch, after nearly nine hours of public comment. Within roughly an hour, US District Judge Tanya Chutkan ordered the government to halt any \"construction-related activity\" for 14 days. Her 33-page opinion found the District of Columbia and Virginia likely to succeed in showing the administration skipped required legal process; they argue the arch violates the Commemorative Works Act because Congress never authorised it. The arch would stand 166 feet, reaching 250 with three gilded figures. Trump has given no cost figure.",
+      "plain": "The Commemorative Works Act governs new monuments in Washington, and its core requirement is that Congress authorise one. The administration's position was that this project did not need that step. Chutkan has not ruled the arch illegal; she ordered everyone to stop for two weeks because she thinks the states will probably win and a half-built arch cannot be un-built. The sequence is the notable part: nine hours of objections, approval anyway, and the order the same evening.",
+      "why": "It is the second Trump building project a federal court has halted this year on the same point: Judge Richard Leon enjoined the White House ballroom in March, writing that \"no statute comes close to giving the President the authority he claims to have.\"",
+      "sources": [
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-triumphal-arch-approval-opposition-asks-judge-to-block-rcna607642"
+        },
+        {
+          "outlet": "IBTimes UK",
+          "url": "https://www.ibtimes.co.uk/trump-triumphal-arch-construction-blocked-1830624"
+        }
+      ]
+    }
+  ]
+}
