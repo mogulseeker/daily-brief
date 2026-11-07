@@ -1,237 +1,205 @@
 {
-  "date": "2026-11-06",
-  "dateLabel": "Friday, November 6, 2026",
-  "generated": "2026-11-06T13:22:13Z",
+  "date": "2026-11-07",
+  "dateLabel": "Saturday, November 7, 2026",
+  "generated": "2026-11-07T13:16:00Z",
   "tldr": [
-    "AI Industry: About 600,000 Nvidia H200 chips sit in Hong Kong warehouses because Beijing will not approve their import.",
-    "International: Trump said the US may have to \"destroy the rest\" of Iran as the Revolutionary Guard reported tankers ablaze in the Strait of Hormuz.",
-    "Economics: The S&P 500 fell 4.36%, its worst day since April 2025, and the Nasdaq entered a correction as about $3 trillion evaporated.",
-    "Healthcare: Hospitals are budgeting for 2027 coverage losses even as their shares jumped up to 16% on bets Democrats restore ACA subsidies.",
-    "Wildcard - AI Industry: Democratic leaders called for a national data-center moratorium after voters rejected the buildout almost everywhere it was on the ballot.",
-    "Wildcard - International: Republican Thomas Massie is moving to force a House impeachment vote on Defense Secretary Pete Hegseth over the Iran war.",
-    "Wildcard - AI Industry: Google agreed to backstop about $19 billion of Anthropic's data-center lease obligations, and can take an ownership stake if Anthropic defaults.",
-    "Wildcard - International: A second wave of hoax bomb threats in a week diverted or grounded more than 20 flights across Europe.",
-    "Tech: Apple will start checking files shared by public iCloud link for harmful content, and says those files are not end-to-end encrypted.",
-    "Trump News: A federal judge blocked Trump's 250-foot triumphal arch about an hour after a federal panel approved it."
+    "OpenAI took in about $11 billion at a $1.25 trillion valuation, below its $1.4 trillion target.",
+    "Trump confirmed fresh US strikes on Iran's Qeshm Island while Qatar says mediation is still alive.",
+    "US employers added 165,000 jobs in October, pushing December Fed hike odds to about 77%.",
+    "Medicaid enrollment fell at all five big publicly traded insurers before work rules even start.",
+    "Thursday's AI rout erased roughly $2.5 trillion; Friday clawed back part of it.",
+    "About 600,000 Nvidia H200 chips sit in Hong Kong as Beijing withholds import approval.",
+    "Investors told the Wall Street Journal Anthropic's $1.5 trillion IPO target has to come down.",
+    "OpenAI shipped GPT-6 Cyber, the first model it rates Critical for cyber capability.",
+    "Apple's first touchscreen Mac went on sale, starting at $2,899.",
+    "A judge halted Trump's 250-foot triumphal arch within two hours of its late-night approval."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "About 600,000 Nvidia H200 chips are stranded in Hong Kong awaiting Beijing's approval",
-      "body": "Reuters reported Thursday, citing two people familiar with the matter, that roughly 600,000 Nvidia H200 processors sit in Hong Kong storage awaiting mainland import approval Chinese authorities have not granted. ByteDance and Tencent have each taken about 10,000 units in recent weeks, the first meaningful mainland shipments. With Alibaba, the three hold US licences for more than 400,000 chips; one account of the report suggests the total China admits may end below 200,000. Nvidia, China's industry ministry and its main economic planning agency did not respond to Reuters.",
-      "plain": "The H200 is one of Nvidia's high-end AI chips. For two years the story was that Washington would not let these into China; now Washington permits a limited number and Beijing is the side holding them up. The reason looks like industrial policy, not security: China wants its own chip industry on its feet, and better American hardware removes the reason to buy domestic. This rests on one Reuters report with two anonymous sources.",
-      "why": "If Beijing is now the binding constraint on Nvidia's China sales, Washington's export controls stop being what determines the size of that market.",
+      "headline": "OpenAI closes $11 billion at a valuation well short of what it wanted",
+      "body": "OpenAI received about $11 billion on Friday, November 6, closing the first tranche of a round that values the company at roughly $1.25 trillion, Bloomberg reported. SoftBank and Abu Dhabi's MGX participated, with Coatue, Sequoia, Founders Fund and Andreessen Horowitz also named as backers. Earlier reporting had put the target at $1.4 trillion or higher, and the round is described as undersubscribed, with the company still seeking money from family offices and wealthy individuals.",
+      "plain": "OpenAI, the company behind ChatGPT, is not listed on a stock exchange, so it raises money by selling slices of itself to private investors. The price of those slices sets its headline value. It asked for a price implying about $1.4 trillion and got agreement at about $1.25 trillion instead, and it did not fill the whole round, which is why it is now approaching rich individuals rather than only big funds. The company still took in roughly $11 billion, so this is a discount, not a cash shortage.",
+      "why": "The private market that funds the AI buildout has started negotiating on price, which sets the ceiling for every other AI company raising money this quarter.",
       "sources": [
         {
-          "outlet": "Reuters",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-stockpile-hong-kong-120548918.html"
+          "outlet": "Bloomberg via Gulf News",
+          "url": "https://gulfnews.com/technology/openai-secures-11-billion-in-new-funding-1.500739301"
         },
         {
-          "outlet": "The Next Web",
-          "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval"
-        },
-        {
-          "outlet": "Fortune",
-          "url": "https://fortune.com/2026/11/06/tech-stock-selloff-nov-5-since-covid-nvidia-h200-china-imports/"
+          "outlet": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/e26b232e-53eb-44ff-bb04-2b89cda383cd"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "Trump says the US may have to destroy the rest of Iran as tankers burn in the Strait of Hormuz",
-      "body": "In the Oval Office on Thursday, Trump said he would rather not but may have to \"destroy the rest\" of Iran, said rebuilding would take 25 years, and told reporters they would know his decision soon enough. The same day Iran's Revolutionary Guard said two oil tankers and a tugboat caught fire in the Strait of Hormuz after striking mines; earlier Iranian accounts said five tankers. The New York Times reported US forces are positioned to resume operations on his order. Reuters reported Iran sent a nuclear proposal via Qatar, conditioned on seven demands.",
-      "plain": "The Strait of Hormuz is a narrow neck of sea at the mouth of the Persian Gulf that about a fifth of the world's oil passes through, so ships burning there moves prices everywhere. The US and Iran have been at war since February, and the fighting has paused rather than ended. Iran's account of the fires comes from one side and nobody independent has confirmed it. The president's own words are firmly on the record.",
-      "why": "The threat came two days after an election Trump himself partly blames on this war, so the political cost of escalating rose at the moment the military option was readied.",
+      "headline": "Trump confirms new strikes on Iran's Qeshm Island as Qatar says talks have not collapsed",
+      "body": "Trump said Friday that US forces carried out “minor strikes” on Iranian air defense systems, and claimed “a lot of progress” in talks with Tehran. Iranian state media reported two missiles hitting the Suza area of Qeshm Island, at the mouth of the Strait of Hormuz; Iran's army said it destroyed a US MQ-9 drone over the island. US Central Command called the situation “relatively calm.” Qatar's prime minister said mediation continues and denied reports the talks had failed. The strait remains closed, with Brent crude near $99.",
+      "plain": "The Strait of Hormuz is a narrow sea passage that normally carries about a fifth of the world's traded oil. It has been shut for months in this war, which is why oil sits near $100 a barrel. Qeshm Island sits right at that chokepoint, so both sides treat it as the place where air defenses and drones decide whether ships can move. Washington calls the latest strikes small and defensive; Iran describes missile hits and a drone it shot down. Neither side has released damage or casualty figures, so the scale is genuinely unknown.",
+      "why": "Every week the strait stays closed keeps a roughly $100 oil price inside global inflation data, which is the link between this war and interest rates in countries nowhere near it.",
       "sources": [
         {
-          "outlet": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-may-have-destroy-rest-iran"
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/us-military-carries-new-targeted-strikes-iran-rcna607969"
         },
         {
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
         },
         {
-          "outlet": "Business Recorder",
-          "url": "https://www.brecorder.com/news/40447679/iran-says-five-tankers-and-tugboat-caught-fire-in-hormuz"
+          "outlet": "Reuters via Cyprus Mail",
+          "url": "https://cyprus-mail.com/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "US stocks post their worst day since April 2025 as the AI trade unwinds",
-      "body": "The S&P 500 fell 4.36% on Thursday to 7,353.73, its steepest one-day drop since the April 2025 tariff shock. The Nasdaq fell 5.52% to 24,315.00 and entered correction territory; the Dow lost 1,833 points, or 3.44%. SanDisk fell 22.26%, Micron 17.46%, AMD 17.26%, Broadcom 10.43% and Nvidia 9.26%. Fortune put the value erased near $3 trillion. Japan's Nikkei fell more than 5%. Odds of a December Fed hike fell to about 69% from 83% a day earlier, and the two-year Treasury yield dropped 12 basis points to 4.46%. October payrolls are due at 8:30 a.m. Eastern today.",
-      "plain": "A correction means an index has fallen at least 10% from its recent high. The trigger was political rather than financial: investors read the midterm results as a sign new data centers will be harder to build, and nearly every company here sells something that goes inside one. Memory-chip makers fell hardest because their orders track new buildings most directly. Bond markets moved the other way, because a weaker economy makes a Fed rate rise less likely.",
-      "why": "Two sessions turned the election from a reason to buy AI into a reason to sell it, which shows how much of the trade rests on assumptions about permitting rather than demand.",
+      "headline": "October hiring came in nearly three times forecast, putting a December rate hike back on the table",
+      "body": "US employers added 165,000 jobs in October against a consensus of roughly 65,000, and revisions added 84,000 to prior months. Unemployment fell to 4.1% from 4.2%, participation ticked up to 61.9%, and average hourly earnings rose 0.4% on the month and 3.1% over the year. The broader U-6 underemployment measure rose to 7.9% from 7.6%. CME FedWatch odds of a December increase moved to about 77%, up roughly 10 points from Thursday. The Fed's target range is 3.75% to 4.00%; it meets December 8 and 9, with October CPI due November 10.",
+      "plain": "The Federal Reserve sets the interest rate that ripples into mortgages, car loans and business borrowing. It raises that rate when it fears prices are climbing too fast, and holds or cuts when it fears people are losing jobs. Forecasters expected weak hiring, which would have argued for holding. Instead hiring was strong and unemployment fell, so the jobs argument for restraint got weaker and the inflation argument won out. One oddity: the underemployment rate rose at the same time, meaning more people are stuck in part-time work than the headline suggests.",
+      "why": "A hike into an already-falling stock market would tighten two things at once, which is the combination that turns an asset correction into a slowdown in actual hiring and spending.",
       "sources": [
         {
-          "outlet": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+          "outlet": "Morningstar",
+          "url": "https://www.morningstar.com/economy/october-us-jobs-report-165000-rise-payrolls-beating-expectations"
         },
         {
           "outlet": "Fox Business",
-          "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
-        },
-        {
-          "outlet": "Fortune",
-          "url": "https://fortune.com/2026/11/05/wall-street-drop-off-tech-ai-plunge-2-trillion/"
+          "url": "https://www.foxbusiness.com/economy/us-jobs-report-october-2026"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "Hospitals budget for 2027 coverage losses even as investors bet Congress restores ACA subsidies",
-      "body": "Reuters reported Thursday that US hospital operators are planning for revenue pressure in 2027 as more patients lose Affordable Care Act coverage. HCA estimates the lapse of enhanced premium tax credits, which expired at the end of 2025, could cut its income by up to $1.2 billion in 2026, and KFF projects benchmark silver premiums rising about 13% in 2027 after 26% in 2026. Shares in the largest for-profit hospital chains nonetheless rose roughly 9% to 16% on Wednesday on bets the new Democratic majorities restore the subsidies. No bill has been introduced.",
-      "plain": "Millions of Americans buy health coverage on the ACA marketplace, where the government pays part of the premium. Congress enlarged those payments during the pandemic and let the increase expire last year, so premiums jumped and roughly three million people dropped their plans. Hospitals feel that directly: an uninsured patient still arrives at the emergency room, but nobody pays the bill. Investors bid the shares up on the election result; the hospitals' own 2027 budgets assume nothing changes.",
-      "why": "The companies closest to the money are planning for the subsidies to stay dead while the market prices in their revival, and only one of those two can be right.",
+      "headline": "Medicaid enrollment is falling at every big insurer before the new work rules start",
+      "body": "Georgetown's Center for Children and Families reported Friday that Medicaid enrollment dropped in the third quarter at all five publicly traded insurers that run state Medicaid plans, with declines ranging from 2.6% at CVS Health's Aetna to 10.6% at UnitedHealth. Program-wide, CMS data show enrollment down 6.7%, from 70.4 million in July 2025 to 65.7 million in July 2026. The provisions expected to drive the largest losses, work reporting requirements and six-month eligibility checks, do not take effect until January 1, 2027. Molina has told investors it expects to lose about 260,000 Medicaid members, 6% of its total, next year.",
+      "plain": "Medicaid is the government health plan for people with low incomes; most states pay private insurers to run it. Enrollment is already down about 4.7 million people from last year, mostly from paperwork and eligibility changes rather than the headline rules everyone is watching. Those headline rules, which require people to document that they work, start in January. Insurers are telling shareholders in advance how many members they expect to lose, which is a clue about how many people will actually drop off coverage rather than how many are supposed to.",
+      "why": "The cost of coverage losses lands on hospitals as unpaid care before it shows up in any federal budget score, which is why hospital operators are already writing down 2027 earnings.",
       "sources": [
         {
-          "outlet": "Reuters",
-          "url": "https://www.usnews.com/news/us/articles/2026-11-05/us-hospitals-brace-for-tougher-2027-as-coverage-losses-and-medicaid-cuts-loom"
+          "outlet": "Georgetown CCF",
+          "url": "https://ccf.georgetown.edu/2026/11/06/medicaid-managed-care-the-big-five-in-q3-2026/"
         },
         {
-          "outlet": "Healthcare Finance News",
-          "url": "https://www.healthcarefinancenews.com/news/aca-premiums-climb-midterm-voters-weigh-costs"
-        },
-        {
-          "outlet": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/11/05/hospital-stocks-soared-as-democrats-took-congress"
+          "outlet": "Healthcare Dive",
+          "url": "https://www.healthcaredive.com/news/molina-q3-2026-medicaid-recovery-momentum/833650/"
         }
       ]
     },
     {
       "slot": 5,
-      "category": "Wildcard - AI Industry",
-      "headline": "Democratic leaders call for a national data-center moratorium after the ballot-measure sweep",
-      "body": "Following Tuesday's results, in which voters rejected data-center development in all but one of roughly 41 local ballot measures, senior Democrats began pressing for federal restrictions. Representative Ro Khanna called for a \"National data center moratorium now.\" A CNBC voter poll found 56% of voters said AI and data centers were a crucial or major factor in how they voted. In Texas, Democrat Gina Hinojosa beat Governor Greg Abbott after campaigning on a construction ban; Abbott had already suspended new approvals. UBS estimated the pauses put about 30% of planned 2028 US capacity additions at risk.",
-      "plain": "On Tuesday the fight over data centers was local: dozens of towns voting on whether to allow one. Within two days it became national, with members of Congress proposing to halt the buildout everywhere at once. That matters because federal rules would apply to sites that already have local approval. Nothing has been introduced as legislation yet, and a moratorium would need to pass both chambers and be signed, so this is a stated intention rather than a policy.",
-      "why": "An industry that spent two years treating electricity as its constraint now has to treat elected officials as one.",
+      "category": "Wildcard - Economics",
+      "headline": "The AI trade had its worst day since the pandemic, then half-recovered",
+      "body": "The Nasdaq Composite fell 5.5% on Thursday, November 5, to 24,315, its sharpest single session since April 2025, and the S&P 500 dropped 4.4%. Nvidia lost 9.26%, about $447 billion of market value, and data-center-linked names CoreWeave and Nebius fell hardest. Estimates of value erased across the AI infrastructure trade range from about $2.5 trillion to $3 trillion. Friday was mixed: the Nasdaq rose 1.09% to 24,579.42, the Dow fell 0.46% to 51,285.73, and the S&P closed the week down about 2.7%. The trigger cited across coverage was the Democratic sweep of the House and Senate on November 3, including wins in Texas paired with pledges to halt new data centers.",
+      "plain": "Much of the stock market's rise has rested on one bet: that companies will keep building enormous warehouses full of AI chips. Those buildings need land, electricity and local permits, all controlled by elected officials. When voters handed Democrats Congress and several states where the warehouses are planned, and some winners promised to block new ones, investors cut the bet. Note what did not change: no law passed and no order was cancelled. The repricing came from the expectation of friction, not from friction that has happened yet.",
+      "why": "AI capital spending is now exposed to local politics, a risk that cannot be hedged with chips, power contracts or balance sheets.",
       "sources": [
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html"
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/11/05/tech-stocks-are-suffering-the-biggest-selloff-since-covid-as-investors-see-premature-end-to-ai-datacenter-boom/"
         },
         {
-          "outlet": "Scientific American",
-          "url": "https://www.scientificamerican.com/article/2026-election-results-show-widespread-opposition-to-ai-data-centers/"
-        },
-        {
-          "outlet": "The Intercept",
-          "url": "https://theintercept.com/2026/11/05/midterm-elections-ai-data-centers-voters/"
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - International Affairs",
-      "headline": "A Republican congressman moves to force a House impeachment vote on Defense Secretary Pete Hegseth",
-      "body": "Representative Thomas Massie, Republican of Kentucky, said he will reintroduce articles of impeachment against Defense Secretary Pete Hegseth when Congress returns, as soon as next week, unless Hegseth resigns. Massie filed them in September over the Iran war; Speaker Mike Johnson cancelled the rest of the pre-election session rather than hold the privileged vote, calling it a stunt. Republican sources told CNN they believe it would now pass, which Snopes notes is unverified. Hegseth called them \"sham articles of impeachment.\" Trump told ABC News he has \"every intention to keep him.\"",
-      "plain": "Impeachment is a formal accusation voted by the House; it removes nobody by itself, because the Senate must then convict by a two-thirds majority. It is rarely used against Cabinet officials. What is unusual here is that the push comes from the president's own party, over a war the president ordered, in the weeks before a Democratic-controlled Congress is seated. The claim that it would pass comes from anonymous Republicans talking to one network.",
-      "why": "A Cabinet impeachment carried by Republican votes would show the Iran war has lost its own party's protection, independent of what the incoming majority does.",
+      "category": "Wildcard - AI Industry",
+      "headline": "Roughly 600,000 Nvidia chips are stuck in Hong Kong because Beijing will not let them in",
+      "body": "Reuters reported, citing two people familiar with the matter, that about 600,000 Nvidia H200 accelerators are sitting in Hong Kong warehouses while Beijing withholds approval for bulk imports to the mainland. Several large Chinese internet companies have each obtained roughly 10,000 units in recent months; the sources said total approved foreign-chip volume could end up below 200,000, as regulators press Alibaba, ByteDance, Tencent and DeepSeek toward domestic silicon. US licenses permit far more, reportedly over 400,000 units across the three biggest buyers. Grey-market prices for an eight-H200 server have passed 6 million yuan, about triple last year's level.",
+      "plain": "For two years the assumption was that Washington decides how many advanced AI chips reach China. This report says Beijing is now the tighter limit: the export licenses exist, the hardware has already shipped as far as Hong Kong, and it is Chinese regulators holding it at the door to push buyers onto Chinese-made chips. The stockpile sitting unsold is why grey-market prices have tripled. The 600,000 figure comes from anonymous sources and no Chinese agency has confirmed it, so treat it as credible but unofficial.",
+      "why": "If Beijing, not Washington, is the binding constraint, then loosening US export rules buys Nvidia far less Chinese revenue than its guidance assumes.",
       "sources": [
         {
-          "outlet": "Spectrum News",
-          "url": "https://spectrumnews1.com/ky/louisville/news/2026/11/05/massie-hegseth-impeachment"
+          "outlet": "Reuters via Rappler",
+          "url": "https://rappler.com/technology/nvidia-chips-hong-kong-storage-china-withholds-import-approval"
         },
         {
-          "outlet": "The Hill",
-          "url": "https://thehill.com/policy/defense/6202467-hegseth-massie-impeachment-threat/"
-        },
-        {
-          "outlet": "Snopes",
-          "url": "https://www.snopes.com/fact-check/massie-hegseth-impeachment/"
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval"
         }
       ]
     },
     {
       "slot": 7,
       "category": "Wildcard - AI Industry",
-      "headline": "Google agrees to backstop about $19 billion of Anthropic's data-center rent",
-      "body": "A TeraWulf filing disclosed three credit support agreements under which Google guarantees roughly $19 billion of Anthropic's 20-year lease commitments for about 401 megawatts at the Justified Data Campus in Hawesville, Kentucky. If Anthropic defaults, Google can assume the lease or pay a termination fee and take an ownership stake in Raylan Data, the TeraWulf subsidiary running the project. The backstop lapses once Anthropic holds investment-grade ratings for three months. The filing does not disclose the debt amount, lenders, termination fees or rent schedule. TeraWulf shares fell 13.8% anyway as AI-linked stocks sold off.",
-      "plain": "A data-center operator borrows heavily to build, and lenders want confidence the tenant will pay rent for twenty years. Anthropic is large but does not have the credit rating banks want, so Google promised to cover the rent if Anthropic cannot. Google is also an Anthropic investor, which is why it is willing to. The notable detail is the fallback: if things go wrong, Google ends up owning part of the site rather than just losing money.",
-      "why": "The AI buildout is increasingly financed on the credit of a few large backers rather than the tenants actually signing the leases.",
+      "headline": "Anthropic's prospective IPO buyers say the $1.5 trillion price has to come down",
+      "body": "Three large investors who plan to buy into Anthropic's offering told the Wall Street Journal the roughly $1.5 trillion valuation the company had been targeting will likely have to fall, with one putting it closer to $1 trillion. Expectations had been near $2 trillion earlier in the autumn. The investors cited this week's AI selloff, their own concentration in AI holdings, political backlash against data centers, and uncertainty over when Amazon and Meta will show AI profits. Anthropic has not settled on a valuation or share count; reporting describes a possible roadshow the week of November 9 and a listing as soon as the week of November 16, with a delay or smaller offering also on the table.",
+      "plain": "An IPO is the first time a company sells shares to the public, and the price is negotiated with the big funds expected to buy most of them. Those funds are now telling a newspaper, before the roadshow, that the asking price is too high, which is a bargaining move as much as a forecast. Nothing has been cut yet. What makes it awkward is the timing: the company is trying to set a record-sized price in the same week the market decided AI assets were worth trillions less.",
+      "why": "This listing is the public market's first direct vote on a frontier AI lab, so whatever price it clears at becomes the benchmark every private AI valuation is measured against.",
       "sources": [
         {
-          "outlet": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults"
+          "outlet": "Wall Street Journal via InvestingLive",
+          "url": "https://investinglive.com/stocks/wsj-anthropic-ipo-investors-push-for-lower-1-5-trillion-valuation-after-tech-selloff/"
         },
         {
-          "outlet": "Unite.AI",
-          "url": "https://www.unite.ai/terawulf-lines-up-google-backstop-for-anthropics-kentucky-ai-campus/"
-        },
-        {
-          "outlet": "Crypto Briefing",
-          "url": "https://cryptobriefing.com/google-backs-anthropic-terawulf-lease/"
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-now-doubt-anthropic-133505249.html"
         }
       ]
     },
     {
       "slot": 8,
-      "category": "Wildcard - International Affairs",
-      "headline": "A second wave of hoax bomb threats in a week diverts more than 20 flights across Europe",
-      "body": "More than ten European flights were diverted or searched on Thursday in a second wave of emailed bomb threats, bringing the week's total above 20, according to CNN. Four aircraft diverted in the Czech Republic and two in Italy; an Aer Lingus flight from Dublin to Rome went to a military airfield in France; Bulgaria's air force scrambled jets to escort three airliners down. Spanish police said three threats arrived by email in under twenty minutes. No devices have been found, and the UK transport minister called the threats a malicious hoax.",
-      "plain": "A bomb threat does not need a bomb to work. Airlines must treat every one as real, which means landing at the nearest suitable airport, emptying the plane and searching it, stranding passengers and crews far from where they were going. Someone with a laptop can impose that cost on a continent's air traffic at almost no cost to themselves. Nobody has said publicly who is behind it; talk of a state-backed campaign is speculation.",
-      "why": "The episode measures how cheaply Europe's aviation system can be disrupted at scale, which is useful information to anyone considering doing it again.",
+      "category": "Wildcard - AI Industry",
+      "headline": "OpenAI released a hacking model it rates at its highest risk tier",
+      "body": "OpenAI launched GPT-6 Cyber and classified it Critical for cybersecurity under its Preparedness Framework, the top tier and one notch above the High rating given to its predecessor. The company says the model found 81 previously unknown high-severity flaws in Firefox, which Mozilla is patching, and produced working privilege-escalation exploits for 948 Linux kernel bugs, 588 of them new, with 304 critical findings disclosed to maintainers alongside proposed patches. On the ExploitGym benchmark it exploited 48.5% of vulnerabilities, against 32.1% for GPT-5.6 Cyber. Access is restricted to a small set of vetted security teams. The capability figures are OpenAI's own.",
+      "plain": "Firefox is a web browser and Linux is the operating system running most of the internet's servers. Finding a security hole in either normally takes a skilled researcher weeks. This model found hundreds, and for the Linux ones it wrote working code to take control of a machine, not just a description of the weakness. OpenAI put it in its most dangerous category and is only giving it to defenders it has vetted, because the same tool that finds the hole first can also be the one that walks through it. The counts come from OpenAI, not an outside auditor.",
+      "why": "Finding software flaws has shifted from a scarce human skill to a purchasable capability, and defenders only stay ahead while the gate on who gets access holds.",
       "sources": [
         {
-          "outlet": "CNN",
-          "url": "https://edition.cnn.com/2026/11/05/europe/europe-bomb-threat-intl"
+          "outlet": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/"
         },
         {
-          "outlet": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/more-bomb-threats-divert-flights-cause-disruption-across-europe"
-        },
-        {
-          "outlet": "The National",
-          "url": "https://www.thenationalnews.com/news/europe/2026/11/05/european-flights-diverted-after-second-wave-of-bomb-threats/"
+          "outlet": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
         }
       ]
     },
     {
       "slot": 9,
-      "category": "Tech",
-      "headline": "Apple will start checking files shared by public iCloud link for harmful content",
-      "body": "An Apple support document says that from iOS, iPadOS, macOS and visionOS 27.3, files shared using the \"Anyone with the Link\" option will be checked for harmful content. Apple says such files are not end-to-end encrypted even when Advanced Data Protection is enabled. Flagged content can be moved, modified or deleted, accounts disabled, and law enforcement contacted. Content shared with specific people, shared albums and files merely stored in iCloud are excluded. Apple does not define \"harmful content\" or name the classifiers used. The releases are in beta, with public release expected in December.",
-      "plain": "Apple abandoned a plan to scan photos on users' own devices in 2021 after a privacy backlash. This is narrower: it covers only files you deliberately publish with a link anyone can open, and Apple's argument is that such a file was never private, so the encryption promise never covered it. What Apple has not said is the interesting part. It does not define harmful, or say which system makes the call.",
-      "why": "Apple has drawn a line at the point where a file becomes public rather than at the device, which is a narrower rule than the one it abandoned in 2021 but a precedent other platforms can cite.",
+      "category": "Technology",
+      "headline": "Apple's first touchscreen Mac reached stores",
+      "body": "The MacBook Pro with PROLED XDR display went on sale Friday, November 6, in Apple Stores and through authorized resellers, after being announced October 28 and opening for preorder October 30. The 14-inch model starts at $2,899 and the 16-inch at $3,399, running M5 Pro or M5 Max chips. Apple redesigned the hinge so the display does not wobble when touched, and the 14-inch model weighs about 3.0 pounds, lighter than the non-touch version it replaces. A separate non-touch 14-inch MacBook Pro with an M6 chip arrived the day before at $1,999.",
+      "plain": "Apple has argued for more than a decade that touchscreens belong on phones and tablets, not laptops, and that reaching up to poke a vertical screen is tiring. Rival Windows laptops have had touch for years. The engineering problem was never the glass: a screen you push on wants to tip backward, so Apple had to rebuild the hinge before it could ship one. The price tells you who it is for. At $2,899 this is a professional machine, not the model most people will buy.",
+      "why": "Apple reversing a position it defended for a decade signals that the iPad and the Mac are converging into one product line rather than two.",
       "sources": [
         {
-          "outlet": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/"
+          "outlet": "Macworld",
+          "url": "https://www.macworld.com/article/2931833/touchscreen-macbook-pro-guide-design-processor-specs-release.html"
         },
         {
-          "outlet": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/"
-        },
-        {
-          "outlet": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/11/04/iclouds-anyone-with-the-link-option-will-trigger-apple-content-checks"
+          "outlet": "Cult of Mac",
+          "url": "https://www.cultofmac.com/news/apples-oled-macbook-pro-four-more-products-hit-stores"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "A judge blocked Trump's 250-foot triumphal arch about an hour after a federal panel approved it",
-      "body": "The National Capital Planning Commission voted 8-4 on Thursday night to approve Trump's triumphal arch, after nearly nine hours of public comment. Within roughly an hour, US District Judge Tanya Chutkan ordered the government to halt any \"construction-related activity\" for 14 days. Her 33-page opinion found the District of Columbia and Virginia likely to succeed in showing the administration skipped required legal process; they argue the arch violates the Commemorative Works Act because Congress never authorised it. The arch would stand 166 feet, reaching 250 with three gilded figures. Trump has given no cost figure.",
-      "plain": "The Commemorative Works Act governs new monuments in Washington, and its core requirement is that Congress authorise one. The administration's position was that this project did not need that step. Chutkan has not ruled the arch illegal; she ordered everyone to stop for two weeks because she thinks the states will probably win and a half-built arch cannot be un-built. The sequence is the notable part: nine hours of objections, approval anyway, and the order the same evening.",
-      "why": "It is the second Trump building project a federal court has halted this year on the same point: Judge Richard Leon enjoined the White House ballroom in March, writing that \"no statute comes close to giving the President the authority he claims to have.\"",
+      "headline": "A judge halted Trump's 250-foot triumphal arch within two hours of its late-night approval",
+      "body": "The National Capital Planning Commission, whose membership includes several Trump appointees, granted final approval to the arch at Memorial Circle at about 10:29 p.m. Thursday by an 8-4 vote, after a motion to postpone failed 4-8. Less than two hours later, US District Judge Tanya Chutkan issued a 14-day temporary restraining order in a 33-page opinion, barring construction, excavation, demolition and road closures at the site. She found the District of Columbia and Virginia likely to succeed on their claim that the project requires congressional authorization under the Commemorative Works Act, and wrote that construction would cause harm by “clogging traffic, impeding disaster preparedness, and harming the environment.” Reporting on the opinion says she rejected the administration's national-security rationale as having surfaced only after the litigation began. Three Vietnam veterans, represented by Public Citizen, filed a separate suit. The White House has given no cost estimate; the Associated Press reports some estimates as high as $100 million. This is a temporary order, not a final ruling; the government must file a status report by November 9 and can appeal.",
+      "plain": "A triumphal arch is the monument form Roman emperors built to mark their own victories. This one would stand 250 feet tall at the entrance to Arlington National Cemetery. A federal law says Congress has to authorize monuments like it on Park Service land, and the administration argued a roughly century-old statute already covered it. The judge found that reading unlikely to hold up, and also noted the national-security justification only appeared once the case was filed. The planning commission approved it at 10:29 at night; the order stopping it came before midnight. Nothing is decided yet, only paused for 14 days.",
+      "why": "The administration's own planning record is now the evidence against it, which is a harder problem than an unfavorable judge.",
       "sources": [
         {
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
         },
         {
-          "outlet": "NBC News",
-          "url": "https://www.nbcnews.com/politics/trump-administration/trump-triumphal-arch-approval-opposition-asks-judge-to-block-rcna607642"
+          "outlet": "Forbes",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/06/judge-temporarily-halts-trumps-250-foot-arch-shortly-after-key-approval/"
         },
         {
-          "outlet": "IBTimes UK",
-          "url": "https://www.ibtimes.co.uk/trump-triumphal-arch-construction-blocked-1830624"
+          "outlet": "The Hill",
+          "url": "https://thehill.com/homenews/administration/6203354-donald-trump-dc-arch-blocked-after-commission-approval/"
         }
       ]
     }
