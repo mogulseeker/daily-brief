@@ -1,221 +1,233 @@
 {
-  "date": "2026-11-09",
-  "dateLabel": "Monday, November 9, 2026",
-  "generated": "2026-11-09T13:22:03Z",
+  "date": "2026-11-10",
+  "dateLabel": "Tuesday, November 10, 2026",
+  "generated": "2026-11-10T13:20:00Z",
   "tldr": [
-    "Nvidia's board hired outside counsel to investigate CEO Jensen Huang's affair with an alleged Chinese agent; the stock fell about 5%.",
-    "Israel's president passed over Netanyahu and gave Gadi Eisenkot 28 days to form a government, on 67 recommendations to 46.",
-    "Citigroup cut US stocks and global tech to neutral and raised Europe to overweight after the post-midterm AI selloff.",
-    "Novartis scrapped pelacarsen after it cut lipoprotein(a) by 78% and prevented no heart attacks in 8,300 patients.",
-    "US, Russian and Ukrainian delegations meet in Abu Dhabi on Tuesday for the first trilateral talks since February.",
-    "Two Chinese firms licensed by Commerce to handle Nvidia's H200 chips turned out to have empty offices.",
-    "Anthropic paid about $3.4 billion for 1.7 gigawatts of gas generators to power its own data centers.",
-    "COP31 opened in Antalya with an immediate fight over climate finance and no US government delegation.",
-    "Solana developers proposed deleting the transaction feature used to drain $270 million from Drift.",
-    "Trump called his own deportation policy \"too tough\" hours before promoting the man who designed it."
+    "Anthropic opened its IPO roadshow at $70 to $78 a share, implying a valuation near $1 trillion.",
+    "US, Russian and Ukrainian negotiators began two days of trilateral talks in Abu Dhabi, the first such round since February.",
+    "China's goods surplus passed $1.04 trillion in ten months as October exports jumped 35.2%.",
+    "The FDA approved Bayer's Sunharbo, the first factor XIa inhibitor, to cut the risk of repeat strokes.",
+    "Brent crude fell below $90 for the first time since August after Trump held off on new strikes on Iran.",
+    "Japan disclosed a record 7.98 trillion yen of single-day currency intervention, run jointly with Washington.",
+    "Google added two eighth-generation TPU variants for confidential computing and long-context work.",
+    "Compass Pathways completed a new drug application for psilocybin in treatment-resistant depression.",
+    "Federal regulators opened a recall query into 2,895 Waymo robotaxis that kept passing stopped school buses after a fix.",
+    "Republican Rep. Thomas Massie forced a House vote this week on impeaching Defense Secretary Pete Hegseth."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Nvidia's board hires outside counsel to investigate its own chief executive",
-      "body": "Nvidia's board said Sunday that a committee of independent directors, with outside counsel, will investigate chief executive Jensen Huang's relationship with Alice Huang, a businesswoman of no relation whom US intelligence officials believe passed information to Beijing, as The New York Times and Financial Times reported. Huang acknowledged the affair in a staff email and wrote, \"I am deeply sorry.\" She is affiliated with Megaspeed, a cloud company the Times reported bought about $4.8 billion of Nvidia equipment. The board said it has no reason to believe secrets or national security were compromised, and Huang keeps his job. Shares fell about 5% in premarket trading.",
-      "plain": "Nvidia designs the chips almost every AI system is trained on, which makes it both the world's most valuable company and a standing target for intelligence services. Its board, the directors who oversee a chief executive on behalf of shareholders, has hired outside lawyers to examine its own boss. The worry is not the affair but the business beside it: the woman is tied to a company that bought roughly $4.8 billion of Nvidia hardware.",
-      "why": "A board that keeps a chief executive while hiring outside counsel to investigate him has handed the verdict to whoever reads the report first, and Congress is in line ahead of shareholders.",
+      "headline": "Anthropic launches IPO roadshow at a valuation approaching $1 trillion",
+      "body": "Anthropic said on Tuesday it had begun the roadshow for its initial public offering, pricing 825,000,000 shares of Class A stock at an expected $70.00 to $78.00 each and applying to list on the Nasdaq Global Select Market under the ticker ANT. Of those shares, 801,351,354 come from the company and 23,648,646 from existing stockholders; underwriters get a 30-day option on up to 123,750,000 more. Quartz, reading the amended filing, reports that AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC agreed to buy $26.0 billion of Class N stock in a private placement priced at the IPO price, bringing estimated net proceeds to roughly $84.6 billion at a $74 midpoint, and puts revenue at $17.0 billion for the quarter ended September 30 and $33.2 billion for the first nine months of 2026. At the top of the range the company would be worth about $1 trillion.",
+      "plain": "An IPO is when a private company sells shares to the public for the first time, and a roadshow is the sales tour where executives pitch large investors before the price is set. Anthropic builds Claude, an AI assistant. The unusual part is who is buying: seven chip and cloud companies that also sell Anthropic the hardware and computing it runs on are putting in $26 billion of their own money. Anthropic's suppliers are helping fund the company that pays them.",
+      "why": "If this prices anywhere in range it becomes the largest technology listing ever and converts private AI funding into a public share price that anyone can bet against, which is the first real test of whether AI valuations survive daily scrutiny.",
       "sources": [
         {
-          "outlet": "The Hill",
-          "url": "https://thehill.com/policy/technology/6206971-nvidia-investigates-jensen-huang/"
+          "outlet": "Anthropic",
+          "url": "https://www.anthropic.com/news/roadshow-launch"
         },
         {
-          "outlet": "NPR",
-          "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy"
+          "outlet": "Quartz",
+          "url": "https://qz.com/anthropic-ipo-roadshow-launch-64-billion-111026"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "Israel's president passes over Netanyahu and hands the mandate to Gadi Eisenkot",
-      "body": "President Isaac Herzog on Sunday gave Gadi Eisenkot, leader of the Yashar party and a former army chief of staff, 28 days to form a government, with a possible 14-day extension. Herzog said factions holding 67 seats in the newly elected 26th Knesset recommended Eisenkot against 46 for caretaker Prime Minister Benjamin Netanyahu, whose Likud remains the largest single party after the October 27 election. Eisenkot said Israel is in a state of emergency and pledged a national emergency government. He has ruled out a coalition with Arab parties, whose members recommended him anyway.",
-      "plain": "Israelis vote for parties, not for a prime minister. The president then asks whichever leader has the most declared support to assemble a majority of the 120-seat Knesset. Netanyahu's party won the most seats, but more members said they would serve under Eisenkot, so he gets the first attempt. The catch is arithmetic: the 67 backing him include Arab parties he refuses to sit with, so his own red line erases his majority.",
-      "why": "Netanyahu has been the default answer to this question since 2009, and for the first time in seventeen years the arithmetic is someone else's problem to solve.",
+      "headline": "US, Russia and Ukraine open two days of trilateral talks in Abu Dhabi",
+      "body": "Negotiators from the three countries sat down together in Abu Dhabi on Tuesday for the first trilateral round since February. Jared Kushner, leading the US side with Steve Witkoff, said the agenda covers four areas: ending hostilities, post-war security guarantees that prevent the war restarting, an economic recovery plan for Ukraine, and humanitarian issues. Ukraine's delegation is headed by Rustem Umerov, who runs its foreign intelligence service; Russia's by Putin aide Vladimir Medinsky, who said at the opening that his delegation has become bigger and more professional. A US official told the BBC that both sides showed a little bit of flexibility on the territorial question of the eastern regions. Ukraine wants European allies at the table and Russia opposes that; Kushner said a lasting settlement will require direct Russia-Europe engagement on the broader security arrangements. Long-range strikes continued during the talks.",
+      "plain": "Trilateral means all three sides in one room, rather than the shuttle diplomacy where a mediator carries messages between two parties who will not meet. That has not happened since February, so the format itself is the news. The hard part is not territory but security guarantees: Ukraine wants a written promise, backed by someone with an army, that Russia cannot simply rearm and invade again. Nobody has yet said who would enforce such a promise.",
+      "why": "Both delegations arriving willing to discuss security architecture rather than only territory is the first sign in nine months that the war has a negotiated endpoint either side can describe.",
       "sources": [
         {
-          "outlet": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-914236"
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
         },
         {
-          "outlet": "Israel National News",
-          "url": "https://www.israelnationalnews.com/news/435855"
+          "outlet": "Kyiv Post",
+          "url": "https://kyivpost.com/post/89635"
         },
         {
-          "outlet": "LBC",
-          "url": "https://www.lbc.co.uk/article/opposition-leader-eisenkot-mandate-government-5Hjdm7b_2/"
+          "outlet": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/russia-ukraine-peace-talks-led-by-u-s-will-look-at-security-guarantees-for-both-sides"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "Citigroup pulls money out of US stocks and into Europe after the post-midterm AI selloff",
-      "body": "Citigroup strategists led by Beata Manthey cut US equities and global technology to neutral from overweight on Monday and raised European stocks excluding the UK to overweight, citing AI turbulence after the Democratic sweep of the November 3 midterms and the benefit Europe draws from cheaper oil. They also moved healthcare to overweight and warned Nasdaq positioning could slip into net-short. Goldman Sachs noted Europe outperformed the US in all eight of the largest AI-led selloffs since 2023. October CPI is due Tuesday; futures put December Fed hike odds near 80%, the target range at 3.75% to 4.00%.",
-      "plain": "Large banks publish a house view telling clients how much to hold in each region and industry. Overweight means own more than the benchmark; neutral means own about the same. Citi has moved America and technology from own-more to own-about, and Europe to own-more. The reasoning is not that Europe's economy is stronger but that it owns less of the AI trade, so it falls less when AI stocks fall.",
-      "why": "When the sell side starts recommending Europe over America on crowding rather than growth, the AI trade has stopped being a conviction and become a position everyone is trying to leave through the same door.",
+      "headline": "China's trade surplus tops $1 trillion in ten months on a 35% export surge",
+      "body": "Customs data released Tuesday show October exports rose 35.2% year on year to $412.3 billion, beating the 33.5% expected in a Reuters poll, while imports grew 41.6% to $307.1 billion against a 32% forecast. The monthly surplus narrowed to $105.3 billion from $133.5 billion in September, the smallest since April and below the $125.8 billion consensus. For January through October the goods surplus reached $1.04 trillion, the fastest China has ever reached that mark, against a record $1.2 trillion for all of 2025. Exports to the United States rose 32.9% from a low base created by last year's tariffs; exports to the EU rose 24.3%. Semiconductor exports are up 111.1% in dollar terms over the ten months. ING's Greater China chief economist Lynn Song said China remains well on pace for a new record high for the trade surplus by year-end despite a miss in October.",
+      "plain": "A trade surplus is the gap between what a country sells abroad and what it buys. China's gap is now larger than the entire economy of Mexico. The interesting detail is that imports grew faster than exports last month, which narrowed the monthly gap, because China is buying enormous volumes of chips and chipmaking equipment. The same AI boom driving its record exports is also the thing finally pulling money back in.",
+      "why": "A surplus this large and this concentrated in semiconductors hands the incoming US Congress and the EU a concrete number to legislate against, which makes new tariff fights in 2027 more likely than the de-escalation both sides have been signalling.",
       "sources": [
         {
-          "outlet": "Bloomberg via Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-strategists-cut-us-stocks-095547644.html"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
         },
         {
-          "outlet": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/ai-fatigue-citi-cuts-us-and-tech-to-neutral-turns-bullish-on-europe-5011368"
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/world/asia/chinas-trade-surplus-surpasses-1-trillion-2nd-straight-year-exports-rcna608493"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/economic-indicators/article/3373871/chinas-imports-outpace-exports-october-beijing-seeks-address-imbalance"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "Novartis kills its lipoprotein(a) drug after it cut the target by 78% and prevented nothing",
-      "body": "Novartis said it will discontinue pelacarsen in atherosclerotic cardiovascular disease after the Lp(a)HORIZON trial, presented Saturday by the Cleveland Clinic's Steven Nissen at the American Heart Association meeting and published in the New England Journal of Medicine. In about 8,300 patients with prior cardiovascular events, the drug cut lipoprotein(a) by roughly 78% at 12 months, but major cardiovascular events occurred in 12.3% on pelacarsen against 12.1% on placebo over a median 4.7 years, a hazard ratio of 1.02. Discontinuations for adverse events ran 20.6% versus 7.5%, with 19 anaphylaxis cases on drug and none on placebo.",
-      "plain": "Lipoprotein(a) is a blood particle, set almost entirely by the genes you are born with, that raises heart-attack risk and that diet, exercise and statins barely touch. Because people who inherit low levels have fewer heart attacks, drugmakers assumed lowering it in adults would work the same way. Novartis lowered it by nearly four-fifths and the heart attacks came at the same rate. Nissen's explanation is that these patients were already too far along.",
-      "why": "Three more companies are running the same experiment with different molecules, and each now has to argue the biology is sound but Novartis chose the wrong patients.",
+      "headline": "FDA approves the first factor XIa inhibitor to prevent repeat strokes",
+      "body": "The FDA on Monday approved Bayer's Sunharbo (asundexian), 50 mg once daily, for use alongside antiplatelet therapy in adults who have had a recent mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack. It is the first drug in its class to clear the agency. The approval rests on OCEANIC-STROKE, a phase 3 trial of 12,327 adults in which ischemic stroke occurred in 6.2% of patients on asundexian versus 8.4% on placebo over a median 14.2 months of treatment, a 26% reduction in hazard. Major bleeding as defined by the ISTH was 1.9% on the drug versus 1.7% on placebo. The FDA flagged more major bleeding in patients over 75 and in the first 90 days of treatment, and the label excludes stroke prevention in atrial fibrillation. China's regulator approved the drug separately.",
+      "plain": "Blood clots cause most strokes, so doctors give survivors drugs that make clotting harder. The problem is that every such drug also makes bleeding easier, and in the brain that can be fatal. Factor XIa is one step in the clotting chain that appears to matter for dangerous clots but not much for sealing ordinary cuts. Blocking only that step is the bet here, and the trial's bleeding numbers, 1.9% against 1.7%, suggest the bet largely paid off.",
+      "why": "Cutting repeat strokes by a quarter without the usual bleeding penalty validates factor XIa as a drug target, which clears the path for competing programs and reopens a market that has run on warfarin and the factor Xa drugs for a decade.",
       "sources": [
         {
-          "outlet": "TCTMD",
-          "url": "https://www.tctmd.com/news/full-lpahorizon-results-affirm-lack-pelacarsen-benefit-secondary-prevention"
+          "outlet": "FDA",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk"
         },
         {
-          "outlet": "Fierce Biotech",
-          "url": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-shows-zero-benefit-casting-shadow-over-amgen-and-lilly-programs"
+          "outlet": "HCPLive",
+          "url": "https://www.hcplive.com/view/asundexian-sunharbo-receives-fda-approval-for-secondary-stroke-prevention"
         },
         {
-          "outlet": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/"
+          "outlet": "ACNR",
+          "url": "https://acnr.co.uk/asundexian-secondary-stroke-prevention-us-approval/"
         }
       ]
     },
     {
       "slot": 5,
-      "category": "Wildcard - International Affairs",
-      "headline": "American, Russian and Ukrainian delegations meet in Abu Dhabi on Tuesday, the first trilateral talks since February",
-      "body": "Working-level negotiations open Tuesday and run through Wednesday in Abu Dhabi, mediated by the United States, with Jared Kushner and Steve Witkoff leading the American delegation and Kremlin spokesman Dmitry Peskov telling Interfax that Russia's team will include senior military officials. National security officials from the EU, NATO, France, Germany and the UK will be on site, with their role undefined. The agenda covers an energy and maritime ceasefire, prisoner exchanges and the return of Ukrainian children taken to Russia. Ukraine wants an immediate ceasefire first; Russia wants a comprehensive settlement. Rounds in January and February broke off when the Iran war began.",
-      "plain": "Working-level means the officials who draft text, not the leaders who sign it, so no agreement is expected this week. The two sides disagree about sequence as much as substance: Ukraine wants the shooting stopped and the hard questions settled later, while Russia wants them settled first and keeps fighting as leverage. Hence the narrow agenda: ships, prisoners and abducted children are the few items available without conceding the war.",
-      "why": "The narrowness of the agenda is the information: both capitals are testing whether the other will honour anything at all before either will discuss a ceasefire.",
+      "category": "Wildcard - Economics",
+      "headline": "Brent crude falls below $90 for the first time since August",
+      "body": "Brent dropped under $90 a barrel on Tuesday, with WTI touching $84.59, after President Trump said he would hold off on new military strikes against Iran following appeals from regional governments including Qatar's prime minister in White House talks. Monday's session had already closed down about 7%. Brent is now roughly 22% below the $118 it reached at the end of October. Trump said Gulf states would rather keep the naval blockade of the Strait of Hormuz in place than see renewed strikes, and Washington has no immediate plans to lift it. Iran's foreign minister said the conflict will not be settled militarily or through tighter sanctions, and Tehran is pressing for an end to the war on all fronts and the unfreezing of its assets before reopening the strait, which is carrying roughly 20% of pre-war traffic. Eurasia Group's Gregory Brew said Brent is unlikely to hold below $90 without durable de-escalation and a US-Iran deal.",
+      "plain": "The Strait of Hormuz is a narrow sea passage that a large share of the world's oil has to pass through. Traders price oil partly on the chance that it closes, so a quieter week lowers the price even when nothing physical has changed. Note what did not happen: the blockade is still in place and ships are still being hit near the strait. The price fell because the risk of things getting worse fell, which is not the same as the situation improving.",
+      "why": "Energy has been the main driver of the US inflation that has kept the Fed from cutting, so a drop of this size, if it holds, does more for the affordability problem than anything Congress will pass in the next six months.",
       "sources": [
         {
-          "outlet": "Axios",
-          "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
         },
         {
-          "outlet": "RFE/RL",
-          "url": "https://www.rferl.org/a/us-russia-ukraine-peace-talks-abu-dhabi-ceasefire/33889451.html"
+          "outlet": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html"
         },
         {
-          "outlet": "The Hill",
-          "url": "https://thehill.com/policy/international/6190973-witkoff-announces-abu-dhabi-peace-negotiations/"
+          "outlet": "FXEmpire",
+          "url": "https://www.fxempire.com/forecasts/article/oil-price-forecast-wti-and-brent-extend-losses-as-iran-strike-fears-ease-1643467"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - AI Industry",
-      "headline": "Two Chinese firms cleared by Commerce to handle Nvidia's H200 chips have empty offices",
-      "body": "A New York Times investigation published Saturday reported that New Matrix, a Beijing company incorporated 17 months ago, lists a registered address reporters found to be a vacant industrial unit, and that Maginfra's office was deserted when they visited in September. Both are among roughly two dozen Chinese entities the Commerce Department has licensed in connection with H200 sales, and neither was cleared as an end user, only to assemble the chips into AI servers for unnamed clients. The Times reported a New Matrix shareholder is linked to Wise Road Capital, added to the US Entity List in 2024, and that Maginfra shares staff and patents with the blacklisted server maker Inspur. The Bureau of Industry and Security said it reviews every application carefully.",
-      "plain": "An export licence is the US government's written judgment that a named foreign buyer can be trusted with a controlled American product. Reporters tested that judgment the simplest way available, by visiting the registered addresses, and found units nobody occupies. Neither company was cleared to use the chips itself, only to bolt them into servers and pass them on. So the licence follows the box, never the customer.",
-      "why": "Export controls are worth exactly as much as the vetting behind them, and a newly Democratic Congress now has a documented vetting failure it can subpoena.",
+      "category": "Wildcard - Economics",
+      "headline": "Japan discloses a record single-day currency intervention, run jointly with Washington",
+      "body": "Daily intervention data published by Japan's Ministry of Finance on Monday show Tokyo bought 7.98 trillion yen, about $50.4 billion, in a single day on July 30, followed by 5.55 trillion yen and 1.87 trillion yen over the next two days. The 15.4 trillion yen total, roughly $97 billion, is a record for Japanese monthly currency intervention, and traders had assumed the operation ran over two days rather than three. Bloomberg describes the July 31 leg as Tokyo's first coordinated operation with the United States to support the yen in nearly three decades. The yen had fallen to about 164 to the dollar, a 40-year low, before the buying began. It has since drifted back to roughly 158 and has traded in a 157 to 158 band for more than a month. Intervention is ordered by the Finance Ministry, with the Bank of Japan placing the trades as its agent. Morgan Stanley argues the yen's path now depends far more on Federal Reserve policy than on anything Tokyo does.",
+      "plain": "When a currency falls too far, a government can buy it with its foreign reserves to push the price back up. Japan spent about $97 billion doing that over three days in July, and only published the daily detail now, because the ministry releases those figures a quarter late. The result is the part worth noting: the yen is almost back where it started. Nearly $100 billion bought a few months of relief, which is why the Fed matters more here than the Bank of Japan.",
+      "why": "A government spending $97 billion for a temporary move tells every other central bank that intervention cannot outrun an interest-rate gap, which leaves Japan dependent on Fed cuts that Chair Kevin Warsh has not signalled.",
       "sources": [
         {
-          "outlet": "Wccftech",
-          "url": "https://wccftech.com/us-approved-nvidia-h200-sales-chinese-firms-empty-offices-military-ties/"
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/japan-says-three-day-yen-intervention-lifted-yen-in-summer"
         },
         {
-          "outlet": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/international/2026/11/08/nvidias-huang-faces-scrutiny-over-h200-china-sales-alleged"
+          "outlet": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/09/markets/japan-july-sept-yen-intervention/"
+        },
+        {
+          "outlet": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/currencies/japan-fx-intervention-data-underscores-challenge-of-reversing-weak-yen"
         }
       ]
     },
     {
       "slot": 7,
       "category": "Wildcard - AI Industry",
-      "headline": "Anthropic bought 1.7 gigawatts of gas generators for about $3.4 billion to power its own data centers",
-      "body": "The Financial Times reported that Anthropic agreed in late September to pay roughly $3.4 billion for 1.7 gigawatts of gas-fired generating capacity, taking over Caterpillar generator orders placed by OnePWR Solutions, a San Antonio supplier. The FT called it the largest known single purchase of power equipment by an AI company, and said no OnePWR staff moved across and no site was named. A Piper Sandler disclosure instead describes a $3.4 billion sale of OnePWR's power-generation platform to an unnamed AI lab, so the structure is unsettled though both agree on the price. Anthropic disclosed on November 2 that it intends to spend more than $895 billion, mostly on compute.",
-      "plain": "A data center cannot run on a contract with a utility; it needs electricity physically delivered, and the queue to connect a big new load to the US grid now runs for years. Buying generators is how you skip the queue, making your own power on site by burning gas. 1.7 gigawatts is roughly a large nuclear reactor's output. The two accounts of the deal differ, so treat its structure as unconfirmed.",
-      "why": "An AI company buying its own power plants prices the real bottleneck in the buildout, and it is electricity rather than chips.",
+      "headline": "Google adds two specialised TPU variants aimed at Nvidia's weakest flanks",
+      "body": "Google announced two additions to its eighth-generation tensor processing unit line on Monday. The TPU 8tx is built for confidential computing, pairing with an AMD processor and a hardware secure enclave to encrypt data and model weights at the chip level for government agencies and regulated industries. The TPU 8i Max packages two TPU 8i chips together for long-context workloads such as drug discovery and coding, with double the compute, double the on-chip SRAM and double the memory bandwidth of a single 8i. Both are reconfigured versions of existing silicon rather than new designs, Google chip chief Amin Vahdat said, and both arrive next year. Google said in its most recent earnings report that every TPU it has available is already contracted to a customer, and the announcement named Apple and Meta among external TPU users. Analysts estimate TPUs cost roughly 30% less than comparable Nvidia GPUs, an estimate rather than a benchmark. Alphabet shares rose about 2% premarket and closed 1.7% higher at $289.50.",
+      "plain": "A TPU is Google's own AI chip, built as an alternative to buying Nvidia's. Confidential computing means the chip itself encrypts the data it is working on, so even the company running the machine cannot read it. That is the specific obstacle that keeps hospitals, banks and defence agencies from putting sensitive work in someone else's data centre. Long context means how much text or code a model can hold in mind at once. Google is going after the customers Nvidia's general-purpose chips serve least well.",
+      "why": "Every TPU Google sells to an outside customer is a GPU Nvidia does not sell, and starting with regulated industries puts the competition where switching is driven by compliance rules rather than price.",
       "sources": [
         {
-          "outlet": "Financial Times via The Next Web",
-          "url": "https://thenextweb.com/news/anthropic-3-4bn-gas-generators-onepwr-ft"
+          "outlet": "Quartz",
+          "url": "https://qz.com/google-specialized-ai-chips-tpu-nvidia-110926"
         },
         {
-          "outlet": "Seeking Alpha",
-          "url": "https://seekingalpha.com/news/4668761-anthropic-strikes-3_4b-generator-deal-to-secure-data-center-power-ft"
+          "outlet": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/google-expands-eighth-generation-tpu-portfolio-with-two-new-tpu-systems/"
         },
         {
-          "outlet": "The Energy Mag",
-          "url": "https://www.theenergymag.com/news/market-news/anthropic-gas-generation-acquisition-ai-data-center"
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/google-reportedly-adds-two-tpu-variants"
         }
       ]
     },
     {
       "slot": 8,
-      "category": "Wildcard - International Affairs",
-      "headline": "COP31 opens in Antalya with an immediate fight over money and no US government delegation",
-      "body": "The UN climate conference opened Monday in Antalya and runs through November 20, with Turkiye holding the presidency under Environment Minister Murat Kurum and Australia's Chris Bowen leading negotiations. Turkish officials expected close to 100 heads of state and government and about 300 ministers, with a leaders' summit on November 11 and 12. UN Secretary-General Antonio Guterres told delegates to \"get serious\" after a year of weather extremes. The opening ceremony began 90 minutes late without explanation, and the first dispute was over climate finance. President Trump sent no government officials.",
-      "plain": "A COP is the annual meeting where roughly 190 governments try to agree the next step on emissions, and nearly every dispute becomes a dispute about who pays. Poorer countries, which did least to cause the warming, want firm money for adapting to it; richer ones want the obligation shared and the wording loose. The absence that matters is the United States, the largest historical emitter, which sent nobody.",
-      "why": "With Washington out of the room, the question stops being what the US will accept and becomes whether anyone else will fund what it declines to.",
+      "category": "Wildcard - Healthcare",
+      "headline": "Compass Pathways completes a psilocybin application for treatment-resistant depression",
+      "body": "Compass Pathways said Monday it had completed its new drug application to the FDA for COMP360, a synthetic psilocybin given under supervision, in treatment-resistant depression. The filing rests on two phase 3 trials and a phase 2b study, each of which met its primary endpoint, and the program holds FDA Breakthrough Therapy designation. The company is pursuing a National Priority Voucher, designed to compress review to one or two months rather than the usual ten to twelve, and guides to a launch in the first half of 2027 if approved. Three things still have to happen and none has a public date: the FDA must accept the application for review, then approve it, and the DEA must move psilocybin off Schedule I, where it currently sits as a drug with no accepted medical use. Outlets disagree on whether this is the first completed psilocybin application in the US; Drug Discovery Trends and Psychedelic Alpha report that the Usona Institute has also filed, for major depressive disorder rather than the treatment-resistant form.",
+      "plain": "Treatment-resistant depression means at least two standard antidepressants have already failed, which happens to roughly a third of patients. Psilocybin is the active compound in psychedelic mushrooms, given here as a measured dose with a therapist present. Submitting an application is not approval, and it is not even acceptance for review. The harder obstacle is legal rather than medical: psilocybin is formally classified as having no medical use at all, and that classification has to change before a doctor can write a prescription.",
+      "why": "An approval would force the DEA to reschedule a Schedule I drug on the strength of clinical evidence, setting the procedural template every other psychedelic in development would follow.",
       "sources": [
         {
-          "outlet": "Malay Mail (AFP)",
-          "url": "https://www.malaymail.com/news/world/2026/11/09/get-serious-cop31-opens-in-antalya-with-leaders-under-pressure-to-tackle-climate-crisis/242615"
+          "outlet": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/compass-pathways-completes-comp360-psilocybin-new-drug-application-to-u-s-fda-for-treatment-resistant-depression"
         },
         {
-          "outlet": "Turkish Minute",
-          "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/"
+          "outlet": "Psychiatric Times",
+          "url": "https://www.psychiatrictimes.com/view/nda-submission-complete-comp360-psilocybin-for-treatment-resistant-depression"
         },
         {
-          "outlet": "The Peninsula",
-          "url": "https://thepeninsulaqatar.com/article/09/11/2026/cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis"
+          "outlet": "Drug Discovery Trends",
+          "url": "https://www.drugdiscoverytrends.com/psychedelic-pioneer-compass-files-for-fda-approval-as-rivals-close-in/"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Technology",
-      "headline": "Solana developers move to delete the transaction feature used to drain $270 million from Drift",
-      "body": "A proposal filed November 5 by Anza contributor Gabe Rodriguez, SIMD-0723, would retire Solana's durable nonces no earlier than May 5, 2027. Attackers used the feature on April 1 to take at least $270 million from the Drift exchange, firing off transactions Drift's security council had signed more than a week earlier; some loss estimates run to about $285 million. Ordinary Solana transactions expire in roughly 30 seconds, while a durable nonce keeps a signed transaction valid indefinitely. The proposal still needs technical approval, and custodians that sign on offline machines would have to rebuild how they move funds.",
-      "plain": "A blockchain transaction is signed with a secret key and then broadcast. Solana normally gives a signed transaction about half a minute to land, which limits the damage if a signature leaks. Durable nonces removed that clock so institutions could sign on a computer kept permanently off the internet, safer because the key never touches a network. The Drift attackers used the other half of that trade, firing week-old signatures.",
-      "why": "The fix is a reminder that the large crypto losses come from how custody is operated rather than from broken cryptography.",
+      "headline": "Federal regulators reopen the Waymo school-bus case after the fix failed to hold",
+      "body": "The National Highway Traffic Safety Administration's Office of Defects Investigation opened recall query RQ26006 covering 2,895 Waymo vehicles, asking whether the software remedy the company issued under a December 2025 recall actually worked and what caused the incidents that happened afterward. That recall, reported at 3,067 vehicles, addressed robotaxis driving past school buses stopped with their signals out. Waymo says the update reached every affected vehicle by November 17, 2025; NHTSA says most of the incidents it is examining occurred after that date. Waymo said it has received no citations since March 2026 and will respond once it receives the query. A recall query reviews an existing remedy; it is not a new recall or a finding of violation. The NTSB is investigating separately, and its preliminary report traced at least one January incident to human error, a remote assistant who told a driverless vehicle that a stopped school bus was not signalling. A January NHTSA probe into a Santa Monica incident in which a Waymo struck a child near an elementary school remains open.",
+      "plain": "When a car company recalls vehicles it has to fix the defect, and the regulator can later check whether the fix held. A recall query is that check. For a robotaxi the fix is a software update rather than a part, which is what makes this case unusual: the update was installed everywhere, on time, and the behaviour reportedly continued. The NTSB's finding that a human operator misread one bus adds a second possibility, that the failure is in the remote staff rather than the code.",
+      "why": "This is the first real test of whether a software update counts as an adequate recall remedy under US vehicle safety law, and the answer sets how every autonomous fleet has to prove a fix worked.",
       "sources": [
         {
-          "outlet": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack"
+          "outlet": "Engadget",
+          "url": "https://www.engadget.com/2310872/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/"
         },
         {
-          "outlet": "CryptoNews",
-          "url": "https://cryptonews.com/news/solana-durable-nonces-drift-hack-pump-fun/"
+          "outlet": "FOX 9",
+          "url": "https://www.fox9.com/news/feds-investigate-waymo-recall-after-continued-school-bus-violations"
+        },
+        {
+          "outlet": "GV Wire",
+          "url": "https://gvwire.com/2026/11/09/us-opens-probe-into-waymo-vehicles-over-school-bus-safety-violations/"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "Trump calls his own deportation policy \"too tough\" hours before promoting the man who built it",
-      "body": "In a 60 Minutes interview taped Friday and aired Sunday, Trump told Ross Douthat of his immigration crackdown, \"I think it was too tough,\" adding, \"And I think -- I think ultimately, that hurt me.\" He cited immigrants in the country ten years or more without serious crimes, while claiming an A+ on the border. He campaigned in 2024 on \"the largest deportation operation in American history\"; ICE book-ins hit a second-term high above 46,000 in July 2026, and PolitiFact's tracker records removals far short of the million-a-year goal. The interview was taped hours before the White House said Stephen Miller, the policy's architect, would replace Susie Wiles as chief of staff. Trump separately blamed Republican midterm losses on the Iran war, gasoline prices and \"a great dislike -- incredibly -- for Israel.\"",
-      "plain": "Trump ran promising to deport more people than any president in American history, built the machinery to attempt it, and has now told an interviewer it went too far and cost him votes. He did not say he would change it. On the day the interview was taped, the official who designed the policy was promoted to the most powerful staff job in the White House.",
-      "why": "An admission that comes with no policy change and a promotion for the architect is a statement about messaging rather than about enforcement, and the personnel decision made the same day says which one he meant.",
+      "headline": "A Republican forces the House to vote on impeaching Trump's defense secretary",
+      "body": "Rep. Thomas Massie (R-Ky.) introduced a 34-page resolution carrying eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor on Monday, November 9. Because the resolution is privileged, leadership must act within two legislative days, so a vote to impeach, table or refer has to occur by Wednesday. Three of the eight articles accuse Hegseth of violating congressional war powers in Iran; others cite the Pentagon's strikes on alleged drug boats in the Caribbean, which the resolution calls extrajudicial killings, a strike in Yemen, the capture of Venezuelan President Nicolas Maduro, and retaliation against Sen. Mark Kelly. Massie first filed the articles in September; Monday's reintroduction restarted the clock. Hegseth called them sham articles of impeachment. Trump said he would stand by Hegseth if the House impeaches him, and on November 5 said of Massie that he is a guy who is very destructive and is a very bad guy. Republicans hold the House 218-214, and Fox News reported that some Republicans privately warn the resolution could pass; Massie said he believes several Republicans would vote with Democrats. Most Republicans are still expected to oppose it.",
+      "plain": "A privileged resolution is one the House cannot quietly ignore: leadership has two working days to do something with it, even if that something is a vote to set it aside. Massie is a Republican, so his own party's leaders are the ones now forced to schedule this. With a four-seat majority, three Republican defections would be enough to pass it. No cabinet secretary has been impeached since 1876, and no member of Congress has previously tried it against a cabinet member from their own party.",
+      "why": "The vote puts every House Republican on the record about the Iran war powers question six days after losing both chambers, which is the first hard count of how much of the party still holds together on the war.",
       "sources": [
         {
-          "outlet": "CBS News transcript",
-          "url": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/"
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/"
         },
         {
-          "outlet": "ABC News",
-          "url": "https://abcnews.com/US/trump-tough-deportation-policies-hurt-midterms/story?id=137963657"
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/thomas-massie-pete-hegseth-impeachment-house-defense-rcna597989"
         },
         {
-          "outlet": "Jewish Insider",
-          "url": "https://jewishinsider.com/2026/11/trump-iran-war-israel-gop-losses-vance-60-minutes-interview/"
+          "outlet": "Fox News",
+          "url": "https://www.foxnews.com/politics/hegseth-impeachment-vote-looms-house-republicans-privately-warn-could-pass"
         }
       ]
     }

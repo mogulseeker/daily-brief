@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-10",
+  "dateLabel": "Tuesday, November 10, 2026",
+  "generated": "2026-11-10T13:20:00Z",
+  "tldr": [
+    "Anthropic opened its IPO roadshow at $70 to $78 a share, implying a valuation near $1 trillion.",
+    "US, Russian and Ukrainian negotiators began two days of trilateral talks in Abu Dhabi, the first such round since February.",
+    "China's goods surplus passed $1.04 trillion in ten months as October exports jumped 35.2%.",
+    "The FDA approved Bayer's Sunharbo, the first factor XIa inhibitor, to cut the risk of repeat strokes.",
+    "Brent crude fell below $90 for the first time since August after Trump held off on new strikes on Iran.",
+    "Japan disclosed a record 7.98 trillion yen of single-day currency intervention, run jointly with Washington.",
+    "Google added two eighth-generation TPU variants for confidential computing and long-context work.",
+    "Compass Pathways completed a new drug application for psilocybin in treatment-resistant depression.",
+    "Federal regulators opened a recall query into 2,895 Waymo robotaxis that kept passing stopped school buses after a fix.",
+    "Republican Rep. Thomas Massie forced a House vote this week on impeaching Defense Secretary Pete Hegseth."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "Anthropic launches IPO roadshow at a valuation approaching $1 trillion",
+      "body": "Anthropic said on Tuesday it had begun the roadshow for its initial public offering, pricing 825,000,000 shares of Class A stock at an expected $70.00 to $78.00 each and applying to list on the Nasdaq Global Select Market under the ticker ANT. Of those shares, 801,351,354 come from the company and 23,648,646 from existing stockholders; underwriters get a 30-day option on up to 123,750,000 more. Quartz, reading the amended filing, reports that AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC agreed to buy $26.0 billion of Class N stock in a private placement priced at the IPO price, bringing estimated net proceeds to roughly $84.6 billion at a $74 midpoint, and puts revenue at $17.0 billion for the quarter ended September 30 and $33.2 billion for the first nine months of 2026. At the top of the range the company would be worth about $1 trillion.",
+      "plain": "An IPO is when a private company sells shares to the public for the first time, and a roadshow is the sales tour where executives pitch large investors before the price is set. Anthropic builds Claude, an AI assistant. The unusual part is who is buying: seven chip and cloud companies that also sell Anthropic the hardware and computing it runs on are putting in $26 billion of their own money. Anthropic's suppliers are helping fund the company that pays them.",
+      "why": "If this prices anywhere in range it becomes the largest technology listing ever and converts private AI funding into a public share price that anyone can bet against, which is the first real test of whether AI valuations survive daily scrutiny.",
+      "sources": [
+        {
+          "outlet": "Anthropic",
+          "url": "https://www.anthropic.com/news/roadshow-launch"
+        },
+        {
+          "outlet": "Quartz",
+          "url": "https://qz.com/anthropic-ipo-roadshow-launch-64-billion-111026"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "US, Russia and Ukraine open two days of trilateral talks in Abu Dhabi",
+      "body": "Negotiators from the three countries sat down together in Abu Dhabi on Tuesday for the first trilateral round since February. Jared Kushner, leading the US side with Steve Witkoff, said the agenda covers four areas: ending hostilities, post-war security guarantees that prevent the war restarting, an economic recovery plan for Ukraine, and humanitarian issues. Ukraine's delegation is headed by Rustem Umerov, who runs its foreign intelligence service; Russia's by Putin aide Vladimir Medinsky, who said at the opening that his delegation has become bigger and more professional. A US official told the BBC that both sides showed a little bit of flexibility on the territorial question of the eastern regions. Ukraine wants European allies at the table and Russia opposes that; Kushner said a lasting settlement will require direct Russia-Europe engagement on the broader security arrangements. Long-range strikes continued during the talks.",
+      "plain": "Trilateral means all three sides in one room, rather than the shuttle diplomacy where a mediator carries messages between two parties who will not meet. That has not happened since February, so the format itself is the news. The hard part is not territory but security guarantees: Ukraine wants a written promise, backed by someone with an army, that Russia cannot simply rearm and invade again. Nobody has yet said who would enforce such a promise.",
+      "why": "Both delegations arriving willing to discuss security architecture rather than only territory is the first sign in nine months that the war has a negotiated endpoint either side can describe.",
+      "sources": [
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+        },
+        {
+          "outlet": "Kyiv Post",
+          "url": "https://kyivpost.com/post/89635"
+        },
+        {
+          "outlet": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/russia-ukraine-peace-talks-led-by-u-s-will-look-at-security-guarantees-for-both-sides"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "China's trade surplus tops $1 trillion in ten months on a 35% export surge",
+      "body": "Customs data released Tuesday show October exports rose 35.2% year on year to $412.3 billion, beating the 33.5% expected in a Reuters poll, while imports grew 41.6% to $307.1 billion against a 32% forecast. The monthly surplus narrowed to $105.3 billion from $133.5 billion in September, the smallest since April and below the $125.8 billion consensus. For January through October the goods surplus reached $1.04 trillion, the fastest China has ever reached that mark, against a record $1.2 trillion for all of 2025. Exports to the United States rose 32.9% from a low base created by last year's tariffs; exports to the EU rose 24.3%. Semiconductor exports are up 111.1% in dollar terms over the ten months. ING's Greater China chief economist Lynn Song said China remains well on pace for a new record high for the trade surplus by year-end despite a miss in October.",
+      "plain": "A trade surplus is the gap between what a country sells abroad and what it buys. China's gap is now larger than the entire economy of Mexico. The interesting detail is that imports grew faster than exports last month, which narrowed the monthly gap, because China is buying enormous volumes of chips and chipmaking equipment. The same AI boom driving its record exports is also the thing finally pulling money back in.",
+      "why": "A surplus this large and this concentrated in semiconductors hands the incoming US Congress and the EU a concrete number to legislate against, which makes new tariff fights in 2027 more likely than the de-escalation both sides have been signalling.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/world/asia/chinas-trade-surplus-surpasses-1-trillion-2nd-straight-year-exports-rcna608493"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/economic-indicators/article/3373871/chinas-imports-outpace-exports-october-beijing-seeks-address-imbalance"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "FDA approves the first factor XIa inhibitor to prevent repeat strokes",
+      "body": "The FDA on Monday approved Bayer's Sunharbo (asundexian), 50 mg once daily, for use alongside antiplatelet therapy in adults who have had a recent mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack. It is the first drug in its class to clear the agency. The approval rests on OCEANIC-STROKE, a phase 3 trial of 12,327 adults in which ischemic stroke occurred in 6.2% of patients on asundexian versus 8.4% on placebo over a median 14.2 months of treatment, a 26% reduction in hazard. Major bleeding as defined by the ISTH was 1.9% on the drug versus 1.7% on placebo. The FDA flagged more major bleeding in patients over 75 and in the first 90 days of treatment, and the label excludes stroke prevention in atrial fibrillation. China's regulator approved the drug separately.",
+      "plain": "Blood clots cause most strokes, so doctors give survivors drugs that make clotting harder. The problem is that every such drug also makes bleeding easier, and in the brain that can be fatal. Factor XIa is one step in the clotting chain that appears to matter for dangerous clots but not much for sealing ordinary cuts. Blocking only that step is the bet here, and the trial's bleeding numbers, 1.9% against 1.7%, suggest the bet largely paid off.",
+      "why": "Cutting repeat strokes by a quarter without the usual bleeding penalty validates factor XIa as a drug target, which clears the path for competing programs and reopens a market that has run on warfarin and the factor Xa drugs for a decade.",
+      "sources": [
+        {
+          "outlet": "FDA",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk"
+        },
+        {
+          "outlet": "HCPLive",
+          "url": "https://www.hcplive.com/view/asundexian-sunharbo-receives-fda-approval-for-secondary-stroke-prevention"
+        },
+        {
+          "outlet": "ACNR",
+          "url": "https://acnr.co.uk/asundexian-secondary-stroke-prevention-us-approval/"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - Economics",
+      "headline": "Brent crude falls below $90 for the first time since August",
+      "body": "Brent dropped under $90 a barrel on Tuesday, with WTI touching $84.59, after President Trump said he would hold off on new military strikes against Iran following appeals from regional governments including Qatar's prime minister in White House talks. Monday's session had already closed down about 7%. Brent is now roughly 22% below the $118 it reached at the end of October. Trump said Gulf states would rather keep the naval blockade of the Strait of Hormuz in place than see renewed strikes, and Washington has no immediate plans to lift it. Iran's foreign minister said the conflict will not be settled militarily or through tighter sanctions, and Tehran is pressing for an end to the war on all fronts and the unfreezing of its assets before reopening the strait, which is carrying roughly 20% of pre-war traffic. Eurasia Group's Gregory Brew said Brent is unlikely to hold below $90 without durable de-escalation and a US-Iran deal.",
+      "plain": "The Strait of Hormuz is a narrow sea passage that a large share of the world's oil has to pass through. Traders price oil partly on the chance that it closes, so a quieter week lowers the price even when nothing physical has changed. Note what did not happen: the blockade is still in place and ships are still being hit near the strait. The price fell because the risk of things getting worse fell, which is not the same as the situation improving.",
+      "why": "Energy has been the main driver of the US inflation that has kept the Fed from cutting, so a drop of this size, if it holds, does more for the affordability problem than anything Congress will pass in the next six months.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
+        },
+        {
+          "outlet": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html"
+        },
+        {
+          "outlet": "FXEmpire",
+          "url": "https://www.fxempire.com/forecasts/article/oil-price-forecast-wti-and-brent-extend-losses-as-iran-strike-fears-ease-1643467"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - Economics",
+      "headline": "Japan discloses a record single-day currency intervention, run jointly with Washington",
+      "body": "Daily intervention data published by Japan's Ministry of Finance on Monday show Tokyo bought 7.98 trillion yen, about $50.4 billion, in a single day on July 30, followed by 5.55 trillion yen and 1.87 trillion yen over the next two days. The 15.4 trillion yen total, roughly $97 billion, is a record for Japanese monthly currency intervention, and traders had assumed the operation ran over two days rather than three. Bloomberg describes the July 31 leg as Tokyo's first coordinated operation with the United States to support the yen in nearly three decades. The yen had fallen to about 164 to the dollar, a 40-year low, before the buying began. It has since drifted back to roughly 158 and has traded in a 157 to 158 band for more than a month. Intervention is ordered by the Finance Ministry, with the Bank of Japan placing the trades as its agent. Morgan Stanley argues the yen's path now depends far more on Federal Reserve policy than on anything Tokyo does.",
+      "plain": "When a currency falls too far, a government can buy it with its foreign reserves to push the price back up. Japan spent about $97 billion doing that over three days in July, and only published the daily detail now, because the ministry releases those figures a quarter late. The result is the part worth noting: the yen is almost back where it started. Nearly $100 billion bought a few months of relief, which is why the Fed matters more here than the Bank of Japan.",
+      "why": "A government spending $97 billion for a temporary move tells every other central bank that intervention cannot outrun an interest-rate gap, which leaves Japan dependent on Fed cuts that Chair Kevin Warsh has not signalled.",
+      "sources": [
+        {
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/japan-says-three-day-yen-intervention-lifted-yen-in-summer"
+        },
+        {
+          "outlet": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/09/markets/japan-july-sept-yen-intervention/"
+        },
+        {
+          "outlet": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/currencies/japan-fx-intervention-data-underscores-challenge-of-reversing-weak-yen"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - AI Industry",
+      "headline": "Google adds two specialised TPU variants aimed at Nvidia's weakest flanks",
+      "body": "Google announced two additions to its eighth-generation tensor processing unit line on Monday. The TPU 8tx is built for confidential computing, pairing with an AMD processor and a hardware secure enclave to encrypt data and model weights at the chip level for government agencies and regulated industries. The TPU 8i Max packages two TPU 8i chips together for long-context workloads such as drug discovery and coding, with double the compute, double the on-chip SRAM and double the memory bandwidth of a single 8i. Both are reconfigured versions of existing silicon rather than new designs, Google chip chief Amin Vahdat said, and both arrive next year. Google said in its most recent earnings report that every TPU it has available is already contracted to a customer, and the announcement named Apple and Meta among external TPU users. Analysts estimate TPUs cost roughly 30% less than comparable Nvidia GPUs, an estimate rather than a benchmark. Alphabet shares rose about 2% premarket and closed 1.7% higher at $289.50.",
+      "plain": "A TPU is Google's own AI chip, built as an alternative to buying Nvidia's. Confidential computing means the chip itself encrypts the data it is working on, so even the company running the machine cannot read it. That is the specific obstacle that keeps hospitals, banks and defence agencies from putting sensitive work in someone else's data centre. Long context means how much text or code a model can hold in mind at once. Google is going after the customers Nvidia's general-purpose chips serve least well.",
+      "why": "Every TPU Google sells to an outside customer is a GPU Nvidia does not sell, and starting with regulated industries puts the competition where switching is driven by compliance rules rather than price.",
+      "sources": [
+        {
+          "outlet": "Quartz",
+          "url": "https://qz.com/google-specialized-ai-chips-tpu-nvidia-110926"
+        },
+        {
+          "outlet": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/google-expands-eighth-generation-tpu-portfolio-with-two-new-tpu-systems/"
+        },
+        {
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/google-reportedly-adds-two-tpu-variants"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - Healthcare",
+      "headline": "Compass Pathways completes a psilocybin application for treatment-resistant depression",
+      "body": "Compass Pathways said Monday it had completed its new drug application to the FDA for COMP360, a synthetic psilocybin given under supervision, in treatment-resistant depression. The filing rests on two phase 3 trials and a phase 2b study, each of which met its primary endpoint, and the program holds FDA Breakthrough Therapy designation. The company is pursuing a National Priority Voucher, designed to compress review to one or two months rather than the usual ten to twelve, and guides to a launch in the first half of 2027 if approved. Three things still have to happen and none has a public date: the FDA must accept the application for review, then approve it, and the DEA must move psilocybin off Schedule I, where it currently sits as a drug with no accepted medical use. Outlets disagree on whether this is the first completed psilocybin application in the US; Drug Discovery Trends and Psychedelic Alpha report that the Usona Institute has also filed, for major depressive disorder rather than the treatment-resistant form.",
+      "plain": "Treatment-resistant depression means at least two standard antidepressants have already failed, which happens to roughly a third of patients. Psilocybin is the active compound in psychedelic mushrooms, given here as a measured dose with a therapist present. Submitting an application is not approval, and it is not even acceptance for review. The harder obstacle is legal rather than medical: psilocybin is formally classified as having no medical use at all, and that classification has to change before a doctor can write a prescription.",
+      "why": "An approval would force the DEA to reschedule a Schedule I drug on the strength of clinical evidence, setting the procedural template every other psychedelic in development would follow.",
+      "sources": [
+        {
+          "outlet": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/compass-pathways-completes-comp360-psilocybin-new-drug-application-to-u-s-fda-for-treatment-resistant-depression"
+        },
+        {
+          "outlet": "Psychiatric Times",
+          "url": "https://www.psychiatrictimes.com/view/nda-submission-complete-comp360-psilocybin-for-treatment-resistant-depression"
+        },
+        {
+          "outlet": "Drug Discovery Trends",
+          "url": "https://www.drugdiscoverytrends.com/psychedelic-pioneer-compass-files-for-fda-approval-as-rivals-close-in/"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Technology",
+      "headline": "Federal regulators reopen the Waymo school-bus case after the fix failed to hold",
+      "body": "The National Highway Traffic Safety Administration's Office of Defects Investigation opened recall query RQ26006 covering 2,895 Waymo vehicles, asking whether the software remedy the company issued under a December 2025 recall actually worked and what caused the incidents that happened afterward. That recall, reported at 3,067 vehicles, addressed robotaxis driving past school buses stopped with their signals out. Waymo says the update reached every affected vehicle by November 17, 2025; NHTSA says most of the incidents it is examining occurred after that date. Waymo said it has received no citations since March 2026 and will respond once it receives the query. A recall query reviews an existing remedy; it is not a new recall or a finding of violation. The NTSB is investigating separately, and its preliminary report traced at least one January incident to human error, a remote assistant who told a driverless vehicle that a stopped school bus was not signalling. A January NHTSA probe into a Santa Monica incident in which a Waymo struck a child near an elementary school remains open.",
+      "plain": "When a car company recalls vehicles it has to fix the defect, and the regulator can later check whether the fix held. A recall query is that check. For a robotaxi the fix is a software update rather than a part, which is what makes this case unusual: the update was installed everywhere, on time, and the behaviour reportedly continued. The NTSB's finding that a human operator misread one bus adds a second possibility, that the failure is in the remote staff rather than the code.",
+      "why": "This is the first real test of whether a software update counts as an adequate recall remedy under US vehicle safety law, and the answer sets how every autonomous fleet has to prove a fix worked.",
+      "sources": [
+        {
+          "outlet": "Engadget",
+          "url": "https://www.engadget.com/2310872/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/"
+        },
+        {
+          "outlet": "FOX 9",
+          "url": "https://www.fox9.com/news/feds-investigate-waymo-recall-after-continued-school-bus-violations"
+        },
+        {
+          "outlet": "GV Wire",
+          "url": "https://gvwire.com/2026/11/09/us-opens-probe-into-waymo-vehicles-over-school-bus-safety-violations/"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "A Republican forces the House to vote on impeaching Trump's defense secretary",
+      "body": "Rep. Thomas Massie (R-Ky.) introduced a 34-page resolution carrying eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor on Monday, November 9. Because the resolution is privileged, leadership must act within two legislative days, so a vote to impeach, table or refer has to occur by Wednesday. Three of the eight articles accuse Hegseth of violating congressional war powers in Iran; others cite the Pentagon's strikes on alleged drug boats in the Caribbean, which the resolution calls extrajudicial killings, a strike in Yemen, the capture of Venezuelan President Nicolas Maduro, and retaliation against Sen. Mark Kelly. Massie first filed the articles in September; Monday's reintroduction restarted the clock. Hegseth called them sham articles of impeachment. Trump said he would stand by Hegseth if the House impeaches him, and on November 5 said of Massie that he is a guy who is very destructive and is a very bad guy. Republicans hold the House 218-214, and Fox News reported that some Republicans privately warn the resolution could pass; Massie said he believes several Republicans would vote with Democrats. Most Republicans are still expected to oppose it.",
+      "plain": "A privileged resolution is one the House cannot quietly ignore: leadership has two working days to do something with it, even if that something is a vote to set it aside. Massie is a Republican, so his own party's leaders are the ones now forced to schedule this. With a four-seat majority, three Republican defections would be enough to pass it. No cabinet secretary has been impeached since 1876, and no member of Congress has previously tried it against a cabinet member from their own party.",
+      "why": "The vote puts every House Republican on the record about the Iran war powers question six days after losing both chambers, which is the first hard count of how much of the party still holds together on the war.",
+      "sources": [
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/thomas-massie-pete-hegseth-impeachment-house-defense-rcna597989"
+        },
+        {
+          "outlet": "Fox News",
+          "url": "https://www.foxnews.com/politics/hegseth-impeachment-vote-looms-house-republicans-privately-warn-could-pass"
+        }
+      ]
+    }
+  ]
+}
