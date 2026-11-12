@@ -1,221 +1,225 @@
 {
-  "date": "2026-11-11",
-  "dateLabel": "Wednesday, November 11, 2026",
-  "generated": "2026-11-11T13:17:12Z",
+  "date": "2026-11-12",
+  "dateLabel": "Thursday, November 12, 2026",
+  "generated": "2026-11-12T13:13:01Z",
   "tldr": [
-    "OpenAI's quarterly operating loss widened to $10.9 billion as revenue reached about $10 billion.",
-    "Russia and Ukraine agreed in principle to a large prisoner exchange; the Abu Dhabi talks produced no ceasefire.",
-    "October consumer prices rose 0.4%, pushing the odds of a December Fed rate increase to about 85%.",
-    "The FDA ordered a rare optic-nerve injury warning onto the label of every GLP-1 drug.",
-    "The US moved refueling tankers out of RAF Mildenhall over an undisclosed Iran threat.",
-    "ECB officials lined up behind a December rate rise to a 2.75% deposit rate.",
-    "Beam's base-edited sickle cell therapy met its pivotal endpoint and is headed to the FDA.",
-    "COP31 opened in Antalya without the leaders of the United States, China or India.",
-    "Japan's state-backed Rapidus is likely to miss its March 2028 deadline for 2-nanometer chips.",
-    "DHS told a federal court that flying back a man it deported to Central African Republic cost too much."
+    "Nvidia's board met to weigh removing CEO Jensen Huang; the stock fell about 8% and the company has no named successor.",
+    "US envoys Witkoff and Kushner arrived in Moscow to meet Putin after the first direct Russia-Ukraine talks in nine months.",
+    "Traders now put the odds of a Federal Reserve rate hike in December near 90%; the dollar hit a 19-month high.",
+    "A regional health commission is deciding this week whether the US loses measles elimination status after 5,182 cases.",
+    "Indonesia's vice president Gibran Rakabuming Raka resigned over challenges to his eligibility and academic record.",
+    "Rubio said no major combat operations are needed in Iran while the Strait of Hormuz stays closed and crude trades above $85.",
+    "CoreWeave's quarterly results beat estimates and the stock rose 24.7%, easing fears about debt behind the AI buildout.",
+    "The FDA approved Bayer's asundexian, the first Factor XIa inhibitor, to prevent second strokes.",
+    "A security firm found about 35,000 apps built with Grok Build were reachable without a login, some holding medical records.",
+    "A discharge petition forcing a House vote on a second Epstein files bill reached 218 signatures."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "OpenAI's quarterly loss widens to $10.9 billion as revenue reaches $10 billion",
-      "body": "OpenAI shared figures with investors on November 10 showing third-quarter revenue of about $10 billion, up roughly 50% from the previous quarter, while its adjusted operating loss widened to $10.9 billion from $10.1 billion, according to financial documents reviewed by The Wall Street Journal. The adjusted figure excludes $2.6 billion of stock-based compensation, so the full gap is wider, and loss as a share of revenue improved to 109% from 150%. CFO Sarah Friar has placed the annual revenue run rate at roughly $50 billion.",
-      "plain": "OpenAI is the company behind ChatGPT. An operating loss is the gap between what a business earns and what it costs to run, so this one spent about two dollars for every dollar it took in. Training and running AI models requires enormous computing power, and that bill arrives whether customers show up or not. The direction matters more than the number: the gap is growing in dollars while shrinking as a share of revenue.",
-      "why": "OpenAI now loses more in a quarter than most public companies earn in a year, which makes continued access to capital rather than model quality the binding constraint on what it can build next.",
+      "headline": "Nvidia's board met to weigh removing Jensen Huang",
+      "body": "Nvidia's board met late Wednesday to consider removing co-founder and chief executive Jensen Huang, according to Wall Street Journal and Financial Times reports cited by CNBC and Al Jazeera. The stock fell about 8% in after-hours trading on November 11 to roughly $160, against a market value near $4.2 trillion. On November 8 the board said it had opened an independent investigation and had “confidence in Jensen and his leadership team.” Nvidia has issued no statement on his future and has never named a successor. No decision had been announced by Thursday morning.",
+      "plain": "Nvidia makes the chips that almost every large AI system is trained and run on, which is why it is one of the most valuable companies on earth. Huang co-founded it in 1993 and has run it ever since; he has said publicly that he does not believe in succession planning, so there is no deputy ready to step in. The board is reportedly weighing his removal after reports of two extramarital relationships, one with a woman US officials have accused of spying for China. Nothing is settled: this is reporting from unnamed sources, not an announcement.",
+      "why": "The risk to Nvidia is less the scandal than the vacancy behind it, since an abrupt handover at the company supplying most of the world's AI compute would land in a market already nervous about AI debt.",
       "sources": [
         {
-          "outlet": "Yahoo Finance",
-          "url": "https://ca.finance.yahoo.com/news/openai-q3-revenue-jumped-50-to-10-billion-215223357.html"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html"
         },
         {
-          "outlet": "TipRanks",
-          "url": "https://www.tipranks.com/news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion"
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "Russia and Ukraine agree to a prisoner exchange as US-mediated talks end without a ceasefire",
-      "body": "Two days of US-mediated talks in Abu Dhabi closed on Wednesday with an agreement in principle to a large prisoner-of-war exchange and no movement on a ceasefire or territory, ending nine months without direct Russia-Ukraine negotiations. US envoy Jared Kushner called it the biggest swap of the war but said final numbers would be set Thursday; Russian delegation head Vladimir Medinsky and Ukraine's Rustem Umerov both confirmed the plan. Kushner and Steve Witkoff fly to Moscow on Thursday to brief Vladimir Putin, then to Ireland to meet Volodymyr Zelensky.",
-      "plain": "A prisoner-of-war exchange is a trade of captured soldiers, usually in matched numbers. It is the easiest thing two warring governments can agree to, because neither gives up anything it is fighting for. That is precisely why it happened and a ceasefire did not: the hard questions, who stops shooting first and who keeps which land, went untouched. No final count exists yet, so \"biggest of the war\" is a claim rather than a confirmed figure.",
-      "why": "Nine months of silence ended with the one agreement that required no concession from either side, which is a measure of how far apart the two governments remain on everything that would actually stop the fighting.",
+      "headline": "US envoys arrived in Moscow after the first direct Russia-Ukraine talks in nine months",
+      "body": "Steve Witkoff and Jared Kushner arrived in Moscow on November 12 to meet Vladimir Putin, after two days of US-mediated trilateral talks in Abu Dhabi produced no breakthrough. Those were the first direct Russia-Ukraine negotiations in nine months. Territory remains the main obstacle, with Moscow demanding Ukrainian forces withdraw from eastern regions Kyiv still holds. Volodymyr Zelenskyy said the sides were discussing a prisoner exchange of 1,000 to 1,500 each and is due to meet the envoys in Dublin. Russia fired ballistic missiles and dozens of drones at Ukraine overnight, killing one person, Ukrainian officials said.",
+      "plain": "Russia invaded Ukraine in February 2022, and since then the two governments have mostly communicated through intermediaries rather than face to face. Abu Dhabi, in the United Arab Emirates, was used because both sides accept it as neutral ground. The hard part is land: Russia holds much of four eastern Ukrainian provinces but not all of them, and wants the rest handed over rather than fought for. Witkoff and Kushner are Trump's personal envoys, not State Department diplomats. The missiles kept flying while the talks ran, which is the usual pattern.",
+      "why": "Going to Putin directly rather than continuing the three-way format signals Washington expects terms to be settled in Moscow first and presented to Kyiv afterwards.",
       "sources": [
         {
-          "outlet": "The Moscow Times",
-          "url": "https://www.themoscowtimes.com/2026/11/11/russia-and-ukraine-agreed-to-prisoner-exchange-after-latest-peace-talks-kremlin-adviser-says-a94227"
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
         },
         {
-          "outlet": "Interfax-Ukraine",
-          "url": "https://en.interfax.com.ua/news/general/1234775.html"
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu"
         },
         {
-          "outlet": "The Globe and Mail",
-          "url": "https://www.theglobeandmail.com/world/article-russia-ukraine-prisoners-swap-abu-dhabi-talks/"
+          "outlet": "Axios",
+          "url": "https://axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "October inflation came in hot, pushing the Fed toward a December rate increase",
-      "body": "Consumer prices rose 0.4% in October against the 0.3% economists expected, and core prices excluding food and energy rose 0.3% for a third consecutive month, the Labor Department reported Tuesday, with shelter accounting for nearly a third of the increase. No official year-over-year rate was published, because the 2025 government shutdown left a hole in the data series; economists estimate roughly 4%, up from 3.7% in September. Market pricing put the odds of a quarter-point increase at the December 9 meeting near 85%, from the current 3.75%-4.00% range.",
-      "plain": "The Federal Reserve raises interest rates to slow inflation: borrowing gets more expensive, so spending cools. Core inflation strips out food and fuel because those swing wildly month to month, which leaves the underlying trend visible. Three straight months at 0.3% is the part that worries the Fed, because it suggests the pace has settled in rather than spiked once. And there is no official annual inflation figure at all this month, because last year's shutdown broke the data series.",
-      "why": "The Fed is preparing to tighten using an inflation series that is missing its own headline annual number, so policy is being set with less information than usual at the moment the direction is changing.",
+      "headline": "Traders now expect the Federal Reserve to raise rates in December",
+      "body": "Futures tied to the federal funds rate put the odds of a quarter-point increase at the Fed's December 8-9 meeting at roughly 88% to 92%, according to CME FedWatch readings reported November 10 to 12. The shift followed October CPI data released November 10 showing headline prices up 0.4% on the month against a 0.3% forecast, and core up 0.3% against 0.2%. The dollar index climbed above 103, a 19-month high, the 10-year Treasury yield returned to about 5%, and gold slipped below $4,000. Governor Chris Waller said he would consider a half-point move if core readings stay at 0.3% or higher.",
+      "plain": "The Fed sets a short-term interest rate that feeds through to mortgages, credit cards and business loans. It cuts the rate to support a weak economy and raises it to slow price increases. It already raised rates in September, the first increase since 2023, leaving the target range at 3.75% to 4.00%. Investors had treated that as a one-off until October's inflation figures landed. The stronger dollar is the knock-on effect, because higher US rates pull money in from abroad.",
+      "why": "A second hike would confirm the Fed is now fighting inflation rather than cushioning the labor market, and it raises the cost of the debt financing the AI buildout.",
       "sources": [
         {
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"
+          "outlet": "Investing.com",
+          "url": "https://www.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585"
         },
         {
-          "outlet": "HousingWire",
-          "url": "https://www.housingwire.com/articles/october-cpi-fed-hike/"
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed"
         },
         {
-          "outlet": "Morningstar",
-          "url": "https://www.morningstar.com/economy/hot-october-cpi-seen-tilting-fed-more-rate-hikes-2027"
+          "outlet": "FXStreet",
+          "url": "https://www.fxstreet.com/news/forex-today-us-dollar-index-climbs-to-fresh-19-month-high-gold-drops-below-4-000-202611120724"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "FDA orders an eye-damage warning onto every GLP-1 diabetes and weight-loss drug",
-      "body": "The FDA said on November 9 that it is requiring every maker of a GLP-1 receptor agonist to add a warning about non-arteritic anterior ischemic optic neuropathy, a rare optic-nerve injury that can cause sudden and permanent vision loss, to the Warnings and Precautions section of the label. The requirement covers semaglutide (Ozempic, Wegovy), tirzepatide (Mounjaro, Zepbound), the newly approved oral orforglipron and older drugs including exenatide and liraglutide. The agency's pooled analysis found 6.4 NAION cases per 100,000 person-years on GLP-1 drugs against 3.8 per 100,000 on placebo or comparators, a difference that was statistically significant against DPP-4 inhibitors (hazard ratio 1.43) but not against SGLT-2 inhibitors.",
-      "plain": "GLP-1 drugs are the injections and pills now taken by millions for diabetes and weight loss. NAION is effectively a stroke in the optic nerve, the cable from eye to brain: blood flow stops and the lost vision does not return. The FDA's own numbers show a small risk, about six cases per 100,000 people a year against four without. But diabetes, obesity and sleep apnea are themselves NAION risk factors, so separating drug from disease is hard. The FDA says \"potential increased risk,\" not proof of cause.",
-      "why": "A class-wide label change on drugs taken by millions makes this warning a standard part of the prescribing conversation, which is how a rare risk starts changing real prescribing behavior.",
+      "headline": "A regional health commission is deciding this week whether the US loses measles elimination status",
+      "body": "The Pan American Health Organization convened a three-day closed-door review this week with the United States, Canada and Mexico to evaluate each country's measles elimination status; no classification had been announced for the US as of November 10. CDC data showed 5,182 confirmed cases in 2026 as of November 5, against 2,289 in all of 2025, across 43 separate outbreaks, with 96% of cases outbreak-linked. The CDC recognizes four measles deaths this year; state health departments have reported eight, across Pennsylvania, New York and Wisconsin. CDC director Erica Schwartz told Reuters the agency's response would not change if the status is lost.",
+      "plain": "A country is called measles-free when the virus stops spreading continuously inside its borders for more than twelve months. It can still arrive from abroad, but it dies out instead of taking hold. The US earned that label in 2000, and Canada lost its own in November 2025. Measles is among the most contagious diseases known and spreads wherever vaccination coverage falls below roughly 95%. Losing the status changes nothing doctors do; it is a scorecard entry. The number worth watching is the gap between the federal count of four deaths and the eight that states report.",
+      "why": "The label is symbolic, but the vaccination gap that produced 5,182 cases is not, and it sets how large next year's outbreaks get.",
       "sources": [
         {
-          "outlet": "NBC News",
-          "url": "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309"
+          "outlet": "TheGrio",
+          "url": "https://thegrio.com/2026/11/11/cdc-measles-response-us-elimination-status/"
         },
         {
-          "outlet": "Ophthalmology Times",
-          "url": "https://www.ophthalmologytimes.com/view/fda-requires-naion-warning-across-the-glp-1-receptor-agonist-class"
+          "outlet": "CIDRAP",
+          "url": "https://www.cidrap.umn.edu/measles/us-highly-likely-lose-measles-elimination-status-fall-analysis-warns"
         },
         {
-          "outlet": "Pharmacy Times",
-          "url": "https://www.pharmacytimes.com/view/fda-requires-class-wide-glp-1-ra-labeling-changes-for-potential-naion-risk"
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/health/2026/11/07/cdc-has-recorded-more-than-5000-measles-cases-this-year/"
         }
       ]
     },
     {
       "slot": 5,
       "category": "Wildcard - International Affairs",
-      "headline": "US pulls refueling tankers out of a British air base over an Iran threat",
-      "body": "The US Air Force moved KC-135 Stratotanker refueling aircraft out of RAF Mildenhall in England on Monday, with reporting putting the number at nine or ten and flight tracking showing arrivals in Germany, Spain and Scotland. The Wall Street Journal first tied the move to an Iranian threat, which has not been described publicly, and both Mildenhall and nearby RAF Lakenheath were raised to force protection condition Charlie, the second-highest US defensive posture. The military said that \"due to operations security, we will not provide further information on movement of assets,\" calling such relocations routine; Britain said its bases remain safe.",
-      "plain": "Air-refueling tankers are flying fuel stations; without them, fighters and bombers cannot reach distant targets and return. They are large, slow and parked in the open, among the most valuable and easiest things on a base to hit. Moving them, and raising the threat level at two nearby bases, says the US judged the risk to parked aircraft higher than the cost of scattering them. The count comes from flight trackers, not any official statement, and the threat itself is undisclosed.",
-      "why": "Dispersing tankers is what a military does when it expects to be shot at rather than when it expects to strike, which makes this a read on how exposed US commanders now think their own bases are.",
+      "headline": "Indonesia's vice president resigned over challenges to his eligibility and academic record",
+      "body": "Gibran Rakabuming Raka resigned as Indonesia's vice president on November 12 amid court rulings and challenges over his eligibility for office and his academic credentials. The resignation halted an impeachment effort backed by at least 120 lawmakers. Under the constitution no new election follows: President Prabowo Subianto must nominate two candidates within 14 days, and parliament must choose within 60. Gibran is the son of former president Joko Widodo, whose alliance with Prabowo the resignation may end. Accounts differ on whether the resignation went to Prabowo on Wednesday or to the People's Consultative Assembly on Thursday.",
+      "plain": "Indonesia is the world's fourth most populous country, with about 280 million people. Gibran became vice president in 2024 at the age of 37, after a court decision altered the minimum-age rule in a way that happened to make him eligible, while his father was still president. That shortcut is what came back to undo him, alongside disputes over his academic record. The constitution keeps the government running without a snap election, so the question is who Prabowo names next. Gibran was the link holding his alliance with Jokowi together.",
+      "why": "Removing Jokowi's son from the ticket frees Prabowo from the arrangement that won him the presidency, and parliament, not voters, picks the successor.",
       "sources": [
         {
-          "outlet": "Stars and Stripes",
-          "url": "https://www.stripes.com/branches/air_force/2026-11-10/us-relocates-aircraft-mildenhall-iran-threat-23420098.html"
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"
         },
         {
-          "outlet": "The National",
-          "url": "https://www.thenationalnews.com/news/europe/2026/11/10/us-pulls-aircraft-from-second-uk-airbase-over-iran-threat/"
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/business/2026/11/11/indonesia-vice-president-raka-impeachment-process/e9ceb19c-ddcd-11f1-912c-4fbb80d73f7f_story.html"
+        },
+        {
+          "outlet": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - Economics",
-      "headline": "ECB officials line up behind a December rate increase",
-      "body": "ECB chief economist Philip Lane told Bloomberg Television it \"would be prudent indeed to hike\" in December if incoming data match what the bank already sees, and Bundesbank President Joachim Nagel said Tuesday there is a \"strong case\" for an increase, with Latvia's Martins Kazaks backing \"some further tightening.\" Markets expect a quarter-point rise to a 2.75% deposit rate at the December 17 meeting, and Reuters has reported that policymakers expect to pause after it because higher bond yields are already restraining growth and inflation.",
-      "plain": "The European Central Bank sets interest rates for the twenty countries that use the euro. The deposit rate is what banks earn for parking money there overnight, and raising it pulls borrowing costs up across the economy. The signal is the chorus rather than any single remark: three senior officials said the same thing within two days, which is how the ECB telegraphs a decision before taking it. The planned pause afterward matters too, because rising bond yields are already tightening.",
-      "why": "Europe and the United States are now set to raise rates in the same month, so the two largest advanced economies would be tightening together rather than one offsetting the other through the exchange rate.",
+      "category": "Wildcard - International Affairs",
+      "headline": "Rubio said no major combat operations are needed in Iran while the Strait of Hormuz stays closed",
+      "body": "Secretary of State Marco Rubio said on November 10 there is “no need for major combat operations” in Iran because economic pressure is working, and called some Iranian conditions “outrageous and ridiculous.” Tehran's stated terms include lifting the US naval blockade and oil sanctions, releasing frozen funds and ending the fighting. Iran's security chief said the Strait of Hormuz will not reopen until those seven conditions are met and called reports of direct talks “a pure lie,” while Qatari mediators have passed Iran a draft deal. WTI crude traded above $85.",
+      "plain": "The Strait of Hormuz is a narrow sea passage at the mouth of the Persian Gulf that about a fifth of the world's oil normally travels through. With it closed and tankers under attack, oil costs more everywhere, which is part of why US inflation has reaccelerated. The two governments are talking through Qatar rather than to each other, and Iran publicly denies the talks are happening at all. The reporting conflicts: Rubio says no deal is close, while other outlets describe the sides moving closer. Treat the diplomacy as real but unresolved.",
+      "why": "The closed strait now feeds directly into US inflation data, which ties the war's end date to the Fed's next move.",
       "sources": [
         {
-          "outlet": "Global Banking & Finance",
-          "url": "https://www.globalbankingandfinance.com/ecb-hike-dec-chief-economist/"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html"
         },
         {
-          "outlet": "Yahoo Finance",
-          "url": "https://sg.finance.yahoo.com/news/ecb-december-rate-hike-expectations-rise-172348901.html"
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+        },
+        {
+          "outlet": "Fox News",
+          "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict"
         }
       ]
     },
     {
       "slot": 7,
-      "category": "Wildcard - Healthcare",
-      "headline": "Beam's gene-edited sickle cell therapy meets its goal in a pivotal trial",
-      "body": "Beam Therapeutics said Tuesday that risto-cel met the primary endpoint of its pivotal BEACON Phase 1/2 trial, freedom from severe vaso-occlusive pain crises for at least 12 consecutive months, at a prespecified interim analysis of 31 patients who completed 12-month follow-up out of 49 treated as of an October 20 cutoff. All primary safety endpoints were met, but Beam disclosed neither how many patients achieved the endpoint nor any p-value. It expects to file a Biologics License Application as early as the end of 2026, which would make risto-cel the first base-editing therapy submitted for FDA approval.",
-      "plain": "Sickle cell disease warps red blood cells into a crescent shape that jams in small blood vessels, causing bouts of severe pain called vaso-occlusive crises. Base editing rewrites a single letter of DNA in a patient's own blood stem cells instead of cutting the strand, as older CRISPR approaches do. The treatment is harsh: chemotherapy clears the existing bone marrow before the edited cells go back in, so safety matters as much as efficacy. Beam withheld the actual response numbers.",
-      "why": "A single-letter DNA edit reaching an FDA filing turns base editing from a laboratory technique into a regulated medical product, and that review will set the evidence bar for everything that follows it.",
+      "category": "Wildcard - AI Industry",
+      "headline": "CoreWeave's results eased worries about the debt behind the AI buildout",
+      "body": "CoreWeave reported third-quarter revenue of $3.66 billion on November 11, above estimates of about $3.55 billion and up 168% from a year earlier, with backlog of $132.5 billion and full-year guidance raised to $13.0-13.3 billion. The stock closed up 24.7% at $60.77, its largest one-day gain since June 2025, after falling 40.6% over the previous month as the cost of insuring its debt against default rose. The chief financial officer said the company will rely less on unsecured bonds and more on delayed-draw term loans backed by customer contracts. The Nasdaq rose about 1.6%.",
+      "plain": "CoreWeave rents racks of AI chips to companies that do not want to build their own data centers. It buys those chips largely with borrowed money, repaid out of long-term customer contracts, which makes it the clearest test of whether the AI buildout is being financed soundly. Investors had been betting against it, and the price of insuring its debt had climbed. The reassurance was not the revenue number but the financing plan, because loans tied to signed contracts are safer than bonds sold on expectations.",
+      "why": "The market is pricing AI infrastructure on credit quality rather than growth, so how these companies borrow now moves their shares more than how much they sell.",
       "sources": [
         {
-          "outlet": "Beam Therapeutics",
-          "url": "https://investors.beamtx.com/news-releases/news-release-details/beam-therapeutics-announces-positive-topline-pivotal-data-beacon"
+          "outlet": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-400-points-after-coreweave-earnings-stock-market-today"
         },
         {
-          "outlet": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/beam-sickle-cell-base-editing-risto-cel-results/874242/"
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-surges-20-q3-earnings-185933993.html"
         }
       ]
     },
     {
       "slot": 8,
-      "category": "Wildcard - International Affairs",
-      "headline": "COP31 opens in Turkey with the leaders of the three biggest emitters absent",
-      "body": "Around 40 heads of state and government, among them Brazil's Luiz Inacio Lula da Silva, Turkey's Recep Tayyip Erdogan and Australia's Anthony Albanese, addressed the UN climate summit in Antalya on Wednesday, while the leaders of the United States, China and India did not attend. UN Secretary-General Antonio Guterres told delegates the climate crisis is \"outrunning us.\" The talks run to November 20 under an unusual co-presidency agreed at COP30, with Turkish environment minister Murat Kurum as president and Australia's Chris Bowen running negotiations toward a plan to raise electricity's share of global energy use and a revival of stalled language on moving away from fossil fuels.",
-      "plain": "COP is the annual UN meeting where countries negotiate climate commitments, and because decisions require consensus, any one country can block the text. Raising electricity's share of energy use is the technical core of cutting emissions, because electricity can come from sources that burn nothing while a furnace or a car engine cannot. The absence of the US, China and India leaders is the story: they account for the largest share of global emissions, and a consensus process without them binds nobody.",
-      "why": "A summit whose stated goal is reviving fossil-fuel transition language is attempting it without the leaders of the countries that would have to do most of the transitioning.",
+      "category": "Wildcard - Healthcare",
+      "headline": "The FDA approved the first drug in a new class of blood thinners",
+      "body": "The Food and Drug Administration approved Bayer's Sunharbo (asundexian) 50 mg tablets on November 9, the first Factor XIa inhibitor cleared in the United States. It is indicated to reduce the risk of a second stroke in adults after a recent ischemic stroke or high-risk transient ischemic attack. Over a median 14.2 months of treatment, the drug cut the risk of ischemic stroke by 26% compared with placebo. It is not approved for atrial fibrillation, where an earlier trial of the same drug failed.",
+      "plain": "Blood thinners stop the clots that cause strokes, but every existing one also makes dangerous bleeding more likely, so doctors are always trading one risk against the other. Factor XIa is a step in the clotting process that appears to matter more for harmful clots than for the ordinary clotting that stops a cut bleeding, so blocking it is meant to break that trade-off. The narrow label is the catch: the same drug failed in atrial fibrillation, a much larger market, so this approval covers only stroke survivors.",
+      "why": "A clotting target that separates stroke prevention from bleeding risk would reopen anticoagulation for the elderly patients doctors currently leave untreated.",
       "sources": [
         {
-          "outlet": "UN News",
-          "url": "https://news.un.org/en/story/2026/11/1168763"
+          "outlet": "Bayer (via Dealroom)",
+          "url": "https://app.dealroom.co/news/note/us-fda-approves-bayer-s-sunharbo-asundexian-as-first-factor-xia-inhibitor-for-stroke-prevention"
         },
         {
-          "outlet": "Climate Home News",
-          "url": "https://climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in"
-        },
-        {
-          "outlet": "The Globe and Mail",
-          "url": "https://www.theglobeandmail.com/world/article-cop31-climate-summit-guterres/"
+          "outlet": "WebMD",
+          "url": "https://www.webmd.com/drugs/updates/sunharbo-asundexian-lower-risk-second-stroke"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "Japan's state-backed chipmaker Rapidus is likely to miss its 2-nanometer deadline",
-      "body": "Rapidus has not yet produced a working SRAM cell, a milestone it needed to clear by summer 2026 to begin 2-nanometer mass production by March 2028, Bloomberg reported Tuesday citing people familiar with the matter. Jiji Press reported the company is weighing a one-year slip to fiscal 2028, which runs from April 2028 to March 2029, because of difficulties in technology development, while Rapidus said it will continue to do everything possible to start mass production in the latter half of fiscal 2027. Japan's government has committed more than 3 trillion yen in subsidies and equity through fiscal 2027.",
-      "plain": "A label like \"2nm\" is a marketing name for a generation of chipmaking, not a physical measurement, and only TSMC, Samsung and Intel can do it today. Rapidus is Japan's state-funded attempt to join them from a standing start, using technology licensed from IBM. An SRAM cell is the fast memory block built into a chip and the standard first test of whether a process works at all. Failing to produce a working one puts the problem at the foundation, not final assembly.",
-      "why": "Japan has put more than 3 trillion yen behind the premise that leading-edge chipmaking can be rebuilt domestically within a decade, and the first hard test of that premise is slipping.",
+      "headline": "A security firm found about 35,000 apps built with Grok Build open to anyone",
+      "body": "The security firm Claroc reported that of 37,571 live apps built with Grok Build it tested, 35,578, about 94.7%, opened without any login, and that an estimated 650 to 800 held private or sensitive data including patient lab values, medical exam records, employee details and plaintext passwords. Claroc said 30 organizations, among them six Fortune 500 companies, had internal data sitting in open apps, and that it located the links through passive DNS records. Grok said on X that the report was incorrect because it describes a different feature. Coverage ran November 11 and 12.",
+      "plain": "Grok Build lets someone describe an app in plain language and have working software generated for them. What Claroc describes is not a break-in but a default setting: the generated apps were published at web addresses that anyone could open and that were easy to guess, so no password was ever required. The researchers found them by reading public domain-name records, which work like the internet's phone book. The company disputes the finding, saying the researchers examined a different product, and only one firm has published this, so treat the numbers as credible but unverified.",
+      "why": "Tools that let non-engineers ship software move the security default from a deliberate decision to whatever the vendor happened to set.",
       "sources": [
         {
-          "outlet": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/japan-s-rapidus-is-said-likely-to-miss-mass-production-deadline"
+          "outlet": "The Decoder",
+          "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/"
         },
         {
-          "outlet": "Digitimes",
-          "url": "https://www.digitimes.com/news/a20261111VL204/rapidus-2nm-production-manufacturing-development.html"
+          "outlet": "IBTimes UK",
+          "url": "https://www.ibtimes.co.uk/grok-build-apps-exposed-sensitive-data-without-sign-1831677"
         },
         {
-          "outlet": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/world/2026/11/11/japans-rapidus-weighs-one-year-delay-in-2-nanometer-chip"
+          "outlet": "Infobae",
+          "url": "https://www.infobae.com/america/agencias/2026/11/12/un-fallo-en-los-enlaces-de-aplicaciones-generados-por-grok-build-deja-expuestas-mas-de-35000-apps-con-datos-privados/"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "Ordered to fly back a man it deported to Central African Republic, DHS argued the flight cost too much",
-      "body": "Judge Jeffrey Bryan of the US District Court in Minnesota has denied the Department of Homeland Security's request to pause his order returning Kenis Lopez Gonzalez, a 42-year-old Nicaraguan asylum seeker deported to Central African Republic, a country he has no ties to; among the reasons DHS gave was that flying him back during its appeal would cost too much money. Bryan wrote that the cost \"comprises an insignificant fraction (possibly as small as one-millionth) of the billions that DHS is allocated each year,\" and that the danger Lopez Gonzalez faces outweighs those travel expenses. In his October 30 order Bryan found the government had likely violated federal regulations and constitutional due process in detaining and deporting him; DHS has accused Bryan of \"openly defying the Supreme Court\" and is appealing to the Eighth Circuit.",
-      "plain": "An asylum seeker is someone asking for protection because they say they face danger at home. Lopez Gonzalez was living in Minnesota, was detained in January and was deported not to Nicaragua but to Central African Republic, where he has no family, language or legal status. A judge found that probably unlawful and ordered him brought back; the government asked to wait, and one reason it gave in writing was the price of the flight. \"Likely\" violated is the standard at this stage.",
-      "why": "The cost objection came from the government's own filing, which puts the expense of returning one wrongly deported man on the record as a reason the administration offered a federal court for not doing it.",
+      "headline": "A petition forcing a House vote on a second Epstein files bill reached 218 signatures",
+      "body": "A discharge petition filed by Representative Thomas Massie for the Epstein Files Transparency Act II reached the 218 signatures needed to force a floor vote on November 11, according to the House Clerk. Every House Democrat signed, along with four Republicans: Massie, Nancy Mace, Ralph Norman and Brian Fitzpatrick. Representative John Garamendi supplied the 218th. Republican leadership had argued the bill was unnecessary because the House Oversight Committee is already investigating. Under House rules the motion must sit for seven legislative days before a signer can call it up. A Reuters/Ipsos poll released November 9 put Trump's approval at 32%, its third consecutive reading at that level.",
+      "plain": "A discharge petition is the one procedure that lets rank-and-file members force a vote when their leadership refuses to schedule one. It needs 218 signatures, a majority of the House, which almost never happens, because signing means openly going around your own party's leaders. This is the second time it has worked on Epstein records: the first forced the original transparency act in 2025, which Trump then signed. Four Republicans were enough this time because every Democrat signed, so leadership's objection no longer controls whether the vote happens.",
+      "why": "The vote is now set by House rule rather than by leadership, which removes the usual lever the White House uses to keep a bill off the floor.",
       "sources": [
         {
-          "outlet": "Minnesota Reformer",
-          "url": "https://minnesotareformer.com/2026/10/30/kenis-lopez-gonzalez-to-be-freed-returned-to-u-s-from-central-african-republic/"
+          "outlet": "Roll Call",
+          "url": "https://rollcall.com/2026/11/11/another-bill-to-release-epstein-files-headed-to-house-floor/"
         },
         {
-          "outlet": "Fox 9",
-          "url": "https://www.fox9.com/news/feds-fight-judges-order-return-minnesota-immigrant-deported-central-african-republic"
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/US/discharge-petition-2nd-epstein-files-bill-secures-218/story?id=138057235"
         },
         {
-          "outlet": "UPI via Yahoo News",
-          "url": "https://www.yahoo.com/news/us/articles/judge-rejects-trump-administrations-bid-180622850.html"
+          "outlet": "Newsweek",
+          "url": "https://newsweek.com/full-list-of-republicans-joining-thomas-massie-to-force-epstein-files-vote-12702268"
         }
       ]
     }
