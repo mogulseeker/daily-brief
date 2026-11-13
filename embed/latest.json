@@ -1,226 +1,139 @@
 {
-  "date": "2026-11-12",
-  "dateLabel": "Thursday, November 12, 2026",
-  "generated": "2026-11-12T13:13:01Z",
+  "date": "2026-11-13",
+  "dateLabel": "Friday, November 13, 2026",
+  "generated": "2026-11-13T13:16:00Z",
   "tldr": [
-    "Nvidia's board met to weigh removing CEO Jensen Huang; the stock fell about 8% and the company has no named successor.",
-    "US envoys Witkoff and Kushner arrived in Moscow to meet Putin after the first direct Russia-Ukraine talks in nine months.",
-    "Traders now put the odds of a Federal Reserve rate hike in December near 90%; the dollar hit a 19-month high.",
-    "A regional health commission is deciding this week whether the US loses measles elimination status after 5,182 cases.",
-    "Indonesia's vice president Gibran Rakabuming Raka resigned over challenges to his eligibility and academic record.",
-    "Rubio said no major combat operations are needed in Iran while the Strait of Hormuz stays closed and crude trades above $85.",
-    "CoreWeave's quarterly results beat estimates and the stock rose 24.7%, easing fears about debt behind the AI buildout.",
-    "The FDA approved Bayer's asundexian, the first Factor XIa inhibitor, to prevent second strokes.",
-    "A security firm found about 35,000 apps built with Grok Build were reachable without a login, some holding medical records.",
-    "A discharge petition forcing a House vote on a second Epstein files bill reached 218 signatures."
+    "Nvidia's Jensen Huang resigns as CEO; CFO Colette Kress takes over on an interim basis as the stock sinks.",
+    "US envoys meet Putin in Moscow, then Zelenskyy in Dublin, as the Ukraine talks move to expand to Europe.",
+    "The 10-year Treasury yield tops 5% as a hot inflation reading pushes markets to price Fed rate hikes, not cuts.",
+    "FDA shelves its fast-track drug-review voucher program, a pillar of the Trump drug-pricing deals.",
+    "Wildcard (International): Iran keeps the Strait of Hormuz shut as Trump says the US no longer needs a deal.",
+    "Wildcard (International): An Israeli strike on Gaza's Nasser Hospital kills a surgeon and at least five others.",
+    "Wildcard (AI): A blacklisted Chinese military university bought Nvidia H200 chips despite US export controls.",
+    "Wildcard (Healthcare): The US is poised to lose its measles-elimination status as cases hit a 35-year high.",
+    "Tech: A global Microsoft 365 outage knocks out Outlook, Teams and Copilot for a second day.",
+    "Trump News: Gasoline averages $3.98 a gallon, now above the Biden-era average, after a repeated sub-$2 pledge."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Nvidia's board met to weigh removing Jensen Huang",
-      "body": "Nvidia's board met late Wednesday to consider removing co-founder and chief executive Jensen Huang, according to Wall Street Journal and Financial Times reports cited by CNBC and Al Jazeera. The stock fell about 8% in after-hours trading on November 11 to roughly $160, against a market value near $4.2 trillion. On November 8 the board said it had opened an independent investigation and had “confidence in Jensen and his leadership team.” Nvidia has issued no statement on his future and has never named a successor. No decision had been announced by Thursday morning.",
-      "plain": "Nvidia makes the chips that almost every large AI system is trained and run on, which is why it is one of the most valuable companies on earth. Huang co-founded it in 1993 and has run it ever since; he has said publicly that he does not believe in succession planning, so there is no deputy ready to step in. The board is reportedly weighing his removal after reports of two extramarital relationships, one with a woman US officials have accused of spying for China. Nothing is settled: this is reporting from unnamed sources, not an announcement.",
-      "why": "The risk to Nvidia is less the scandal than the vacancy behind it, since an abrupt handover at the company supplying most of the world's AI compute would land in a market already nervous about AI debt.",
+      "headline": "Nvidia's Jensen Huang resigns as CEO; CFO Colette Kress steps in on an interim basis",
+      "body": "Nvidia's board announced on Wednesday, November 12, that co-founder Jensen Huang resigned as president, CEO and board member, effective immediately, and named chief financial officer Colette Kress as interim CEO while a search begins. The exit follows a board probe, opened November 8, into reporting by The New York Times that Huang was the target of a Chinese intelligence operation; Huang had told staff in a Sunday email that he had an affair with a woman, Alice Huang (no relation), whose company Megaspeed was under federal investigation for allegedly diverting restricted US chips to China. Nvidia shares fell more than 13% at Thursday's open before paring losses to close down about 4.3%, and the stock is off roughly 20% in November.",
+      "plain": "Nvidia makes the specialized chips that nearly every big AI system is trained on, which has made it the most valuable company in the world and Huang its public face. He is stepping down not over the business but over his personal conduct: US officials believe a woman he had an affair with was a Chinese spy, and her firm is accused of smuggling Nvidia chips into China past American export bans. The company says it has no reason to think its secrets were compromised, but the board still opened an investigation, and the CEO is the one who had been lobbying Washington to loosen those very chip rules. Kress, the finance chief, is holding the wheel for now.",
+      "why": "A leadership vacuum at the company underpinning the entire AI build-out injects real uncertainty into the one stock that has carried the market, right as its China policy is under a spy cloud.",
       "sources": [
-        {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html"
-        },
-        {
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
-        }
+        {"outlet": "TechCrunch", "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"},
+        {"outlet": "CNN", "url": "https://www.cnn.com/2026/11/12/tech/nvidia-jensen-huang-chinese-spy"},
+        {"outlet": "CNBC", "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"}
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "US envoys arrived in Moscow after the first direct Russia-Ukraine talks in nine months",
-      "body": "Steve Witkoff and Jared Kushner arrived in Moscow on November 12 to meet Vladimir Putin, after two days of US-mediated trilateral talks in Abu Dhabi produced no breakthrough. Those were the first direct Russia-Ukraine negotiations in nine months. Territory remains the main obstacle, with Moscow demanding Ukrainian forces withdraw from eastern regions Kyiv still holds. Volodymyr Zelenskyy said the sides were discussing a prisoner exchange of 1,000 to 1,500 each and is due to meet the envoys in Dublin. Russia fired ballistic missiles and dozens of drones at Ukraine overnight, killing one person, Ukrainian officials said.",
-      "plain": "Russia invaded Ukraine in February 2022, and since then the two governments have mostly communicated through intermediaries rather than face to face. Abu Dhabi, in the United Arab Emirates, was used because both sides accept it as neutral ground. The hard part is land: Russia holds much of four eastern Ukrainian provinces but not all of them, and wants the rest handed over rather than fought for. Witkoff and Kushner are Trump's personal envoys, not State Department diplomats. The missiles kept flying while the talks ran, which is the usual pattern.",
-      "why": "Going to Putin directly rather than continuing the three-way format signals Washington expects terms to be settled in Moscow first and presented to Kyiv afterwards.",
+      "headline": "US envoys meet Putin in Moscow, then Zelenskyy in Dublin, as Ukraine talks move to widen",
+      "body": "Trump envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin for roughly two hours on Thursday, November 12, then flew to Dublin to brief Ukrainian President Volodymyr Zelenskyy. The visits followed two days of US-brokered talks between Russian and Ukrainian delegations in Abu Dhabi that produced no major breakthrough but an agreement in principle on a prisoner exchange, with numbers expected later in the week. Putin signaled Russia would not drop its territorial demands and rejected foreign peacekeeping troops as \"a continuation of war\"; Kushner said both sides had agreed to expand the next round to include European partners, though Moscow has not confirmed that.",
+      "plain": "Russia and Ukraine have been at war since 2022, and the US is trying to broker an end to it. Two of Trump's closest negotiators shuttled between the two capitals in a single day: first to hear Putin out, then to relay it to Ukraine's leader, who was in Ireland. The modest win is a swap of captured soldiers, which both sides accept. The hard parts are unchanged: Russia still wants to keep the Ukrainian land it has seized and refuses to let European troops guard any peace, while Ukraine refuses to formally give that land away. Agreeing to talk with Europeans in the room is progress only if Moscow actually shows up.",
+      "why": "A prisoner swap is the first concrete result in months, but Putin's refusal on territory and peacekeepers shows the core of the war is no closer to settlement.",
       "sources": [
-        {
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
-        },
-        {
-          "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu"
-        },
-        {
-          "outlet": "Axios",
-          "url": "https://axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement"
-        }
+        {"outlet": "TIME", "url": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"},
+        {"outlet": "Euronews", "url": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks"}
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "Traders now expect the Federal Reserve to raise rates in December",
-      "body": "Futures tied to the federal funds rate put the odds of a quarter-point increase at the Fed's December 8-9 meeting at roughly 88% to 92%, according to CME FedWatch readings reported November 10 to 12. The shift followed October CPI data released November 10 showing headline prices up 0.4% on the month against a 0.3% forecast, and core up 0.3% against 0.2%. The dollar index climbed above 103, a 19-month high, the 10-year Treasury yield returned to about 5%, and gold slipped below $4,000. Governor Chris Waller said he would consider a half-point move if core readings stay at 0.3% or higher.",
-      "plain": "The Fed sets a short-term interest rate that feeds through to mortgages, credit cards and business loans. It cuts the rate to support a weak economy and raises it to slow price increases. It already raised rates in September, the first increase since 2023, leaving the target range at 3.75% to 4.00%. Investors had treated that as a one-off until October's inflation figures landed. The stronger dollar is the knock-on effect, because higher US rates pull money in from abroad.",
-      "why": "A second hike would confirm the Fed is now fighting inflation rather than cushioning the labor market, and it raises the cost of the debt financing the AI buildout.",
+      "headline": "The 10-year Treasury yield tops 5% as markets price Fed rate hikes, not cuts",
+      "body": "The yield on the 10-year US Treasury note climbed about 12 to 13 basis points on Thursday, November 12, to roughly 5.10%-5.13%, its first sustained move back above 5%, while the two-year jumped about 15 basis points to 4.88%. The move followed Tuesday's October inflation report, which showed consumer prices up 0.4% for the month and core prices up 0.3%, both above forecasts; the 12-month rate was omitted because last year's government shutdown left a data gap. Futures now put a roughly 12% chance on a half-point Fed hike at the December 8-9 meeting, with a quarter-point increase widely expected, as Fed officials including Beth Hammack and Michelle Bowman signal more tightening.",
+      "plain": "The interest rate on US government bonds is the price tag under almost everything else you borrow, from mortgages to car loans. When inflation runs hotter than expected, investors assume the Federal Reserve, the US central bank, will keep rates high or push them higher to cool prices, so bond yields rise. What's unusual here is the direction: for most of the past year people expected the Fed to be cutting rates by now, and instead traders are betting on more increases. Higher yields make stocks look less attractive and borrowing more expensive, which is part of why the market has wobbled.",
+      "why": "A Fed that is hiking into a slowing economy, rather than cutting, raises borrowing costs for everyone and removes the rate relief investors had been counting on.",
       "sources": [
-        {
-          "outlet": "Investing.com",
-          "url": "https://www.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585"
-        },
-        {
-          "outlet": "CNN",
-          "url": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed"
-        },
-        {
-          "outlet": "FXStreet",
-          "url": "https://www.fxstreet.com/news/forex-today-us-dollar-index-climbs-to-fresh-19-month-high-gold-drops-below-4-000-202611120724"
-        }
+        {"outlet": "CNBC", "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"},
+        {"outlet": "American Banker", "url": "https://www.americanbanker.com/news/hot-inflation-report-puts-fed-on-track-for-december-rate-hike"}
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "A regional health commission is deciding this week whether the US loses measles elimination status",
-      "body": "The Pan American Health Organization convened a three-day closed-door review this week with the United States, Canada and Mexico to evaluate each country's measles elimination status; no classification had been announced for the US as of November 10. CDC data showed 5,182 confirmed cases in 2026 as of November 5, against 2,289 in all of 2025, across 43 separate outbreaks, with 96% of cases outbreak-linked. The CDC recognizes four measles deaths this year; state health departments have reported eight, across Pennsylvania, New York and Wisconsin. CDC director Erica Schwartz told Reuters the agency's response would not change if the status is lost.",
-      "plain": "A country is called measles-free when the virus stops spreading continuously inside its borders for more than twelve months. It can still arrive from abroad, but it dies out instead of taking hold. The US earned that label in 2000, and Canada lost its own in November 2025. Measles is among the most contagious diseases known and spreads wherever vaccination coverage falls below roughly 95%. Losing the status changes nothing doctors do; it is a scorecard entry. The number worth watching is the gap between the federal count of four deaths and the eight that states report.",
-      "why": "The label is symbolic, but the vaccination gap that produced 5,182 cases is not, and it sets how large next year's outbreaks get.",
+      "headline": "FDA shelves its fast-track drug-review voucher program",
+      "body": "The FDA has shelved the Commissioner's National Priority Voucher program, a fast-track initiative launched under former Commissioner Marty Makary that aimed to cut drug-review timelines to one or two months, Reuters reported Thursday, November 12, citing six sources. Of 22 drugs granted a voucher, about a dozen have been approved, and none have been awarded since Makary's departure; companies were reportedly told the agency is not moving forward but will keep applications open. An HHS spokesperson disputed the account, saying the pilot is ongoing and the agency is refining it after a June public hearing. Critics noted some vouchers went to companies that struck drug-pricing deals with the White House, such as Eli Lilly and Novo Nordisk.",
+      "plain": "Before a new medicine reaches patients, the FDA has to review it, which normally takes many months. This program handed out fast passes to jump that queue, and the previous FDA chief used them as a reward, partly for drugmakers that agreed to the administration's demands on lowering prices. Now that chief is gone, and the agency appears to be quietly dropping the program, though officials publicly insist it isn't dead. The reporting rests on anonymous sources and the government denies it, so treat the exact status as credible but contested. The tell is that no company has gotten a new fast pass since the person who championed it left.",
+      "why": "Tying faster drug approvals to pricing concessions blurred the line between the FDA's scientific review and White House deal-making; quietly ending it signals how fragile that arrangement was.",
       "sources": [
-        {
-          "outlet": "TheGrio",
-          "url": "https://thegrio.com/2026/11/11/cdc-measles-response-us-elimination-status/"
-        },
-        {
-          "outlet": "CIDRAP",
-          "url": "https://www.cidrap.umn.edu/measles/us-highly-likely-lose-measles-elimination-status-fall-analysis-warns"
-        },
-        {
-          "outlet": "The Washington Post",
-          "url": "https://www.washingtonpost.com/health/2026/11/07/cdc-has-recorded-more-than-5000-measles-cases-this-year/"
-        }
+        {"outlet": "Reuters via U.S. News", "url": "https://www.usnews.com/news/top-news/articles/2026-11-12/exclusive-us-fda-shelves-commissioners-voucher-program-for-speedy-drug-reviews-sources-say"},
+        {"outlet": "STAT Pharmalot", "url": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/"}
       ]
     },
     {
       "slot": 5,
-      "category": "Wildcard - International Affairs",
-      "headline": "Indonesia's vice president resigned over challenges to his eligibility and academic record",
-      "body": "Gibran Rakabuming Raka resigned as Indonesia's vice president on November 12 amid court rulings and challenges over his eligibility for office and his academic credentials. The resignation halted an impeachment effort backed by at least 120 lawmakers. Under the constitution no new election follows: President Prabowo Subianto must nominate two candidates within 14 days, and parliament must choose within 60. Gibran is the son of former president Joko Widodo, whose alliance with Prabowo the resignation may end. Accounts differ on whether the resignation went to Prabowo on Wednesday or to the People's Consultative Assembly on Thursday.",
-      "plain": "Indonesia is the world's fourth most populous country, with about 280 million people. Gibran became vice president in 2024 at the age of 37, after a court decision altered the minimum-age rule in a way that happened to make him eligible, while his father was still president. That shortcut is what came back to undo him, alongside disputes over his academic record. The constitution keeps the government running without a snap election, so the question is who Prabowo names next. Gibran was the link holding his alliance with Jokowi together.",
-      "why": "Removing Jokowi's son from the ticket frees Prabowo from the arrangement that won him the presidency, and parliament, not voters, picks the successor.",
+      "category": "Wildcard - International",
+      "headline": "Iran keeps the Strait of Hormuz shut as Trump says the US no longer needs a deal",
+      "body": "The Strait of Hormuz remains largely closed to commercial shipping more than eight months into the Iran war that began February 28, with roughly 400 vessels and about 5,000 seafarers reported stuck, as a Qatar-mediated proposal to reopen it in exchange for releasing about $8 billion in frozen Iranian assets and lifting the US blockade stayed unresolved. On Thursday, November 12, President Trump posted that the US does not need an agreement with Tehran - 'We've got their money... and we've got their Strait' - and reassigned Vice President JD Vance away from the talks. Brent crude settled around $95 a barrel, still more than 40% above pre-war levels.",
+      "plain": "The Strait of Hormuz is a narrow sea passage that about a fifth of the world's oil normally sails through. Iran has choked it off during its war, which is why oil and fuel prices jumped worldwide. Qatar has been trying to broker a two-day deal: Iran reopens the strait, and in return the US unfreezes Iranian money and lifts its naval blockade, with nuclear inspections attached. Trump just said, in effect, that he doesn't need that deal because the pressure is already hurting Iran, and he pulled his vice president off the negotiations. That hardens the standoff, and the hundreds of trapped ships and elevated oil prices are the cost of it dragging on.",
+      "why": "With the president publicly walking away from negotiations, the single biggest driver of global oil prices has no near-term off-ramp.",
       "sources": [
-        {
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"
-        },
-        {
-          "outlet": "The Washington Post",
-          "url": "https://www.washingtonpost.com/business/2026/11/11/indonesia-vice-president-raka-impeachment-process/e9ceb19c-ddcd-11f1-912c-4fbb80d73f7f_story.html"
-        },
-        {
-          "outlet": "ABC News (Australia)",
-          "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802"
-        }
+        {"outlet": "The National", "url": "https://www.thenationalnews.com/news/us/2026/11/12/iran-deal-trump/"},
+        {"outlet": "Latin Times", "url": "https://www.latintimes.com/iran-qatar-strait-hormuz-reopening-nuclear-talks-601047"}
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - International Affairs",
-      "headline": "Rubio said no major combat operations are needed in Iran while the Strait of Hormuz stays closed",
-      "body": "Secretary of State Marco Rubio said on November 10 there is “no need for major combat operations” in Iran because economic pressure is working, and called some Iranian conditions “outrageous and ridiculous.” Tehran's stated terms include lifting the US naval blockade and oil sanctions, releasing frozen funds and ending the fighting. Iran's security chief said the Strait of Hormuz will not reopen until those seven conditions are met and called reports of direct talks “a pure lie,” while Qatari mediators have passed Iran a draft deal. WTI crude traded above $85.",
-      "plain": "The Strait of Hormuz is a narrow sea passage at the mouth of the Persian Gulf that about a fifth of the world's oil normally travels through. With it closed and tankers under attack, oil costs more everywhere, which is part of why US inflation has reaccelerated. The two governments are talking through Qatar rather than to each other, and Iran publicly denies the talks are happening at all. The reporting conflicts: Rubio says no deal is close, while other outlets describe the sides moving closer. Treat the diplomacy as real but unresolved.",
-      "why": "The closed strait now feeds directly into US inflation data, which ties the war's end date to the Fed's next move.",
+      "category": "Wildcard - International",
+      "headline": "An Israeli strike on Gaza's Nasser Hospital kills a surgeon and at least five others",
+      "body": "An Israeli strike hit Nasser Hospital in southern Gaza early Thursday, November 12, killing at least six people, including surgeon Dr. Rizq Abu Shaeera and a child, and wounding roughly 20 to 40 others, according to Gaza's civil defence and health authorities. The Israeli military confirmed the attack, saying it targeted the commander of Hamas's Khan Younis brigade, Muhammad Abu Ismail, and 'additional terrorists' it said were hiding in the facility; the named commander was not reported among the dead. Al Jazeera's correspondent described it as the seventh strike on the hospital, which serves at least 500,000 people; Gaza's health ministry says more than 1,700 healthcare workers have been killed since October 2023.",
+      "plain": "Nasser Hospital is one of the last large hospitals still functioning in southern Gaza, serving half a million people. An Israeli airstrike hit it and killed a surgeon who had been operating on patients only hours earlier. Israel says it was aiming at a Hamas commander it claims was sheltering inside, which is its standard justification for striking hospitals; the reporting says that commander was not among those killed. Casualty counts in Gaza come from Palestinian health authorities and can't be independently verified in real time, so the exact toll may shift. The pattern matters: this is described as the seventh hit on the same hospital.",
+      "why": "Repeated strikes on the enclave's few working hospitals steadily dismantle the medical system that the remaining population depends on, regardless of any single target's identity.",
       "sources": [
-        {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html"
-        },
-        {
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
-        },
-        {
-          "outlet": "Fox News",
-          "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict"
-        }
+        {"outlet": "NBC News", "url": "https://www.nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932"},
+        {"outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare"}
       ]
     },
     {
       "slot": 7,
       "category": "Wildcard - AI Industry",
-      "headline": "CoreWeave's results eased worries about the debt behind the AI buildout",
-      "body": "CoreWeave reported third-quarter revenue of $3.66 billion on November 11, above estimates of about $3.55 billion and up 168% from a year earlier, with backlog of $132.5 billion and full-year guidance raised to $13.0-13.3 billion. The stock closed up 24.7% at $60.77, its largest one-day gain since June 2025, after falling 40.6% over the previous month as the cost of insuring its debt against default rose. The chief financial officer said the company will rely less on unsecured bonds and more on delayed-draw term loans backed by customer contracts. The Nasdaq rose about 1.6%.",
-      "plain": "CoreWeave rents racks of AI chips to companies that do not want to build their own data centers. It buys those chips largely with borrowed money, repaid out of long-term customer contracts, which makes it the clearest test of whether the AI buildout is being financed soundly. Investors had been betting against it, and the price of insuring its debt had climbed. The reassurance was not the revenue number but the financing plan, because loans tied to signed contracts are safer than bonds sold on expectations.",
-      "why": "The market is pricing AI infrastructure on credit quality rather than growth, so how these companies borrow now moves their shares more than how much they sell.",
+      "headline": "A blacklisted Chinese military university bought Nvidia H200 chips despite US controls",
+      "body": "Northwestern Polytechnical University, a Xi'an institution with ties to the People's Liberation Army, bought two Nvidia H200 AI chips in October for 874,700 yuan (about $123,000) despite being on the US Entity List since 2001, Reuters reported Tuesday, November 11, citing a procurement record on the university's own website. Reviewing 26 records, Reuters found Chinese universities and research institutes buying US-restricted Nvidia chips or renting access to Nvidia-powered computing through domestic suppliers; the same university also rented H200 access through five contracts. The Trump administration began allowing some H200 exports to China on a case-by-case basis in January, with safeguards meant to block blacklisted and military end-users.",
+      "plain": "The US bans selling its most advanced AI chips to certain Chinese organizations, especially ones tied to the military, to keep that computing power out of China's weapons programs. This university has been on that banned list for 25 years, and public purchase records show it bought the restricted chips anyway, plus rented time on more of them through middlemen. That means the export controls, which Nvidia's own CEO had been lobbying to loosen, are leaking. The documents are the university's own procurement postings, which is why the reporting is solid rather than guesswork.",
+      "why": "Hard evidence that banned chips are reaching PLA-linked buyers undercuts the case for easing export rules and hands Washington hawks ammunition just as Nvidia loses its China-facing CEO.",
       "sources": [
-        {
-          "outlet": "Kiplinger",
-          "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-400-points-after-coreweave-earnings-stock-market-today"
-        },
-        {
-          "outlet": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-surges-20-q3-earnings-185933993.html"
-        }
+        {"outlet": "Reuters via Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show"},
+        {"outlet": "Reuters via Korea Herald", "url": "https://www.koreaherald.com/article/10934237"}
       ]
     },
     {
       "slot": 8,
       "category": "Wildcard - Healthcare",
-      "headline": "The FDA approved the first drug in a new class of blood thinners",
-      "body": "The Food and Drug Administration approved Bayer's Sunharbo (asundexian) 50 mg tablets on November 9, the first Factor XIa inhibitor cleared in the United States. It is indicated to reduce the risk of a second stroke in adults after a recent ischemic stroke or high-risk transient ischemic attack. Over a median 14.2 months of treatment, the drug cut the risk of ischemic stroke by 26% compared with placebo. It is not approved for atrial fibrillation, where an earlier trial of the same drug failed.",
-      "plain": "Blood thinners stop the clots that cause strokes, but every existing one also makes dangerous bleeding more likely, so doctors are always trading one risk against the other. Factor XIa is a step in the clotting process that appears to matter more for harmful clots than for the ordinary clotting that stops a cut bleeding, so blocking it is meant to break that trade-off. The narrow label is the catch: the same drug failed in atrial fibrillation, a much larger market, so this approval covers only stroke survivors.",
-      "why": "A clotting target that separates stroke prevention from bleeding risk would reopen anticoagulation for the elderly patients doctors currently leave untreated.",
+      "headline": "The US is poised to lose its measles-elimination status as cases hit a 35-year high",
+      "body": "A Pan American Health Organization commission met November 10-13 to decide whether the US can still claim it has eliminated measles, a status it has held since 2000, and public-health reporting indicates the country is likely to lose it. The CDC has logged more than 5,100 measles cases in 2026, the most since 1991, with at least four deaths acknowledged nationally. CDC Director Erica Schwartz told Reuters the agency would not fundamentally change its response even if the status is lost, continuing to emphasize MMR vaccination; separately, a CDC health alert on measles in pregnancy was reportedly not cleared by the director's office, and HHS did not explain why.",
+      "plain": "Elimination doesn't mean zero cases; it means the disease no longer spreads continuously inside the country, a milestone the US reached in 2000 thanks to vaccination. Losing it means measles is circulating here on its own again, which happens when enough people stop vaccinating their kids. An international health body is the one that formally decides this, and it was meeting this week. The two-shot MMR vaccine is about 97% effective, so this is a reversal of a solved problem rather than a new mystery. The numbers conflict by source and date, so treat the exact case and death counts as approximate.",
+      "why": "Reversing a 25-year public-health achievement signals that falling vaccination rates are now undoing the herd immunity that kept a highly contagious disease in check.",
       "sources": [
-        {
-          "outlet": "Bayer (via Dealroom)",
-          "url": "https://app.dealroom.co/news/note/us-fda-approves-bayer-s-sunharbo-asundexian-as-first-factor-xia-inhibitor-for-stroke-prevention"
-        },
-        {
-          "outlet": "WebMD",
-          "url": "https://www.webmd.com/drugs/updates/sunharbo-asundexian-lower-risk-second-stroke"
-        }
+        {"outlet": "PolitiFact", "url": "https://www.politifact.com/article/2026/nov/12/measles-elimination-transmission-vaccine-outbreak"},
+        {"outlet": "CNN", "url": "https://www.cnn.com/2026/11/10/health/cdc-measles-elimination-response"}
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "A security firm found about 35,000 apps built with Grok Build open to anyone",
-      "body": "The security firm Claroc reported that of 37,571 live apps built with Grok Build it tested, 35,578, about 94.7%, opened without any login, and that an estimated 650 to 800 held private or sensitive data including patient lab values, medical exam records, employee details and plaintext passwords. Claroc said 30 organizations, among them six Fortune 500 companies, had internal data sitting in open apps, and that it located the links through passive DNS records. Grok said on X that the report was incorrect because it describes a different feature. Coverage ran November 11 and 12.",
-      "plain": "Grok Build lets someone describe an app in plain language and have working software generated for them. What Claroc describes is not a break-in but a default setting: the generated apps were published at web addresses that anyone could open and that were easy to guess, so no password was ever required. The researchers found them by reading public domain-name records, which work like the internet's phone book. The company disputes the finding, saying the researchers examined a different product, and only one firm has published this, so treat the numbers as credible but unverified.",
-      "why": "Tools that let non-engineers ship software move the security default from a deliberate decision to whatever the vendor happened to set.",
+      "headline": "A global Microsoft 365 outage knocks out Outlook, Teams and Copilot for a second day",
+      "body": "A major Microsoft 365 outage that began shortly before 1 p.m. ET on Thursday, November 12, disrupted Outlook, Teams, SharePoint, OneDrive, Microsoft 365 Copilot and Defender XDR, and continued into Friday, November 13, under admin-center advisory MO1550821. Microsoft said it did not suspect malicious activity and, per one university IT notice, attributed the problem to a recent change it had made. Downdetector still showed tens of thousands of reports more than 18 hours in; Microsoft reported early stabilization on Friday but had not posted a full all-clear.",
+      "plain": "Microsoft 365 is the bundle most offices run on: company email (Outlook), chat and meetings (Teams), file storage (OneDrive and SharePoint), and the Copilot AI assistant. When Microsoft's cloud breaks, all of those go down at once for millions of workers worldwide, not just one app. Microsoft says this wasn't a hack; the likely cause is a change it made to its own systems that backfired, which is a common way big outages start. More than a day in, it was still only partly fixed. The it-was-our-own-change detail comes from a university IT notice rather than Microsoft directly, so treat it as likely but not official.",
+      "why": "A single multi-day failure freezing email, meetings and files for much of the corporate world shows how much everyday work now hinges on one company's cloud staying up.",
       "sources": [
-        {
-          "outlet": "The Decoder",
-          "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/"
-        },
-        {
-          "outlet": "IBTimes UK",
-          "url": "https://www.ibtimes.co.uk/grok-build-apps-exposed-sensitive-data-without-sign-1831677"
-        },
-        {
-          "outlet": "Infobae",
-          "url": "https://www.infobae.com/america/agencias/2026/11/12/un-fallo-en-los-enlaces-de-aplicaciones-generados-por-grok-build-deja-expuestas-mas-de-35000-apps-con-datos-privados/"
-        }
+        {"outlet": "BleepingComputer", "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"},
+        {"outlet": "ABC News", "url": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203"}
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "A petition forcing a House vote on a second Epstein files bill reached 218 signatures",
-      "body": "A discharge petition filed by Representative Thomas Massie for the Epstein Files Transparency Act II reached the 218 signatures needed to force a floor vote on November 11, according to the House Clerk. Every House Democrat signed, along with four Republicans: Massie, Nancy Mace, Ralph Norman and Brian Fitzpatrick. Representative John Garamendi supplied the 218th. Republican leadership had argued the bill was unnecessary because the House Oversight Committee is already investigating. Under House rules the motion must sit for seven legislative days before a signer can call it up. A Reuters/Ipsos poll released November 9 put Trump's approval at 32%, its third consecutive reading at that level.",
-      "plain": "A discharge petition is the one procedure that lets rank-and-file members force a vote when their leadership refuses to schedule one. It needs 218 signatures, a majority of the House, which almost never happens, because signing means openly going around your own party's leaders. This is the second time it has worked on Epstein records: the first forced the original transparency act in 2025, which Trump then signed. Four Republicans were enough this time because every Democrat signed, so leadership's objection no longer controls whether the vote happens.",
-      "why": "The vote is now set by House rule rather than by leadership, which removes the usual lever the White House uses to keep a bill off the floor.",
+      "headline": "Gasoline averages $3.98 a gallon, now above the Biden-era average, after a repeated sub-$2 pledge",
+      "body": "AAA's national average for regular gasoline was about $3.98 a gallon as of November 10, down from a month earlier but up from $3.07 a year ago, and Bloomberg and AAA data show the average price during Trump's second term has now surpassed the Biden-era average of $3.47. On the 2024 campaign trail Trump pledged to bring gasoline below $2 a gallon, and he repeated it in September 2026, saying 'I think for gasoline, we'll get them below $2 a gallon.' In the February 2026 State of the Union he said gas was 'below $2.30 a gallon in most states and in some places, $1.99'; GasBuddy data cited by fact-checkers found only 8 of roughly 150,000 US stations selling below $2 at the time.",
+      "plain": "A campaign promise is a claim on the record you can later check against the numbers. Trump promised repeatedly to get gas below $2 a gallon, and said in February that it was already near there in most states. The actual data, from AAA (which tracks pump prices daily) and GasBuddy (which tracks individual stations), says otherwise: the national average is close to $4, almost double the promise, and gas is now more expensive on average than it was under the president he criticized for high prices. The Iran war pushed prices up this year, which is part of the story, but the gap between the pledge and the price is the documented part.",
+      "why": "Gas prices are the number voters check most reflexively, which is why a doubled-from-the-promise average heading into the midterms is a self-inflicted political problem the record keeps on file.",
       "sources": [
-        {
-          "outlet": "Roll Call",
-          "url": "https://rollcall.com/2026/11/11/another-bill-to-release-epstein-files-headed-to-house-floor/"
-        },
-        {
-          "outlet": "ABC News",
-          "url": "https://abcnews.com/US/discharge-petition-2nd-epstein-files-bill-secures-218/story?id=138057235"
-        },
-        {
-          "outlet": "Newsweek",
-          "url": "https://newsweek.com/full-list-of-republicans-joining-thomas-massie-to-force-epstein-files-vote-12702268"
-        }
+        {"outlet": "Forbes", "url": "https://www.forbes.com/sites/zacharyfolk/2026/10/26/average-gas-price-under-trump-now-tops-average-under-biden/"},
+        {"outlet": "PolitiFact", "url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387719/reduce-the-cost-of-gasoline-below-2-a-gallon/"}
       ]
     }
   ]
