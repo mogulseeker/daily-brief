@@ -1,139 +1,238 @@
 {
-  "date": "2026-11-13",
-  "dateLabel": "Friday, November 13, 2026",
-  "generated": "2026-11-13T13:16:00Z",
+  "date": "2026-11-14",
+  "dateLabel": "Saturday, November 14, 2026",
+  "generated": "2026-11-14T13:14:27Z",
   "tldr": [
-    "Nvidia's Jensen Huang resigns as CEO; CFO Colette Kress takes over on an interim basis as the stock sinks.",
-    "US envoys meet Putin in Moscow, then Zelenskyy in Dublin, as the Ukraine talks move to expand to Europe.",
-    "The 10-year Treasury yield tops 5% as a hot inflation reading pushes markets to price Fed rate hikes, not cuts.",
-    "FDA shelves its fast-track drug-review voucher program, a pillar of the Trump drug-pricing deals.",
-    "Wildcard (International): Iran keeps the Strait of Hormuz shut as Trump says the US no longer needs a deal.",
-    "Wildcard (International): An Israeli strike on Gaza's Nasser Hospital kills a surgeon and at least five others.",
-    "Wildcard (AI): A blacklisted Chinese military university bought Nvidia H200 chips despite US export controls.",
-    "Wildcard (Healthcare): The US is poised to lose its measles-elimination status as cases hit a 35-year high.",
-    "Tech: A global Microsoft 365 outage knocks out Outlook, Teams and Copilot for a second day.",
-    "Trump News: Gasoline averages $3.98 a gallon, now above the Biden-era average, after a repeated sub-$2 pledge."
+    "Anthropic sets terms for the largest IPO ever, with Google and Nvidia each buying about $10 billion of it.",
+    "Iran's Revolutionary Guard says it destroyed a US radar in Bahrain; CENTCOM says it shot down two drones instead.",
+    "Producer prices rise 6.5% over the year, the fastest since 2022, and a December Fed rate hike is now near-certain.",
+    "The US loses its measles elimination status after 26 years, with 5,412 cases and 591 hospitalizations this year.",
+    "Wildcard (AI Industry): Nvidia closes below $4 trillion for the first time since July 2025, down $1.7 trillion since October.",
+    "Wildcard (AI Industry): Commerce is finalizing a rule to stop Chinese firms renting Nvidia chips in foreign data centers.",
+    "Wildcard (International Affairs): The Kremlin declines to confirm the European seat at Ukraine talks that US envoys announced.",
+    "Wildcard (Healthcare): The FDA clears a drug combination before bladder-cancer surgery for patients who cannot take chemotherapy.",
+    "Tech: The FAA grounds every US departure for four hours, the third national ground stop in history.",
+    "Trump News: A Republican-led Senate panel summons Trump's Commerce Secretary over Nvidia's China chip approvals."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Nvidia's Jensen Huang resigns as CEO; CFO Colette Kress steps in on an interim basis",
-      "body": "Nvidia's board announced on Wednesday, November 12, that co-founder Jensen Huang resigned as president, CEO and board member, effective immediately, and named chief financial officer Colette Kress as interim CEO while a search begins. The exit follows a board probe, opened November 8, into reporting by The New York Times that Huang was the target of a Chinese intelligence operation; Huang had told staff in a Sunday email that he had an affair with a woman, Alice Huang (no relation), whose company Megaspeed was under federal investigation for allegedly diverting restricted US chips to China. Nvidia shares fell more than 13% at Thursday's open before paring losses to close down about 4.3%, and the stock is off roughly 20% in November.",
-      "plain": "Nvidia makes the specialized chips that nearly every big AI system is trained on, which has made it the most valuable company in the world and Huang its public face. He is stepping down not over the business but over his personal conduct: US officials believe a woman he had an affair with was a Chinese spy, and her firm is accused of smuggling Nvidia chips into China past American export bans. The company says it has no reason to think its secrets were compromised, but the board still opened an investigation, and the CEO is the one who had been lobbying Washington to loosen those very chip rules. Kress, the finance chief, is holding the wheel for now.",
-      "why": "A leadership vacuum at the company underpinning the entire AI build-out injects real uncertainty into the one stock that has carried the market, right as its China policy is under a spy cloud.",
+      "headline": "Anthropic sets terms for the largest IPO on record, with Google and Nvidia buying in",
+      "body": "Anthropic filed an amended registration statement on November 10 setting a price range of $70 to $78 a share for 825 million Class A shares, listing on the Nasdaq Global Select Market under the ticker ANT. Pricing is expected November 18 and trading November 19, valuing the company at up to roughly $1.4 trillion. Alongside the public offering, seven investors agreed to buy about $26 billion of stock in a separate partner placement; Google and Nvidia each committed roughly $10 billion.",
+      "plain": "Anthropic is the AI company that makes Claude, a chatbot and coding assistant that competes with OpenAI's ChatGPT. Until now it was private, meaning only a small group of investors could own a piece of it. An IPO is the moment a company starts selling shares to anyone, and this one is set to be the biggest ever by the amount of money raised. The odd part is who is buying: Google and Nvidia are both Anthropic's suppliers, so money flows from Anthropic to them for chips and cloud computing, and now flows back the other way as investment.",
+      "why": "When a company's largest suppliers are also among its largest shareholders, the revenue they book from it is partly funded by their own cash, which makes the AI build-out look larger than the outside money actually entering it.",
       "sources": [
-        {"outlet": "TechCrunch", "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"},
-        {"outlet": "CNN", "url": "https://www.cnn.com/2026/11/12/tech/nvidia-jensen-huang-chinese-spy"},
-        {"outlet": "CNBC", "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"}
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "outlet": "UPI",
+          "url": "https://www.upi.com/Top_News/US/2026/11/10/anthropic-ipo-stock-range-nasdaq/6651794326745/"
+        },
+        {
+          "outlet": "CBC",
+          "url": "https://cbc.ca/news/business/anthropic-ipo-9.7418028"
+        }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "US envoys meet Putin in Moscow, then Zelenskyy in Dublin, as Ukraine talks move to widen",
-      "body": "Trump envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin for roughly two hours on Thursday, November 12, then flew to Dublin to brief Ukrainian President Volodymyr Zelenskyy. The visits followed two days of US-brokered talks between Russian and Ukrainian delegations in Abu Dhabi that produced no major breakthrough but an agreement in principle on a prisoner exchange, with numbers expected later in the week. Putin signaled Russia would not drop its territorial demands and rejected foreign peacekeeping troops as \"a continuation of war\"; Kushner said both sides had agreed to expand the next round to include European partners, though Moscow has not confirmed that.",
-      "plain": "Russia and Ukraine have been at war since 2022, and the US is trying to broker an end to it. Two of Trump's closest negotiators shuttled between the two capitals in a single day: first to hear Putin out, then to relay it to Ukraine's leader, who was in Ireland. The modest win is a swap of captured soldiers, which both sides accept. The hard parts are unchanged: Russia still wants to keep the Ukrainian land it has seized and refuses to let European troops guard any peace, while Ukraine refuses to formally give that land away. Agreeing to talk with Europeans in the room is progress only if Moscow actually shows up.",
-      "why": "A prisoner swap is the first concrete result in months, but Putin's refusal on territory and peacekeepers shows the core of the war is no closer to settlement.",
+      "headline": "Iran claims it destroyed a US radar in Bahrain; US Central Command says it shot down two drones",
+      "body": "Iran's Revolutionary Guard said on November 13 that it destroyed a US early-warning radar in Bahrain, calling it retaliation for an air strike on a telecommunications tower in Sirik county in Iran's southern Hormozgan province. US Central Command denied the radar was hit, saying the Guard launched two one-way attack drones toward Bahrain and that US forces shot both down. CENTCOM did not address the claimed strike on Sirik. Bahrain has not commented, and there is no independent confirmation of damage.",
+      "plain": "Bahrain is a small island country in the Gulf that hosts the US Navy's main base in the region. An early-warning radar is the equipment that spots incoming missiles and aircraft, so destroying one would be a real blow rather than a symbolic hit. Iran says it did that; the US says the drones never got through. Both sides have reason to describe this their way, and nobody outside the two militaries has seen the site. Treat the Iranian claim as unverified.",
+      "why": "Each side is now claiming a different version of the same night, which removes the shared factual ground that de-escalation usually needs.",
       "sources": [
-        {"outlet": "TIME", "url": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"},
-        {"outlet": "Euronews", "url": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks"}
+        {
+          "outlet": "RFE/RL",
+          "url": "https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html"
+        },
+        {
+          "outlet": "Arab News",
+          "url": "https://www.arabnews.com/middle-east/irans-guards-say-they-targeted-us-radar-system-in-bahrain-3011593"
+        },
+        {
+          "outlet": "KSL",
+          "url": "https://www.ksl.com/article/51645602/us-military-downs-2-iranian-attack-drones-as-iran-claims-a-strike-on-a-us-radar-in-bahrain"
+        }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "The 10-year Treasury yield tops 5% as markets price Fed rate hikes, not cuts",
-      "body": "The yield on the 10-year US Treasury note climbed about 12 to 13 basis points on Thursday, November 12, to roughly 5.10%-5.13%, its first sustained move back above 5%, while the two-year jumped about 15 basis points to 4.88%. The move followed Tuesday's October inflation report, which showed consumer prices up 0.4% for the month and core prices up 0.3%, both above forecasts; the 12-month rate was omitted because last year's government shutdown left a data gap. Futures now put a roughly 12% chance on a half-point Fed hike at the December 8-9 meeting, with a quarter-point increase widely expected, as Fed officials including Beth Hammack and Michelle Bowman signal more tightening.",
-      "plain": "The interest rate on US government bonds is the price tag under almost everything else you borrow, from mortgages to car loans. When inflation runs hotter than expected, investors assume the Federal Reserve, the US central bank, will keep rates high or push them higher to cool prices, so bond yields rise. What's unusual here is the direction: for most of the past year people expected the Fed to be cutting rates by now, and instead traders are betting on more increases. Higher yields make stocks look less attractive and borrowing more expensive, which is part of why the market has wobbled.",
-      "why": "A Fed that is hiking into a slowing economy, rather than cutting, raises borrowing costs for everyone and removes the rate relief investors had been counting on.",
+      "headline": "Producer prices rise 6.5% over the year and markets price a December Fed hike as near-certain",
+      "body": "The October producer price index released November 13 rose 0.3% on the month, slightly below forecasts, but was up 6.5% from a year earlier, the fastest annual pace since November 2022. It followed an October consumer price report showing headline prices up 0.4% on the month against a 0.3% forecast and core up 0.3%. After both readings, futures implied roughly 85% to 90% odds of a quarter-point increase at the December 8-9 meeting, and about a 12% chance of a half-point move. The 10-year Treasury yield ended near 5.15%, the 2-year at 4.87% and the 30-year at 5.48%.",
+      "plain": "The producer price index measures what factories and farms charge each other, before anything reaches a shop shelf, so it is an early look at where consumer prices head next. Rising 6.5% in a year is fast. The Federal Reserve's job is to keep inflation near 2%, and its main tool is the interest rate it charges banks, which filters into mortgages and business loans. For most of the last two years traders expected cuts; they now expect an increase. Governor Christopher Waller had said a core reading of about 0.3% would make him consider a half-point move, and core came in at exactly 0.3%.",
+      "why": "Rate expectations have flipped from cuts to hikes, which reprices every asset valued off cheap money, and the heavily indebted AI data-center build-out is the most exposed to that.",
       "sources": [
-        {"outlet": "CNBC", "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"},
-        {"outlet": "American Banker", "url": "https://www.americanbanker.com/news/hot-inflation-report-puts-fed-on-track-for-december-rate-hike"}
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/amp/2026/11/13/treasury-yields-fed-rates.html"
+        },
+        {
+          "outlet": "American Banker",
+          "url": "https://www.americanbanker.com/news/hot-inflation-report-puts-fed-on-track-for-december-rate-hike"
+        },
+        {
+          "outlet": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economic-indicators/hot-october-inflation-report-rattles-markets-5015775"
+        }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "FDA shelves its fast-track drug-review voucher program",
-      "body": "The FDA has shelved the Commissioner's National Priority Voucher program, a fast-track initiative launched under former Commissioner Marty Makary that aimed to cut drug-review timelines to one or two months, Reuters reported Thursday, November 12, citing six sources. Of 22 drugs granted a voucher, about a dozen have been approved, and none have been awarded since Makary's departure; companies were reportedly told the agency is not moving forward but will keep applications open. An HHS spokesperson disputed the account, saying the pilot is ongoing and the agency is refining it after a June public hearing. Critics noted some vouchers went to companies that struck drug-pricing deals with the White House, such as Eli Lilly and Novo Nordisk.",
-      "plain": "Before a new medicine reaches patients, the FDA has to review it, which normally takes many months. This program handed out fast passes to jump that queue, and the previous FDA chief used them as a reward, partly for drugmakers that agreed to the administration's demands on lowering prices. Now that chief is gone, and the agency appears to be quietly dropping the program, though officials publicly insist it isn't dead. The reporting rests on anonymous sources and the government denies it, so treat the exact status as credible but contested. The tell is that no company has gotten a new fast pass since the person who championed it left.",
-      "why": "Tying faster drug approvals to pricing concessions blurred the line between the FDA's scientific review and White House deal-making; quietly ending it signals how fragile that arrangement was.",
+      "headline": "The US loses its measles elimination status after 26 years",
+      "body": "CNN reported on November 13, citing a source, that the United States has lost the measles elimination status it held since 2000, and Live Science reported the same determination by the Pan American Health Organization. The CDC on Friday counted 5,412 confirmed cases in 45 states as of November 12, up 230 from its previous update, with 591 hospitalizations, about 11% of cases, and a 17% hospitalization rate among children under five. The CDC has confirmed six measles-associated deaths this year; state reports tally as many as ten. Some outlets report the formal announcement is set for November 17, so the determination is credibly reported but not yet officially published.",
+      "plain": "Elimination status does not mean no cases. It means the virus is not spreading continuously inside the country, so outbreaks come from travellers and then stop. Losing it means measles is circulating here on its own again. Measles is one of the most contagious diseases known and spreads through air that stays infectious for up to two hours after a sick person leaves a room. Two doses of the vaccine are about 97% effective, so sustained spread is mainly a sign that vaccination rates have fallen below the level that blocks transmission. Getting the status back requires twelve straight months without continuous spread.",
+      "why": "The threshold was crossed by vaccination coverage slipping, not by a change in the virus, so the same gap now exposes the country to the other diseases that coverage was holding back.",
       "sources": [
-        {"outlet": "Reuters via U.S. News", "url": "https://www.usnews.com/news/top-news/articles/2026-11-12/exclusive-us-fda-shelves-commissioners-voucher-program-for-speedy-drug-reviews-sources-say"},
-        {"outlet": "STAT Pharmalot", "url": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/"}
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status"
+        },
+        {
+          "outlet": "US News",
+          "url": "https://www.usnews.com/news/us/articles/2026-11-13/us-measles-cases-rise-to-5-412-cdc-says"
+        },
+        {
+          "outlet": "Live Science",
+          "url": "https://livescience.com/health/viruses-infections-disease/measles-is-back-in-the-united-states-who-authorities-say"
+        }
       ]
     },
     {
       "slot": 5,
-      "category": "Wildcard - International",
-      "headline": "Iran keeps the Strait of Hormuz shut as Trump says the US no longer needs a deal",
-      "body": "The Strait of Hormuz remains largely closed to commercial shipping more than eight months into the Iran war that began February 28, with roughly 400 vessels and about 5,000 seafarers reported stuck, as a Qatar-mediated proposal to reopen it in exchange for releasing about $8 billion in frozen Iranian assets and lifting the US blockade stayed unresolved. On Thursday, November 12, President Trump posted that the US does not need an agreement with Tehran - 'We've got their money... and we've got their Strait' - and reassigned Vice President JD Vance away from the talks. Brent crude settled around $95 a barrel, still more than 40% above pre-war levels.",
-      "plain": "The Strait of Hormuz is a narrow sea passage that about a fifth of the world's oil normally sails through. Iran has choked it off during its war, which is why oil and fuel prices jumped worldwide. Qatar has been trying to broker a two-day deal: Iran reopens the strait, and in return the US unfreezes Iranian money and lifts its naval blockade, with nuclear inspections attached. Trump just said, in effect, that he doesn't need that deal because the pressure is already hurting Iran, and he pulled his vice president off the negotiations. That hardens the standoff, and the hundreds of trapped ships and elevated oil prices are the cost of it dragging on.",
-      "why": "With the president publicly walking away from negotiations, the single biggest driver of global oil prices has no near-term off-ramp.",
+      "category": "Wildcard - AI Industry",
+      "headline": "Nvidia closes below $4 trillion for the first time since July 2025",
+      "body": "Nvidia fell about 2% on November 13 to close below a $4 trillion market capitalisation, its first close under that level since July 2025. The stock dropped roughly 13% over the week, a sixth consecutive weekly decline, and has shed about $1.7 trillion in value since peaking near $5.8 trillion in early October. HSBC cut the stock to hold, citing uncertainty over leadership after Jensen Huang's resignation on November 12; CFO Colette Kress is interim CEO and the board had not retained a search firm as of Friday. Chip peers fell with it, AMD down about 11% and Broadcom about 6.6% on the day. Nvidia reports quarterly results November 17.",
+      "plain": "Nvidia makes the chips that nearly all modern AI runs on, so its share price works as a live poll on whether investors still believe the AI build-out will pay off. Two things hit it at once: the company has no permanent chief executive, and the inflation data pushed interest rates up, which hurts companies that borrow heavily to build data centres. $1.7 trillion is more than the total value of all but a handful of companies on earth. The earnings report on Tuesday is the first hard data on whether customers are still buying at the same pace.",
+      "why": "Nvidia's price is the collateral behind a great deal of AI-related borrowing, so a sustained decline tightens financing for the data centres its own chips are meant to fill.",
       "sources": [
-        {"outlet": "The National", "url": "https://www.thenationalnews.com/news/us/2026/11/12/iran-deal-trump/"},
-        {"outlet": "Latin Times", "url": "https://www.latintimes.com/iran-qatar-strait-hormuz-reopening-nuclear-talks-601047"}
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+        },
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        },
+        {
+          "outlet": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/"
+        }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - International",
-      "headline": "An Israeli strike on Gaza's Nasser Hospital kills a surgeon and at least five others",
-      "body": "An Israeli strike hit Nasser Hospital in southern Gaza early Thursday, November 12, killing at least six people, including surgeon Dr. Rizq Abu Shaeera and a child, and wounding roughly 20 to 40 others, according to Gaza's civil defence and health authorities. The Israeli military confirmed the attack, saying it targeted the commander of Hamas's Khan Younis brigade, Muhammad Abu Ismail, and 'additional terrorists' it said were hiding in the facility; the named commander was not reported among the dead. Al Jazeera's correspondent described it as the seventh strike on the hospital, which serves at least 500,000 people; Gaza's health ministry says more than 1,700 healthcare workers have been killed since October 2023.",
-      "plain": "Nasser Hospital is one of the last large hospitals still functioning in southern Gaza, serving half a million people. An Israeli airstrike hit it and killed a surgeon who had been operating on patients only hours earlier. Israel says it was aiming at a Hamas commander it claims was sheltering inside, which is its standard justification for striking hospitals; the reporting says that commander was not among those killed. Casualty counts in Gaza come from Palestinian health authorities and can't be independently verified in real time, so the exact toll may shift. The pattern matters: this is described as the seventh hit on the same hospital.",
-      "why": "Repeated strikes on the enclave's few working hospitals steadily dismantle the medical system that the remaining population depends on, regardless of any single target's identity.",
+      "category": "Wildcard - AI Industry",
+      "headline": "Commerce is finalising a rule to block Chinese firms from renting Nvidia chips abroad",
+      "body": "The Commerce Department is finalising a rule that would bar Chinese AI companies from remotely using advanced Nvidia chips housed in data centres outside China, according to The Information, which reported it on November 11 citing two people familiar with the matter. The rule would extend Bureau of Industry and Security semiconductor controls to remote access, and reporting says data centres run by US companies would be exempt if they block access from arms-embargoed countries. Officials plan to announce it this month. Commerce has not confirmed the rule and it has not been published. Attorneys at Baker McKenzie told reporters the department lacks statutory authority to regulate remote computing access under current law. Alibaba fell 5% in Hong Kong on Thursday.",
+      "plain": "US export controls stop Nvidia's best chips being shipped to China. They do not stop a Chinese company renting time on those chips sitting in a data centre in Singapore or Malaysia, which is a loophole wide enough to train a frontier model through. This rule would close it by regulating the renting rather than the shipping. The catch is legal: export law governs goods crossing borders, and nothing physically crosses a border when you log in to a server abroad, which is why lawyers are questioning whether Commerce can do this without Congress. A bill that would authorise it passed the House 369-22 in January and has not moved in the Senate.",
+      "why": "If the rule is published and then struck down for exceeding the agency's authority, the controls lose force precisely where the compute is easiest to reach.",
       "sources": [
-        {"outlet": "NBC News", "url": "https://www.nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932"},
-        {"outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare"}
+        {
+          "outlet": "Forbes",
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/11/12/chinese-ai-firms-rush-to-rent-nvidia-chips-abroad-before-a-new-us-rule/"
+        },
+        {
+          "outlet": "TokenPost",
+          "url": "https://www.tokenpost.com/news/regulation/55398"
+        }
       ]
     },
     {
       "slot": 7,
-      "category": "Wildcard - AI Industry",
-      "headline": "A blacklisted Chinese military university bought Nvidia H200 chips despite US controls",
-      "body": "Northwestern Polytechnical University, a Xi'an institution with ties to the People's Liberation Army, bought two Nvidia H200 AI chips in October for 874,700 yuan (about $123,000) despite being on the US Entity List since 2001, Reuters reported Tuesday, November 11, citing a procurement record on the university's own website. Reviewing 26 records, Reuters found Chinese universities and research institutes buying US-restricted Nvidia chips or renting access to Nvidia-powered computing through domestic suppliers; the same university also rented H200 access through five contracts. The Trump administration began allowing some H200 exports to China on a case-by-case basis in January, with safeguards meant to block blacklisted and military end-users.",
-      "plain": "The US bans selling its most advanced AI chips to certain Chinese organizations, especially ones tied to the military, to keep that computing power out of China's weapons programs. This university has been on that banned list for 25 years, and public purchase records show it bought the restricted chips anyway, plus rented time on more of them through middlemen. That means the export controls, which Nvidia's own CEO had been lobbying to loosen, are leaking. The documents are the university's own procurement postings, which is why the reporting is solid rather than guesswork.",
-      "why": "Hard evidence that banned chips are reaching PLA-linked buyers undercuts the case for easing export rules and hands Washington hawks ammunition just as Nvidia loses its China-facing CEO.",
+      "category": "Wildcard - International Affairs",
+      "headline": "The Kremlin declines to confirm the European seat at Ukraine talks that US envoys announced",
+      "body": "After a five-hour meeting with Vladimir Putin in Moscow on November 12, US envoy Steve Witkoff said Putin had agreed to let European representatives join the next round of Ukraine peace talks, and Jared Kushner posted that both sides had agreed to a European presence. Russia was evasive on November 13. Putin's stated position is that broader participation can be decided only once Europe's intentions are clear: “When we understand their real intentions and their willingness to contribute to the peace process, then we will be able to decide on holding talks with broader participation.” EU foreign policy chief Kaja Kallas said it is not for Russia to decide who represents the European Union. No format, date or delegation has been set.",
+      "plain": "The war has been negotiated so far between Russia and Ukraine with the US in the middle, and European governments have been left out even though they would pay for and police any settlement. The US said Putin had dropped his objection to them joining. Moscow then restated a condition that effectively leaves the decision with Putin. The difference between agreeing and deciding later, once Putin judges Europe's intentions, is the whole question, and the two sides are describing the same meeting differently. No deal came out of the five hours.",
+      "why": "Any ceasefire Europe has not negotiated is one Europe has no obligation to enforce, which is why the seat at the table is being fought over before the terms are.",
       "sources": [
-        {"outlet": "Reuters via Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show"},
-        {"outlet": "Reuters via Korea Herald", "url": "https://www.koreaherald.com/article/10934237"}
+        {
+          "outlet": "UPI",
+          "url": "https://www.upi.com/Top_News/World-News/2026/11/13/Ukraine-Russia-peace-talk-widen/1611794575888/"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://edition.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl"
+        }
       ]
     },
     {
       "slot": 8,
       "category": "Wildcard - Healthcare",
-      "headline": "The US is poised to lose its measles-elimination status as cases hit a 35-year high",
-      "body": "A Pan American Health Organization commission met November 10-13 to decide whether the US can still claim it has eliminated measles, a status it has held since 2000, and public-health reporting indicates the country is likely to lose it. The CDC has logged more than 5,100 measles cases in 2026, the most since 1991, with at least four deaths acknowledged nationally. CDC Director Erica Schwartz told Reuters the agency would not fundamentally change its response even if the status is lost, continuing to emphasize MMR vaccination; separately, a CDC health alert on measles in pregnancy was reportedly not cleared by the director's office, and HHS did not explain why.",
-      "plain": "Elimination doesn't mean zero cases; it means the disease no longer spreads continuously inside the country, a milestone the US reached in 2000 thanks to vaccination. Losing it means measles is circulating here on its own again, which happens when enough people stop vaccinating their kids. An international health body is the one that formally decides this, and it was meeting this week. The two-shot MMR vaccine is about 97% effective, so this is a reversal of a solved problem rather than a new mystery. The numbers conflict by source and date, so treat the exact case and death counts as approximate.",
-      "why": "Reversing a 25-year public-health achievement signals that falling vaccination rates are now undoing the herd immunity that kept a highly contagious disease in check.",
+      "headline": "The FDA clears a pre-surgery drug combination for bladder cancer patients who cannot take chemotherapy",
+      "body": "The FDA on November 13 approved durvalumab with enfortumab vedotin-ejfv for muscle-invasive bladder cancer in patients who cannot receive, or decline, cisplatin-based chemotherapy. The regimen is given before removal of the bladder, three cycles of durvalumab at 1,500 mg every three weeks plus enfortumab vedotin at 1.25 mg/kg on days 1 and 8, followed by up to nine cycles of durvalumab alone after surgery. Approval rests on the phase 3 VOLGA trial, which randomised 695 patients and showed statistically significant gains in both event-free and overall survival against surgery alone. Median overall survival had not been reached in either arm. The decision came six weeks ahead of the FDA's goal date.",
+      "plain": "Muscle-invasive bladder cancer has grown into the bladder wall, and the standard treatment is chemotherapy first, then removing the bladder. The chemotherapy drug used is cisplatin, which is hard on the kidneys, so a large share of patients, often older ones, cannot take it and until now went to surgery with no drug treatment beforehand. This approval gives them a regimen: an immunotherapy that helps the immune system find the tumour, plus an antibody-drug conjugate, which is an antibody that carries a chemotherapy payload and delivers it to cancer cells rather than the whole body. The trial showed patients lived longer, not just longer without the cancer returning.",
+      "why": "Overall survival, not just delayed recurrence, is the endpoint insurers and guideline committees treat as decisive, so this moves quickly from approval into standard practice.",
       "sources": [
-        {"outlet": "PolitiFact", "url": "https://www.politifact.com/article/2026/nov/12/measles-elimination-transmission-vaccine-outbreak"},
-        {"outlet": "CNN", "url": "https://www.cnn.com/2026/11/10/health/cdc-measles-elimination-response"}
+        {
+          "outlet": "FDA",
+          "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-durvalumab-enfortumab-vedotin-ejfv-muscle-invasive-bladder-cancer"
+        },
+        {
+          "outlet": "The ASCO Post",
+          "url": "https://ascopost.com/news/november-2026/fda-approves-durvalumab-with-enfortumab-vedotin-ejfv-for-muscle-invasive-bladder-cancer/"
+        },
+        {
+          "outlet": "OncLive",
+          "url": "https://www.onclive.com/view/fda-approves-durvalumab-plus-enfortumab-vedotin-for-cisplatin-ineligible-mibc"
+        }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "A global Microsoft 365 outage knocks out Outlook, Teams and Copilot for a second day",
-      "body": "A major Microsoft 365 outage that began shortly before 1 p.m. ET on Thursday, November 12, disrupted Outlook, Teams, SharePoint, OneDrive, Microsoft 365 Copilot and Defender XDR, and continued into Friday, November 13, under admin-center advisory MO1550821. Microsoft said it did not suspect malicious activity and, per one university IT notice, attributed the problem to a recent change it had made. Downdetector still showed tens of thousands of reports more than 18 hours in; Microsoft reported early stabilization on Friday but had not posted a full all-clear.",
-      "plain": "Microsoft 365 is the bundle most offices run on: company email (Outlook), chat and meetings (Teams), file storage (OneDrive and SharePoint), and the Copilot AI assistant. When Microsoft's cloud breaks, all of those go down at once for millions of workers worldwide, not just one app. Microsoft says this wasn't a hack; the likely cause is a change it made to its own systems that backfired, which is a common way big outages start. More than a day in, it was still only partly fixed. The it-was-our-own-change detail comes from a university IT notice rather than Microsoft directly, so treat it as likely but not official.",
-      "why": "A single multi-day failure freezing email, meetings and files for much of the corporate world shows how much everyday work now hinges on one company's cloud staying up.",
+      "headline": "The FAA grounds every US departure for four hours in the third national ground stop in history",
+      "body": "The FAA halted all departures nationwide at 3:54 p.m. Eastern on November 13 after what it called a temporary telecommunications outage affecting multiple Air Route Traffic Control Centers, and lifted the order four hours and 21 minutes later. FlightAware counted 1,913 cancellations and 10,494 delays. Transportation Secretary Sean Duffy said air traffic control routers became overloaded with data and began returning inconsistent readings; Homeland Security Secretary Markwayne Mullin pointed to incompatibility between newly installed equipment and older systems. CNN reported that some controllers do not accept that explanation. Officials said it was not a cyberattack, said it was unrelated to the Microsoft 365 outage that disrupted services in 74 countries this week, and have not determined the cause. It was the third national ground stop after September 11, 2001 and the 2023 FAA system outage.",
+      "plain": "Controllers do not watch planes directly. They rely on a private communications network that carries radar and flight data between regional control centres, and when that network returns numbers the controllers cannot trust, the only safe response is to stop launching aircraft. The FAA did that everywhere at once. The leading official explanation is not a hack but an upgrade: new equipment pushing more data than the decades-old system underneath it could carry. Controllers reportedly doubt that account, and the agency has not finished its investigation, so the cause is still open.",
+      "why": "The failure is attributed to modernising the system rather than to neglecting it, which makes every remaining upgrade on an ageing network a candidate for the same outcome.",
       "sources": [
-        {"outlet": "BleepingComputer", "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"},
-        {"outlet": "ABC News", "url": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203"}
+        {
+          "outlet": "FAA",
+          "url": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"
+        },
+        {
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+        }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "Gasoline averages $3.98 a gallon, now above the Biden-era average, after a repeated sub-$2 pledge",
-      "body": "AAA's national average for regular gasoline was about $3.98 a gallon as of November 10, down from a month earlier but up from $3.07 a year ago, and Bloomberg and AAA data show the average price during Trump's second term has now surpassed the Biden-era average of $3.47. On the 2024 campaign trail Trump pledged to bring gasoline below $2 a gallon, and he repeated it in September 2026, saying 'I think for gasoline, we'll get them below $2 a gallon.' In the February 2026 State of the Union he said gas was 'below $2.30 a gallon in most states and in some places, $1.99'; GasBuddy data cited by fact-checkers found only 8 of roughly 150,000 US stations selling below $2 at the time.",
-      "plain": "A campaign promise is a claim on the record you can later check against the numbers. Trump promised repeatedly to get gas below $2 a gallon, and said in February that it was already near there in most states. The actual data, from AAA (which tracks pump prices daily) and GasBuddy (which tracks individual stations), says otherwise: the national average is close to $4, almost double the promise, and gas is now more expensive on average than it was under the president he criticized for high prices. The Iran war pushed prices up this year, which is part of the story, but the gap between the pledge and the price is the documented part.",
-      "why": "Gas prices are the number voters check most reflexively, which is why a doubled-from-the-promise average heading into the midterms is a self-inflicted political problem the record keeps on file.",
+      "headline": "A Republican-led Senate panel summons Trump's Commerce Secretary over Nvidia's China chip approvals",
+      "body": "Senate Banking Chairman Tim Scott, a Republican, has asked former Nvidia CEO Jensen Huang to appear voluntarily at a public hearing on December 3, citing public reports that “raise significant national security concerns,” and Commerce Secretary Howard Lutnick agreed on November 13 to testify on December 10. Senator Ron Wyden and Representative Richard Neal, the ranking Democrats on Senate Finance and House Ways and Means, wrote to Lutnick on November 12 saying they are investigating the administration's “scheme to approve and tax” Nvidia chip exports to Chinese firms tied to Beijing's government and military. The Washington Post reported Nvidia pledged $25 million toward Trump's White House ballroom months after those China sales resumed. Trump's account of what he knew is contradicted by reporting on his own briefing. At a November 9 press conference he said he had heard about US intelligence concerns over Huang's relationship with Alice Huang, a Megaspeed executive, “not too long ago,” and when asked whether he had been told during his May trip to China he said, “No, I didn't hear about it then.” The New York Times and CNN report that Secretary of State Marco Rubio briefed him on that intelligence aboard Air Force One en route to the trip. On November 8 Trump called Huang “an honorable guy” and said he was “very above board.” The intelligence assessment about Alice Huang remains unproven, and Beijing denies it.",
+      "plain": "Nvidia's best AI chips are export-controlled, so selling them to China needs government approval, and the administration granted it. Separately, US intelligence reportedly concluded that a woman close to Nvidia's chief executive was passing information to Beijing. Trump said he only learned of that recently; two outlets report his own Secretary of State told him months earlier, on the plane to China. What makes this a congressional problem rather than a press one is that the Senate committee asking for testimony is run by his own party, and the witness is his Commerce Secretary. Note the distinction: the spying assessment is reported intelligence, not a proven fact or a charge.",
+      "why": "Hearings run by the president's own party produce sworn testimony and documents, which is a far harder record to manage than contested newspaper reporting.",
       "sources": [
-        {"outlet": "Forbes", "url": "https://www.forbes.com/sites/zacharyfolk/2026/10/26/average-gas-price-under-trump-now-tops-average-under-biden/"},
-        {"outlet": "PolitiFact", "url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387719/reduce-the-cost-of-gasoline-below-2-a-gallon/"}
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
+        },
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/policy/technology/6218235-howard-lutnick-testimony-congress-nvidia-scandal-chip-exports"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/09/politics/trump-jensen-huang-spy"
+        },
+        {
+          "outlet": "Warren-Coons letter",
+          "url": "https://www.banking.senate.gov/imo/media/doc/20261111_warren_coons_letter_to_wh_commerce_state_re_nvidia_record_retentionpdf.pdf"
+        }
       ]
     }
   ]

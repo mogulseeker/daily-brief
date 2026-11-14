@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-14",
+  "dateLabel": "Saturday, November 14, 2026",
+  "generated": "2026-11-14T13:14:27Z",
+  "tldr": [
+    "Anthropic sets terms for the largest IPO ever, with Google and Nvidia each buying about $10 billion of it.",
+    "Iran's Revolutionary Guard says it destroyed a US radar in Bahrain; CENTCOM says it shot down two drones instead.",
+    "Producer prices rise 6.5% over the year, the fastest since 2022, and a December Fed rate hike is now near-certain.",
+    "The US loses its measles elimination status after 26 years, with 5,412 cases and 591 hospitalizations this year.",
+    "Wildcard (AI Industry): Nvidia closes below $4 trillion for the first time since July 2025, down $1.7 trillion since October.",
+    "Wildcard (AI Industry): Commerce is finalizing a rule to stop Chinese firms renting Nvidia chips in foreign data centers.",
+    "Wildcard (International Affairs): The Kremlin declines to confirm the European seat at Ukraine talks that US envoys announced.",
+    "Wildcard (Healthcare): The FDA clears a drug combination before bladder-cancer surgery for patients who cannot take chemotherapy.",
+    "Tech: The FAA grounds every US departure for four hours, the third national ground stop in history.",
+    "Trump News: A Republican-led Senate panel summons Trump's Commerce Secretary over Nvidia's China chip approvals."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "Anthropic sets terms for the largest IPO on record, with Google and Nvidia buying in",
+      "body": "Anthropic filed an amended registration statement on November 10 setting a price range of $70 to $78 a share for 825 million Class A shares, listing on the Nasdaq Global Select Market under the ticker ANT. Pricing is expected November 18 and trading November 19, valuing the company at up to roughly $1.4 trillion. Alongside the public offering, seven investors agreed to buy about $26 billion of stock in a separate partner placement; Google and Nvidia each committed roughly $10 billion.",
+      "plain": "Anthropic is the AI company that makes Claude, a chatbot and coding assistant that competes with OpenAI's ChatGPT. Until now it was private, meaning only a small group of investors could own a piece of it. An IPO is the moment a company starts selling shares to anyone, and this one is set to be the biggest ever by the amount of money raised. The odd part is who is buying: Google and Nvidia are both Anthropic's suppliers, so money flows from Anthropic to them for chips and cloud computing, and now flows back the other way as investment.",
+      "why": "When a company's largest suppliers are also among its largest shareholders, the revenue they book from it is partly funded by their own cash, which makes the AI build-out look larger than the outside money actually entering it.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "outlet": "UPI",
+          "url": "https://www.upi.com/Top_News/US/2026/11/10/anthropic-ipo-stock-range-nasdaq/6651794326745/"
+        },
+        {
+          "outlet": "CBC",
+          "url": "https://cbc.ca/news/business/anthropic-ipo-9.7418028"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "Iran claims it destroyed a US radar in Bahrain; US Central Command says it shot down two drones",
+      "body": "Iran's Revolutionary Guard said on November 13 that it destroyed a US early-warning radar in Bahrain, calling it retaliation for an air strike on a telecommunications tower in Sirik county in Iran's southern Hormozgan province. US Central Command denied the radar was hit, saying the Guard launched two one-way attack drones toward Bahrain and that US forces shot both down. CENTCOM did not address the claimed strike on Sirik. Bahrain has not commented, and there is no independent confirmation of damage.",
+      "plain": "Bahrain is a small island country in the Gulf that hosts the US Navy's main base in the region. An early-warning radar is the equipment that spots incoming missiles and aircraft, so destroying one would be a real blow rather than a symbolic hit. Iran says it did that; the US says the drones never got through. Both sides have reason to describe this their way, and nobody outside the two militaries has seen the site. Treat the Iranian claim as unverified.",
+      "why": "Each side is now claiming a different version of the same night, which removes the shared factual ground that de-escalation usually needs.",
+      "sources": [
+        {
+          "outlet": "RFE/RL",
+          "url": "https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html"
+        },
+        {
+          "outlet": "Arab News",
+          "url": "https://www.arabnews.com/middle-east/irans-guards-say-they-targeted-us-radar-system-in-bahrain-3011593"
+        },
+        {
+          "outlet": "KSL",
+          "url": "https://www.ksl.com/article/51645602/us-military-downs-2-iranian-attack-drones-as-iran-claims-a-strike-on-a-us-radar-in-bahrain"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "Producer prices rise 6.5% over the year and markets price a December Fed hike as near-certain",
+      "body": "The October producer price index released November 13 rose 0.3% on the month, slightly below forecasts, but was up 6.5% from a year earlier, the fastest annual pace since November 2022. It followed an October consumer price report showing headline prices up 0.4% on the month against a 0.3% forecast and core up 0.3%. After both readings, futures implied roughly 85% to 90% odds of a quarter-point increase at the December 8-9 meeting, and about a 12% chance of a half-point move. The 10-year Treasury yield ended near 5.15%, the 2-year at 4.87% and the 30-year at 5.48%.",
+      "plain": "The producer price index measures what factories and farms charge each other, before anything reaches a shop shelf, so it is an early look at where consumer prices head next. Rising 6.5% in a year is fast. The Federal Reserve's job is to keep inflation near 2%, and its main tool is the interest rate it charges banks, which filters into mortgages and business loans. For most of the last two years traders expected cuts; they now expect an increase. Governor Christopher Waller had said a core reading of about 0.3% would make him consider a half-point move, and core came in at exactly 0.3%.",
+      "why": "Rate expectations have flipped from cuts to hikes, which reprices every asset valued off cheap money, and the heavily indebted AI data-center build-out is the most exposed to that.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/amp/2026/11/13/treasury-yields-fed-rates.html"
+        },
+        {
+          "outlet": "American Banker",
+          "url": "https://www.americanbanker.com/news/hot-inflation-report-puts-fed-on-track-for-december-rate-hike"
+        },
+        {
+          "outlet": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economic-indicators/hot-october-inflation-report-rattles-markets-5015775"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "The US loses its measles elimination status after 26 years",
+      "body": "CNN reported on November 13, citing a source, that the United States has lost the measles elimination status it held since 2000, and Live Science reported the same determination by the Pan American Health Organization. The CDC on Friday counted 5,412 confirmed cases in 45 states as of November 12, up 230 from its previous update, with 591 hospitalizations, about 11% of cases, and a 17% hospitalization rate among children under five. The CDC has confirmed six measles-associated deaths this year; state reports tally as many as ten. Some outlets report the formal announcement is set for November 17, so the determination is credibly reported but not yet officially published.",
+      "plain": "Elimination status does not mean no cases. It means the virus is not spreading continuously inside the country, so outbreaks come from travellers and then stop. Losing it means measles is circulating here on its own again. Measles is one of the most contagious diseases known and spreads through air that stays infectious for up to two hours after a sick person leaves a room. Two doses of the vaccine are about 97% effective, so sustained spread is mainly a sign that vaccination rates have fallen below the level that blocks transmission. Getting the status back requires twelve straight months without continuous spread.",
+      "why": "The threshold was crossed by vaccination coverage slipping, not by a change in the virus, so the same gap now exposes the country to the other diseases that coverage was holding back.",
+      "sources": [
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status"
+        },
+        {
+          "outlet": "US News",
+          "url": "https://www.usnews.com/news/us/articles/2026-11-13/us-measles-cases-rise-to-5-412-cdc-says"
+        },
+        {
+          "outlet": "Live Science",
+          "url": "https://livescience.com/health/viruses-infections-disease/measles-is-back-in-the-united-states-who-authorities-say"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - AI Industry",
+      "headline": "Nvidia closes below $4 trillion for the first time since July 2025",
+      "body": "Nvidia fell about 2% on November 13 to close below a $4 trillion market capitalisation, its first close under that level since July 2025. The stock dropped roughly 13% over the week, a sixth consecutive weekly decline, and has shed about $1.7 trillion in value since peaking near $5.8 trillion in early October. HSBC cut the stock to hold, citing uncertainty over leadership after Jensen Huang's resignation on November 12; CFO Colette Kress is interim CEO and the board had not retained a search firm as of Friday. Chip peers fell with it, AMD down about 11% and Broadcom about 6.6% on the day. Nvidia reports quarterly results November 17.",
+      "plain": "Nvidia makes the chips that nearly all modern AI runs on, so its share price works as a live poll on whether investors still believe the AI build-out will pay off. Two things hit it at once: the company has no permanent chief executive, and the inflation data pushed interest rates up, which hurts companies that borrow heavily to build data centres. $1.7 trillion is more than the total value of all but a handful of companies on earth. The earnings report on Tuesday is the first hard data on whether customers are still buying at the same pace.",
+      "why": "Nvidia's price is the collateral behind a great deal of AI-related borrowing, so a sustained decline tightens financing for the data centres its own chips are meant to fill.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+        },
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        },
+        {
+          "outlet": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - AI Industry",
+      "headline": "Commerce is finalising a rule to block Chinese firms from renting Nvidia chips abroad",
+      "body": "The Commerce Department is finalising a rule that would bar Chinese AI companies from remotely using advanced Nvidia chips housed in data centres outside China, according to The Information, which reported it on November 11 citing two people familiar with the matter. The rule would extend Bureau of Industry and Security semiconductor controls to remote access, and reporting says data centres run by US companies would be exempt if they block access from arms-embargoed countries. Officials plan to announce it this month. Commerce has not confirmed the rule and it has not been published. Attorneys at Baker McKenzie told reporters the department lacks statutory authority to regulate remote computing access under current law. Alibaba fell 5% in Hong Kong on Thursday.",
+      "plain": "US export controls stop Nvidia's best chips being shipped to China. They do not stop a Chinese company renting time on those chips sitting in a data centre in Singapore or Malaysia, which is a loophole wide enough to train a frontier model through. This rule would close it by regulating the renting rather than the shipping. The catch is legal: export law governs goods crossing borders, and nothing physically crosses a border when you log in to a server abroad, which is why lawyers are questioning whether Commerce can do this without Congress. A bill that would authorise it passed the House 369-22 in January and has not moved in the Senate.",
+      "why": "If the rule is published and then struck down for exceeding the agency's authority, the controls lose force precisely where the compute is easiest to reach.",
+      "sources": [
+        {
+          "outlet": "Forbes",
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/11/12/chinese-ai-firms-rush-to-rent-nvidia-chips-abroad-before-a-new-us-rule/"
+        },
+        {
+          "outlet": "TokenPost",
+          "url": "https://www.tokenpost.com/news/regulation/55398"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - International Affairs",
+      "headline": "The Kremlin declines to confirm the European seat at Ukraine talks that US envoys announced",
+      "body": "After a five-hour meeting with Vladimir Putin in Moscow on November 12, US envoy Steve Witkoff said Putin had agreed to let European representatives join the next round of Ukraine peace talks, and Jared Kushner posted that both sides had agreed to a European presence. Russia was evasive on November 13. Putin's stated position is that broader participation can be decided only once Europe's intentions are clear: “When we understand their real intentions and their willingness to contribute to the peace process, then we will be able to decide on holding talks with broader participation.” EU foreign policy chief Kaja Kallas said it is not for Russia to decide who represents the European Union. No format, date or delegation has been set.",
+      "plain": "The war has been negotiated so far between Russia and Ukraine with the US in the middle, and European governments have been left out even though they would pay for and police any settlement. The US said Putin had dropped his objection to them joining. Moscow then restated a condition that effectively leaves the decision with Putin. The difference between agreeing and deciding later, once Putin judges Europe's intentions, is the whole question, and the two sides are describing the same meeting differently. No deal came out of the five hours.",
+      "why": "Any ceasefire Europe has not negotiated is one Europe has no obligation to enforce, which is why the seat at the table is being fought over before the terms are.",
+      "sources": [
+        {
+          "outlet": "UPI",
+          "url": "https://www.upi.com/Top_News/World-News/2026/11/13/Ukraine-Russia-peace-talk-widen/1611794575888/"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://edition.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - Healthcare",
+      "headline": "The FDA clears a pre-surgery drug combination for bladder cancer patients who cannot take chemotherapy",
+      "body": "The FDA on November 13 approved durvalumab with enfortumab vedotin-ejfv for muscle-invasive bladder cancer in patients who cannot receive, or decline, cisplatin-based chemotherapy. The regimen is given before removal of the bladder, three cycles of durvalumab at 1,500 mg every three weeks plus enfortumab vedotin at 1.25 mg/kg on days 1 and 8, followed by up to nine cycles of durvalumab alone after surgery. Approval rests on the phase 3 VOLGA trial, which randomised 695 patients and showed statistically significant gains in both event-free and overall survival against surgery alone. Median overall survival had not been reached in either arm. The decision came six weeks ahead of the FDA's goal date.",
+      "plain": "Muscle-invasive bladder cancer has grown into the bladder wall, and the standard treatment is chemotherapy first, then removing the bladder. The chemotherapy drug used is cisplatin, which is hard on the kidneys, so a large share of patients, often older ones, cannot take it and until now went to surgery with no drug treatment beforehand. This approval gives them a regimen: an immunotherapy that helps the immune system find the tumour, plus an antibody-drug conjugate, which is an antibody that carries a chemotherapy payload and delivers it to cancer cells rather than the whole body. The trial showed patients lived longer, not just longer without the cancer returning.",
+      "why": "Overall survival, not just delayed recurrence, is the endpoint insurers and guideline committees treat as decisive, so this moves quickly from approval into standard practice.",
+      "sources": [
+        {
+          "outlet": "FDA",
+          "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-durvalumab-enfortumab-vedotin-ejfv-muscle-invasive-bladder-cancer"
+        },
+        {
+          "outlet": "The ASCO Post",
+          "url": "https://ascopost.com/news/november-2026/fda-approves-durvalumab-with-enfortumab-vedotin-ejfv-for-muscle-invasive-bladder-cancer/"
+        },
+        {
+          "outlet": "OncLive",
+          "url": "https://www.onclive.com/view/fda-approves-durvalumab-plus-enfortumab-vedotin-for-cisplatin-ineligible-mibc"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "The FAA grounds every US departure for four hours in the third national ground stop in history",
+      "body": "The FAA halted all departures nationwide at 3:54 p.m. Eastern on November 13 after what it called a temporary telecommunications outage affecting multiple Air Route Traffic Control Centers, and lifted the order four hours and 21 minutes later. FlightAware counted 1,913 cancellations and 10,494 delays. Transportation Secretary Sean Duffy said air traffic control routers became overloaded with data and began returning inconsistent readings; Homeland Security Secretary Markwayne Mullin pointed to incompatibility between newly installed equipment and older systems. CNN reported that some controllers do not accept that explanation. Officials said it was not a cyberattack, said it was unrelated to the Microsoft 365 outage that disrupted services in 74 countries this week, and have not determined the cause. It was the third national ground stop after September 11, 2001 and the 2023 FAA system outage.",
+      "plain": "Controllers do not watch planes directly. They rely on a private communications network that carries radar and flight data between regional control centres, and when that network returns numbers the controllers cannot trust, the only safe response is to stop launching aircraft. The FAA did that everywhere at once. The leading official explanation is not a hack but an upgrade: new equipment pushing more data than the decades-old system underneath it could carry. Controllers reportedly doubt that account, and the agency has not finished its investigation, so the cause is still open.",
+      "why": "The failure is attributed to modernising the system rather than to neglecting it, which makes every remaining upgrade on an ageing network a candidate for the same outcome.",
+      "sources": [
+        {
+          "outlet": "FAA",
+          "url": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"
+        },
+        {
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "A Republican-led Senate panel summons Trump's Commerce Secretary over Nvidia's China chip approvals",
+      "body": "Senate Banking Chairman Tim Scott, a Republican, has asked former Nvidia CEO Jensen Huang to appear voluntarily at a public hearing on December 3, citing public reports that “raise significant national security concerns,” and Commerce Secretary Howard Lutnick agreed on November 13 to testify on December 10. Senator Ron Wyden and Representative Richard Neal, the ranking Democrats on Senate Finance and House Ways and Means, wrote to Lutnick on November 12 saying they are investigating the administration's “scheme to approve and tax” Nvidia chip exports to Chinese firms tied to Beijing's government and military. The Washington Post reported Nvidia pledged $25 million toward Trump's White House ballroom months after those China sales resumed. Trump's account of what he knew is contradicted by reporting on his own briefing. At a November 9 press conference he said he had heard about US intelligence concerns over Huang's relationship with Alice Huang, a Megaspeed executive, “not too long ago,” and when asked whether he had been told during his May trip to China he said, “No, I didn't hear about it then.” The New York Times and CNN report that Secretary of State Marco Rubio briefed him on that intelligence aboard Air Force One en route to the trip. On November 8 Trump called Huang “an honorable guy” and said he was “very above board.” The intelligence assessment about Alice Huang remains unproven, and Beijing denies it.",
+      "plain": "Nvidia's best AI chips are export-controlled, so selling them to China needs government approval, and the administration granted it. Separately, US intelligence reportedly concluded that a woman close to Nvidia's chief executive was passing information to Beijing. Trump said he only learned of that recently; two outlets report his own Secretary of State told him months earlier, on the plane to China. What makes this a congressional problem rather than a press one is that the Senate committee asking for testimony is run by his own party, and the witness is his Commerce Secretary. Note the distinction: the spying assessment is reported intelligence, not a proven fact or a charge.",
+      "why": "Hearings run by the president's own party produce sworn testimony and documents, which is a far harder record to manage than contested newspaper reporting.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
+        },
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/policy/technology/6218235-howard-lutnick-testimony-congress-nvidia-scandal-chip-exports"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/09/politics/trump-jensen-huang-spy"
+        },
+        {
+          "outlet": "Warren-Coons letter",
+          "url": "https://www.banking.senate.gov/imo/media/doc/20261111_warren_coons_letter_to_wh_commerce_state_re_nvidia_record_retentionpdf.pdf"
+        }
+      ]
+    }
+  ]
+}
