@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-15",
+  "dateLabel": "Sunday, November 15, 2026",
+  "generated": "2026-11-15T13:04:50Z",
+  "tldr": [
+    "A petition to reinstate Jensen Huang passes 135,000 signatures as two large Nvidia investors ask the board to slow down.",
+    "Iran claims a second strike on US assets in Bahrain in three days as mines hit more tankers in the Strait of Hormuz.",
+    "A trade court moves toward refunding all importers the $166 billion in tariffs struck down in February, over White House objections.",
+    "AstraZeneca cuts about 600 US sales jobs as part of a $1.5 billion annual savings plan.",
+    "Wildcard (AI Industry): The chip-rental loophole exposed by the Nvidia scandal is now a criminal case in two countries.",
+    "Wildcard (International Affairs): Kushner says he is trying to broker direct Europe-Russia talks on Ukraine.",
+    "Wildcard (Economics): Bitcoin falls about 16% on the week to roughly $62,000 even as stocks snap a four-week losing streak.",
+    "Wildcard (Healthcare): Cellectis cuts about 70% of its staff and abandons the cell-therapy approach it was built on.",
+    "Tech: The FBI seizes the infrastructure behind a North Korean scheme that stole more than $400 million in crypto.",
+    "Trump News: A judge blocks the East Potomac Park closure, calling the Park Service's stated reasons misleading by omission."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "A campaign to bring back Jensen Huang gathers 135,000 signatures as Nvidia investors urge the board to slow down",
+      "body": "An online petition asking Nvidia's board to reinstate Jensen Huang passed 135,000 signatures on Sunday, four days after the board accepted his resignation on November 11; organizers say more than 5,000 current employees signed and that the board acted without \"meaningful due process.\" Elon Musk said on X he was signing it too. Separately, Altimeter's Brad Gerstner and Atreides' Gavin Baker urged the board in an open letter to pursue a \"slow, measured, and deliberate process\" on leadership, stopping short of demanding reinstatement. CFO Colette Kress remains interim CEO; earnings land November 17.",
+      "plain": "Nvidia designs the chips nearly all AI systems run on, and Huang co-founded it and ran it for 33 years. He resigned after the board opened an investigation into reporting that a foreign intelligence service had targeted him, and he told staff he had been unfaithful to his wife. The notable part is who wants him back: not the board, but shareholders and employees who think the company's worth sits in one person's judgment. A petition has no legal force, so this is pressure, not a mechanism.",
+      "why": "The pressure campaign reframes the question from whether Huang behaved improperly to whether Nvidia can be run by anyone else, which is the harder problem for a board that has not yet named a permanent successor.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+        },
+        {
+          "outlet": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/11/63276610/nvidia-jensen-huang-reinstate-ceo-petition-elon-musk-investors"
+        },
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "Iran claims a second strike on US assets in Bahrain as more tankers hit mines in the Strait of Hormuz",
+      "body": "Iran said it struck US military assets in Bahrain, its second such claim in three days, and Bahrain said it intercepted the attacks; US Central Command has not confirmed damage or casualties. Iran's navy said two more tankers struck mines and caught fire in the eastern Strait of Hormuz, bringing the reported total to seven incidents in 24 hours. The US has blockaded Iranian ports and is escorting tankers; Iran ties any reopening to ending that blockade and accepting seven conditions. Reuters reported Trump said he was considering holding off on attacking absent new provocations.",
+      "plain": "The Strait of Hormuz is a narrow channel that much of the world's seaborne oil must pass through, which makes closing it Iran's strongest non-nuclear lever. Iran shut it in late February after US and Israeli strikes on its nuclear sites, and keeps it shut cheaply, with sea mines rather than warships. A mine need not sink a tanker to work; it only has to make insurers decide the route is not worth it. Both sides are claiming hits the other will not confirm, so treat the strike claims as contested.",
+      "why": "Each tanker that hits a mine raises the insurance cost of the route rather than the military cost to Iran, which is why a blockade-for-reopening trade is the only exit either side has put on the table.",
+      "sources": [
+        {
+          "outlet": "The Japan Times",
+          "url": "https://japantimes.co.jp/news/2026/11/15/world/iran-bahrain-base-us-deal"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+        },
+        {
+          "outlet": "Reuters (via Investing.com)",
+          "url": "https://uk.investing.com/news/economy-news/iran-claims-fresh-strike-on-us-base-as-hormuz-shipping-crisis-deepens-4982963"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "A trade court moves toward refunding all importers the $166 billion in tariffs the Supreme Court struck down",
+      "body": "Court of International Trade Judge Richard Eaton, who is presiding over every tariff refund case, has repeatedly signaled support for universal rebates rather than refunds limited to the companies that sued. The Supreme Court held on February 20 that the International Emergency Economic Powers Act does not authorize presidential tariffs, but left open who gets money back, confirming only that the trade court has jurisdiction. About $166 billion in duties became refundable, roughly $122 billion of it certified as of September. The administration argues only plaintiffs should be repaid. Section 232 and 301 tariffs are unaffected.",
+      "plain": "A tariff is a tax an importer pays when goods cross the border, and these were imposed under an emergency-powers law. In February the Supreme Court decided that law does not actually permit tariffs, which made money already collected potentially refundable. It left a second question unanswered: whether the government repays everyone who paid, or only the companies that sued. The judge now handling it leans toward everyone, which is the difference between a few billion dollars and $166 billion.",
+      "why": "Whether refunds are universal or limited to plaintiffs decides whether an unlawful tax is simply reversed or becomes a windfall for the companies with the legal budget to sue, and it is a $166 billion line item against federal revenue either way.",
+      "sources": [
+        {
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/11/12/tariff-refund-class-action-lawsuit-universal-tariff-refunds-trump-administration/"
+        },
+        {
+          "outlet": "Flexport",
+          "url": "https://www.flexport.com/blog/the-supreme-courts-ieepa-tariff-ruling-next-steps-potential-refunds-and/"
+        },
+        {
+          "outlet": "Norton Rose Fulbright",
+          "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/20f2de87/potential-refunds-us-supreme-court-overturns-ieepa-tariffs"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "AstraZeneca cuts about 600 US sales jobs and pulls back a contract sales partnership",
+      "body": "AstraZeneca cut roughly 600 jobs from its US respiratory and immunology commercial teams, Bloomberg reported Friday, citing people familiar with the matter, and scaled back its US partnership with contract sales firm Syneos Health. The cuts fall under a late-October plan to save about $1.5 billion a year by 2029 and redirect the money into the drug pipeline. Some affected staff are expected to be reassigned. AstraZeneca declined to comment.",
+      "plain": "Big drugmakers employ large sales forces whose job is visiting doctors to argue for their products, and respiratory and immunology are two of AstraZeneca's biggest areas. Cutting 600 of those roles is a bet that money spent persuading doctors returns less than money spent inventing the next drug. Syneos Health matters because it rents sales reps to drugmakers, so pulling back cuts a second layer of the same function. One outlet, Bloomberg, has this, so treat the figure as credible but unconfirmed.",
+      "why": "Shifting money from sales headcount to the pipeline is the trade pharma companies make when they expect future revenue to be set by what they can get approved rather than by how hard they can promote what they already sell.",
+      "sources": [
+        {
+          "outlet": "Fierce Pharma",
+          "url": "https://www.fiercepharma.com/pharma/astrazeneca-cuts-600-us-sales-jobs-amid-15b-savings-plan-bloomberg"
+        },
+        {
+          "outlet": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/astrazeneca-cuts-600-sales-jobs-in-us-bloomberg-news-reports-5026343"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - AI Industry",
+      "headline": "The chip-rental loophole exposed by the Nvidia scandal is now a criminal case in two countries",
+      "body": "Megaspeed, the Singapore-based Nvidia customer at the center of the inquiry surrounding Huang's departure, said it will cooperate with US investigators and denied wrongdoing. It faces criminal investigations in both the US and Singapore over alleged diversion of American chips to China. Investigators have reportedly alleged a former senior figure used shell companies to reach 240,000 export-restricted chips; that figure is unproven and the company denies it. US controls restrict shipping advanced chips to China but do not clearly cover renting access to chips abroad. Senator Tom Cotton asked Commerce Secretary Howard Lutnick to investigate the firm in 2025.",
+      "plain": "US rules try to keep the most advanced AI chips out of China by banning their export. But a Chinese company does not need to own a chip to use it; it can log in over the internet and rent time on chips sitting in Singapore or elsewhere in Southeast Asia. That remote access was never squarely covered by the export rules, and Washington has known about the gap for years. Nothing here has been proven in court, and Megaspeed denies it.",
+      "why": "If renting compute counts as a workaround, the export-control regime constrains where chips physically sit rather than who can use them, which is a much weaker thing than the policy claims to do.",
+      "sources": [
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/megaspeed-statement-nvidia-jensen-huang-alice-us-exports-chips-china-rcna608939"
+        },
+        {
+          "outlet": "The Washington Post",
+          "url": "https://washingtonpost.com/technology/2026/11/15/jensen-huang-nvidia-face-questions-over-knowledge-chip-smuggling"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - International Affairs",
+      "headline": "Kushner says he is trying to broker direct Europe-Russia talks on Ukraine",
+      "body": "Jared Kushner said he aims to facilitate direct engagement between Europe and Moscow on Ukraine, after he and Steve Witkoff met Vladimir Putin in Moscow and then Volodymyr Zelenskyy in Ireland. Witkoff said trilateral talks involving Russia, Ukraine and the US had resumed and suggested European representatives could join the next round. Zelenskyy said US negotiators asked during earlier talks in Abu Dhabi whether Ukraine would leave Donbas in exchange for NATO membership. Russian demands for more territory, limits on NATO membership and caps on Ukraine's army remain the central obstacles.",
+      "plain": "Ukraine's European neighbors pay a large share of the war's cost and would have to guarantee any peace, but they have not been at the table where terms are discussed. Kushner proposes changing that, which Moscow has resisted because it prefers negotiating with Washington alone. The sticking points have not moved: Russia wants land it does not hold, a permanent bar on NATO membership, and a smaller Ukrainian army. Note the trade Zelenskyy describes, since NATO membership is not Washington's alone to give.",
+      "why": "Adding Europe to the table makes any deal more durable and harder to reach at the same time, because the parties who would have to enforce a settlement are also the ones least willing to concede territory.",
+      "sources": [
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - Economics",
+      "headline": "Bitcoin falls about 16% on the week even as stocks snap a four-week losing streak",
+      "body": "Bitcoin slid to roughly $62,000 in Sunday trading, about 16% lower over seven days, with Coinbase Institutional analysts pointing to rising expectations of Federal Reserve rate hikes. Equities went the other way: the S&P 500 rose about 2.5% on the week and the Nasdaq about 2.3%, ending four straight weekly declines, though both fell Friday as Nvidia slipped again. Traders are pricing quarter-point hikes in December, January and March after October CPI rose 0.4% and core 0.3%; Governor Christopher Waller said a half-point December move \"should be considered\" if core inflation stayed elevated.",
+      "plain": "When the Federal Reserve raises interest rates, cash and government bonds pay more, so assets producing no income must compete with a higher risk-free return. Bitcoin produces no income at all, which is why it falls hardest when rate expectations rise. Stocks at least represent companies that earn money, and this week investors decided several would earn plenty. The price and the Coinbase explanation come from few outlets, so treat the attribution as plausible rather than settled.",
+      "why": "A week where equities rally and the most rate-sensitive asset drops 16% suggests investors are repricing the cost of money rather than losing confidence in corporate earnings.",
+      "sources": [
+        {
+          "outlet": "AP (via CT Post)",
+          "url": "https://www.ctpost.com/business/article/how-major-us-stock-indexes-fared-friday-11-13-2026-22529691.php"
+        },
+        {
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/article/feds-waller-leans-toward-quarter-point-rate-hike-in-december-open-to-50-basis-points-090000672.html"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - Healthcare",
+      "headline": "Cellectis cuts about 70% of its staff and abandons the cell-therapy approach it was built on",
+      "body": "Cellectis is cutting roughly 70% of its workforce as it abandons allogeneic CAR-T therapies in favor of in vivo approaches; the company entered 2026 with 229 full-time employees. The move lands in a week of broader biotech retrenchment: Milestone Pharmaceuticals is reducing its headquarters workforce to cut operating expenses 30%, and AstraZeneca cut about 600 US commercial roles.",
+      "plain": "CAR-T treats cancer by re-engineering a patient's immune cells to attack tumors. The allogeneic version Cellectis pursued used donor cells to build off-the-shelf doses, far cheaper than making a batch per patient, but donor cells are harder to stop the body rejecting. The in vivo approach it is switching to skips manufacturing entirely by editing cells inside the body. Cutting 70% of staff is not a trim; most of those people did the thing the company stopped doing.",
+      "why": "A company gutting itself to move from manufactured cell therapies to in-body editing is a bet that the bottleneck in cell therapy was never the biology but the cost of making each dose.",
+      "sources": [
+        {
+          "outlet": "Fierce Biotech",
+          "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026"
+        },
+        {
+          "outlet": "BioSpace",
+          "url": "https://www.biospace.com/biospace-layoff-tracker"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "The FBI seizes the infrastructure behind a North Korean scheme that stole more than $400 million in crypto",
+      "body": "The FBI said Thursday that North Korean hackers stole more than $400 million in cryptocurrency over 18 months through a social-engineering operation it calls FaceStealer, and that it obtained a federal warrant and seized the infrastructure running it, including more than 900 victim webcam recordings. The scheme contacts a target from a messaging account stolen from an earlier victim, steers them into a counterfeit Zoom or Teams meeting, plays recordings of previous victims so the call looks populated, records the target's webcam, then stages a fake technical fault prompting a malware install. The FBI attributes it to the group tracked as Sapphire Sleet and APT38.",
+      "plain": "Most security advice assumes an attack arrives from a stranger. This one arrives from a colleague's real account, because that account was taken over in an earlier round of the same attack. Inside the fake call, recordings of previous victims make the meeting look normal, and the target's webcam is captured to impersonate them next. That is what makes it self-propagating. The recommended fix is dull and effective: confirm an unexpected meeting request through another channel first.",
+      "why": "An intrusion chain that harvests the credentials and likeness it needs to continue means the practical defense is verifying identity outside the compromised channel, not spotting a convincing fake inside it.",
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/"
+        },
+        {
+          "outlet": "Cybernews",
+          "url": "https://cybernews.com/news/fbi-north-korean-facestealers/"
+        },
+        {
+          "outlet": "FBI",
+          "url": "https://www.fbi.gov/video-repository/facestealer_110526.mp4/view"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "A judge blocks the East Potomac Park closure and finds the Park Service's stated reasons misleading by omission",
+      "body": "US District Judge Ana Reyes issued a temporary restraining order on Saturday, November 14, barring the government from closing East Potomac Park and its golf course, one day before the planned closure; it runs through November 28. Reyes found the National Park Service's stated reasons pretextual, writing that its explanation was \"incomplete, if not misleading by omission\" for leaving out Trump's directive to close the park, and noting the Service had itself ended the operator's lease to carry out that directive, then cited the resulting vacancy as a reason to close. Earlier in the litigation a Justice Department lawyer argued Trump's Truth Social announcement was \"not the same action\" as Interior's closure decision. Trump posted dozens of photographs of what he calls \"Trash Island\" and blamed Reyes, writing the fairways are \"far too close together.\"",
+      "plain": "Trump wants a public golf course in Washington rebuilt into a championship course, and the Interior Department moved to close the park to do it. Preservationists and golfers sued. The judge's finding is narrow and specific: the Park Service gave a reason for closing that left out the real one, and the vacancy it pointed to was one the agency created itself by terminating the operator's lease. Agencies may change how land is used, but must say truthfully why and let the public comment.",
+      "why": "A court finding that an agency manufactured the condition it then cited as justification is the kind of record that follows an administration into every other case where it claims an emergency or a vacancy forced its hand.",
+      "sources": [
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
+        },
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-trumps-plan-redevelop-east-potomac-golf-cours-rcna609366"
+        }
+      ]
+    }
+  ]
+}
