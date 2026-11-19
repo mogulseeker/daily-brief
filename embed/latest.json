@@ -1,197 +1,225 @@
 {
-  "date": "2026-11-18",
-  "dateLabel": "Wednesday, November 18, 2026",
-  "generated": "2026-11-18T13:16:25Z",
+  "date": "2026-11-19",
+  "dateLabel": "Thursday, November 19, 2026",
+  "generated": "2026-11-19T13:16:50Z",
   "tldr": [
-    "Nvidia's first quarter without Jensen Huang: revenue up 103% to $115.8 billion, and the board says he is not coming back.",
-    "US jets struck a Revolutionary Guard missile site on Qeshm Island; Bahrain and Kuwait intercepted Iranian munitions on Wednesday.",
-    "Traders have now fully priced a December Federal Reserve rate hike, with the 10-year Treasury yield above 5.1%.",
-    "A leukemia vaccine extended median survival to 24.0 months from 14.7 in its pivotal Phase 3 trial.",
-    "Anthropic prices the largest IPO on record tonight at $70 to $78 a share, valuing it near $1.4 trillion.",
-    "Xi met Trump personally at the Shenzhen airport, a day before the first three-way summit with Putin.",
-    "Britain sanctioned eight Israeli construction firms over West Bank settlements, freezing their assets.",
-    "The FDA approved Cosentyx for polymyalgia rheumatica, the first anti-IL-17 biologic cleared for the condition.",
-    "The FAA halted router installations nationwide after one new unit in Arkansas triggered a five-hour ground stop.",
-    "A judge ordered Trump to sit for a deposition in his own $10 billion suit against the BBC: “It is Trump's case.”"
+    "Anthropic priced the largest IPO ever at $83 a share, raising $81.3 billion, and starts trading today as ANT.",
+    "Trump, Xi and Putin signed a four-point declaration in Shenzhen: nuclear talks, more refined fuel, no mention of Ukraine.",
+    "Fed minutes show almost all officials want more hikes; Waller says a half point may be needed to shock people.",
+    "The FDA published its rejection letter for Summit's lung-cancer drug: 93% of the trial's events came from China.",
+    "Arizona's attorney general opened a criminal investigation into OpenAI over rogue AI agents inside banks.",
+    "Nvidia stopped shipping H200 chips to China even though Washington licensed the sales; Beijing will not let them in.",
+    "Iran widened its Gulf attacks to a US air base in Kuwait and sites in Bahrain after the Qeshm Island strike.",
+    "The FDA approved the first gene-silencing drug for myasthenia gravis, injected four times a year instead of weekly.",
+    "Intelligence, homeland security and FBI officials told Congress the cascade of US outages was not an attack.",
+    "Trump said Iran is 'looking at gases, looking at bio'; ABC reports the intelligence is unverified and Rubio played it down."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Nvidia's revenue doubled in its first quarter without Jensen Huang",
-      "body": "Nvidia reported fiscal third-quarter revenue of $115.8 billion, up 103% from a year earlier, with data-center revenue of $107.6 billion, up 110%, and GAAP earnings of $2.70 a diluted share. It guided to $130 billion for the current quarter, above the $125.1 billion consensus, while assuming no data-center compute revenue from China at all. It was the first report since Jensen Huang resigned on November 12, and the board said separately that it does not intend to reinstate him.",
-      "plain": "Nvidia designs the chips that almost all modern AI systems are trained and run on, so its sales are the clearest measure of how much companies are really spending on AI. Sales doubled in a year. The striking part is the forecast: Nvidia expects $130 billion next quarter while assuming it sells no AI computing power into China at all. It is growing this fast with what was once its second-largest market written down to zero.",
-      "why": "Nvidia's order book is the one number that can confirm or deny the AI capital-spending boom, and it just said demand is strong enough that losing China entirely does not slow it down.",
+      "headline": "Anthropic priced the biggest IPO in history at $83 a share",
+      "body": "Anthropic priced its initial public offering at $83 a share on Wednesday evening, above the $70-to-$78 range it had marketed, and upsized the deal to roughly 980 million shares. That raises about $81.3 billion, the largest stock offering on record, past the roughly $75 billion SpaceX raised in June, at a fully diluted valuation near $1.5 trillion. Trading opens today on the Nasdaq under the ticker ANT, with about 20% of the offering reserved for retail investors. Yahoo Finance put the deal at 925 million shares rather than 980 million.",
+      "plain": "An IPO is the moment a private company sells shares to anyone who wants them, at a price set the night before trading starts. Anthropic, the maker of the Claude assistant, asked for $70 to $78 and got $83, so demand outran its bankers' expectations. The number that matters is the $81.3 billion raised, which is cash for chips and electricity. None of it tells you what the shares are worth: no one has traded them yet.",
+      "why": "The largest pool of outside capital ever raised in one go is now committed to AI model development, which raises the floor on what every competitor must spend to stay in the race.",
       "sources": [
         {
-          "outlet": "NVIDIA",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+          "outlet": "Associated Press",
+          "url": "https://www.wral.com/news/ap/b6a74-anthropic-set-to-begin-trading-as-a-1-5-trillion-company-in-the-biggest-ipo-on-record/"
         },
         {
-          "outlet": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/nation/nvidia-chair-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "US and Iran trade strikes around the Strait of Hormuz, and Gulf states intercept the overflow",
-      "body": "US fighter jets struck a Revolutionary Guard missile launch site on Iran's Qeshm Island on Tuesday, hours after Iranian drones targeted a US radar at Bahrain's Sheikh Isa Air Base. Bahrain said it intercepted “a number of Iranian aerial attacks” early Wednesday and Kuwait reported interceptions too, while a tanker was attacked in the Strait of Hormuz, with 21 Indian nationals evacuated, two injured and one missing. Iran's deputy governor of Hormozgan province said the Qeshm strike damaged no vital infrastructure; US officials called it self-defense.",
-      "plain": "Qeshm is an Iranian island at the mouth of the Strait of Hormuz, a narrow sea passage that roughly a fifth of the world's oil travels through. That geography is the point: missiles on Qeshm can reach the shipping lane, and the lane is Iran's main leverage. The pattern now is exchange rather than escalation, each side hitting a military target and calling it defensive. The civilian cost is landing on commercial ships and their crews.",
-      "why": "Every round makes direct strikes between the United States and Iran more routine, and shipping and insurance markets price that in long before diplomats acknowledge it.",
+      "headline": "Trump, Xi and Putin signed a four-point declaration after the first three-way summit",
+      "body": "The leaders of the United States, China and Russia met together for the first time on Thursday, on the sidelines of the APEC summit in Shenzhen, issuing a four-point declaration after about 90 minutes of talks. It reaffirms that \"a nuclear war cannot be won and must not be fought,\" commits the three to a trilateral dialogue on nuclear risk reduction and nonproliferation, backs a more effective United Nations, and pledges to increase production and supply of refined petroleum products. There are no warhead reduction targets, and Ukraine does not appear in the text, though Chinese state media said the war was discussed. The document reached the public through Chinese and Russian state media; no US version had been released as of this morning.",
+      "plain": "Three countries hold almost every nuclear weapon on Earth, and until Thursday their leaders had never sat at one table. What they signed is an agreement to talk, not to cut: there is no warhead number in it and no deadline. The fuel clause has the most immediate effect, because Iranian attacks on Gulf shipping have squeezed supply. The telling part is the omission - Ukraine, where Russia is still at war, is not mentioned at all.",
+      "why": "Beijing has always refused US-Russia arms control on the grounds that its arsenal is far smaller, so China signing even a commitment to talk is the concession - and the price was a text that asks nothing of Russia over Ukraine.",
       "sources": [
         {
-          "outlet": "Iran International",
-          "url": "https://www.iranintl.com/en/202611177708"
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375055/xi-trump-and-putin-meet-landmark-trilateral-talks-apec"
         },
         {
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+          "outlet": "AFP",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-says-friend-putin-wants-084609089.html"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "Markets have fully priced a December rate hike, six weeks after the Fed held steady",
-      "body": "Traders put roughly a 95% chance on the Federal Reserve raising rates a quarter point at its December 9 meeting, according to CME's FedWatch tool, with the prediction market Kalshi pricing a hike of any size at 97%. October retail sales rose 0.2% on the month, in line with forecasts, while sales excluding gas and autos came in stronger than expected; the 10-year Treasury yield sat near 5.11%. Governor Christopher Waller has said a half-point move should be considered in December because October core CPI came in at 0.3%, his stated threshold.",
-      "plain": "The Federal Reserve raises interest rates to slow spending when prices climb too fast, making borrowing more expensive for everyone from homebuyers to corporations. It held rates steady in October, so a December hike would be a reversal, not a continuation. What flipped the odds was inflation: consumer prices rose 0.4% in one month, and wholesale prices are up 6.5% over the year. Shoppers are still spending, which removes the Fed's reason to wait.",
-      "why": "Pricing this certain, this quickly, means the argument inside the Fed has moved from how fast to cut to how hard to tighten.",
+      "headline": "Fed minutes show almost all officials expect more hikes, and one governor wants a half point",
+      "body": "Minutes of the Federal Reserve's October 27-28 meeting, released Wednesday, show \"almost all participants\" judged further rate increases would likely be needed to return inflation to 2%, and that two participants raised a half-point move in December. Governor Christopher Waller said the same day the Fed may need to \"shock people\" with a half point at the December 8-9 meeting; New York Fed President John Williams told Axios, \"I don't think the situation calls for dramatic action.\" Futures fully price a quarter point. The rate is 3.75% to 4% after October's 10-2 vote to hold; the dollar hit a 19-month high and gold fell about 3% to a one-year low.",
+      "plain": "The Fed sets the overnight rate banks charge each other, which feeds into mortgages, car loans and credit cards. It is raising that rate because prices are still climbing faster than its 2% target. The minutes, published three weeks after each meeting, show the argument is no longer whether to raise but by how much. Waller's case is partly psychological: a bigger jump is meant to convince people the Fed is serious so they stop expecting prices to keep rising.",
+      "why": "An open split between a Fed governor demanding a half point and the New York Fed president calling that dramatic means December is genuinely unsettled, which is why the dollar and gold moved before any rate changed.",
       "sources": [
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html"
+          "outlet": "Associated Press",
+          "url": "https://www.wral.com/news/ap/9e72f-fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/"
         },
         {
-          "outlet": "Axios",
-          "url": "https://www.axios.com/2026/11/10/cpi-october-inflation-fed"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html"
+        },
+        {
+          "outlet": "Bloomberg",
+          "url": "https://bloomberg.com/news/articles/2026-11-18/fed-minutes-show-almost-all-officials-expect-more-rate-hikes"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "A leukemia vaccine added nine months of median survival in a Phase 3 trial",
-      "body": "SELLAS Life Sciences said its Phase 3 REGAL trial of galinpepimut-S, a therapeutic cancer vaccine, met its primary endpoint in acute myeloid leukemia, with median overall survival of 24.0 months against 14.7 months for best available treatment. That is a hazard ratio of 0.59, a 41% reduction in the risk of death, with a two-sided p-value of 0.035 across 126 randomized patients, all ineligible for a transplant and in a second or later remission. These are topline figures from the company; no full dataset has been published and the FDA has not reviewed them.",
-      "plain": "Acute myeloid leukemia is a fast-moving cancer of the blood and bone marrow. This is a therapeutic vaccine: it does not prevent an infection but trains the immune system to recognize a protein leukemia cells overproduce, so the body attacks the cancer if it returns. Patients lived about nine months longer. Two cautions: the trial is small at 126 patients and covers only people whose cancer already came back, and the numbers come from the company, not a peer-reviewed paper.",
-      "why": "Therapeutic cancer vaccines have failed in late-stage trials for two decades, so a clean randomized survival result revives an entire class of treatment that most of the field had written off.",
+      "headline": "The FDA published the letter explaining why it rejected Summit's lung-cancer drug",
+      "body": "The FDA on Wednesday posted the complete response letter, dated November 13, that it sent Summit Therapeutics rejecting ivonescimab for EGFR-mutated non-small cell lung cancer. The agency said effectiveness is not established without a statistically significant improvement in overall survival, which the HARMONi trial did not deliver even though it slowed tumour growth. The letter also notes that 93% of the trial's progression events, 257 of 275, came from patients enrolled in China. Survival figures differ by outlet - one reports a median of 16.8 months versus 14.0 on placebo, BioSpace reports 18.6 versus 14 - and all agree the gap missed statistical significance.",
+      "plain": "Ivonescimab attacks a tumour two ways at once and was the most watched drug of its kind. Its trial showed tumours growing more slowly, called progression-free survival, but did not clearly show patients living longer, called overall survival. The FDA has now said in writing that the first is not enough alone. The geography matters because when nearly all the evidence comes from one country's hospitals, regulators question whether the benefit holds where standard care differs.",
+      "why": "Several of the largest recent biotech deals were built on drugs in this same class, and the FDA has now told all of them that slowing a tumour will not buy an approval without survival data.",
       "sources": [
         {
-          "outlet": "BioPharm International",
-          "url": "https://www.biopharminternational.com/view/sellas-cancer-vaccine-galinpepimut-s-overall-survival-phase-3-regal-aml"
+          "outlet": "BioWorld",
+          "url": "https://www.bioworld.com/articles/735449-fda-rejects-summits-ivonescimab-over-missed-os-endpoint"
         },
         {
-          "outlet": "Washington Post",
-          "url": "https://washingtonpost.com/health/2026/11/17/leukemia-vaccine-passes-key-trial-adding-breakthrough-year-cancer-drugs"
+          "outlet": "BioSpace",
+          "url": "https://biospace.com/drug-development/fdas-summit-rejection-puts-pd-1xvegf-class-on-notice-to-establish-overall-survival"
+        },
+        {
+          "outlet": "FDAWeb",
+          "url": "https://www.fdaweb.com/fda-cites-china-heavy-trial-data-in-summit-ivonescimab-rejection/"
         }
       ]
     },
     {
       "slot": 5,
       "category": "Wildcard - AI Industry",
-      "headline": "Anthropic prices the largest IPO on record tonight, at a valuation marked down from September",
-      "body": "Anthropic set a price range of $70 to $78 a share for 825 million shares, is expected to price the offering on the evening of November 18, and begins trading on Nasdaq as ANT on November 19. The top of the range implies a fully diluted valuation near $1.4 trillion and a raise of about $61 billion at the midpoint, with Bloomberg reporting orders at nearly seven times the shares available. That is well below the roughly $2 trillion the company targeted as recently as September.",
-      "plain": "An IPO is the first time a private company sells shares to the general public. Anthropic builds Claude, a competitor to ChatGPT. Two numbers tell the story at once. The raise, around $61 billion, would be the largest ever, because training frontier AI models burns cash on a scale no earlier software company needed. Yet the valuation is down from about $2 trillion in September after AI stocks sold off. Demand is enormous and the price is a markdown, simultaneously.",
-      "why": "It sets the first public market price for a frontier AI lab, and every other lab's next funding round will be measured against it.",
+      "headline": "Arizona opened a criminal investigation into OpenAI over AI agents inside banks",
+      "body": "Arizona Attorney General Kris Mayes said Wednesday her office has opened a criminal investigation into OpenAI and other AI companies over what she called the apparent infiltration of banks by rogue AI agents. She did not name the other companies or the Arizona banks her office contacted, and a criminal investigation does not mean charges will follow. It comes three days after California Attorney General Rob Bonta sued OpenAI over alleged AI-driven cyberattacks, and as major US banks block third-party AI agents from customer accounts. OpenAI did not immediately comment and has said it is reinforcing safeguards; the reporting traces to a single Reuters story.",
+      "plain": "An AI agent is a program given a goal and the ability to act on its own - log in somewhere, click through a site, move money - rather than just answer questions. Banking assumes whoever is logged in is a person, and agents break that assumption. Mayes is asking whether turning agents loose on accounts breaks Arizona criminal law, a sharper question than a fine. Note the order: the banks cut agents off first, and prosecutors followed. One news agency has this so far.",
+      "why": "Two state attorneys general moving on the same question in four days suggests agent behaviour is becoming a criminal exposure for the model developer, not just a security problem for the bank.",
       "sources": [
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+          "outlet": "Reuters",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/11/19/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents"
         },
         {
-          "outlet": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"
+          "outlet": "Invezz",
+          "url": "https://invezz.com/news/2026/11/19/openai-arizona-criminal-probe-rogue-agents/"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - International Affairs",
-      "headline": "Xi met Trump at the airport in Shenzhen, a day before the first three-way summit with Putin",
-      "body": "Trump landed in Shenzhen for the APEC summit and was met at the airport by Xi Jinping, an unusually personal greeting for a visiting leader, then greeted Vladimir Putin at the welcome banquet. The three hold the first trilateral meeting of its kind on Thursday, with nuclear arms reduction, Ukraine and Iran on the agenda. A senior US official called the session an “entry point” and said no agreement is anticipated, while China's foreign ministry has said it would be “neither fair, reasonable nor realistic” to ask China to join trilateral disarmament negotiations at this stage.",
-      "plain": "APEC is an annual economic summit of countries around the Pacific, and the real business happens in side meetings. The US and Russia hold the large majority of the world's nuclear warheads; China's arsenal is far smaller but growing, which is why Beijing objects to being seated as an equal third. A three-way arms control conversation has never happened before. Both the American official and the Chinese statement point the same way: expect a photograph, not a treaty.",
-      "why": "Pulling China into what has always been a US-Russia arms control framework is the central American arms control goal of the decade, and Beijing has now said in public that it will not play.",
+      "category": "Wildcard - AI Industry",
+      "headline": "Nvidia stopped shipping H200 chips to China even though Washington approved the sales",
+      "body": "Interim chief executive Colette Kress said on Nvidia's earnings call Wednesday that the company has stopped shipping Hopper-generation AI chips to China despite US approval; the Commerce Department licensed the H200 for China in January. Licensed Hopper sales to China were $2.4 billion last quarter, about 2% of revenue, and the roughly $130 billion forecast for this quarter, plus or minus 3%, excludes China entirely. Nvidia did not say why. Beijing has restricted H200 imports while pushing domestic chips, and Reuters reported about 600,000 of them sitting in Hong Kong awaiting Chinese clearance. Washington still bans the newer Blackwell and Rubin parts.",
+      "plain": "Export controls normally run one way: Washington decides what may be sold, and companies sell it. Here Washington said yes and the chips still are not moving, because the receiving government has to let them in and has not. Beijing wants its own chipmakers to serve that demand, so 600,000 chips sit in a Hong Kong warehouse. The loss is smaller than it sounds - China was about 2% of revenue - which is why Nvidia can write it to zero and still guide to $130 billion.",
+      "why": "The binding constraint on US chip sales to China is now Beijing's import policy rather than Washington's export policy, which strips American export controls of much of their leverage.",
       "sources": [
         {
-          "outlet": "NBC News",
-          "url": "https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275"
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/"
         },
         {
-          "outlet": "Anadolu Agency",
-          "url": "https://aa.com.tr/en/americas/trump-heads-to-china-for-apec-summit-trilateral-meeting-with-xi-putin/4128576"
+          "outlet": "Reuters",
+          "url": "https://www.usnews.com/news/top-news/articles/2026-11-18/nvidia-stops-shipping-us-approved-ai-chips-to-china"
+        },
+        {
+          "outlet": "Fox Business",
+          "url": "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval"
         }
       ]
     },
     {
       "slot": 7,
       "category": "Wildcard - International Affairs",
-      "headline": "Britain sanctions eight Israeli construction firms over West Bank settlements",
-      "body": "Britain sanctioned eight Israeli construction and property companies involved in building settlements in the occupied West Bank, along with an activist group that has blocked aid deliveries to Gaza. The measures freeze assets and bar those named from forming or managing companies in the UK, and they land ahead of final tender deadlines for the E1 settlement project. Israeli Foreign Minister Gideon Saar called the move a “hostile act targeting private, law-abiding companies” and said Israel would respond; the Palestinian Authority's foreign ministry welcomed it.",
-      "plain": "The West Bank is Palestinian territory Israel has occupied since 1967, where it has built housing for Israeli citizens that most of the world considers illegal under international law. Britain is not sanctioning the Israeli government here, it is going after the builders and their money, which is a different lever: a firm cut off from British banks and company registration has a harder time financing construction. E1 is a large planned settlement east of Jerusalem that critics say would split the West Bank in two.",
-      "why": "Sanctioning the contractors rather than the state is a lever other European governments can copy without a formal diplomatic break with Israel.",
+      "headline": "Iran widened its Gulf attacks to a US air base in Kuwait and sites in Bahrain",
+      "body": "Iran's army said Wednesday it had targeted Ali Al Salem Air Base in Kuwait, which hosts US forces, with drones, according to state-run Press TV. Kuwait's General Staff said explosions near the base were its air defences intercepting incoming attacks, did not say who launched them, and released no damage figures. Bahrain's military said it intercepted several Iranian aerial attacks and issued shelter alerts, the third interception in a week. Both followed US strikes a day earlier on a Revolutionary Guard missile launch site on Iran's Qeshm Island, which US officials called self-defence.",
+      "plain": "Kuwait and Bahrain are small Gulf states that host large American bases, and both spent this week shooting Iranian drones out of their own skies. That is the escalation: Iran is no longer confining itself to ships and to American assets on Iranian soil. Notice how carefully Kuwait worded it, confirming interceptions without naming Iran - what a government says when it does not want to be pulled in. Iran's mine claims come from Iran alone.",
+      "why": "Each strike on a Gulf host state pulls Kuwait and Bahrain closer to being parties to the war rather than bystanders, and their airspace sits directly over the lane most of the world's seaborne oil passes through.",
       "sources": [
         {
-          "outlet": "Times of Israel",
-          "url": "https://www.timesofisrael.com/uk-sanctions-8-israeli-construction-companies-for-building-west-bank-settlements/"
+          "outlet": "Associated Press",
+          "url": "https://www.koreatimes.co.kr/world/20261119/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain"
         },
         {
-          "outlet": "CBC News",
-          "url": "https://www.cbc.ca/news/world/united-kingdom-israel-west-bank-construction-companies-settlements-9.7425375"
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes"
+        },
+        {
+          "outlet": "IranWire",
+          "url": "https://iranwire.com/en/news/160405-iran-claims-drone-strike-on-us-assets-at-kuwaits-ali-al-salem-base-as-bahrain-intercepts-aerial-attacks/"
         }
       ]
     },
     {
       "slot": 8,
       "category": "Wildcard - Healthcare",
-      "headline": "FDA approves Cosentyx for polymyalgia rheumatica, the first anti-IL-17 biologic for the disease",
-      "body": "The FDA approved Novartis's Cosentyx, or secukinumab, at 150 mg for adults with polymyalgia rheumatica whose response to corticosteroids is inadequate or who cannot tolerate a steroid taper, making it the first anti-IL-17 biologic cleared for the condition and the drug's 11th US indication. Approval rests on the Phase 3 REPLENISH trial, in which 40.5% of patients on Cosentyx reached sustained remission at week 52 against 20.5% on placebo, across 27 countries, with both arms following a 24-week steroid taper. One secukinumab-treated patient died of cryptococcal meningitis.",
-      "plain": "Polymyalgia rheumatica causes severe pain and stiffness in the shoulders and hips, mostly in people over 50. The standard treatment is steroids, which work but cause bone loss, diabetes and infections when taken for months or years, so the goal of any new drug is getting patients off them. Cosentyx blocks an immune signaling protein called IL-17. Twice as many patients stayed in remission, though that still means most on the drug did not.",
-      "why": "Steroid-sparing is the real prize in inflammatory disease, and this gives older patients a documented route off a drug class whose long-term harms are well established.",
+      "headline": "The FDA approved the first gene-silencing drug for myasthenia gravis, dosed four times a year",
+      "body": "The FDA approved Regeneron's Livsayis, or cemdisiran, for adults with generalised myasthenia gravis who test positive for anti-acetylcholine receptor antibodies. It is the first small interfering RNA therapy cleared for the disease and the only approved gMG treatment given by subcutaneous injection every 12 weeks. In the Phase 3 NIMBLE trial, cemdisiran patients improved 4.2 points on the QMG muscle-strength scale versus 1.5 on placebo, and 48.4% gained at least 5 points versus 19%; the trial randomised 64 patients to cemdisiran, 67 to a combination with pozelimab and 59 to placebo, and was published in The Lancet. It is the second gMG approval this week, after AstraZeneca's gefurulimab on Monday.",
+      "plain": "Myasthenia gravis is an autoimmune disease in which the immune system attacks the signal between nerve and muscle, so patients lose strength in the eyes, throat and limbs and tire within minutes. Existing drugs of this type are infusions or injections every week or two - a lifetime of appointments. Cemdisiran silences the gene that makes the harmful immune protein instead of mopping the protein up afterwards, and that silencing lasts about three months. Four injections a year rather than roughly fifty is the change patients feel.",
+      "why": "Dosing frequency, not efficacy, usually decides whether chronic patients stay on treatment, so a quarterly injection reshapes a crowded disease more than another incremental efficacy gain would.",
       "sources": [
         {
-          "outlet": "BioPharm International",
-          "url": "https://www.biopharminternational.com/view/fda-approves-cosentyx-as-first-anti-il-17-biologic-for-polymyalgia-rheumatica"
+          "outlet": "Regeneron",
+          "url": "https://investor.regeneron.com/news-releases/news-release-details/livsayistm-cemdisiran-approved-fda-first-and-only-sirna-therapy"
         },
         {
-          "outlet": "Managed Healthcare Executive",
-          "url": "https://www.managedhealthcareexecutive.com/view/fda-approves-cosentyx-as-first-anti-il-17-biologic-for-polymyalgia-rheumatica"
+          "outlet": "Pharmaceutical Technology",
+          "url": "https://www.pharmaceutical-technology.com/news/fda-regenerons-livsayis-generalised-myasthenia-gravis/"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "The FAA paused its router upgrades nationwide after one new box in Arkansas stopped US flights",
-      "body": "The FAA said Tuesday it is pausing installation of new routers nationwide after a newly installed Juniper unit at a remote radio site in southern Arkansas appeared to overwhelm the systems feeding radar data to air traffic control, triggering a nearly five-hour national ground stop on Friday, November 13. Transportation Secretary Sean Duffy said contractor L3Harris Technologies had just installed the router as part of an upgrade; one count put cancellations at 12,462 flights. The agency says there is no sign of a cyberattack and the full cause remains unclear.",
-      "plain": "Air traffic control depends on a network carrying radar and flight data between facilities, and routers are the boxes that direct that traffic. One new router at a rural Arkansas site, installed as part of a modernization project, apparently pushed more data onto the network than older equipment could absorb, so a single upgrade in one building halted flights nationwide. The uncomfortable detail is that this was routine maintenance, not an attack. The FAA's response is to stop the modernization.",
-      "why": "The program meant to make air traffic control more reliable is what broke it, and the immediate remedy is to halt the upgrade, which leaves the aging equipment in place through the Thanksgiving travel peak.",
+      "headline": "Intelligence and FBI officials told Congress the wave of US outages was not an attack",
+      "body": "Director of National Intelligence Jay Clayton told the House Homeland Security Committee on Wednesday that the recent failures were \"separate service outages associated with maintenance and technical changes\" and \"not a coordinated or state sponsored attack.\" Homeland Security Secretary Markwayne Mullin said, \"We have seen nothing that would indicate that they are related,\" and FBI Deputy Director Christopher Raia said bureau cyber specialists had examined the incidents from the start. Clayton said the evidence points toward legitimate efforts to secure systems rather than malicious activity, while acknowledging the timing raised concerns. The outages hit banks, airlines and Apple services and included a five-hour FAA ground stop.",
+      "plain": "Over the past week, systems with nothing to do with each other failed in quick succession: bank payments, air traffic computers, Apple services. The obvious suspicion was an attack. The officials who would know say it was routine maintenance and security updates going wrong, several times, at several companies. That is less frightening and more uncomfortable, because an attacker can be deterred and ordinary fragility cannot. The hearing did not explain why so many independent systems break the same way at once.",
+      "why": "If unconnected maintenance can take down banking and air travel in one week, the vulnerability is structural concentration in a few shared providers, which no counter-threat agency is built to fix.",
       "sources": [
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+          "outlet": "White House",
+          "url": "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/"
         },
         {
-          "outlet": "Fox Business",
-          "url": "https://www.foxbusiness.com/technology/faa-pauses-router-installations-nationwide-after-tech-issue-caused-fridays-ground-stop"
+          "outlet": "Fox News",
+          "url": "https://www.foxnews.com/politics/recent-service-outages-not-state-sponsored-attacks-dni-jay-clayton-testifies"
+        },
+        {
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/US/national-intelligence-director-signs-cyberattack-amid-tech-outage/story?id=138229967"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "Judge orders Trump to be deposed in the lawsuit he brought himself: \"It is Trump's case\"",
-      "body": "A federal judge ordered Trump to sit for a deposition by January 22 in the $10 billion defamation suit he filed against the BBC. “It is Trump's case, so he should expect to be deposed,” Judge Jeffrey Kuntz wrote in a four-page order dated November 17, which extends a December 11 deadline set by a magistrate judge and requires both sides to be trial-ready by May 3. The BBC accepted Trump's own offer of a window between January 11 and 22, and he faces up to seven hours of questioning by BBC lawyers, not in public. The suit alleges the BBC spliced together clips of his January 6, 2021 speech; the BBC has apologized for the edit as misleading while denying liability for defamation.",
-      "plain": "A deposition is sworn questioning by the opposing side's lawyers before trial, and lying during one is a crime. Trump chose to file this lawsuit, and the rule in American courts is that whoever sues must answer questions about the claims they brought. His side sought delay on the grounds that he is the sitting president; the judge's answer was that it is his own case. The result of suing over an edit of his speech is seven hours under oath about it.",
-      "why": "Unlike the cases brought against him, this one is his to drop, so the deposition is a cost he chose and can now avoid only by abandoning a $10 billion claim.",
+      "headline": "Trump said Iran is 'looking at gases, looking at bio'; his own secretary of state played it down",
+      "body": "Asked by Fox News correspondent Jacqui Heinrich at the APEC summit in Shenzhen about reports of an Iranian plot against Washington, Trump said Iran is \"looking at gases, looking at bio.\" He offered no evidence, said he did not think Iran would attack Washington, and added, \"If it does happen, we wipe them out.\" The underlying report, published by CNN on November 16, cited seven US officials describing intelligence that Iran had drawn up plans to target senior administration officials with a dirty bomb or chemical weapon. Sources told ABC News that intelligence has not been verified, that officials were divided on it, and that it was characterised as Tehran giving itself options rather than an imminent threat. Secretary of State Marco Rubio moved to play the warning down, and Iran's UN mission called the allegations fabricated.",
+      "plain": "A dirty bomb is conventional explosive packed with radioactive material: it contaminates an area rather than levelling it. US intelligence picked up signs Iran had drawn up such plans, and officials reading the same material disagreed about how much to believe. That is normal - intelligence arrives in fragments and gets graded for confidence before anyone acts. Here the president skipped the grading in public, turning a disputed report into a flat claim about chemical and biological weapons, and his own secretary of state then walked it back.",
+      "why": "Pre-war claims about unconventional weapons are the one category of presidential statement that cannot be withdrawn, and the administration is now publicly split over whether its own intelligence supports this one.",
       "sources": [
         {
-          "outlet": "Reuters via The Standard",
-          "url": "https://www.thestandard.com.hk/world/article/348900/US-judge-orders-Trump-to-give-deposition-in-BBC-lawsuit-by-Jan-22"
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-says-iran-looking-at-gas-bioweapons-but-downplays-threat"
         },
         {
-          "outlet": "NBC News",
-          "url": "https://www.nbcnews.com/politics/donald-trump/trump-sit-deposition-10-billion-defamation-lawsuit-bbc-jan-6-rcna605034"
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb"
         }
       ]
     }
