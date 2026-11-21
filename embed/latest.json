@@ -1,201 +1,217 @@
 {
-  "date": "2026-11-20",
-  "dateLabel": "Friday, November 20, 2026",
-  "generated": "2026-11-20T13:15:50Z",
+  "date": "2026-11-21",
+  "dateLabel": "Saturday, November 21, 2026",
+  "generated": "2026-11-21T13:04:48Z",
   "tldr": [
-    "Anthropic closed its first day of trading at $97.17, up 17% from the offer price but down from a $111.50 open, near a $1.76 trillion valuation.",
-    "The International Court of Justice ruled 9-6 that Myanmar committed genocide against the Rohingya, its first such finding against a state.",
-    "The AI selloff went global: Tokyo fell 5.1% and Taipei 6.2% on Friday after a sixth straight loss on Wall Street.",
-    "Medicare proposed clawing back about $9 billion a year from private insurers by extrapolating audit findings back to 2018.",
-    "Wildcard, International Affairs: Hegseth announced a military cooperation deal in a surprise visit to Caracas, ten months after the raid that took Maduro.",
-    "Wildcard, AI Industry: House records show Commerce approved 879,868 Nvidia and AMD AI chips for Chinese buyers out of 3.4 million requested.",
-    "Wildcard, AI Industry: California's attorney general subpoenaed Nvidia over whether its chips and secrets reached China, alongside an SEC disclosure probe.",
-    "Wildcard, Economics: Continuing jobless claims jumped 70,000 to their highest level since August, three weeks before an expected Fed rate rise.",
-    "Tech: Suspected Chinese state hackers exploited a critical VMware vCenter flaw for two months before Broadcom had a patch.",
-    "Trump News: The Justice Department abandoned the Alaska election appeal Trump ordered, and asked the court to erase the ruling it lost."
+    "Reuters reports SEC enforcement staff are examining Nvidia's accounting; the stock fell 14%, erasing about $490 billion of value in a day.",
+    "The International Court of Justice found Myanmar committed genocide against the Rohingya; Myanmar's foreign ministry rejected the ruling.",
+    "The S&P 500 and Dow closed in correction and the Nasdaq erased its 2026 gain, the worst week for US stocks since April 2025.",
+    "The FDA rejected Capricor's Duchenne cell therapy a second time, saying data-integrity problems made its Phase 3 trial unreliable.",
+    "Anthropic's $81.3 billion listing is the largest IPO on record; the stock fell about 9% on its second day as AI names sold off.",
+    "Fed governor Christopher Waller wants a half-point rate hike in December; futures markets price a quarter point at about 95%.",
+    "Mossad's chief pressed Washington to back joint strikes on Iran while US envoys met Qatari mediators in Berlin with no progress.",
+    "SpaceX sold $32 billion of Nvidia-chip-backed bonds, the largest tranche pricing at a yield of 8.259%.",
+    "The White House replaced national cyber director Sean Cairncross after a week of outages at Microsoft, Chase, Apple and the FAA.",
+    "Trump announced a “tremendous tax” on US firms building AI data centers abroad, then said he had not told his own staff."
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Anthropic closes its first day of trading below its opening price",
-      "body": "Anthropic began trading on Nasdaq as ANT on Thursday. Priced the night before at $83 a share, above its $70-to-$78 marketed range, the stock opened at $111.50, peaked at $115.10, fell as low as $92.72 and closed at $97.17, up 17% from the offer price but surrendering about half its opening gain; it slipped further after hours, to roughly $92.58. The 980-million-share sale raised $81.3 billion, the largest offering on record. Closing valuations quoted ranged from about $1.27 trillion on outstanding shares to roughly $1.76 trillion fully diluted.",
-      "plain": "When a company lists, bankers set the offer price the night before and then the market decides. Here the two verdicts disagreed: buyers who got shares at $83 did well, but anyone who bought at the opening bell for $111.50 was down by the close. Anthropic, the AI company behind the Claude assistant, still raised more money than any company ever has this way. Valuation figures differ by hundreds of billions between outlets because some count only shares outstanding today and others include shares convertible later.",
-      "why": "The offering succeeded and the first day of trading did not, which means the marginal buyer of AI equity is now found well below the price the deal was marketed at.",
+      "headline": "SEC is reportedly examining Nvidia's accounting, and the stock fell 14% in a day",
+      "body": "Reuters reported on Friday, November 20, citing two people briefed on the matter, that SEC enforcement staff are examining potential accounting problems at Nvidia; it could not confirm when the inquiry began or which practices are under review. Nvidia fell 14.01% to close below $130, erasing roughly $490 billion of market value in one session and about $2.7 trillion since October. The SEC declined to comment and Nvidia did not immediately respond. The Wall Street Journal reported on Tuesday that the SEC was also examining whether Nvidia's disclosures misled investors.",
+      "plain": "Nvidia designs the chips nearly every company training an AI system must buy, which made it the world's most valuable company. The SEC polices whether public companies tell investors the truth about their finances; its staff taking an interest proves nothing, and many such inquiries close with no action. What unsettled investors is the pile-up: Nvidia delayed its quarterly filing, disclosed an internal board investigation, and lost its co-founder as chief executive this month. Two anonymous sources describe the SEC inquiry, so treat it as credible but unconfirmed.",
+      "why": "Index funds made Nvidia one of the largest holdings in most American retirement accounts, so a question about its bookkeeping no longer stays a company story.",
       "sources": [
         {
-          "outlet": "CNN",
-          "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+          "outlet": "Barron's",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-sink-52-week-203654330.html"
         },
         {
-          "outlet": "Forbes",
-          "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/"
+          "outlet": "Investing.com",
+          "url": "https://in.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-5718405"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "World court finds Myanmar responsible for genocide against the Rohingya",
-      "body": "The International Court of Justice ruled 9-6 on Thursday that Myanmar committed genocide against the Rohingya in northern Rakhine state. Court President Yuji Iwasawa said Myanmar also failed to prevent and punish genocide and breached the court's 2020 order to preserve evidence. The court ordered investigations and prosecutions, changes to national law, and steps toward refugee return and property restitution, giving Myanmar two years to report on compliance; reparations come in a later phase. The Gambia brought the case in 2019. Myanmar has called it flawed and unfounded.",
-      "plain": "Genocide means trying to destroy a group because of who they are. The Rohingya are a Muslim minority in Myanmar, and more than 700,000 fled to Bangladesh after a military campaign in 2017. This court judges states rather than individuals, and this is the first time it has found a country responsible for genocide. The catch is enforcement: the ruling is binding but the court has no police, so compliance depends on Myanmar's military government or outside pressure.",
-      "why": "A binding finding of state responsibility hands other governments and courts a settled legal fact to build sanctions, asset claims and prosecutions on, which is where practical consequences will come from.",
+      "headline": "World Court finds Myanmar committed genocide against the Rohingya; Myanmar rejects the ruling",
+      "body": "The International Court of Justice ruled nine to six on November 19 that Myanmar breached the 1948 Genocide Convention by committing genocide against the Rohingya in northern Rakhine State — the first time the court has found a state responsible for genocide. The judgment, in the case The Gambia filed in 2019, orders Myanmar to pass implementing legislation, prosecute suspects, allow the safe return of displaced Rohingya and report on restitution within two years, with compensation fixed later. Myanmar's foreign ministry rejected the ruling, saying the evidence fell short of the standard of proof and calling the military's 2017 operations “counter-terrorism actions.”",
+      "plain": "The ICJ is the United Nations court that settles disputes between countries; it does not try individuals. In 2017 Myanmar's military drove more than 700,000 Rohingya Muslims into Bangladesh, and the court has now held that the only reasonable reading of the evidence is an intent to destroy a substantial part of the group. The ruling is final and cannot be appealed, but the court has no police force. If Myanmar ignores it, The Gambia's only escalation is the UN Security Council, where China holds a veto.",
+      "why": "A state, not only its commanders, can now be held liable for genocide — the same legal theory South Africa is pressing against Israel over Gaza.",
       "sources": [
+        {
+          "outlet": "Time",
+          "url": "https://time.com/article/2026/11/20/rohingya-genocide-icj-history-myanmar-israel/"
+        },
         {
           "outlet": "Human Rights Watch",
           "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide"
         },
         {
-          "outlet": "The Conversation",
-          "url": "https://theconversation.com/a-seismic-icj-ruling-has-found-myanmar-responsible-for-genocide-but-will-it-help-the-rohingya-296700"
+          "outlet": "AP via Manila Times",
+          "url": "https://www.manilatimes.net/2026/11/21/world/asia-oceania/myanmar-dismisses-the-un-courts-ruling-on-its/2475396"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "Asian markets post their worst day in years as the AI selloff spreads",
-      "body": "Asian equities fell hard on Friday: the Nikkei 225 closed down about 5.1% at 56,436.65, South Korea's Kospi about 5.2% with Samsung Electronics and SK Hynix each off more than 6%, Taiwan's Taiex about 6.2%, and SoftBank roughly 14.5%, its steepest drop since August 2024. One London tracker called it Asia's worst performance in six and a half years. It followed Thursday on Wall Street, where the S&P 500 fell 2.02% to 7,175.83, a sixth straight decline and 8.2% below its October record, the Dow lost about 1,100 points to 49,097.06, and all 11 sectors fell. A Societe Generale strategist cited fears that AI-led growth has passed its peak.",
-      "plain": "A selloff means far more investors want to sell than buy, so prices drop across the board. The timing is what makes this one odd: Nvidia had just reported revenue up 103% in a year, so the worry is not current sales but whether the enormous spending on data centres will ever earn its money back. Asia fell hardest because its largest listed companies are the memory-chip and contract-chip makers that supply that building, and SoftBank is a holding company whose value is mostly bets on AI firms.",
-      "why": "A selloff that deepens the day after record chip earnings and the largest IPO ever tells you the market is repricing the whole AI investment thesis rather than reacting to any single company.",
+      "headline": "S&P 500 and Dow close in correction as the AI trade unwinds",
+      "body": "The S&P 500 fell 3.70% on Friday to 6,910.39, a seventh straight loss that left it in correction territory and down 8.6% for the week, its worst week since April 2025. The Nasdaq Composite dropped 5.3% to 22,617.73, erasing its gain for 2026, and the Dow fell 1.9% to 48,147.33. Nvidia's 14% decline did most of the damage. Consumer staples was the only S&P sector to finish higher, decliners beat advancers 376 to 123, and the 10-year Treasury yield fell 12 basis points to 4.932%.",
+      "plain": "A “correction” means an index has fallen 10% from its high — a label, not a forecast. Nearly all of this week's damage came from companies tied to artificial intelligence, because those stocks had risen most and are the first thing investors sell to lock in gains or raise cash. Two forces pushed at once: the report of an SEC look at Nvidia's accounting, and expectations that the Federal Reserve will raise rates rather than cut them. Higher rates make profits expected years from now worth less today, which hits expensive stocks hardest.",
+      "why": "With the Nasdaq back to where it started the year, the AI rally has stopped subsidising the rest of the market and started subtracting from it.",
       "sources": [
         {
-          "outlet": "AP via The Washington Post",
-          "url": "https://www.washingtonpost.com/business/2026/11/19/wall-street-stocks-dow-nasdaq/6aaf39d0-e463-11f1-a99e-b3e3805c6b8b_story.html"
+          "outlet": "AP via Yakima Herald",
+          "url": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html"
         },
         {
-          "outlet": "BNN Bloomberg",
-          "url": "https://bnnbloomberg.ca/markets/2026/11/20/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut"
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/11/20/ai-stocks-selloff-anthropic-record-ipo-wall-street-split-top/"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "Medicare proposes recovering about $9 billion a year from private insurers",
-      "body": "CMS has published its CRUSH proposed rule, CMS-6098-P, which the agency projects will save nearly $90 billion over ten years across Medicare, Medicaid, CHIP and the ACA marketplace. Its largest piece revives the audit rule a Texas court vacated in 2025: CMS would extrapolate findings from a sample of enrollees across an entire Medicare Advantage contract, reach back to payment year 2018 and apply no fee-for-service adjuster, which it estimates collects about $9 billion per payment year. Providers billing Medicare Advantage would also have to enroll in traditional Medicare. Comments are due January 19, 2027. UnitedHealth fell 10.2% Wednesday and about 5.6% Thursday, shedding roughly $50 billion in market value this week.",
-      "plain": "Medicare Advantage is private insurance paid for by the government, and plans are paid more for sicker patients, so there is an incentive to record every diagnosis possible. Auditors check a sample of patient records. Until now, errors found in a sample were charged only for that sample. Extrapolation applies the sample's error rate to the whole contract, turning small findings into very large bills, and reaching back to 2018 reopens eight years of payments. Insurers beat an earlier version of this rule in court in September 2025.",
-      "why": "The $9 billion is proposed and contested rather than collected, but it puts eight years of Medicare Advantage revenue in play and forces insurers to decide how much exposure to disclose to shareholders.",
+      "headline": "FDA rejects Capricor's Duchenne cell therapy, saying the trial data cannot be trusted",
+      "body": "The FDA issued a Complete Response Letter on November 20 refusing approval of deramiocel, Capricor Therapeutics' cell therapy for Duchenne muscular dystrophy, saying an inspection found serious deficiencies in the conduct of the Phase 3 HOPE-3 study. The agency said data-integrity problems render the trial's data unreliable and incapable of post hoc remediation, citing unauthorized changes to the statistical analysis plan after the study began and breaches of blinding. It is the second rejection of this application. Chief executive Linda Marbán called the decision “indefensible”; the shares fell roughly 77% to 80% after hours.",
+      "plain": "Duchenne muscular dystrophy is a genetic disease that progressively destroys muscle, including the heart, and most patients do not live past their thirties — so there is enormous pressure to approve anything that might help. A Complete Response Letter is the FDA saying no to an application as submitted. The striking part is not that the drug failed to show benefit; the FDA had already said the trial missed its main goals. It is that regulators say the records themselves cannot be relied on, so no reanalysis can rescue them.",
+      "why": "A data-integrity finding, rather than a plain efficacy miss, closes off the usual route of reanalysing existing data and effectively forces a new trial.",
       "sources": [
         {
-          "outlet": "Fierce Healthcare",
-          "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-sweeping-medicare-integrity-rule-it-says-will-save-90b"
+          "outlet": "FDA",
+          "url": "https://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy"
         },
         {
-          "outlet": "HFMA",
-          "url": "https://www.hfma.org/legal-and-regulatory-compliance/cms-crush-proposed-rule/"
+          "outlet": "Endpoints News",
+          "url": "https://endpoints.news/capricors-duchenne-therapy-is-rejected-again-as-fda-cites-significant-issues-with-trial/"
+        },
+        {
+          "outlet": "Reuters via WTVB",
+          "url": "https://wtvbam.com/2026/11/20/us-fda-declines-to-approve-capricors-cell-therapy-for-duchenne-muscular-dystrophy-shares-slump/"
         }
       ]
     },
     {
       "slot": 5,
-      "category": "Wildcard - International Affairs",
-      "headline": "Hegseth signs a military cooperation deal in a surprise visit to Caracas",
-      "body": "Defense Secretary Pete Hegseth made an unannounced trip to Caracas on Wednesday and announced an agreement to reestablish military ties with Venezuela, covering joint training and intelligence sharing. He met acting President Delcy Rodriguez at the Miraflores palace alongside Defence Minister Gustavo Gonzalez Lopez. Hegseth said Venezuela had gone from the region's \"most aggressive regional threat\" to a \"compliant security partner,\" and said a Venezuelan oil arrangement \"makes the Strait of Hormuz a non-factor for the Western Hemisphere.\" The visit follows the January raid that captured Nicolas Maduro. Officials released few details; Venezuela said the deal would not compromise its sovereignty.",
-      "plain": "Venezuela holds the world's largest proven oil reserves and was a US adversary for two decades. After an American raid took Nicolas Maduro in January, an interim government took over, and the United States is now training and sharing intelligence with the military it recently treated as a threat. The oil remark explains the hurry: the Strait of Hormuz is a narrow sea passage that a large share of the world's oil must pass through, and the war with Iran threatens it, so Washington wants supply from the same hemisphere instead.",
-      "why": "Almost no details of the agreement were released, so the measurable question is whether it eventually involves US forces or bases in Venezuela, which no one has yet ruled out.",
+      "category": "Wildcard - AI Industry",
+      "headline": "Anthropic's record IPO is followed by a two-day slide across AI stocks",
+      "body": "Anthropic raised $81.34 billion in its initial public offering, the largest on record, pricing shares at $83 and closing its first day on Thursday at $97.17, up 17%. Valuation figures differ by method, from about $1.28 trillion counting listed shares to roughly $1.76 trillion fully diluted. The stock fell about 9% on Friday as AI and chip names sold off. Investing.com reported that some investors appear to have sold other AI holdings to fund IPO allocations; Capital Economics said the declines have “further to run,” while one fund manager called it profit-taking rather than the end of the AI trade.",
+      "plain": "An initial public offering is the first time a private company sells shares to the public. Anthropic builds AI models and had been privately held, so this listing made it something anyone can buy. A company that large cannot join the market without consequences: index funds have to buy it, and to buy it they sell something else — in practice, other AI stocks. That mechanical selling is part of why a successful debut coincided with a bad week for the sector. Valuations differ because some outlets count only trading shares and others count every share that exists.",
+      "why": "The biggest new supply of AI stock ever created arrived in the same week demand for AI stock thinned, which is a poor sequence for everything already listed.",
       "sources": [
         {
-          "outlet": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/hegseth-meets-with-venezuelan-interim-leaders-in-latest-trump-cabinet-visit-since-maduros-ouster"
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/11/20/ai-stocks-selloff-anthropic-record-ipo-wall-street-split-top/"
         },
         {
-          "outlet": "Defense News",
-          "url": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/"
+          "outlet": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-ipo-triggers-ai-selloff--washout-or-deeper-unwind-93CH-5041498"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - AI Industry",
-      "headline": "House records show Commerce approved 879,868 AI chips for Chinese buyers",
-      "body": "The House Foreign Affairs Committee released export-license records on Thursday showing the Commerce Department's Bureau of Industry and Security approved 879,868 advanced AI chips for Chinese customers across 21 applications between December 2025 and May 11, 2026, out of about 3.4 million requested. The approvals covered Nvidia H200 and AMD MI325X accelerators; recipients include Tencent at about 150,000 chips, Alibaba at 75,000, Baidu at 43,000 and BYD at 4,000. Committee data indicates more than 30% went to firms on the Pentagon's list of Chinese military companies. Chairman Brian Mast flagged two applicants, Maginfra and New Matrix, as suspected smuggling fronts. Reuters put the total at nearly 900,000.",
-      "plain": "An export license is government permission to sell a controlled product abroad. These chips are the processors used to train large AI systems, and US policy has been to keep the best ones out of China. About one in four requested chips was cleared, which is both a large number and far less than Chinese buyers wanted. Two details sting: a big share went to companies the Pentagon itself lists as tied to China's military, and the committee says two buyers look like smuggling fronts. Appearing on an approved application is not proof a chip was delivered.",
-      "why": "Congress now holds the paperwork, which turns an argument about export policy into an oversight fight with named companies and exact numbers, and strengthens bills that would give legislators a veto over these licenses.",
+      "category": "Wildcard - Economics",
+      "headline": "A Fed governor wants a half-point rate hike in December; markets expect half that",
+      "body": "Fed governor Christopher Waller said the central bank should either raise rates half a percentage point at its December meeting or explicitly signal that a quarter-point move will be followed by another in January, telling CNBC the Fed may need to “shock people.” Governor Lisa Cook said policy is not restrictive enough and that waiting risks falling “behind the curve.” October CPI ran hotter than expected and the Cleveland Fed's nowcast puts November headline CPI near 3.9% against a 2% target. CME futures price roughly a 95% chance of a quarter-point hike and 5% for a half point.",
+      "plain": "The Federal Reserve sets the rate banks charge each other overnight, which filters through to mortgages, car loans and savings accounts. It is raising rates rather than cutting them because prices are still climbing faster than its 2% goal. The phrase to watch is “inflation expectations”: if households and businesses treat 3% to 4% inflation as normal, they build it into wages and prices and it becomes self-fulfilling — what officials mean by “unanchored.” Waller's argument is that one loud move now costs less than several quiet ones later. He is one voice on the committee.",
+      "why": "The gap between Waller's half point and the market's quarter point is the gap between a Fed that is believed on inflation and one that is not.",
       "sources": [
         {
-          "outlet": "Quartz",
-          "url": "https://qz.com/us-nvidia-amd-ai-chips-china-license-records-111926"
+          "outlet": "Fortune",
+          "url": "https://fortune.com/2026/11/20/fed-rate-hikes-higher-inflation-expectations-unanchored-chris-waller"
         },
         {
-          "outlet": "Wccftech",
-          "url": "https://wccftech.com/trump-administration-approved-nearly-900000-nvidia-amd-ai-chips-for-china/"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html"
         }
       ]
     },
     {
       "slot": 7,
-      "category": "Wildcard - AI Industry",
-      "headline": "California subpoenas Nvidia over whether its chips and secrets reached China",
-      "body": "California Attorney General Rob Bonta subpoenaed Nvidia on Thursday, opening an investigation into whether the company's or former chief executive Jensen Huang's actions led to China obtaining advanced chips or confidential information, and whether Nvidia misled investors about that risk. The inquiry follows reporting on Huang's relationship with a woman said to have worked at Megaspeed, a Singapore-based firm under investigation for diverting restricted Nvidia chips to China; Huang resigned on November 12 and CFO Colette Kress is interim chief executive. The Wall Street Journal reported the SEC has opened a separate civil investigation into Nvidia's disclosures. A subpoena is an investigative step, not a finding; no wrongdoing has been established.",
-      "plain": "A subpoena is a legal order to hand over documents, and it starts an investigation rather than proving anything. Two separate questions are being asked. First, did restricted chips or trade secrets reach China, possibly through an intermediary company in Singapore. Second, and this is the part that carries financial penalties, did Nvidia tell its shareholders enough about that risk. Companies are legally required to disclose risks they know about, and a state attorney general can bring civil penalties if they did not.",
-      "why": "A securities-disclosure case does not require proving a single chip crossed a border, only that Nvidia knew more than it told investors, which is a far lower bar than an export-control prosecution.",
+      "category": "Wildcard - International Affairs",
+      "headline": "Israel presses Washington for new strikes on Iran as US envoys meet Qatari mediators",
+      "body": "Mossad chief Roman Gofman pressed Trump administration officials during a US visit to support joint American-Israeli strikes on Iran, meeting CIA director John Ratcliffe and then envoy Steve Witkoff in Miami, Reuters reported. Witkoff and Jared Kushner met senior Qatari mediators in Berlin on Thursday to discuss a negotiated settlement with Tehran; Axios reported that no progress came of it. Israel's politics are split: Avigdor Liberman said on November 20 that he sees no intelligence justifying a strike now. Accounts of Trump's position conflict — one says he will not decide until the new year, while he told reporters he is not “rushing into anything.”",
+      "plain": "The Mossad is Israel's foreign intelligence service, and its director flying to the United States to lobby for a bombing campaign is the clearest public sign Israel wants America to join one. Qatar acts as a go-between because it talks to both Washington and Tehran, which do not talk directly. The two tracks run against each other: every week of talks that produces nothing strengthens the argument that talking has failed. Note the split inside Israel — a former defence minister saying the intelligence does not support a strike is unusual.",
+      "why": "The live question has shifted from whether Iran's programme justifies a strike to whether diplomacy can produce anything before the case for one wins by default.",
       "sources": [
         {
-          "outlet": "The Hill",
-          "url": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/"
+          "outlet": "Reuters via Jordan News",
+          "url": "https://www.jordannews.jo/Section-111/All/US-Iran-Tensions-Escalate-as-Israel-Pushes-for-New-Strikes-on-Tehran-59081"
         },
         {
-          "outlet": "ABC10",
-          "url": "https://www.abc10.com/article/money/business/california-attorney-general-subpoenas-nvidia-over-concerns-about-china-and-investor-disclosures/103-f470be03-7ee5-4c95-9e2f-28c9159b9f01"
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/11/20/witkoff-kushner-meet-qatari-mediators-iran"
+        },
+        {
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-november-20-2026/"
         }
       ]
     },
     {
       "slot": 8,
-      "category": "Wildcard - Economics",
-      "headline": "More Americans are staying on unemployment benefits longer",
-      "body": "The Labor Department reported Thursday that initial jobless claims rose to 203,000 for the week ended November 14, above a roughly 197,000 forecast and a second straight week above 200,000. Continuing claims, which count people still drawing benefits, jumped 70,000 to 1.763 million, the highest since late August. Economists read the gap as laid-off workers taking longer to find new jobs rather than a wave of fresh layoffs. October payrolls rose 165,000 with unemployment at 4.1%, and August and September were revised up, to 186,000 and 60,000. The November jobs report is due December 4, four days before the Fed meets.",
-      "plain": "Two different numbers are reported each week. Initial claims count people who just lost a job; continuing claims count people still collecting benefits because they have not found one. Initial claims barely moved, but continuing claims rose sharply, and that combination means hiring is slowing rather than firing speeding up. It matters because it is the harder problem to fix: if companies simply stop opening jobs, lower interest rates would normally be the remedy, and the Fed is expected to raise them in December instead.",
-      "why": "Rising long-term claims are the first signal that would make a December rate rise politically and economically contentious inside the Fed, and the November jobs report lands four days before the decision.",
+      "category": "Wildcard - AI Industry",
+      "headline": "SpaceX borrows $32 billion against Nvidia chips at more than 8%",
+      "body": "SpaceX sold about $32 billion of bonds on Thursday to finance $47.3 billion of Nvidia GPUs, mostly Rubin-generation processors. The largest tranche, roughly $25.2 billion of Class A3 notes, priced at a yield of 8.259%, against about 5.95% for investment-grade corporate debt that day. The chips are bought by a trust that leases them to SpaceX, keeping the debt off the company's balance sheet; Goldman Sachs and Apollo Global Management led the deal, one piece of a financing package worth more than $40 billion. The Financial Times reported that lenders required none of the chips be used for SpaceX's planned orbital data centers.",
+      "plain": "SpaceX wants an enormous number of AI chips and is borrowing rather than paying cash. The structure is a lease: a separate legal entity owns the chips and rents them to SpaceX, so the debt never appears on SpaceX's own books. Investors demanded about 2.3 percentage points more yield than for ordinary blue-chip debt, and that spread is the price of the risk that AI chips lose value faster than the loan is repaid. The telling detail is the lenders' condition — they would finance chips on the ground but not chips in orbit, where nobody can repossess them.",
+      "why": "AI capacity is increasingly funded with structured debt priced as though the chips backing it are not safe collateral.",
       "sources": [
         {
-          "outlet": "Reuters via KFGO",
-          "url": "https://kfgo.com/2026/11/19/us-weekly-jobless-claims-increase-slightly-3/"
+          "outlet": "Bloomberg via The Edge Singapore",
+          "url": "https://www.theedgesingapore.com/news/bonds-and-treasuries/spacex-sold-us32-bil-ai-chip-debt-yields-topping-8--bloomberg"
         },
         {
-          "outlet": "Quartz",
-          "url": "https://qz.com/us-jobless-claims-203000-second-week-above-200000-111926"
+          "outlet": "The Information",
+          "url": "https://www.theinformation.com/briefings/spacex-closes-32-billion-debt-deal-steep-yields"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "Chinese hackers used a VMware vCenter flaw for two months before a patch existed",
-      "body": "Broadcom released advisory VMSA-2026-0009 on Thursday patching CVE-2026-123890, a critical authentication bypass rated 9.8 in VMware vCenter's directory service that hands an unauthenticated attacker an administrator session. Mandiant attributes exploitation to Armory Castle, a suspected China-nexus espionage group previously tracked as UNC5221, and dates attacks to early September, more than two months before the fix. The intruders entered through a separate BeyondTrust zero-day, CVE-2026-102764, then ran custom tools BONESAW and SAWSNAKE, the latter forging SAML tokens to defeat multi-factor authentication. Fixes ship in vCenter 9.1.1.0200, 9.0.2.0200 and 8.0 U3m; version 7.0 is out of support and unpatched. There is no workaround.",
-      "plain": "vCenter is the control panel companies use to manage every virtual machine in a data centre, so taking it over is closer to holding a building's master key than one office key. A zero-day is a hole attackers find and use before the vendor knows it exists, which is why patching promptly would not have helped here. The detail defenders should note is the multi-factor bypass: one of the tools forged the digital tokens that prove who you are, so the login codes people rely on did not stop it.",
-      "why": "Two months of undetected administrator access to virtualisation management means the useful question is not whether an organisation has patched but what was taken before the patch existed.",
+      "headline": "White House replaces its national cyber director after a week of major outages",
+      "body": "Sean Cairncross is out as national cyber director after about a year, with Pentagon chief information officer Kirsten Davies taking over on an interim basis, two White House officials said. A person close to the White House told Military Times he was fired; a source said Trump believed he “lacked the strong cyber credentials to perform the job.” The change follows disruptions this month to air travel, banking, communications and government systems, affecting Microsoft, JPMorgan Chase, Apple, the FAA and the National Security Agency. An intelligence official said those were separate outages tied to maintenance and technical changes, not a coordinated attack. Trump said of them, “things like that happen.”",
+      "plain": "The national cyber director runs the White House office that writes US cybersecurity policy. It does not operate networks or respond to incidents — that is the job of CISA and the individual agencies. So the official removed after a run of outages was not the official positioned to prevent them, and by the government's own account the outages were not an attack at all, just several large systems breaking in the same week. A permanent successor needs a presidential nomination and Senate confirmation, which takes months.",
+      "why": "The top cyber policy job now sits with an acting official for months, the period Democrats say US defences are already falling behind AI-driven threats.",
       "sources": [
         {
-          "outlet": "SecurityWeek",
-          "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/11/19/white-house-replaces-top-cybersecurity-official/"
         },
         {
-          "outlet": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+          "outlet": "Military Times",
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/20/pentagon-cio-replaces-white-house-national-cyber-director-after-tech-outages/"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "Justice Department drops the Alaska election appeal Trump ordered, and asks the court to erase the ruling",
-      "body": "The Justice Department filed in the Ninth Circuit on Thursday to abandon its appeal seeking to delay certification of Alaska's Senate race, writing that \"this case has become moot.\" Trump had directed the department to sue if Republican Senator Dan Sullivan lost, citing voter confusion with a second candidate named Daniel J. Sullivan Jr., a retired teacher. Democrat Mary Peltola won; through preliminary results dated November 18, her margin exceeded the first-choice votes for Sullivan and all other candidates combined. Judge Sharon Gleason dismissed the suit on November 1, two days before the election, finding the government lacked standing and that setting ballots aside would violate the secret ballot; the department appealed the same day. The new filing, from Associate Attorney General Stanley Woodward, also asks the court to vacate Gleason's ruling rather than let it stand. Alaska targets November 25 to certify. A separate FBI inquiry into the second candidate's recruitment continues; no one has been charged.",
-      "plain": "Certification is the step that makes an election result official. The argument was that voters meant to pick Senator Dan Sullivan but chose a different man with nearly the same name, so the count should be paused. A judge threw the case out before anyone voted, holding that the federal government had no standing to sue over a state's ballots. The number that undoes the theory is the margin: Peltola won by more votes than Sullivan and every other candidate received put together. Asking to vacate a ruling means asking to wipe it off the books as precedent.",
-      "why": "The department spent three weeks appealing a case it has now told the court does not matter, and the request to vacate indicates the remaining concern was the precedent rather than the Alaska result.",
+      "headline": "Trump announces a tax on overseas AI data centers, then says he had not told his own staff",
+      "body": "At a White House news conference on Friday, November 20, Trump said American companies building AI data centers abroad would be penalised: “If they want to continue building the centers outside the US, they can, but we're going to put a tremendous tax on them.” He cited Google's roughly €13 billion Finnish data-center investment, announced in September. Pressed on the policy, he said, “I haven't even said that to my people.” Bloomberg reported he gave no rate, no timeline and no account of the legal authority; CNBC reported the policy appeared to be news to his own staff. At the same news conference, asked by CNN's Kaitlan Collins whether Vladimir Putin is a friend to the United States, Trump said, “I can't speak to America,” and said people who criticise his relationships with Putin and Xi Jinping are “stupid.”",
+      "plain": "A data center is a warehouse full of computers, and AI companies build them where electricity is cheap and plentiful, which is often not the United States. Trump said he would tax American firms that build them abroad, but a president cannot create a new tax alone — that takes an act of Congress, and he said he had not raised the idea with his own staff. The Putin exchange is separate: he had called Putin a “friend” earlier in the week and drew criticism from both parties, then, offered the chance to call Putin a friend to the country rather than to him, declined to say it.",
+      "why": "An unlegislated tax threat still counts as a planning risk for anyone siting a multibillion-dollar facility, which is how an off-the-cuff remark turns into a real cost.",
       "sources": [
         {
-          "outlet": "The Washington Post",
-          "url": "https://washingtonpost.com/national-security/2026/11/19/justice-dept-drops-appeal-bid-delay-certification-alaska-senate-win"
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-threatens-to-tax-companies-building-data-centers-abroad"
         },
         {
-          "outlet": "ABC News",
-          "url": "https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517"
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
         },
         {
-          "outlet": "KYUK",
-          "url": "https://www.kyuk.org/politics/2026-11-19/doj-abandons-lawsuit-that-sought-to-pause-certification-of-alaskas-us-senate-election"
+          "outlet": "CNN",
+          "url": "https://edition.cnn.com/2026/11/20/politics/trump-news-conference-takeaways"
         }
       ]
     }
