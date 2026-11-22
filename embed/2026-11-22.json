@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-22",
+  "dateLabel": "Sunday, November 22, 2026",
+  "generated": "2026-11-22T13:19:08Z",
+  "tldr": [
+    "SEC staff are examining Nvidia's accounting, Reuters reports, as the stock ends its worst week since 2008.",
+    "COP31 collapses in Antalya with no agreement after the EU and Panama reject the final text.",
+    "Stocks post their worst week since April 2025 while traders price an 85%-plus chance of a December Fed rate hike.",
+    "A young child dies of measles in Virginia, days after the US lost its measles elimination status.",
+    "Two tankers are hit within an hour near Oman as Iran readies 14 ships to run the US blockade.",
+    "Anthropic's record $81.3 billion IPO traded within five cents of its offer price on day two.",
+    "Federal funding expires December 11 and Democrats are split over using it to defund the Iran war.",
+    "UN states agree to two more years of talks on autonomous weapons with no commitment to binding rules.",
+    "CrowdStrike is in talks to buy Zscaler in what would be the largest cybersecurity deal on record.",
+    "A second judge blocks Trump's 250-foot triumphal arch, calling the project a \"rushed job.\""
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "SEC staff open an accounting inquiry into Nvidia as the stock closes its worst week since 2008",
+      "body": "Reuters reported on Friday, November 20, that SEC enforcement staff are examining potential accounting issues at Nvidia, citing two people briefed on the matter; Reuters could not establish when the inquiry began or which issues it covers, and the SEC declined to comment. Nvidia closed at $125.53, down 14.01% and roughly $485 billion in market value, ending the week down about 23% - its worst week since 2008 and its seventh straight weekly loss. Jensen Huang resigned as chief executive eight days earlier, on November 12.",
+      "plain": "Nvidia designs the chips nearly every AI system is trained and run on. The SEC polices whether public companies tell investors the truth about their finances. An inquiry is not an accusation, and most end with no action. The timing is what bites: Nvidia has no permanent chief executive, and much of its revenue comes from AI firms it also invests in, so how that revenue is counted is a live question. Only Reuters has this detail so far.",
+      "why": "Nvidia's accounting is the load-bearing wall under the AI capital boom, so a regulatory question about how it records sales to companies it funds becomes a question about everyone else's numbers too.",
+      "sources": [
+        {
+          "outlet": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-10-as-report-of-sec-accounting-probe-adds-to-pressure-5042464"
+        },
+        {
+          "outlet": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "COP31 ends with no agreement after the EU and Panama reject the final text",
+      "body": "COP31 President Murat Kurum told the closing plenary in Antalya on Sunday, November 22, that the draft \"Antalya Pact\" had not been adopted because parties opposed it, ending the longest UN climate conference on record two days past its scheduled close. Ireland's Darragh O'Brien rejected the text on behalf of the European Union and Panama joined him, while observers told Reuters that Saudi Arabia and other large oil producers had pushed to keep explicit mention of fossil fuels out of the draft. It is the first COP since Copenhagen in 2009 to fail to adopt an agreement.",
+      "plain": "COP is the annual meeting where almost every country negotiates what to do about climate change, and it runs on consensus, so a single objection sinks a document. Oil exporters wanted the text to avoid naming fossil fuels as the thing being phased out; European governments decided a text that vague was worse than none. Existing treaties and pledges do not expire because one meeting failed. What is lost is the yearly signal about which way the rules are moving.",
+      "why": "Consensus rules mean a small group of oil producers can now stall the UN climate process indefinitely, which pushes real decisions into coalitions of willing states, trade rules and courts.",
+      "sources": [
+        {
+          "outlet": "Rappler",
+          "url": "https://www.rappler.com/world/global-affairs/cop31-outcomes-november-22-2026/"
+        },
+        {
+          "outlet": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/11/cop31-climate-talks-break-down-eu-and-others-reject-deal"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "Traders price a December Fed rate increase as stocks post their worst week since April 2025",
+      "body": "The S&P 500 closed Friday at 6,910.39, down 3.70% on the day and about 8.6% for the week - its worst week since April 2025 - and more than 10% below its October 6 record, a correction; the Nasdaq Composite fell 5.28% to 22,617.73, erasing its 2026 gain. Meanwhile the Fed is expected to raise rates rather than cut: October CPI rose 0.4% on the month with core at 0.3% for a third straight month, and CBS put futures-implied odds of a quarter-point increase on December 8-9 at about 85%.",
+      "plain": "The Federal Reserve sets the interest rate that feeds into mortgages, car loans and company borrowing. For two years the question was how fast it would cut; inflation has run hot enough that traders now expect the opposite. A correction just means an index has fallen 10% from its high - a label, not a forecast. One number is missing: the 2025 shutdown meant nobody collected October 2025 prices, so there is no clean annual comparison to judge from.",
+      "why": "A rate increase into a 10% equity drawdown is a combination markets have not had to price since 2022, and it removes the assumption that the Fed will cushion a selloff.",
+      "sources": [
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "A young child dies of measles in Virginia, days after the US lost its measles elimination status",
+      "body": "The Virginia Department of Health said a child between the ages of 0 and 4 died after testing positive for measles, the state's first measles death since 1978, and declined to release vaccination status or other identifying details, citing privacy. It is the 12th measles-associated death reported by US state health departments in 2026, while the CDC's published count stands at six. In mid-November the Pan American Health Organization found measles again endemic in the United States, Mexico and Bolivia, stripping the elimination status the US had held since 2000.",
+      "plain": "Measles is among the most contagious diseases known; an unvaccinated person entering a room an infected person left stands a high chance of catching it. Elimination is a technical status, not a cure: it means no chain of infection survived here for a year. Losing it means one did, so the virus can live here permanently rather than arriving with travellers and burning out. Note the mismatch: states report 12 deaths, the CDC six, because federal confirmation lags state reporting.",
+      "why": "A state-reported death toll twice the federal count is the story inside the story: national measles surveillance is now running slower than the outbreak it exists to track.",
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/policy/healthcare/6234958-virginia-child-measles-death-elimination-status/"
+        },
+        {
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/Health/child-measles-dies-virginia-marking-states-1st-measles/story?id=138330916"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - International Affairs",
+      "headline": "Two tankers are hit within an hour near Oman as Iran prepares a convoy to run the US blockade",
+      "body": "The UK Maritime Trade Operations centre reported two strikes on outbound tankers near Khasab, Oman, on Saturday, November 21: the first at about 0500 GMT roughly 11 nautical miles north, hitting a stern, and a second some 50 minutes later about 17 nautical miles east, hitting an engine room. UKMTO attributed both to unidentified projectiles and reported no casualties, while Iran's navy said a tanker caught fire after hitting a naval mine with its navigation systems switched off - a claim no independent source has confirmed. Iranian lawmaker Vahid Ahmadi said 14 tankers are being prepared to challenge the US blockade of Iran's ports.",
+      "plain": "The Strait of Hormuz is a narrow sea passage at the mouth of the Persian Gulf carrying a fifth of the world's oil. The US Navy is stopping ships loading at Iranian ports, which Tehran calls an act of war. Vessels near the strait are being hit at about one a day and nobody claims them; Iran's sea-mine explanation stands alone. Fars, close to the Revolutionary Guards, threatened energy sites in six Gulf states trying to stay out of it.",
+      "why": "Iran's stated plan is to force the issue with its own tankers, which leaves Washington choosing between firing on them and letting the blockade visibly fail.",
+      "sources": [
+        {
+          "outlet": "Investing.com",
+          "url": "https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277"
+        },
+        {
+          "outlet": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/iran-readies-14-tankers-to-break-us-blockade-what-happens-if-they-try-1.500756460"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - AI Industry",
+      "headline": "Anthropic's record IPO came within five cents of its offer price two days after listing",
+      "body": "Anthropic priced its Nasdaq debut at $83 a share on November 19, above its indicated $70-$78 range, raising about $81.3 billion - the largest stock market debut on record - rising to roughly $93.5 billion after underwriters exercised the greenshoe option on November 20. The stock opened at $111.50 and closed its first day at $97.17, a market capitalisation Reuters put near $1.77 trillion. On Friday it fell as much as 15% intraday to a low of $83.05, five cents above the offer price, before closing at $88.91, down 8.5%.",
+      "plain": "An IPO is when a private company first sells shares to the public; the offer price is what those first buyers paid. Trading below it is an embarrassment, so the banks running the sale may buy shares to prop it up - until the selling outgrows their budget. Anthropic, which makes the Claude AI assistant, raised more in one offering than any company has, and two days later the market tested that floor exactly. It held, closing 7% above $83.",
+      "why": "The largest IPO ever was meant to prove public investors would fund the AI buildout at private-market prices; what it established instead is where the bid actually sits.",
+      "sources": [
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+        },
+        {
+          "outlet": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/11/20/anthropic-stock-is-down-13-from-its-opening-price-is-this-dip-worth-buying/"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - Economics",
+      "headline": "Federal funding runs out on December 11 and the fight is over paying for the Iran war",
+      "body": "The continuing resolution funding the federal government expires on December 11, 2026, with no deal in place. Democrats, who won both chambers in the November 3 midterms but are not seated until January, are split over using the deadline to cut off money for the war with Iran: a group of House members will oppose any package that does not bar spending on offensive operations in Iran, while Appropriations Democrat Rosa DeLauro argues against forcing a shutdown. An Iran war-powers resolution was blocked on November 19, and Republicans are separately divided over a $350 billion defence request.",
+      "plain": "Congress must pass a law letting the government spend money, and the current one runs out on December 11, so agencies start closing on December 12 if nothing replaces it. Democrats just won both chambers, but new members are not seated until January, so the outgoing Congress votes on this bill. Using it as leverage to defund the Iran war only works if they will let the government shut. That split, not Republican resistance, is why there is no plan.",
+      "why": "A shutdown starting December 12 would run into a Congress that changes hands in January, so the leverage each side is calculating keeps shifting while they negotiate.",
+      "sources": [
+        {
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/11/19/government-shutdown-funding-iran-democrat"
+        },
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6043190/fight-over-funding-for-iran-war-could-put-the-government-at-risk-of-a-shutdown"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - International Affairs",
+      "headline": "UN states agree to two more years of talks on autonomous weapons without committing to binding rules",
+      "body": "The week-long Convention on Certain Conventional Weapons meeting in Geneva closed on Saturday, November 21, with the 128 states parties agreeing, in the words of conference president Julien Thoeni, \"to launch the elaboration of an international instrument on lethal autonomous weapons systems, which should be conducted over the next two years,\" targeting 2028. The mandate does not specify that the instrument will be legally binding, which UN Secretary-General Antonio Guterres and a large bloc of states had sought. The convention operates by consensus; Reuters reported that Russian opposition weakened the text. Stop Killer Robots called it a \"watered-down mandate.\"",
+      "plain": "These weapons select and attack targets on their own, with no person approving each shot. The Geneva talks sit under a treaty that acts only unanimously, so one country can stop a ban - in practice those furthest ahead in building them, including the US and Russia. What they agreed to is a process: two years of drafting, with whether it binds anyone left open. The weapons are already in use, so talks and deployment run on different clocks.",
+      "why": "Setting 2028 as the target means two more years of deployment before any rule exists, and rules written after the fact tend to be shaped around what has already been built.",
+      "sources": [
+        {
+          "outlet": "Jamaica Gleaner",
+          "url": "https://jamaica-gleaner.com/article/world-news/20261122/nations-agree-extend-talks-ai-killer-robots-no-firm-commitment-rein"
+        },
+        {
+          "outlet": "TRT World",
+          "url": "https://www.trtworld.com/article/163d51308f05"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "CrowdStrike is in talks to buy Zscaler in what would be the largest cybersecurity deal on record",
+      "body": "Bloomberg reported on Friday, November 20, citing people familiar with the matter, that CrowdStrike is in talks to acquire Zscaler. The companies' combined market value is roughly $265 billion, with CrowdStrike at about $233 billion and Zscaler about $32 billion. Bloomberg's sources said deliberations are continuing with no certainty of a transaction; CrowdStrike declined to comment and Zscaler did not immediately respond. Zscaler shares rose roughly 16% to 18% after hours while CrowdStrike fell more than 8%; the two already have a technical partnership, announced on September 2, 2026.",
+      "plain": "CrowdStrike software runs on company laptops and servers watching for attacks. Zscaler sits between those machines and the internet, deciding which traffic gets through. Combining them puts both halves of corporate security with one supplier. The share prices say what investors made of it: Zscaler jumped because buyers pay above market, CrowdStrike fell because a purchase this size means new stock or debt, and big security mergers rarely merge their products. Nothing is agreed; these are unnamed sources describing talks.",
+      "why": "If it closes, large organisations lose one of the few remaining ways to avoid single-vendor dependence in security, the concern regulators raised against earlier consolidation in the sector.",
+      "sources": [
+        {
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "A second federal judge blocks Trump's 250-foot triumphal arch, calling the project a rushed job",
+      "body": "US District Judge Leonie Brinkema said from the bench in Alexandria, Virginia, on Friday, November 20, that she would issue a preliminary injunction halting construction of the proposed 250-foot triumphal arch between the Lincoln Memorial and Arlington National Cemetery, in a suit brought by Arlington County. She said she did not see \"any way\" the government could win on the merits, called the project a \"rushed job,\" and rejected the Justice Department's argument that a 1925 statute authorising the nearby Memorial Bridge also authorised the arch, finding defects in the required environmental and economic impact analysis. Judge Tanya Chutkan has separately extended her own block on the project to December 3, and the Justice Department says it will appeal.",
+      "plain": "Congress, not the president, decides what gets built on federal land, and federal law requires an environmental review before ground is broken. The administration argued a 1925 law authorising a nearby bridge also covered the arch; Brinkema said that reading made no sense. A preliminary injunction is not a verdict; it freezes work while the case is heard, and judges grant one when the challenger looks likely to win. Two judges in two courts reached that conclusion in a week.",
+      "why": "Two judges in two courts have now found the same project likely unlawful, which leaves an appeal over the reach of a 1925 bridge statute as the only remaining route to building it.",
+      "sources": [
+        {
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/11/20/trump-arch-blocked-again"
+        },
+        {
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/11/20/another-judge-blocks-trumps-arch-construction-second-blow-project/"
+        }
+      ]
+    }
+  ]
+}
