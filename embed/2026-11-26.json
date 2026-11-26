@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-26",
+  "dateLabel": "Thursday, November 26, 2026",
+  "generated": "2026-11-26T13:19:08Z",
+  "tldr": [
+    "AI INDUSTRY - New US chip export rules have frozen billions of dollars of bank loans to Southeast Asian data centers serving Chinese tech firms.",
+    "INTERNATIONAL AFFAIRS - EU leaders opened a Brussels summit on a 45 billion euro Ukraine loan that Kyiv repays only if Russia ever pays reparations.",
+    "ECONOMICS - October PCE inflation came in at 3.8%, with core at 3.3%, and traders now price a December Fed rate increase at 94% to 98%.",
+    "HEALTHCARE - New identity checks are stalling Obamacare sign-ups, and brokers have asked CMS to move the December 15 deadline to December 31.",
+    "WILDCARD / ECONOMICS - The US proposed new Section 301 tariffs on 14 trading partners over industrial overcapacity, with China's rate set at 20%.",
+    "WILDCARD / INTERNATIONAL AFFAIRS - Iran's Revolutionary Guard says two more tankers hit sea mines near Hormuz, one a supertanker holding over 2 million barrels.",
+    "WILDCARD / HEALTHCARE - Sanofi agreed to buy Insmed for $41 billion, the largest biopharma deal of the year, to cover its 2031 Dupixent patent cliff.",
+    "WILDCARD / ECONOMICS - Wall Street erased a 3.2% intraday drop to close nearly flat, with three quarters of the S&P 500 rising as money left AI megacaps.",
+    "TECH - The FCC conditionally cleared SpaceX to deploy up to 1 million satellites for data centers in orbit.",
+    "TRUMP NEWS - A second federal judge blocked Trump's revised birthright citizenship order, five months after the Supreme Court struck down his first one 6-3."
+  ],
+  "items": [
+    {
+      "slot": 1,
+      "category": "AI Industry",
+      "headline": "New US chip rules have frozen billions of dollars of loans to Southeast Asian data centers",
+      "body": "Export controls effective November 19 require licenses to ship advanced AI chips to Malaysia, Singapore, Indonesia and Thailand, and for overseas data centers supplying significant computing power to China-based companies; remote-access curbs are expected in February. Lenders have since paused or delayed billions of dollars of loans to Southeast Asian data centers serving ByteDance, Alibaba and Tencent, including a $6.6 billion facility for Bridge Data Centres, while Citigroup, Standard Chartered and Singapore's major banks review their data-center clients. Fitch expects Asia-Pacific data center investment to slow and turn selective. Singapore and Malaysia have both sought talks with Washington.",
+      "plain": "Training AI needs warehouses full of specialized chips, and those warehouses get built with borrowed money. The US does not want its best chips reaching Chinese firms through third countries, so it now requires a license to ship them to four Southeast Asian nations. Banks lend against a building filling with paying customers; if the chips may not arrive and the customers may not qualify, the loan stops adding up. The loan figures come from Bloomberg via secondary outlets, so treat them as second-hand.",
+      "why": "Export controls are now deciding who can borrow rather than only who can buy, which stops AI buildout earlier and more bluntly than a licensing regime appears to on paper.",
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe"
+        },
+        {
+          "outlet": "Fitch Ratings (via Rallies)",
+          "url": "https://rallies.ai/news/us-chip-curbs-will-slow-asia-data-center-investment-fitch-says-c84f4f05c29a968d"
+        },
+        {
+          "outlet": "The China-Global South Project",
+          "url": "https://chinaglobalsouth.com/2026/11/26/china-southeast-asia-data-centers-chip-rules/"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "category": "International Affairs",
+      "headline": "EU leaders meet on a 45 billion euro Ukraine loan that only Russia would repay",
+      "body": "EU heads of government opened a Brussels summit on November 26 on the European Commission's November 18 proposal for 45 billion euros of additional support for Ukraine in 2027, structured as a limited-recourse loan Kyiv repays only if it receives reparations from Russia. Windfall profits from immobilized Russian assets would also go toward repayment. The sum covers part of an estimated 70 billion euro gap, and German Chancellor Friedrich Merz has pressed all 27 member states to commit. Separately, the Council approved 45 billion euros on November 25 from the existing 90 billion euro Ukraine Support Loan, a technical step several outlets conflated with the new proposal. Leaders aim to decide by year end as Washington pulls back.",
+      "plain": "Ukraine cannot fund its government and army while fighting a war, so other countries cover the gap, and the US is stepping back. The risky part of the EU plan is that the money is called a loan, but Ukraine repays it only if Russia one day pays reparations, meaning compensation for war damage. If that never happens, European taxpayers absorbed the cost while the books recorded a loan. Two different 45 billion euro figures appeared this week; the unresolved one is for 2027.",
+      "why": "Because repayment depends on reparations nobody can guarantee, Europe is being asked to carry the war's fiscal risk without recording it as spending, which is also what makes the deal passable.",
+      "sources": [
+        {
+          "outlet": "European Commission",
+          "url": "https://enlargement.ec.europa.eu/news/commission-proposes-eur45-billion-additional-financial-support-ukraine-2027-2026-11-18_en"
+        },
+        {
+          "outlet": "Reuters (via US News)",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-18/eu-proposes-new-45-billion-loan-for-ukraine-for-2027-to-be-repaid-by-russia"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "category": "Economics",
+      "headline": "October inflation came in at 3.8%, making a December Fed rate increase close to certain",
+      "body": "The personal consumption expenditures price index, the Fed's preferred inflation gauge, rose 3.8% year over year in October, up from 3.6% in September. Core PCE, which excludes food and energy, printed 3.3% against a 3.2% forecast, the highest in nearly three years. After the release, futures markets put the odds of a quarter-point increase at the December 8-9 FOMC meeting between 94% and 98%. The Fed held its target range at 3.75% to 4% on October 28 by a 10-2 vote, with Cleveland's Beth Hammack and Governor Lisa Cook dissenting in favor of a hike. Third-quarter GDP growth was 4.3% annualized.",
+      "plain": "Inflation is how fast prices rise across the economy; the Fed wants about 2% a year and it is near 4%. Its main tool is an interest rate it sets, which makes borrowing dearer and cools spending. Unusually it is raising that rate rather than cutting, which happens when inflation moves the wrong way while growth stays strong. Two officials voted to raise last month and lost; this is the last inflation reading before the December meeting, and it makes them likely to win.",
+      "why": "A tightening Fed arriving as the AI trade deflates removes the cushion investors have assumed for two years: cheaper money is not coming to rescue valuations.",
+      "sources": [
+        {
+          "outlet": "InvestmentNews",
+          "url": "https://www.investmentnews.com/equities/pce-inflation-gauge-still-running-hot-as-december-rate-hike-looms/269173"
+        },
+        {
+          "outlet": "Invezz",
+          "url": "https://invezz.com/ca/news/2026/11/25/us-pce-rises-38percent-in-october-experts-say-fed-rate-hike-in-december-a-done-deal/"
+        },
+        {
+          "outlet": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "category": "Healthcare",
+      "headline": "New identity checks are stalling Obamacare sign-ups, and groups want the December 15 deadline moved",
+      "body": "Brokers and advocacy groups have asked CMS to push the Affordable Care Act open-enrollment deadline from December 15 to December 31, saying new identity-proofing rules leave applicants unable to finish. A November 20 letter from 11 broker firms describes expired links, failed identity confirmations and applications that time out and must be restarted. The checks follow a CMS crackdown in which the agency flagged 1.18 million potentially unauthorized enrollments, all agent- or broker-assisted and lacking a verified Social Security or immigration document number; insurers determined 760,000 were unauthorized and that coverage was cancelled. A CMS spokesperson said the agency does not speculate on potential deadline extensions.",
+      "plain": "The ACA marketplace, often called Obamacare, is where Americans without job-based insurance buy a plan, usually with a government subsidy. Most sign up through brokers, who are paid per enrollment, and that created fraud: plans opened for people who never asked. The government's fix was to make everyone prove who they are online. The side effect is that the proof system also blocks legitimate applicants, and the window closes December 15 for coverage starting January 1.",
+      "why": "An anti-fraud control that cannot tell a fraudulent enrollment from a slow one turns a verification problem into an uninsured-rate problem, and the deadline, not the fraud, decides how big it gets.",
+      "sources": [
+        {
+          "outlet": "AP (via KERA)",
+          "url": "https://www.kera.org/2026/11/25/new-aca-identity-checks-delay-health-insurance-enrollment/"
+        },
+        {
+          "outlet": "ID Tech Wire",
+          "url": "https://idtechwire.com/new-identity-proofing-rules-slow-affordable-care-act-sign-ups-prompting-calls-to-extend-enrollment/"
+        },
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "category": "Wildcard - Economics",
+      "headline": "US proposes tariffs on 14 trading partners over industrial overcapacity",
+      "body": "The administration released results on November 25 of a Section 301 investigation into industrial subsidies and overcapacity across 16 economies, proposing tariffs on 14 of them, including China, the EU, Japan, South Korea, India, Taiwan, Vietnam and Switzerland. China's proposed rate is 20%, with rates capped at 15% for the EU, Japan and South Korea. An official said the probe found rates of 40% on China and 35% on Vietnam warranted, with lower rates proposed for now because negotiations continue. The duties require further hearings and a public comment period and would not take effect before January. China rejected the overcapacity finding, and the European Commission said the sources of overcapacity do not lie in Europe.",
+      "plain": "A tariff is a tax on imported goods, paid by the importer and usually passed into prices. Section 301 is the law letting the US impose one after investigating another country's trade practices. The complaint is overcapacity: governments subsidize factories to make far more steel, chips or solar panels than their own buyers need, so the surplus is dumped abroad and undercuts local producers. Notice that the US says higher rates were justified than it proposed, making the gap itself a bargaining chip.",
+      "why": "This is the legal replacement for the April 2025 tariffs the Supreme Court struck down in February, rebuilt on a statute designed to survive the challenge that killed the first set.",
+      "sources": [
+        {
+          "outlet": "AP (via BNN Bloomberg)",
+          "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/25/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+        },
+        {
+          "outlet": "Brussels Signal",
+          "url": "https://brusselssignal.eu/2026/11/us-readies-new-tariffs-on-eu-and-china-over-overcapacity/"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "category": "Wildcard - International Affairs",
+      "headline": "Iran says two more tankers struck mines near the Strait of Hormuz",
+      "body": "Iran's Revolutionary Guard Corps said Thursday that two oil tankers hit sea mines north of Oman's Khasab port, one a supertanker carrying more than 2 million barrels of crude, and said the vessels had taken what its navy called an unauthorized route. It follows a separate reported mine strike and fire on Wednesday in what Iranian state media called a restricted zone. The UK Maritime Trade Operations agency separately reported an explosion from an unknown projectile near a tanker about 50 nautical miles west of Dubai on Thursday, and Saudi Arabia intercepted two ballistic missiles fired toward Riyadh the same day. Brent crude rose 0.1% to $94.71 in early Asian trade. None of the Iranian claims have been independently verified.",
+      "plain": "The Strait of Hormuz is a narrow neck of sea at the mouth of the Persian Gulf that much of the world's oil passes through. Iran says ships crossing it are hitting naval mines, explosives left floating or on the seabed, and that the ships ignored its routing orders. A supertanker holds roughly two days of China's oil imports, so one lost cargo is a real supply event. Almost every claim here comes from the attacking side, so treat the specifics as unconfirmed.",
+      "why": "Iran is establishing that it, not maritime law, sets the rules for passage through Hormuz, and prices near $95 show markets paying for that risk before a single barrel has actually gone missing.",
+      "sources": [
+        {
+          "outlet": "Reuters (via Business Recorder)",
+          "url": "https://www.brecorder.com/news/40450825/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships"
+        },
+        {
+          "outlet": "Iran International",
+          "url": "https://www.iranintl.com/en/202611261840"
+        },
+        {
+          "outlet": "Deccan Herald",
+          "url": "https://www.deccanherald.com/west-asia/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-4232091"
+        },
+        {
+          "outlet": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "category": "Wildcard - Healthcare",
+      "headline": "Sanofi agreed to buy Insmed for $41 billion, the largest biopharma deal of the year",
+      "body": "Sanofi said on Tuesday it will acquire Insmed for $175 a share in cash, valuing the New Jersey respiratory and rare-disease company at $41.0 billion, about 37.6 billion euros, a roughly 17% premium to Monday's Nasdaq close. The deal brings in the approved drugs Brinsupri and Arikayce plus a phase 3 inhaled candidate, and is aimed at the 2031 US patent expiry on Dupixent, Sanofi's best-selling drug. It is the largest biopharma acquisition since Pfizer's $43 billion purchase of Seagen in December 2023, and Sanofi's second largest ever. Closing is expected in the first half of 2027, with earnings accretion from late 2028.",
+      "plain": "Drug companies get a patent that stops anyone else selling a copy for about 20 years; when it ends, cheap versions arrive and revenue collapses. Sanofi's biggest earner, an eczema and asthma injection called Dupixent, loses that protection in 2031. So Sanofi is buying a smaller company whose approved lung drugs will still be protected then. That is a patent cliff in practice: a known date years out, and $41 billion spent today to be standing somewhere else when it arrives.",
+      "why": "Pharma is paying 2026 prices for revenue that does not matter until 2031, which says how little the largest players trust their own pipelines to close that gap.",
+      "sources": [
+        {
+          "outlet": "Sanofi SEC filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"
+        },
+        {
+          "outlet": "BioPharma Dive",
+          "url": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/"
+        },
+        {
+          "outlet": "Nature Reviews Drug Discovery",
+          "url": "https://www.nature.com/articles/d41573-026-00189-0"
+        },
+        {
+          "outlet": "Fierce Pharma",
+          "url": "https://www.fiercepharma.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "category": "Wildcard - Economics",
+      "headline": "Wall Street erased a 3.2% intraday drop as money moved out of AI megacaps into everything else",
+      "body": "The S&P 500 fell as much as 3.2% on Wednesday after the hot PCE print and the tariff announcement, then closed down just 0.25% at 7,182.78. The Nasdaq recovered from a 4.6% decline to finish 0.62% lower at 23,585.80, while the Dow erased a drop of more than 1,100 points to close up 0.33% and the Russell 2000 rose 0.71%. Roughly three quarters of S&P 500 constituents advanced; the index fell anyway because of its technology weighting, with Nvidia down 3.9% to $149.30 alongside Oracle and Micron. The VIX touched 35 intraday and settled at 28.03. US markets were closed Thursday for Thanksgiving.",
+      "plain": "A stock index is an average, and its biggest companies count for far more of it than its smallest. On Wednesday most American companies' shares rose while the index fell, because the handful of AI-related giants that dominate it dropped. The VIX measures how much turbulence traders expect; it spiked and then calmed. The interesting part is not the headline number but the split underneath: investors were not fleeing stocks, they were leaving one trade for the rest of the market.",
+      "why": "A market that can absorb a hot inflation print and a tariff announcement while its AI leaders fall is repricing those leaders specifically rather than discounting the economy.",
+      "sources": [
+        {
+          "outlet": "AP (via ABC News)",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-11252026-138453529"
+        },
+        {
+          "outlet": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "category": "Tech",
+      "headline": "FCC clears SpaceX to launch up to 1 million satellites for data centers in orbit",
+      "body": "The FCC's Space Bureau granted SpaceX conditional approval on November 25 to deploy and operate up to 1 million satellites for Starmind, its orbital data-center constellation, at altitudes between 500 and 1,002 kilometers. The grant was partial, with some requests deferred: before deploying anything above 600 kilometers SpaceX must file an application containing a final orbital debris mitigation plan. Amazon, Viasat and the American Astronomical Society objected over debris, radio interference and environmental effects, and Earthjustice attorney Jan Hasselman said the FCC approved the plan without the review the National Environmental Policy Act requires. Reported deployment deadlines differ across outlets, from seven years for a first operational satellite to a single 15-year permit; SpaceX's finance chief has said the first space data centers launch in 2027.",
+      "plain": "Data centers are buildings full of computers, limited on Earth by electricity and cooling. In orbit, sunlight never stops and space is cold, so the pitch is free power and free cooling. The number to sit with is 1 million: roughly 15,000 working satellites are in orbit today. More objects means more collisions, and each collision scatters debris that causes further collisions. The approval does not mean the satellites exist or the economics work, only that the regulator will not stop them.",
+      "why": "The FCC licensed a constellation roughly sixty times larger than everything working in orbit today before the debris plan for most of it exists, which leaves environmental review, not spectrum licensing, as the only real constraint.",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+        },
+        {
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "outlet": "Aviation Week",
+          "url": "https://aviationweek.com/space/commercial-space/fcc-greenlights-spacex-plan-orbital-data-centers"
+        },
+        {
+          "outlet": "FCC",
+          "url": "https://docs.fcc.gov/public/attachments/DA-26-113A1.docx"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "category": "Trump News",
+      "headline": "A second judge blocked Trump's revised birthright citizenship order, five months after the Supreme Court struck down the first",
+      "body": "US District Judge Christopher Cooper certified a class and granted a classwide preliminary injunction on November 25 against Executive Order 14418, signed in August, which would have denied citizenship to US-born children of foreign government employees, members of designated terrorist organizations, and children born through commercial surrogacy. Cooper wrote that the President \"cannot carve out new exceptions to birthright citizenship for children born within the United States and subject to its laws,\" relying on the Supreme Court's 6-3 ruling in June and its 1898 decision in United States v. Wong Kim Ark. Judge Deborah Boardman blocked the same order in Maryland in September, so the administration must overturn both to enforce it. White House spokeswoman Lauren Bis called the ruling \"just another ruling from an activist judge appointed by Obama.\" Trump had called Cooper \"an anti Trump Hater\" on Truth Social in late May, after Cooper's 94-page ruling ordering his name removed from the Kennedy Center, and wrote in a later post that Cooper \"should be IMPEACHED.\" The injunction is preliminary and appealable.",
+      "plain": "The 14th Amendment makes people born in the United States citizens, and the Supreme Court settled in 1898 that this covers immigrants' children. Trump narrowed it by order in January 2025, the Supreme Court struck that down 6-3 in June, and he signed a second, narrower version in August. Two judges have now paused that one, including the judge Trump called an \"anti Trump Hater\" and said should be impeached, over an unrelated case six months earlier. This is a pause, not a final loss; an appeal is expected.",
+      "why": "The second order is being blocked by citing the administration's own Supreme Court defeat, which narrows rather than widens the argument available on appeal.",
+      "sources": [
+        {
+          "outlet": "Reuters (via US News)",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-25/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge"
+        },
+        {
+          "outlet": "The Hill",
+          "url": "https://thehill.com/regulation/court-battles/6243427-second-judge-blocks-trump-birthright-citizenship/"
+        },
+        {
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919"
+        },
+        {
+          "outlet": "The Independent (via Yahoo)",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-melts-down-over-series-of-embarrassing-setbacks-223701296.html"
+        }
+      ]
+    }
+  ]
+}
