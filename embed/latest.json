@@ -1,245 +1,213 @@
 {
-  "date": "2026-11-26",
-  "dateLabel": "Thursday, November 26, 2026",
-  "generated": "2026-11-26T13:19:08Z",
+  "date": "2026-11-27",
+  "dateLabel": "Friday, November 27, 2026",
+  "generated": "2026-11-27T13:17:46Z",
   "tldr": [
-    "AI INDUSTRY - New US chip export rules have frozen billions of dollars of bank loans to Southeast Asian data centers serving Chinese tech firms.",
-    "INTERNATIONAL AFFAIRS - EU leaders opened a Brussels summit on a 45 billion euro Ukraine loan that Kyiv repays only if Russia ever pays reparations.",
-    "ECONOMICS - October PCE inflation came in at 3.8%, with core at 3.3%, and traders now price a December Fed rate increase at 94% to 98%.",
-    "HEALTHCARE - New identity checks are stalling Obamacare sign-ups, and brokers have asked CMS to move the December 15 deadline to December 31.",
-    "WILDCARD / ECONOMICS - The US proposed new Section 301 tariffs on 14 trading partners over industrial overcapacity, with China's rate set at 20%.",
-    "WILDCARD / INTERNATIONAL AFFAIRS - Iran's Revolutionary Guard says two more tankers hit sea mines near Hormuz, one a supertanker holding over 2 million barrels.",
-    "WILDCARD / HEALTHCARE - Sanofi agreed to buy Insmed for $41 billion, the largest biopharma deal of the year, to cover its 2031 Dupixent patent cliff.",
-    "WILDCARD / ECONOMICS - Wall Street erased a 3.2% intraday drop to close nearly flat, with three quarters of the S&P 500 rising as money left AI megacaps.",
-    "TECH - The FCC conditionally cleared SpaceX to deploy up to 1 million satellites for data centers in orbit.",
-    "TRUMP NEWS - A second federal judge blocked Trump's revised birthright citizenship order, five months after the Supreme Court struck down his first one 6-3."
+    "AI INDUSTRY - Nvidia told server makers to stop shipping AI systems to Malaysia, Singapore, Thailand and Indonesia after new US export rules.",
+    "INTERNATIONAL AFFAIRS - Baghdad moved to take over Kurdistan's border crossings and northern oilfields with court backing; thousands protested in Erbil.",
+    "ECONOMICS - US third-quarter growth was revised up to a 4.3% annual rate from 3.4%; Trump called the first number fake and demanded an investigation.",
+    "HEALTHCARE - Bristol Myers Squibb's pill Sotyktu worked in one of two large lupus trials and missed in the other.",
+    "WILDCARD / AI INDUSTRY - The Bank of England put the biggest AI companies' potential exposure above $4 trillion and called the financing \"complex, circular and opaque.\"",
+    "WILDCARD / AI INDUSTRY - Switzerland's cyber agency said AI agents ran five attacks, four of them successful, three aimed at power, water and telecom operators.",
+    "WILDCARD / INTERNATIONAL AFFAIRS - Two Italian defence technicians were killed by a drone strike on a Kuwaiti air-defence site; Italy blames Iran, which denies it.",
+    "WILDCARD / ECONOMICS - EU leaders put forward Spain's Pablo Hernández de Cos as the next European Central Bank president.",
+    "TECH - Ukraine said a 4-kilowatt laser shot down a Russian jet-powered drone, which would be a first.",
+    "TRUMP NEWS - A judge blocked the FCC's early review of ABC's licences, writing that its chairman \"has taken President Trump's rhetoric as his marching orders.\""
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "New US chip rules have frozen billions of dollars of loans to Southeast Asian data centers",
-      "body": "Export controls effective November 19 require licenses to ship advanced AI chips to Malaysia, Singapore, Indonesia and Thailand, and for overseas data centers supplying significant computing power to China-based companies; remote-access curbs are expected in February. Lenders have since paused or delayed billions of dollars of loans to Southeast Asian data centers serving ByteDance, Alibaba and Tencent, including a $6.6 billion facility for Bridge Data Centres, while Citigroup, Standard Chartered and Singapore's major banks review their data-center clients. Fitch expects Asia-Pacific data center investment to slow and turn selective. Singapore and Malaysia have both sought talks with Washington.",
-      "plain": "Training AI needs warehouses full of specialized chips, and those warehouses get built with borrowed money. The US does not want its best chips reaching Chinese firms through third countries, so it now requires a license to ship them to four Southeast Asian nations. Banks lend against a building filling with paying customers; if the chips may not arrive and the customers may not qualify, the loan stops adding up. The loan figures come from Bloomberg via secondary outlets, so treat them as second-hand.",
-      "why": "Export controls are now deciding who can borrow rather than only who can buy, which stops AI buildout earlier and more bluntly than a licensing regime appears to on paper.",
+      "headline": "Nvidia tells server partners to stop AI shipments to four Southeast Asian countries",
+      "body": "Nvidia has instructed server-making partners, including Dell and Supermicro, to stop delivering AI systems to customers in Malaysia, Singapore, Thailand and Indonesia, according to the Financial Times, the Wall Street Journal and Nikkei Asia. The pause follows a mid-November Commerce Department rule requiring a licence to export or re-export advanced AI chips to those four countries and Brazil, aimed at Chinese companies renting computing power abroad. The WSJ reported the halt runs for an unspecified period while Nvidia assesses whether partners meet the requirements. Nvidia has not confirmed the instruction, and shares in Southeast Asian data-centre suppliers fell.",
+      "plain": "Nvidia makes the chips nearly all serious AI work runs on, and other firms bolt them into the room-sized computers that fill data centres. Washington's worry is not those four countries but that a Chinese company barred from buying chips can rent time on a machine in Singapore instead. A licence is now required, so Nvidia stopped shipping rather than guess who the end customer is. Nvidia has said nothing publicly; this comes from reporters' sources.",
+      "why": "Enforcement has shifted from border officials to Nvidia's own order book, which makes the company the gatekeeper deciding which countries get to build an AI industry.",
       "sources": [
         {
-          "outlet": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe"
+          "outlet": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs"
         },
         {
-          "outlet": "Fitch Ratings (via Rallies)",
-          "url": "https://rallies.ai/news/us-chip-curbs-will-slow-asia-data-center-investment-fitch-says-c84f4f05c29a968d"
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
         },
         {
-          "outlet": "The China-Global South Project",
-          "url": "https://chinaglobalsouth.com/2026/11/26/china-southeast-asia-data-centers-chip-rules/"
+          "outlet": "DataCenterDynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "EU leaders meet on a 45 billion euro Ukraine loan that only Russia would repay",
-      "body": "EU heads of government opened a Brussels summit on November 26 on the European Commission's November 18 proposal for 45 billion euros of additional support for Ukraine in 2027, structured as a limited-recourse loan Kyiv repays only if it receives reparations from Russia. Windfall profits from immobilized Russian assets would also go toward repayment. The sum covers part of an estimated 70 billion euro gap, and German Chancellor Friedrich Merz has pressed all 27 member states to commit. Separately, the Council approved 45 billion euros on November 25 from the existing 90 billion euro Ukraine Support Loan, a technical step several outlets conflated with the new proposal. Leaders aim to decide by year end as Washington pulls back.",
-      "plain": "Ukraine cannot fund its government and army while fighting a war, so other countries cover the gap, and the US is stepping back. The risky part of the EU plan is that the money is called a loan, but Ukraine repays it only if Russia one day pays reparations, meaning compensation for war damage. If that never happens, European taxpayers absorbed the cost while the books recorded a loan. Two different 45 billion euro figures appeared this week; the unresolved one is for 2027.",
-      "why": "Because repayment depends on reparations nobody can guarantee, Europe is being asked to carry the war's fiscal risk without recording it as spending, which is also what makes the deal passable.",
+      "headline": "Baghdad takes over Kurdistan's borders and northern oilfields as thousands protest in Erbil",
+      "body": "Iraqi Prime Minister Ali al-Zaidi ordered federal authorities on 24 November to take control of every border crossing in the Kurdistan region and of oilfields in Kirkuk, Nineveh, Salahuddin and Diyala held by Kurdish forces, after a smuggling investigation at the state-run North Oil Company. Iraq's Federal Supreme Court affirmed federal authority over borders, oil operations and public revenues on 25 November, with two judges dissenting. Thousands rallied at the Erbil citadel on Thursday, and the Kurdistan Regional Government said it rejected \"any attempt to return Iraq to a centralised system.\" Two crossings with Iran and Syria have closed, and Baghdad denied reports of troop movements toward the region.",
+      "plain": "Iraqi Kurdistan is a northern region that runs much of its own affairs, including its border posts and, until this week, its own oil arrangements. Oil pays for about 90% of Iraq's budget, so controlling the wells and the crossings is really about controlling the money. Baghdad says Kurdish officials allowed smuggling; Erbil says Baghdad never paid what it owed. The court ruling matters because it turns a political move into a legal one, which is harder to undo.",
+      "why": "Kurdish autonomy has rested on controlling its own oil and borders, and losing both by court order removes the leverage the region has used since 2005 without a shot being fired.",
       "sources": [
         {
-          "outlet": "European Commission",
-          "url": "https://enlargement.ec.europa.eu/news/commission-proposes-eur45-billion-additional-financial-support-ukraine-2027-2026-11-18_en"
+          "outlet": "Associated Press via The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/nov/26/protesters-gather-irbil-baghdad-moves-seize-kurdish-oil-border/"
         },
         {
-          "outlet": "Reuters (via US News)",
-          "url": "https://www.usnews.com/news/world/articles/2026-11-18/eu-proposes-new-45-billion-loan-for-ukraine-for-2027-to-be-repaid-by-russia"
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region"
+        },
+        {
+          "outlet": "Amwaj Media",
+          "url": "https://amwaj.media/en/article/after-jurf-al-sakhar-zaidi-orders-greater-federal-authority-in-iraqi-kurdistan"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "October inflation came in at 3.8%, making a December Fed rate increase close to certain",
-      "body": "The personal consumption expenditures price index, the Fed's preferred inflation gauge, rose 3.8% year over year in October, up from 3.6% in September. Core PCE, which excludes food and energy, printed 3.3% against a 3.2% forecast, the highest in nearly three years. After the release, futures markets put the odds of a quarter-point increase at the December 8-9 FOMC meeting between 94% and 98%. The Fed held its target range at 3.75% to 4% on October 28 by a 10-2 vote, with Cleveland's Beth Hammack and Governor Lisa Cook dissenting in favor of a hike. Third-quarter GDP growth was 4.3% annualized.",
-      "plain": "Inflation is how fast prices rise across the economy; the Fed wants about 2% a year and it is near 4%. Its main tool is an interest rate it sets, which makes borrowing dearer and cools spending. Unusually it is raising that rate rather than cutting, which happens when inflation moves the wrong way while growth stays strong. Two officials voted to raise last month and lost; this is the last inflation reading before the December meeting, and it makes them likely to win.",
-      "why": "A tightening Fed arriving as the AI trade deflates removes the cushion investors have assumed for two years: cheaper money is not coming to rescue valuations.",
+      "headline": "US third-quarter growth revised up to 4.3%, and Trump demands an investigation into the first estimate",
+      "body": "The Bureau of Economic Analysis raised its estimate of third-quarter US growth to a 4.3% annual rate on 25 November, up from the 3.4% it first reported, citing stronger business investment and revised consumer spending. Measured over the three months rather than annualised, that is about 1.1%. Trump responded in a Thanksgiving post calling the original figure \"FAKE,\" describing the gap as \"a massive, and purposeful, error\" and demanding an immediate investigation into why the correct number was not released before the election. He offered no evidence. Revisions this size are routine; the BEA revised second-quarter 2020 growth by more. The next estimate is due 23 December.",
+      "plain": "The BEA is the federal office that measures how fast the economy grew. It publishes an early estimate, then corrects it twice as late tax, trade and company data arrive, which is why the number moves. This revision moved growth up, not down, which is the part that does not fit the complaint. The agency sits inside the Commerce Department, run by Trump's own appointee, who fired the head of the labour statistics bureau last year over different revisions.",
+      "why": "Investors, the Federal Reserve and every forecaster price off these releases, so pressure on the agencies that produce them raises the cost of borrowing long before it changes a single number.",
       "sources": [
         {
-          "outlet": "InvestmentNews",
-          "url": "https://www.investmentnews.com/equities/pce-inflation-gauge-still-running-hot-as-december-rate-hike-looms/269173"
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics"
         },
         {
-          "outlet": "Invezz",
-          "url": "https://invezz.com/ca/news/2026/11/25/us-pce-rises-38percent-in-october-experts-say-fed-rate-hike-in-december-a-done-deal/"
-        },
-        {
-          "outlet": "Federal Reserve",
-          "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf"
+          "outlet": "The Hill",
+          "url": "https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe/"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "New identity checks are stalling Obamacare sign-ups, and groups want the December 15 deadline moved",
-      "body": "Brokers and advocacy groups have asked CMS to push the Affordable Care Act open-enrollment deadline from December 15 to December 31, saying new identity-proofing rules leave applicants unable to finish. A November 20 letter from 11 broker firms describes expired links, failed identity confirmations and applications that time out and must be restarted. The checks follow a CMS crackdown in which the agency flagged 1.18 million potentially unauthorized enrollments, all agent- or broker-assisted and lacking a verified Social Security or immigration document number; insurers determined 760,000 were unauthorized and that coverage was cancelled. A CMS spokesperson said the agency does not speculate on potential deadline extensions.",
-      "plain": "The ACA marketplace, often called Obamacare, is where Americans without job-based insurance buy a plan, usually with a government subsidy. Most sign up through brokers, who are paid per enrollment, and that created fraud: plans opened for people who never asked. The government's fix was to make everyone prove who they are online. The side effect is that the proof system also blocks legitimate applicants, and the window closes December 15 for coverage starting January 1.",
-      "why": "An anti-fraud control that cannot tell a fraudulent enrollment from a slow one turns a verification problem into an uninsured-rate problem, and the deadline, not the fraud, decides how big it gets.",
+      "headline": "Bristol Myers Squibb's Sotyktu succeeds in one lupus trial and fails the other",
+      "body": "Bristol Myers Squibb reported on 25 November that Sotyktu (deucravacitinib), a pill already approved for psoriasis, met its main goal in one of two Phase 3 trials in systemic lupus erythematosus and missed in the other. In POETYK SLE-1, with 510 adults, significantly more patients on Sotyktu reached an SRI-4 response at week 52 than on placebo, with significant results on secondary measures including steroid tapering and fatigue. POETYK SLE-2, with 513 adults, missed its primary endpoint; the company said the drug's response matched SLE-1 but the placebo response was higher. Safety matched the drug's known profile. BMS will review the full dataset with regulators.",
+      "plain": "Lupus is a disease in which the immune system attacks the body's own tissue, and most patients are managed with steroids that cause harm of their own over time. A daily pill that let people cut their steroid dose would matter, so this drug was tested in two near-identical trials. One worked and one did not, for a specific reason: patients given the dummy pill improved more than expected, which shrinks the measurable gap even if the drug performed the same.",
+      "why": "A split result on 1,023 patients leaves the FDA to judge whether an unusually strong placebo response excuses a missed trial, a question that has sunk lupus drugs before.",
       "sources": [
         {
-          "outlet": "AP (via KERA)",
-          "url": "https://www.kera.org/2026/11/25/new-aca-identity-checks-delay-health-insurance-enrollment/"
+          "outlet": "Bristol Myers Squibb",
+          "url": "https://investors.bms.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-Announces-Results-from-Phase-3-POETYK-SLE-1-and-POETYK-SLE-2-Trials-Evaluating-Sotyktu-deucravacitinib-in-Systemic-Lupus-Erythematosus/default.aspx"
         },
         {
-          "outlet": "ID Tech Wire",
-          "url": "https://idtechwire.com/new-identity-proofing-rules-slow-affordable-care-act-sign-ups-prompting-calls-to-extend-enrollment/"
-        },
-        {
-          "outlet": "NPR",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance"
+          "outlet": "The American Journal of Managed Care",
+          "url": "https://www.ajmc.com/view/deucravacitinib-meets-primary-end-point-in-1-of-2-phase-3-lupus-trials"
         }
       ]
     },
     {
       "slot": 5,
-      "category": "Wildcard - Economics",
-      "headline": "US proposes tariffs on 14 trading partners over industrial overcapacity",
-      "body": "The administration released results on November 25 of a Section 301 investigation into industrial subsidies and overcapacity across 16 economies, proposing tariffs on 14 of them, including China, the EU, Japan, South Korea, India, Taiwan, Vietnam and Switzerland. China's proposed rate is 20%, with rates capped at 15% for the EU, Japan and South Korea. An official said the probe found rates of 40% on China and 35% on Vietnam warranted, with lower rates proposed for now because negotiations continue. The duties require further hearings and a public comment period and would not take effect before January. China rejected the overcapacity finding, and the European Commission said the sources of overcapacity do not lie in Europe.",
-      "plain": "A tariff is a tax on imported goods, paid by the importer and usually passed into prices. Section 301 is the law letting the US impose one after investigating another country's trade practices. The complaint is overcapacity: governments subsidize factories to make far more steel, chips or solar panels than their own buyers need, so the surplus is dumped abroad and undercuts local producers. Notice that the US says higher rates were justified than it proposed, making the gap itself a bargaining chip.",
-      "why": "This is the legal replacement for the April 2025 tariffs the Supreme Court struck down in February, rebuilt on a statute designed to survive the challenge that killed the first set.",
+      "category": "Wildcard - AI Industry",
+      "headline": "Bank of England puts the biggest AI companies' exposure above $4 trillion",
+      "body": "The Bank of England's Financial Stability Report, published Thursday, put the potential AI exposure of the largest cloud and AI companies at just over $4 trillion, a figure built from debt plus off-balance-sheet items including leases, purchase commitments and contingent obligations. The Financial Policy Committee called AI financing \"increasingly complex, circular and opaque\" and said equity valuations remain \"stretched\" and dependent on those companies delivering the profits investors expect. The report projects hyperscaler bond issuance above $305 billion in 2026, around 8% of global investment-grade issuance. The same committee proposed cutting capital requirements for major UK lenders by a further 30 basis points.",
+      "plain": "Hyperscalers are the few companies that own most of the world's cloud computing, and they now borrow on a scale that ranks them among the largest corporate bond issuers anywhere. The $4 trillion is not money lost or even all borrowed; it adds the long leases and purchase promises that never appear as debt. \"Circular\" is the key word: a chip maker invests in an AI firm, which spends it on that maker's chips, and the same dollar counts twice.",
+      "why": "A central bank has now attached an official number and the word \"opaque\" to AI credit, which is what regulators do shortly before they start asking banks to hold capital against it.",
       "sources": [
         {
-          "outlet": "AP (via BNN Bloomberg)",
-          "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/25/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+          "outlet": "Reuters via U.S. News",
+          "url": "https://money.usnews.com/investing/news/articles/2026-11-26/bank-of-england-sees-growing-financial-risks-as-ai-borrowing-surges"
         },
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
-        },
-        {
-          "outlet": "Brussels Signal",
-          "url": "https://brusselssignal.eu/2026/11/us-readies-new-tariffs-on-eu-and-china-over-overcapacity/"
+          "outlet": "Bank of England",
+          "url": "https://www.bankofengland.co.uk/financial-stability-report"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - International Affairs",
-      "headline": "Iran says two more tankers struck mines near the Strait of Hormuz",
-      "body": "Iran's Revolutionary Guard Corps said Thursday that two oil tankers hit sea mines north of Oman's Khasab port, one a supertanker carrying more than 2 million barrels of crude, and said the vessels had taken what its navy called an unauthorized route. It follows a separate reported mine strike and fire on Wednesday in what Iranian state media called a restricted zone. The UK Maritime Trade Operations agency separately reported an explosion from an unknown projectile near a tanker about 50 nautical miles west of Dubai on Thursday, and Saudi Arabia intercepted two ballistic missiles fired toward Riyadh the same day. Brent crude rose 0.1% to $94.71 in early Asian trade. None of the Iranian claims have been independently verified.",
-      "plain": "The Strait of Hormuz is a narrow neck of sea at the mouth of the Persian Gulf that much of the world's oil passes through. Iran says ships crossing it are hitting naval mines, explosives left floating or on the seabed, and that the ships ignored its routing orders. A supertanker holds roughly two days of China's oil imports, so one lost cargo is a real supply event. Almost every claim here comes from the attacking side, so treat the specifics as unconfirmed.",
-      "why": "Iran is establishing that it, not maritime law, sets the rules for passage through Hormuz, and prices near $95 show markets paying for that risk before a single barrel has actually gone missing.",
+      "category": "Wildcard - AI Industry",
+      "headline": "Swiss cyber agency says AI agents carried out five attacks, four of them successful",
+      "body": "Switzerland's Federal Office for Cybersecurity said on Thursday that AI agents were used in five recent cyberattacks in the country and that four of them succeeded, Reuters reported. Three of the five targeted critical-infrastructure operators, which the Swiss broadcaster SRF identified as electricity, water and telecommunications providers. Cyber chief Florian Schütz said there were no major outages. The agency did not name the operators, identify who was behind the attacks, describe the tools used, or quantify losses. It told operators to patch internet-facing vulnerabilities within 24 hours. Italy's national cyber response team has flagged similar autonomous campaigns.",
+      "plain": "An AI agent is a model given a goal and the ability to act on its own, running commands and reacting to what it finds instead of waiting for a human at each step. Applied to hacking, that removes the slow and expensive part: a skilled person probing a network by hand. The telling detail is the ratio, four of five attempts got in. Switzerland has not said who did it, so the attribution is genuinely unknown.",
+      "why": "It is the first time a national government has attributed successful breaches of power, water and telecom operators to AI agents, which turns a widely predicted threat into a documented one.",
       "sources": [
         {
-          "outlet": "Reuters (via Business Recorder)",
-          "url": "https://www.brecorder.com/news/40450825/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships"
+          "outlet": "Reuters",
+          "url": "https://ca.news.yahoo.com/ai-agents-used-five-cyber-122502362.html"
         },
         {
-          "outlet": "Iran International",
-          "url": "https://www.iranintl.com/en/202611261840"
-        },
-        {
-          "outlet": "Deccan Herald",
-          "url": "https://www.deccanherald.com/west-asia/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-4232091"
-        },
-        {
-          "outlet": "The National",
-          "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
+          "outlet": "The Next Web",
+          "url": "https://thenextweb.com/news/switzerland-ai-agent-cyberattacks-critical-infrastructure"
         }
       ]
     },
     {
       "slot": 7,
-      "category": "Wildcard - Healthcare",
-      "headline": "Sanofi agreed to buy Insmed for $41 billion, the largest biopharma deal of the year",
-      "body": "Sanofi said on Tuesday it will acquire Insmed for $175 a share in cash, valuing the New Jersey respiratory and rare-disease company at $41.0 billion, about 37.6 billion euros, a roughly 17% premium to Monday's Nasdaq close. The deal brings in the approved drugs Brinsupri and Arikayce plus a phase 3 inhaled candidate, and is aimed at the 2031 US patent expiry on Dupixent, Sanofi's best-selling drug. It is the largest biopharma acquisition since Pfizer's $43 billion purchase of Seagen in December 2023, and Sanofi's second largest ever. Closing is expected in the first half of 2027, with earnings accretion from late 2028.",
-      "plain": "Drug companies get a patent that stops anyone else selling a copy for about 20 years; when it ends, cheap versions arrive and revenue collapses. Sanofi's biggest earner, an eczema and asthma injection called Dupixent, loses that protection in 2031. So Sanofi is buying a smaller company whose approved lung drugs will still be protected then. That is a patent cliff in practice: a known date years out, and $41 billion spent today to be standing somewhere else when it arrives.",
-      "why": "Pharma is paying 2026 prices for revenue that does not matter until 2031, which says how little the largest players trust their own pipelines to close that gap.",
+      "category": "Wildcard - International Affairs",
+      "headline": "Two Italian defence technicians killed in drone strike on Kuwaiti air-defence site",
+      "body": "Two Italian technicians working for Rheinmetall Italia were killed on Thursday while servicing air-defence detection antennas at a Kuwaiti military surveillance station, Italy's foreign ministry said. Foreign Minister Antonio Tajani told the Senate in Rome that Iranian drones had targeted the site. Kuwait's defence ministry first reported four people wounded by falling debris before saying the two men had died. A spokesman for Iran's armed forces denied any Iranian operation in the region and called it a \"false flag\"; Foreign Minister Abbas Araghchi repeated the denial to Tajani by phone. Italy will lodge a complaint with Iran's embassy, and the EU called for more pressure on Tehran.",
+      "plain": "Kuwait sits across the top of the Persian Gulf from Iran and hosts Western military equipment, so it has been struck repeatedly during this year's fighting between the United States and Iran. The men killed were not soldiers but contractors from an Italian arms firm, repairing the radar that spots incoming drones. That is what makes this larger than a casualty count: the dead are citizens of a NATO member, and Iran flatly denies firing.",
+      "why": "European governments have kept their distance from the US campaign against Iran, and two dead Italians working on NATO-supplied equipment make that distance harder to hold.",
       "sources": [
         {
-          "outlet": "Sanofi SEC filing",
-          "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"
+          "outlet": "UPI",
+          "url": "https://www.upi.com/Top_News/World-News/2026/11/26/italy-Italians-killed-Kuwait-drone-strike-Iran/1511795749242"
         },
         {
-          "outlet": "BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/"
-        },
-        {
-          "outlet": "Nature Reviews Drug Discovery",
-          "url": "https://www.nature.com/articles/d41573-026-00189-0"
-        },
-        {
-          "outlet": "Fierce Pharma",
-          "url": "https://www.fiercepharma.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers"
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"
         }
       ]
     },
     {
       "slot": 8,
       "category": "Wildcard - Economics",
-      "headline": "Wall Street erased a 3.2% intraday drop as money moved out of AI megacaps into everything else",
-      "body": "The S&P 500 fell as much as 3.2% on Wednesday after the hot PCE print and the tariff announcement, then closed down just 0.25% at 7,182.78. The Nasdaq recovered from a 4.6% decline to finish 0.62% lower at 23,585.80, while the Dow erased a drop of more than 1,100 points to close up 0.33% and the Russell 2000 rose 0.71%. Roughly three quarters of S&P 500 constituents advanced; the index fell anyway because of its technology weighting, with Nvidia down 3.9% to $149.30 alongside Oracle and Micron. The VIX touched 35 intraday and settled at 28.03. US markets were closed Thursday for Thanksgiving.",
-      "plain": "A stock index is an average, and its biggest companies count for far more of it than its smallest. On Wednesday most American companies' shares rose while the index fell, because the handful of AI-related giants that dominate it dropped. The VIX measures how much turbulence traders expect; it spiked and then calmed. The interesting part is not the headline number but the split underneath: investors were not fleeing stocks, they were leaving one trade for the rest of the market.",
-      "why": "A market that can absorb a hot inflation print and a tariff announcement while its AI leaders fall is repricing those leaders specifically rather than discounting the economy.",
+      "headline": "EU leaders name Spain's Hernández de Cos as the next ECB president",
+      "body": "The European Council on Thursday put forward Pablo Hernández de Cos as the next president of the European Central Bank. He was governor of the Bank of Spain from 2018 to 2024 and is now general manager of the Bank for International Settlements, and would be the first Spaniard and the fifth person to hold the post since 1998. France and Germany agreed on him as their joint candidate, alongside two other executive board appointments: Laurence Boone of France and Markus Brunnermeier of Germany. The Council must still consult the European Parliament and the ECB's governing council. Christine Lagarde said on 30 October that she will leave on 7 February 2027.",
+      "plain": "The ECB sets interest rates for the 20 countries that use the euro, so one committee in Frankfurt decides what a mortgage costs from Lisbon to Helsinki. The Bank for International Settlements, where the nominee works now, is effectively the central bank for central banks. The steps still to come are consultations, not contests: the real decision was France and Germany agreeing on one name. Analysts read him as a continuity pick rather than a change of direction.",
+      "why": "Lagarde's early exit means the eurozone's rate-setting for the next eight years was settled in a Franco-German bargain months before anyone expected the seat to open.",
       "sources": [
         {
-          "outlet": "AP (via ABC News)",
-          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-11252026-138453529"
+          "outlet": "European Council",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/"
         },
         {
-          "outlet": "The Motley Fool",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
+          "outlet": "Associated Press via ABC News",
+          "url": "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "FCC clears SpaceX to launch up to 1 million satellites for data centers in orbit",
-      "body": "The FCC's Space Bureau granted SpaceX conditional approval on November 25 to deploy and operate up to 1 million satellites for Starmind, its orbital data-center constellation, at altitudes between 500 and 1,002 kilometers. The grant was partial, with some requests deferred: before deploying anything above 600 kilometers SpaceX must file an application containing a final orbital debris mitigation plan. Amazon, Viasat and the American Astronomical Society objected over debris, radio interference and environmental effects, and Earthjustice attorney Jan Hasselman said the FCC approved the plan without the review the National Environmental Policy Act requires. Reported deployment deadlines differ across outlets, from seven years for a first operational satellite to a single 15-year permit; SpaceX's finance chief has said the first space data centers launch in 2027.",
-      "plain": "Data centers are buildings full of computers, limited on Earth by electricity and cooling. In orbit, sunlight never stops and space is cold, so the pitch is free power and free cooling. The number to sit with is 1 million: roughly 15,000 working satellites are in orbit today. More objects means more collisions, and each collision scatters debris that causes further collisions. The approval does not mean the satellites exist or the economics work, only that the regulator will not stop them.",
-      "why": "The FCC licensed a constellation roughly sixty times larger than everything working in orbit today before the debris plan for most of it exists, which leaves environmental review, not spectrum licensing, as the only real constraint.",
+      "headline": "Ukraine says a laser downed a Russian jet-powered drone for the first time",
+      "body": "Ukraine said a laser weapon shot down a Russian jet-powered Geran attack drone, which would be the first such interception. Presidential adviser Serhii Beskrestnov announced it on 25 November and posted a 21-second video of the engagement, saying the system was guarding a critical-infrastructure site. The weapon, called Blysk and built by the private firm Carmine Sky, is a roughly 4-kilowatt test unit that disables drones by overheating their internal components. Beskrestnov said it is \"still too early to discuss serial production.\" The footage does not identify the drone type and no independent confirmation has been published.",
+      "plain": "Shooting down a cheap drone with a missile costs far more than the drone did, which is the arithmetic that makes these attacks worth repeating. A laser inverts it: expensive once, then each shot costs only electricity. The catch is power. At four kilowatts, about what a kitchen oven draws, the beam cannot blow a drone apart; it has to hold one spot long enough to cook the electronics, which is hard at jet speed and impossible through cloud.",
+      "why": "Even an unconfirmed kill at four kilowatts matters because the cost per shot, not the kill itself, is what decides whether a defender can outlast a drone campaign.",
       "sources": [
         {
-          "outlet": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/russia-ukraine-war-laser-interception-russian-jet-powered-geran-drone/"
         },
         {
-          "outlet": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+          "outlet": "Forbes",
+          "url": "https://www.forbes.com/sites/davidhambling/2026/11/26/historic-first-as-ukraine-downs-russian-shahed-drone-with-laser/"
         },
         {
-          "outlet": "Aviation Week",
-          "url": "https://aviationweek.com/space/commercial-space/fcc-greenlights-spacex-plan-orbital-data-centers"
-        },
-        {
-          "outlet": "FCC",
-          "url": "https://docs.fcc.gov/public/attachments/DA-26-113A1.docx"
+          "outlet": "Ukrainska Pravda",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064653/"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "A second judge blocked Trump's revised birthright citizenship order, five months after the Supreme Court struck down the first",
-      "body": "US District Judge Christopher Cooper certified a class and granted a classwide preliminary injunction on November 25 against Executive Order 14418, signed in August, which would have denied citizenship to US-born children of foreign government employees, members of designated terrorist organizations, and children born through commercial surrogacy. Cooper wrote that the President \"cannot carve out new exceptions to birthright citizenship for children born within the United States and subject to its laws,\" relying on the Supreme Court's 6-3 ruling in June and its 1898 decision in United States v. Wong Kim Ark. Judge Deborah Boardman blocked the same order in Maryland in September, so the administration must overturn both to enforce it. White House spokeswoman Lauren Bis called the ruling \"just another ruling from an activist judge appointed by Obama.\" Trump had called Cooper \"an anti Trump Hater\" on Truth Social in late May, after Cooper's 94-page ruling ordering his name removed from the Kennedy Center, and wrote in a later post that Cooper \"should be IMPEACHED.\" The injunction is preliminary and appealable.",
-      "plain": "The 14th Amendment makes people born in the United States citizens, and the Supreme Court settled in 1898 that this covers immigrants' children. Trump narrowed it by order in January 2025, the Supreme Court struck that down 6-3 in June, and he signed a second, narrower version in August. Two judges have now paused that one, including the judge Trump called an \"anti Trump Hater\" and said should be impeached, over an unrelated case six months earlier. This is a pause, not a final loss; an appeal is expected.",
-      "why": "The second order is being blocked by citing the administration's own Supreme Court defeat, which narrows rather than widens the argument available on appeal.",
+      "headline": "Judge blocks FCC review of ABC licences, finding the agency took Trump's posts as instructions",
+      "body": "Judge Loren AliKhan of the US District Court for the District of Columbia granted ABC a preliminary injunction on 25 November barring the FCC from proceeding with early renewal reviews of the network's eight broadcast licences, and denied the agency's motion to dismiss. In a 45-page opinion she found ABC likely to succeed on its claim that the FCC retaliated against speech that offended Trump and FCC Chairman Brendan Carr, writing \"This is not a close case\" and \"Chairman Carr has taken President Trump's rhetoric as his marching orders.\" She noted the commission opened the early review in April, one day after Trump posted that Jimmy Kimmel should be fired. The FCC called the decision \"wrong on the facts and wrong on the law.\" It is a preliminary ruling, not a final judgment, and the agency must report on its compliance by 2 December.",
+      "plain": "Television stations need a federal licence to broadcast, renewed on a schedule, and the FCC decides. Calling eight of ABC's licences in for early review puts the network's permission to operate on the table without denying anything. The judge's finding is about timing and motive: the review opened the day after the president publicly demanded a late-night host be fired. A preliminary injunction means she thinks ABC will probably win, not that the case is over.",
+      "why": "A federal judge has put in the record that the FCC's chairman treated presidential posts as instructions, which is the finding that makes every future licence action against a broadcaster reviewable for retaliation.",
       "sources": [
         {
-          "outlet": "Reuters (via US News)",
-          "url": "https://www.usnews.com/news/world/articles/2026-11-25/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge"
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr"
         },
         {
-          "outlet": "The Hill",
-          "url": "https://thehill.com/regulation/court-battles/6243427-second-judge-blocks-trump-birthright-citizenship/"
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/business/2026/11/25/judge-halts-fcc-review-abc-licenses-saying-it-probably-violates-first-amendment/"
         },
         {
-          "outlet": "ABC News",
-          "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919"
-        },
-        {
-          "outlet": "The Independent (via Yahoo)",
-          "url": "https://www.yahoo.com/news/politics/articles/trump-melts-down-over-series-of-embarrassing-setbacks-223701296.html"
+          "outlet": "Deadline",
+          "url": "https://deadline.com/2026/11/abc-fcc-trump-first-amendment-lawsuit-1237158218/"
         }
       ]
     }
