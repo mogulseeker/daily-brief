@@ -1,213 +1,213 @@
 {
-  "date": "2026-11-27",
-  "dateLabel": "Friday, November 27, 2026",
-  "generated": "2026-11-27T13:17:46Z",
+  "date": "2026-11-28",
+  "dateLabel": "Saturday, November 28, 2026",
+  "generated": "2026-11-28T13:19:25Z",
   "tldr": [
-    "AI INDUSTRY - Nvidia told server makers to stop shipping AI systems to Malaysia, Singapore, Thailand and Indonesia after new US export rules.",
-    "INTERNATIONAL AFFAIRS - Baghdad moved to take over Kurdistan's border crossings and northern oilfields with court backing; thousands protested in Erbil.",
-    "ECONOMICS - US third-quarter growth was revised up to a 4.3% annual rate from 3.4%; Trump called the first number fake and demanded an investigation.",
-    "HEALTHCARE - Bristol Myers Squibb's pill Sotyktu worked in one of two large lupus trials and missed in the other.",
-    "WILDCARD / AI INDUSTRY - The Bank of England put the biggest AI companies' potential exposure above $4 trillion and called the financing \"complex, circular and opaque.\"",
-    "WILDCARD / AI INDUSTRY - Switzerland's cyber agency said AI agents ran five attacks, four of them successful, three aimed at power, water and telecom operators.",
-    "WILDCARD / INTERNATIONAL AFFAIRS - Two Italian defence technicians were killed by a drone strike on a Kuwaiti air-defence site; Italy blames Iran, which denies it.",
-    "WILDCARD / ECONOMICS - EU leaders put forward Spain's Pablo Hernández de Cos as the next European Central Bank president.",
-    "TECH - Ukraine said a 4-kilowatt laser shot down a Russian jet-powered drone, which would be a first.",
-    "TRUMP NEWS - A judge blocked the FCC's early review of ABC's licences, writing that its chairman \"has taken President Trump's rhetoric as his marching orders.\""
+    "AI INDUSTRY - OpenAI countersued Apple in San Jose federal court, naming three files it says Apple took and alleging Apple squeezed shared factories.",
+    "INTERNATIONAL AFFAIRS - Russia hit Ukrainian energy, fuel and rail targets across nine regions as Kyiv tabled Black Sea ceasefire terms and waited for an answer.",
+    "ECONOMICS - Black Friday online spending ran 12.8% ahead of last year, and Adobe raised its full-day estimate to $13 billion to $13.4 billion.",
+    "HEALTHCARE - CMS's plan to cut Medicare Advantage quality bonuses by $107 billion over a decade reaches the Federal Register today.",
+    "WILDCARD / AI INDUSTRY - Jensen Huang faces closed questioning by three House committees on Tuesday and a public Senate hearing on December 3.",
+    "WILDCARD / INTERNATIONAL AFFAIRS - Japan's coast guard ordered two Chinese ships away from a fishing boat near the Senkakus, the fifth such approach this year.",
+    "WILDCARD / ECONOMICS - Tokyo core inflation hit 2.9%, the fastest in 16 months, three weeks before the Bank of Japan's December decision.",
+    "WILDCARD / AI INDUSTRY - Canada took its AI compute fund to C$1 billion and will cover 80% of costs only for Canadian-owned, Canada-hosted compute.",
+    "TECH - Hackers breached the US Air Force's Cloud One platform, which hosts a munitions tracking system used at more than 200 locations.",
+    "TRUMP NEWS - Trump told deployed troops \"we have victory at hand\" in Iran, then said victory would come \"sort of whenever I want it to be.\""
   ],
   "items": [
     {
       "slot": 1,
       "category": "AI Industry",
-      "headline": "Nvidia tells server partners to stop AI shipments to four Southeast Asian countries",
-      "body": "Nvidia has instructed server-making partners, including Dell and Supermicro, to stop delivering AI systems to customers in Malaysia, Singapore, Thailand and Indonesia, according to the Financial Times, the Wall Street Journal and Nikkei Asia. The pause follows a mid-November Commerce Department rule requiring a licence to export or re-export advanced AI chips to those four countries and Brazil, aimed at Chinese companies renting computing power abroad. The WSJ reported the halt runs for an unspecified period while Nvidia assesses whether partners meet the requirements. Nvidia has not confirmed the instruction, and shares in Southeast Asian data-centre suppliers fell.",
-      "plain": "Nvidia makes the chips nearly all serious AI work runs on, and other firms bolt them into the room-sized computers that fill data centres. Washington's worry is not those four countries but that a Chinese company barred from buying chips can rent time on a machine in Singapore instead. A licence is now required, so Nvidia stopped shipping rather than guess who the end customer is. Nvidia has said nothing publicly; this comes from reporters' sources.",
-      "why": "Enforcement has shifted from border officials to Nvidia's own order book, which makes the company the gatekeeper deciding which countries get to build an AI industry.",
+      "headline": "OpenAI countersues Apple over trade secrets and pressure on shared suppliers",
+      "body": "OpenAI filed counterclaims against Apple on Friday in federal court in San Jose, bringing federal trade-secret claims plus California claims for contract interference and unfair competition, and naming three files it says Apple obtained: \"structure.zip,\" \"CPK_GRR.zip\" and \"Color Data Template Resin (2).xlsx.\" It also alleges Apple pressured hardware suppliers the two companies share, in one case confining OpenAI's work to night shifts and in another inducing a manufacturer to cancel planned work. The filing answers Apple's own trade-secrets suit against OpenAI, its io Products hardware unit and former Apple employees Chang Liu and Tang Tan, which is set for trial on July 19, 2027; Apple told CBS News the countersuit is an attempt to distract from the substance of its case, and OpenAI denies taking Apple's secrets.",
+      "plain": "OpenAI is building a physical device, not just chatbots, and hardware needs factories - and the handful of factories that can do this precision work already build Apple's products. Apple sued first, saying OpenAI hired away its people and took its designs. OpenAI's answer flips it: Apple took OpenAI's files and leaned on those shared factories to slow OpenAI down, including by pushing its work to night shifts. A trade secret is just confidential know-how a company guards instead of patenting. Nothing has been proven; each side denies the other's claims.",
+      "why": "The fight is over the contract manufacturers any new AI device has to pass through, which makes supplier access rather than model quality the chokepoint for OpenAI's hardware plans.",
       "sources": [
         {
-          "outlet": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs"
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/"
         },
         {
-          "outlet": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+          "outlet": "Reuters",
+          "url": "https://finance.yahoo.com/technology/ai/articles/openai-countersues-apple-over-trade-193855054.html"
         },
         {
-          "outlet": "DataCenterDynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/"
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/11/27/tech/openai-apple-countersuit"
         }
       ]
     },
     {
       "slot": 2,
       "category": "International Affairs",
-      "headline": "Baghdad takes over Kurdistan's borders and northern oilfields as thousands protest in Erbil",
-      "body": "Iraqi Prime Minister Ali al-Zaidi ordered federal authorities on 24 November to take control of every border crossing in the Kurdistan region and of oilfields in Kirkuk, Nineveh, Salahuddin and Diyala held by Kurdish forces, after a smuggling investigation at the state-run North Oil Company. Iraq's Federal Supreme Court affirmed federal authority over borders, oil operations and public revenues on 25 November, with two judges dissenting. Thousands rallied at the Erbil citadel on Thursday, and the Kurdistan Regional Government said it rejected \"any attempt to return Iraq to a centralised system.\" Two crossings with Iran and Syria have closed, and Baghdad denied reports of troop movements toward the region.",
-      "plain": "Iraqi Kurdistan is a northern region that runs much of its own affairs, including its border posts and, until this week, its own oil arrangements. Oil pays for about 90% of Iraq's budget, so controlling the wells and the crossings is really about controlling the money. Baghdad says Kurdish officials allowed smuggling; Erbil says Baghdad never paid what it owed. The court ruling matters because it turns a political move into a legal one, which is harder to undo.",
-      "why": "Kurdish autonomy has rested on controlling its own oil and borders, and losing both by court order removes the leverage the region has used since 2005 without a shot being fired.",
+      "headline": "Russia hits Ukraine's energy and rail network as Kyiv tables Black Sea ceasefire terms",
+      "body": "Russian strikes hit civilian energy, fuel and transport infrastructure across nine Ukrainian regions on Friday, Prime Minister Sergey Koretsky said, and Russia's Defence Ministry claimed on Saturday to have struck such targets in 156 areas, a claim not independently verified. Russia has carried out more than 1,000 strikes on Ukraine's energy system since September, and Ukraine has halted all electricity exports. Foreign Minister Andrii Sybiha said Kyiv has submitted Black Sea ceasefire proposals and is awaiting Russia's response, while Moscow has accepted European participation in a possible four-party round - Ukraine, the United States, Europe and Russia - in early December, with no date or venue set.",
+      "plain": "Russia is less focused on taking ground right now than on switching off Ukraine's lights and heat going into winter. Power plants and the substations that move electricity are easy to hit and slow to rebuild, and Ukraine has stopped selling power abroad because it needs all of it at home. Meanwhile Ukraine has put a narrower offer on the table: stop shooting in the Black Sea, where grain ships sail, rather than everywhere at once. Russia has not replied. The 156 figure comes from Russia's own military, so treat it as a claim, not a count.",
+      "why": "A Black Sea-only truce is the kind of partial deal both sides can sign without conceding territory, which makes it the likeliest first agreement to come out of the December talks.",
       "sources": [
         {
-          "outlet": "Associated Press via The Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/nov/26/protesters-gather-irbil-baghdad-moves-seize-kurdish-oil-border/"
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths"
         },
         {
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region"
-        },
-        {
-          "outlet": "Amwaj Media",
-          "url": "https://amwaj.media/en/article/after-jurf-al-sakhar-zaidi-orders-greater-federal-authority-in-iraqi-kurdistan"
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-attacks-kill-10-injure-58-across-ukraine-over-past-day-strike-kyiv-with-ballistic-missiles/"
         }
       ]
     },
     {
       "slot": 3,
       "category": "Economics",
-      "headline": "US third-quarter growth revised up to 4.3%, and Trump demands an investigation into the first estimate",
-      "body": "The Bureau of Economic Analysis raised its estimate of third-quarter US growth to a 4.3% annual rate on 25 November, up from the 3.4% it first reported, citing stronger business investment and revised consumer spending. Measured over the three months rather than annualised, that is about 1.1%. Trump responded in a Thanksgiving post calling the original figure \"FAKE,\" describing the gap as \"a massive, and purposeful, error\" and demanding an immediate investigation into why the correct number was not released before the election. He offered no evidence. Revisions this size are routine; the BEA revised second-quarter 2020 growth by more. The next estimate is due 23 December.",
-      "plain": "The BEA is the federal office that measures how fast the economy grew. It publishes an early estimate, then corrects it twice as late tax, trade and company data arrive, which is why the number moves. This revision moved growth up, not down, which is the part that does not fit the complaint. The agency sits inside the Commerce Department, run by Trump's own appointee, who fired the head of the labour statistics bureau last year over different revisions.",
-      "why": "Investors, the Federal Reserve and every forecaster price off these releases, so pressure on the agencies that produce them raises the cost of borrowing long before it changes a single number.",
+      "headline": "Black Friday online spending runs 12.8% ahead of last year",
+      "body": "US shoppers spent $9.7 billion online by 6:30 p.m. ET on Black Friday, up 12.8% year on year, and Adobe Analytics raised its full-day estimate to between $13 billion and $13.4 billion, against $11.8 billion last year and its own September forecast of $12.9 billion. Salesforce, which tracks a different set of sites, counted $5.9 billion in US sales in the first half of the day and $30.7 billion globally, and projects $18.7 billion in the US for the day, up 4%. Adobe also reported a record $7.1 billion on Thanksgiving Day, up 10.4%, with mobile devices accounting for 63.2% of that spending, and forecasts $15.1 billion for Cyber Monday on November 30.",
+      "plain": "These are not store receipts. Adobe watches checkout pages on retail websites and adds up dollars; Salesforce watches a different set of sites, which is why the two numbers differ so much. The part worth noticing is that spending is up about 13% while inflation runs near 3.8%, so people are genuinely buying more rather than just paying more. That matters because this is the first big holiday weekend with new tariffs raising the price of imported goods, and the early read says shoppers absorbed it. Final figures land later.",
+      "why": "Consumer spending this strong removes the last argument against a Fed rate increase on December 9, which traders already price at better than 94%.",
       "sources": [
         {
-          "outlet": "Axios",
-          "url": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics"
+          "outlet": "Reuters",
+          "url": "https://money.usnews.com/investing/news/articles/2026-11-27/us-black-friday-online-sales-to-cross-13-billion-adobe-says"
         },
         {
-          "outlet": "The Hill",
-          "url": "https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe/"
+          "outlet": "Adobe Analytics",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/11/28/us-black-friday-online-sales-to-cross-13-billion-adobe-says"
         }
       ]
     },
     {
       "slot": 4,
       "category": "Healthcare",
-      "headline": "Bristol Myers Squibb's Sotyktu succeeds in one lupus trial and fails the other",
-      "body": "Bristol Myers Squibb reported on 25 November that Sotyktu (deucravacitinib), a pill already approved for psoriasis, met its main goal in one of two Phase 3 trials in systemic lupus erythematosus and missed in the other. In POETYK SLE-1, with 510 adults, significantly more patients on Sotyktu reached an SRI-4 response at week 52 than on placebo, with significant results on secondary measures including steroid tapering and fatigue. POETYK SLE-2, with 513 adults, missed its primary endpoint; the company said the drug's response matched SLE-1 but the placebo response was higher. Safety matched the drug's known profile. BMS will review the full dataset with regulators.",
-      "plain": "Lupus is a disease in which the immune system attacks the body's own tissue, and most patients are managed with steroids that cause harm of their own over time. A daily pill that let people cut their steroid dose would matter, so this drug was tested in two near-identical trials. One worked and one did not, for a specific reason: patients given the dummy pill improved more than expected, which shrinks the measurable gap even if the drug performed the same.",
-      "why": "A split result on 1,023 patients leaves the FDA to judge whether an unusually strong placebo response excuses a missed trial, a question that has sunk lupus drugs before.",
+      "headline": "CMS plan to cut $107 billion from Medicare Advantage bonuses reaches the Federal Register",
+      "body": "The Centers for Medicare and Medicaid Services' proposed rule for contract year 2028 Medicare Advantage and Part D plans, released November 20, is scheduled to publish in the Federal Register today, opening the comment period. It would cut the Star Ratings system to 15 measures weighted toward clinical outcomes and patient experience, eliminate the \"Reward Factor\" that lifts plans sitting just below a bonus threshold, and change how bonuses are calculated - reducing payments to insurers by about $107 billion over ten years, by CMS's own estimate. CMS simulations show roughly 20% of contracts losing quality bonus payments outright and about 58% of Medicare Advantage plans with drug coverage scoring lower; UnitedHealth and Humana shares fell 19% and 16% in the week after the proposals, which also include a separate anti-fraud rule CMS projects will save $90 billion over a decade.",
+      "plain": "More than half of people on Medicare now get it through a private insurer rather than from the government directly - that is Medicare Advantage. The government grades those plans one to five stars and pays a bonus to the high scorers, so stars are worth money, not just reputation. CMS wants to judge plans on fewer things, mostly whether patients actually got better, and to delete a rule that rounds borderline plans up. By CMS's own math, most plans that include drug coverage would score worse. This is a proposal: insurers get to comment, and will almost certainly sue.",
+      "why": "Quality bonuses are where the margin in Medicare Advantage lives, so a cut this size shows up first as thinner extra benefits and fewer plan choices for seniors in 2028.",
       "sources": [
         {
-          "outlet": "Bristol Myers Squibb",
-          "url": "https://investors.bms.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-Announces-Results-from-Phase-3-POETYK-SLE-1-and-POETYK-SLE-2-Trials-Evaluating-Sotyktu-deucravacitinib-in-Systemic-Lupus-Erythematosus/default.aspx"
+          "outlet": "CMS",
+          "url": "https://www.hhs.gov/press-room/cms-proposes-medicare-advantage-reforms-competition-quality-beneficiary-choice.html"
         },
         {
-          "outlet": "The American Journal of Managed Care",
-          "url": "https://www.ajmc.com/view/deucravacitinib-meets-primary-end-point-in-1-of-2-phase-3-lupus-trials"
+          "outlet": "Fierce Healthcare",
+          "url": "https://www.fiercehealthcare.com/regulatory/unpacking-implications-cms-latest-proposed-medicare-advantage-changes"
+        },
+        {
+          "outlet": "Healthcare Dive",
+          "url": "https://www.healthcaredive.com/news/cms-proposes-100b-cut-to-medicare-advantage-star-ratings-pay/875441/"
         }
       ]
     },
     {
       "slot": 5,
       "category": "Wildcard - AI Industry",
-      "headline": "Bank of England puts the biggest AI companies' exposure above $4 trillion",
-      "body": "The Bank of England's Financial Stability Report, published Thursday, put the potential AI exposure of the largest cloud and AI companies at just over $4 trillion, a figure built from debt plus off-balance-sheet items including leases, purchase commitments and contingent obligations. The Financial Policy Committee called AI financing \"increasingly complex, circular and opaque\" and said equity valuations remain \"stretched\" and dependent on those companies delivering the profits investors expect. The report projects hyperscaler bond issuance above $305 billion in 2026, around 8% of global investment-grade issuance. The same committee proposed cutting capital requirements for major UK lenders by a further 30 basis points.",
-      "plain": "Hyperscalers are the few companies that own most of the world's cloud computing, and they now borrow on a scale that ranks them among the largest corporate bond issuers anywhere. The $4 trillion is not money lost or even all borrowed; it adds the long leases and purchase promises that never appear as debt. \"Circular\" is the key word: a chip maker invests in an AI firm, which spends it on that maker's chips, and the same dollar counts twice.",
-      "why": "A central bank has now attached an official number and the word \"opaque\" to AI credit, which is what regulators do shortly before they start asking banks to hold capital against it.",
+      "headline": "Huang faces House questioning Tuesday over chip exports to China",
+      "body": "Jensen Huang is scheduled to sit for a closed, transcribed interview on Tuesday with the House Foreign Affairs and Intelligence committees and the Select Committee on the Chinese Communist Party, which first requested his appearance in a November 12 letter warning that refusal would bring a subpoena; Nvidia general counsel Tim Teter is scheduled the next day, and Huang is the only listed witness at a public Senate Banking Committee hearing on export controls on December 3. The schedule survived his reinstatement as Nvidia chief executive on November 23, which the board said followed \"input from senior levels of the United States government\" and which Trump said he influenced \"directly and indirectly.\" A House Intelligence spokesperson said the reinstatement \"changes nothing\"; Republican senators Kevin Cramer, John Curtis, Pete Ricketts and Tom Cotton criticized it, and Representative Raja Krishnamoorthi cited Nvidia's $25 million donation to the White House ballroom project.",
+      "plain": "Nvidia makes the chips that AI runs on, and US law restricts selling the best ones to China. Huang was out as chief executive, then back three weeks later after the White House weighed in with the company's board, which is unusual: presidents do not normally help pick who runs a public company. Congress separately wants to know whether Nvidia chips have been reaching China anyway, routed through other countries or rented out as computing time. A \"transcribed interview\" is private questioning with a written record lawmakers can quote later. Republicans, not only Democrats, are the ones objecting.",
+      "why": "Putting Nvidia's China exposure into a congressional transcript rather than a press story is what turns export-control complaints into subpoenas and legislation.",
       "sources": [
         {
-          "outlet": "Reuters via U.S. News",
-          "url": "https://money.usnews.com/investing/news/articles/2026-11-26/bank-of-england-sees-growing-financial-risks-as-ai-borrowing-surges"
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/politics/congress/congress-criticism-jensen-huang-nvidia-reinstated-ceo-trump-rcna610926"
         },
         {
-          "outlet": "Bank of England",
-          "url": "https://www.bankofengland.co.uk/financial-stability-report"
+          "outlet": "Reuters",
+          "url": "https://www.yahoo.com/news/politics/articles/former-nvidia-ceo-appear-us-152549463.html"
         }
       ]
     },
     {
       "slot": 6,
-      "category": "Wildcard - AI Industry",
-      "headline": "Swiss cyber agency says AI agents carried out five attacks, four of them successful",
-      "body": "Switzerland's Federal Office for Cybersecurity said on Thursday that AI agents were used in five recent cyberattacks in the country and that four of them succeeded, Reuters reported. Three of the five targeted critical-infrastructure operators, which the Swiss broadcaster SRF identified as electricity, water and telecommunications providers. Cyber chief Florian Schütz said there were no major outages. The agency did not name the operators, identify who was behind the attacks, describe the tools used, or quantify losses. It told operators to patch internet-facing vulnerabilities within 24 hours. Italy's national cyber response team has flagged similar autonomous campaigns.",
-      "plain": "An AI agent is a model given a goal and the ability to act on its own, running commands and reacting to what it finds instead of waiting for a human at each step. Applied to hacking, that removes the slow and expensive part: a skilled person probing a network by hand. The telling detail is the ratio, four of five attempts got in. Switzerland has not said who did it, so the attribution is genuinely unknown.",
-      "why": "It is the first time a national government has attributed successful breaches of power, water and telecom operators to AI agents, which turns a widely predicted threat into a documented one.",
+      "category": "Wildcard - International Affairs",
+      "headline": "Japan orders Chinese ships away from a fishing boat near disputed islands",
+      "body": "Japan's coast guard said two Chinese government vessels approached a Japanese fishing boat in waters near the Senkaku islands, which China calls the Diaoyu, and that it repeatedly warned them to leave - the fifth time this year a Chinese vessel has approached a Japanese fishing boat there, by the coast guard's count. Chinese Foreign Ministry spokesman Guo Jiakun said Beijing had lodged \"serious representations\" with Tokyo. Relations have been at their lowest in years since Prime Minister Sanae Takaichi told the Diet in November 2025 that a Taiwan contingency could be a \"survival-threatening situation\" for Japan, after which China curbed tourism to Japan and banned Japanese seafood imports.",
+      "plain": "The Senkakus are five uninhabited islands that Japan administers and China claims. Neither country wants a war over rocks, so the dispute is fought with ships: coast guard vessels shadow fishing boats, each side radios the other to leave, and both file protests. This is the fifth such approach this year, and the pattern is the message. The deeper quarrel is Taiwan - Japan's prime minister said last year that an attack on Taiwan could threaten Japan's survival, which in Japanese law is the phrase that permits fighting alongside an ally. Beijing has punished Japan economically ever since.",
+      "why": "Each repetition raises the odds of a collision between armed government ships, which is how a quarrel over uninhabited rocks becomes a test of the US-Japan security treaty.",
       "sources": [
         {
-          "outlet": "Reuters",
-          "url": "https://ca.news.yahoo.com/ai-agents-used-five-cyber-122502362.html"
+          "outlet": "Taipei Times",
+          "url": "https://taipeitimes.com/News/front/archives/2026/11/27/2003868473"
         },
         {
-          "outlet": "The Next Web",
-          "url": "https://thenextweb.com/news/switzerland-ai-agent-cyberattacks-critical-infrastructure"
+          "outlet": "AFP",
+          "url": "https://manilatimes.net/2026/11/27/world/asia-oceania/japan-warns-china-ships-to-leave-waters-near-disputed-islands/2478686"
         }
       ]
     },
     {
       "slot": 7,
-      "category": "Wildcard - International Affairs",
-      "headline": "Two Italian defence technicians killed in drone strike on Kuwaiti air-defence site",
-      "body": "Two Italian technicians working for Rheinmetall Italia were killed on Thursday while servicing air-defence detection antennas at a Kuwaiti military surveillance station, Italy's foreign ministry said. Foreign Minister Antonio Tajani told the Senate in Rome that Iranian drones had targeted the site. Kuwait's defence ministry first reported four people wounded by falling debris before saying the two men had died. A spokesman for Iran's armed forces denied any Iranian operation in the region and called it a \"false flag\"; Foreign Minister Abbas Araghchi repeated the denial to Tajani by phone. Italy will lodge a complaint with Iran's embassy, and the EU called for more pressure on Tehran.",
-      "plain": "Kuwait sits across the top of the Persian Gulf from Iran and hosts Western military equipment, so it has been struck repeatedly during this year's fighting between the United States and Iran. The men killed were not soldiers but contractors from an Italian arms firm, repairing the radar that spots incoming drones. That is what makes this larger than a casualty count: the dead are citizens of a NATO member, and Iran flatly denies firing.",
-      "why": "European governments have kept their distance from the US campaign against Iran, and two dead Italians working on NATO-supplied equipment make that distance harder to hold.",
+      "category": "Wildcard - Economics",
+      "headline": "Tokyo core inflation hits 2.9%, the fastest in 16 months",
+      "body": "Core consumer prices in Tokyo, which exclude fresh food, rose 2.9% in November from a year earlier, Japan's Statistics Bureau reported Friday - up from 2.6% in October and the fastest pace in 16 months, but below the 3.0% economists expected. Headline inflation held at 2.8%, while the measure excluding both fresh food and energy slowed to 2.5%, its weakest in three months. Part of the core increase reflects the expiry of government utility subsidies, which lowered the year-earlier base rather than raising current prices; the Bank of Japan's policy board meets December 17 and 18.",
+      "plain": "Tokyo's price data arrives about three weeks before the national figures, so economists treat it as an early look. Core inflation leaves out fresh food because vegetable prices swing with the weather and drown out the trend. The 2.9% looks alarming until you see why: the government was subsidising electricity and gas bills a year ago, so last year's prices were artificially low, which makes this year's look high by comparison. The measure that ignores energy altogether actually slowed. So the number argues for a rate rise, but less strongly than the headline suggests.",
+      "why": "Japan still has the world's cheapest money, and every Bank of Japan increase pulls Japanese savings home out of foreign bond markets, raising borrowing costs elsewhere.",
       "sources": [
         {
-          "outlet": "UPI",
-          "url": "https://www.upi.com/Top_News/World-News/2026/11/26/italy-Italians-killed-Kuwait-drone-strike-Iran/1511795749242"
+          "outlet": "Statistics Bureau of Japan",
+          "url": "https://www.fxstreet.com/news/breaking-japans-tokyo-cpi-inflation-climbs-28-in-november-202611262331"
         },
         {
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"
+          "outlet": "FX.co",
+          "url": "https://www.fx.co/en/forex-news/3306156"
         }
       ]
     },
     {
       "slot": 8,
-      "category": "Wildcard - Economics",
-      "headline": "EU leaders name Spain's Hernández de Cos as the next ECB president",
-      "body": "The European Council on Thursday put forward Pablo Hernández de Cos as the next president of the European Central Bank. He was governor of the Bank of Spain from 2018 to 2024 and is now general manager of the Bank for International Settlements, and would be the first Spaniard and the fifth person to hold the post since 1998. France and Germany agreed on him as their joint candidate, alongside two other executive board appointments: Laurence Boone of France and Markus Brunnermeier of Germany. The Council must still consult the European Parliament and the ECB's governing council. Christine Lagarde said on 30 October that she will leave on 7 February 2027.",
-      "plain": "The ECB sets interest rates for the 20 countries that use the euro, so one committee in Frankfurt decides what a mortgage costs from Lisbon to Helsinki. The Bank for International Settlements, where the nominee works now, is effectively the central bank for central banks. The steps still to come are consultations, not contests: the real decision was France and Germany agreeing on one name. Analysts read him as a continuity pick rather than a change of direction.",
-      "why": "Lagarde's early exit means the eurozone's rate-setting for the next eight years was settled in a Franco-German bargain months before anyone expected the seat to open.",
+      "category": "Wildcard - AI Industry",
+      "headline": "Canada takes its AI compute fund to C$1 billion and ties the biggest subsidies to Canadian ownership",
+      "body": "Canada added C$700 million to its AI Compute Access Fund, bringing the total to C$1 billion, on top of the original C$300 million committed under its Sovereign AI Compute Strategy. The fund will now cover up to 80% of eligible compute costs bought from a \"sovereign\" provider - one incorporated in Canada with ultimate Canadian ownership and decision-making that runs its infrastructure and processes data in Canada - and up to 50% from other Canadian-based providers, with compute hosted outside Canada ineligible. It targets projects with compute costs of roughly C$100,000 to C$5 million, mainly small and medium-sized firms, runs through March 2030, and opens with a call for health and life sciences; Budget 2026 separately committed to bringing 500 megawatts of sovereign AI compute online.",
+      "plain": "Training an AI model means renting time on racks of expensive chips, and almost all of those racks belong to American companies. Canada is offering to pay most of the bill, but only if a Canadian company rents Canadian-owned machines sitting on Canadian soil. Rent from a US cloud and you get nothing. The reasoning is partly jobs and partly law: data on servers in another country can be reached by that country's government. The catch is that Canada does not yet have much of this capacity, which is why the same budget promises to build 500 megawatts of it.",
+      "why": "Tying subsidies to ownership and location rather than price is the mechanism by which \"sovereign AI\" stops being rhetoric and starts splitting the cloud market along national lines.",
       "sources": [
         {
-          "outlet": "European Council",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/"
+          "outlet": "Innovation, Science and Economic Development Canada",
+          "url": "https://www.bctechnology.com/news/2026/11/27/Government-of-Canada-Announces-700-Million-Expansion-of-AI-Compute-Access-Fund-to-Boost-AI-Innovation-From-Canadian-SMEs.cfm?id=51191"
         },
         {
-          "outlet": "Associated Press via ABC News",
-          "url": "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703"
+          "outlet": "Digital Watch",
+          "url": "https://dig.watch/updates/canada-ai-compute-access-fund-expansion"
         }
       ]
     },
     {
       "slot": 9,
       "category": "Tech",
-      "headline": "Ukraine says a laser downed a Russian jet-powered drone for the first time",
-      "body": "Ukraine said a laser weapon shot down a Russian jet-powered Geran attack drone, which would be the first such interception. Presidential adviser Serhii Beskrestnov announced it on 25 November and posted a 21-second video of the engagement, saying the system was guarding a critical-infrastructure site. The weapon, called Blysk and built by the private firm Carmine Sky, is a roughly 4-kilowatt test unit that disables drones by overheating their internal components. Beskrestnov said it is \"still too early to discuss serial production.\" The footage does not identify the drone type and no independent confirmation has been published.",
-      "plain": "Shooting down a cheap drone with a missile costs far more than the drone did, which is the arithmetic that makes these attacks worth repeating. A laser inverts it: expensive once, then each shot costs only electricity. The catch is power. At four kilowatts, about what a kitchen oven draws, the beam cannot blow a drone apart; it has to hold one spot long enough to cook the electronics, which is hard at jet speed and impossible through cloud.",
-      "why": "Even an unconfirmed kill at four kilowatts matters because the cost per shot, not the kill itself, is what decides whether a defender can outlast a drone campaign.",
+      "headline": "Hackers breached the Air Force's main cloud platform",
+      "body": "Hackers broke into Cloud One, the US Air Force's flagship cloud computing platform, Reuters reported Friday, citing three people familiar with the matter; one said the attackers exploited a software flaw to reach the platform's control plane, the administrative layer used to manage cloud resources. The intrusion was discovered within the past month during system upgrades. Cloud One hosts the Cloud-Based Command and Control system, which collates North American air defense radar feeds, and the Theater Integrated Combat Munitions System, which tracks bombs and missiles at more than 200 Air Force locations; updates to applications running on it were blocked, leaving personnel unable to apply fixes. An Air Force spokesperson would neither confirm nor deny the breach, operator Leidos referred questions to the Air Force, and Reuters could not establish who the hackers are, how far they got, or whether data was taken.",
+      "plain": "Cloud One is where the Air Force runs its software instead of owning the servers itself. The control plane is the master switchboard - not the files, but the panel that decides who may see and change them, which is why reaching it is worse than reaching any single application. Two things living there matter most: one feeds radar pictures of North American airspace, the other is the inventory list for bombs and missiles at over 200 bases. Nobody has said what was taken, and the Air Force will not confirm the break-in. The known damage so far is that patching stopped.",
+      "why": "Knowing where munitions are stored is an intelligence prize on its own, whether or not anything was destroyed or altered.",
       "sources": [
         {
+          "outlet": "Reuters",
+          "url": "https://www.militarytimes.com/news/your-military/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/"
+        },
+        {
           "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/news/russia-ukraine-war-laser-interception-russian-jet-powered-geran-drone/"
+          "url": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/"
         },
         {
-          "outlet": "Forbes",
-          "url": "https://www.forbes.com/sites/davidhambling/2026/11/26/historic-first-as-ukraine-downs-russian-shahed-drone-with-laser/"
-        },
-        {
-          "outlet": "Ukrainska Pravda",
-          "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064653/"
+          "outlet": "The Hill",
+          "url": "https://thehill.com/policy/defense/6245197-air-force-cloud-one-hack/"
         }
       ]
     },
     {
       "slot": 10,
       "category": "Trump News",
-      "headline": "Judge blocks FCC review of ABC licences, finding the agency took Trump's posts as instructions",
-      "body": "Judge Loren AliKhan of the US District Court for the District of Columbia granted ABC a preliminary injunction on 25 November barring the FCC from proceeding with early renewal reviews of the network's eight broadcast licences, and denied the agency's motion to dismiss. In a 45-page opinion she found ABC likely to succeed on its claim that the FCC retaliated against speech that offended Trump and FCC Chairman Brendan Carr, writing \"This is not a close case\" and \"Chairman Carr has taken President Trump's rhetoric as his marching orders.\" She noted the commission opened the early review in April, one day after Trump posted that Jimmy Kimmel should be fired. The FCC called the decision \"wrong on the facts and wrong on the law.\" It is a preliminary ruling, not a final judgment, and the agency must report on its compliance by 2 December.",
-      "plain": "Television stations need a federal licence to broadcast, renewed on a schedule, and the FCC decides. Calling eight of ABC's licences in for early review puts the network's permission to operate on the table without denying anything. The judge's finding is about timing and motive: the review opened the day after the president publicly demanded a late-night host be fired. A preliminary injunction means she thinks ABC will probably win, not that the case is over.",
-      "why": "A federal judge has put in the record that the FCC's chairman treated presidential posts as instructions, which is the finding that makes every future licence action against a broadcaster reviewable for retaliation.",
+      "headline": "Trump told deployed troops victory in Iran will come \"whenever I want it to be\"",
+      "body": "On a Thanksgiving call to deployed troops from Mar-a-Lago on November 26, Trump told a service member, \"You're going to continue that deployment, and we have victory at hand,\" and when asked when that victory would arrive said it would come \"sort of whenever I want it to be.\" The war with Iran is in its ninth month; Pentagon deputy comptroller Arthur Miller told the Senate Armed Services Committee that its cost had reached $48.3 billion as of November 13, up from about $47 billion in October, a figure that excludes repairs to US bases damaged in the fighting, which lawmakers have requested and not received. Trump told the New York Post this week that operations are funded through late January and acknowledged that the incoming Democratic-controlled Congress could constrain him; he gave the troops no timetable for coming home.",
+      "plain": "American troops have been fighting Iran for nine months. On a holiday call home, one of them effectively asked the president when it ends, and the answer was that he will decide - and that victory is already \"at hand.\" Two numbers sit against that. The Pentagon's own accountant told the Senate the war has cost $48.3 billion so far, and that total leaves out repairing the American bases Iran hit, which Congress has asked for and not been given. Trump also said the money runs out in late January, the same month a Congress controlled by the other party arrives.",
+      "why": "Funding expires in late January and the Congress that must renew it changes hands that month, so \"whenever I want it to be\" describes a decision he may no longer control.",
       "sources": [
         {
-          "outlet": "NPR",
-          "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr"
+          "outlet": "The Hill",
+          "url": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/"
         },
         {
-          "outlet": "The Washington Post",
-          "url": "https://www.washingtonpost.com/business/2026/11/25/judge-halts-fcc-review-abc-licenses-saying-it-probably-violates-first-amendment/"
+          "outlet": "International Business Times UK",
+          "url": "https://www.ibtimes.co.uk/trump-troops-iran-war-deployment-victory-1835269"
         },
         {
-          "outlet": "Deadline",
-          "url": "https://deadline.com/2026/11/abc-fcc-trump-first-amendment-lawsuit-1237158218/"
+          "outlet": "Daily Sabah",
+          "url": "https://www.dailysabah.com/world/americas/us-iran-war-costs-reach-483b-excluding-damaged-base-repairs"
         }
       ]
     }
